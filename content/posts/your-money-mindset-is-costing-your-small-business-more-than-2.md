@@ -38,7 +38,7 @@ The fear isn't irrational. Nobody wants to see regulars walk when prices go up. 
 
 ## Avoiding your financial statements doesn't make the numbers go away
 
-Here's a pattern that's specific to construction: an owner is deep into three active jobs, cash is moving in and out constantly between materials, subs, and payroll, and it feels easier to just keep working than to sit down and reconcile where each job actually stands. Six months later, he finds out one job lost money the whole time because labor was misallocated against the wrong project.
+Here's a pattern that's specific to construction: an owner is deep into three active jobs, cash is moving in and out constantly between materials, subs, and payroll, and [it feels easier to just keep working](/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of-2) than to sit down and reconcile where each job actually stands. Six months later, he finds out one job lost money the whole time because labor was misallocated against the wrong project.
 
 That's not a bookkeeping failure. It's an avoidance pattern. The information was sitting right there. If reading your own profit and loss or balance sheet still feels intimidating, our free guide on [how to read a financial statement](/resources/e-books/how-to-read-a-financial-statement) breaks down exactly what to look at and why, in plain language, no accounting background required. For [construction clients](/industries/construction) specifically, job costing by phase is the difference between finding out you lost money in real time versus finding out at tax time, when there's nothing left to do about it.
 

@@ -18,7 +18,7 @@ answer_block: "Self-care matters for business owners because exhaustion and deci
 ---
 A restaurant owner in Port Chester once told me he hadn't taken a full day off in fourteen months. He wasn't bragging. He was exhausted, and it showed up in his numbers before it showed up in his face: missed vendor discounts, a payroll tax deposit filed three days late, a menu that hadn't been repriced in two years despite food costs climbing 18%. None of that was a bookkeeping problem. It was a burnout problem that turned into a bookkeeping problem.
 
-That's the piece most advice about self-care skips. Rest isn't about comfort or indulgence. For a business owner, it's a control on decision quality, and decision quality is the thing that keeps a company solvent. When you're running on fumes, you don't make worse decisions because you're a worse owner. You make worse decisions because exhausted brains default to shortcuts, avoidance, and reactive choices instead of considered ones. That's not a mindset issue. It's a documented feature of how fatigue affects judgment, and it costs real money.
+That's the piece [most advice about self-care](/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of-2) skips. Rest isn't about comfort or indulgence. For a business owner, it's a control on decision quality, and decision quality is the thing that keeps a company solvent. When you're running on fumes, you don't make worse decisions because you're a worse owner. You make worse decisions because exhausted brains default to shortcuts, avoidance, and reactive choices instead of considered ones. That's not a mindset issue. It's a documented feature of how fatigue affects judgment, and it costs real money.
 
 ## When exhaustion becomes a balance sheet problem
 
