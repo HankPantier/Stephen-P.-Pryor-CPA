@@ -38,7 +38,7 @@ In bars and restaurants, it's the point-of-sale ecosystem. POS providers love ad
 
 ## Building a subscription audit that sticks
 
-A subscription audit only works if it produces a decision, not just a spreadsheet. Here's a process that holds up:
+A [subscription audit only works](/resources/take-back-control-of-subscription-creep-2) if it produces a decision, not just a spreadsheet. Here's a process that holds up:
 
 1. **Pull 60 to 90 days of statements.** A single month can miss quarterly or annual charges that renew quietly.
 2. **List every recurring charge**, no matter how small, with the vendor, the amount, and who requested it.
