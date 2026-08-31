@@ -18,7 +18,7 @@ answer_block: "A money mindset for small business owners is the set of habits an
 ---
 You can have flawless books and still feel like you're white-knuckling every deposit. That's the part most small business owners never say out loud: the numbers can be accurate and the anxiety can still be there. A contractor in Port Chester might reconcile every invoice on time and still underbid the next job because he's afraid of losing it. A bar owner might know her pour cost down to the penny and still refuse to raise the price of a draft because she's scared regulars will walk. The spreadsheet isn't lying. The decision-making around it is.
 
-This is the piece that gets skipped. Business owners fix the bookkeeping, hire someone for payroll, maybe bring in a CPA for taxes, and assume the financial picture will straighten itself out. Often it doesn't, because the same pricing hesitation, the same avoidance, and the same last-minute tax scramble happen again the next year. The books changed. The behavior around money didn't.
+This is the piece that gets skipped. Business owners fix the bookkeeping, hire someone for payroll, maybe bring in a CPA for taxes, and assume the financial picture will straighten itself out. Often it doesn't, because [the same pricing hesitation, the same avoidance, and the same last-minute tax scramble](/resources/your-money-mindset-is-costing-your-small-business-more-than-2) happen again the next year. The books changed. The behavior around money didn't.
 
 ## The pattern repeats because the trigger never gets addressed
 
