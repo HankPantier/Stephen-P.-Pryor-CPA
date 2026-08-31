@@ -1,24 +1,66 @@
 {
   "firm": {
-    "name": "Korbey Lague PLLP",
-    "shortName": "Korbey Lague",
-    "tagline": "CPAs you can talk to",
-    "foundingYear": "1972"
+    "name": "Stephen P. Pryor, CPA",
+    "tagline": "You run your business. We'll run your numbers."
   },
   "contact": {
-    "address": { "street": "123 Main St", "city": "Tyngsborough", "state": "MA", "zip": "01879" },
-    "phone": "978-555-0100",
-    "email": "info@korbeylague.com"
+    "address": {
+      "street": "363 Westchester Ave",
+      "city": "Port Chester",
+      "state": "NY",
+      "zip": "10573"
+    },
+    "phone": "(914) 934-5255",
+    "fax": "(914) 934-2308",
+    "email": "admin@pryorcpa.com",
+    "hours": {
+      "friday": "9:00am - 5:00pm",
+      "monday": "9:00am - 5:00pm",
+      "sunday": "Closed",
+      "tuesday": "9:00am - 5:00pm",
+      "saturday": "Closed",
+      "thursday": "9:00am - 5:00pm",
+      "wednesday": "9:00am - 5:00pm"
+    }
   },
   "palette": {
-    "primary": "#003B71",
-    "secondary": "#6C7278",
-    "complementary": "#B8422E",
-    "action": "#00C1DE",
+    "primary": "#1F3A5F",
+    "secondary": "#5A6B7B",
+    "complementary": "#C2703D",
+    "action": "#0E8C9C",
     "nearBlack": "#1A1C1E",
-    "nearWhite": "#F7F5F2"
+    "nearWhite": "#F8F8F6"
   },
-  "social": [],
-  "certifications": [],
-  "logo": { "primary": "", "alt": "Korbey Lague PLLP logo" }
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/stephen.pryor.92"
+    },
+    {
+      "platform": "linkedin",
+      "url": "http://www.linkedin.com/pub/stephen-pryor/44/a98/b3b/"
+    },
+    {
+      "platform": "twitter",
+      "url": "http://twitter.com/#!/pryorCPA"
+    },
+    {
+      "platform": "googleMaps",
+      "url": "https://maps.google.com/?cid=14594680184759898428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/stephen-pryor-b3ba9844"
+    }
+  ],
+  "certifications": [
+    {
+      "src": "",
+      "alt": "Greenwich First Advisory Boards (community/business advisory group)"
+    }
+  ],
+  "logo": {
+    "primary": "Stephen Pryor.png",
+    "alt": "Stephen P. Pryor, CPA logo"
+  }
 }
