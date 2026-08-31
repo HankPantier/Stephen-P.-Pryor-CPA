@@ -22,7 +22,7 @@ Most tax prep shops show up in March and disappear in April. That works fine if 
 
 Every client works from a secure online platform where you can see your financial data in real time, not just at filing season. Business and individual tax services are bundled into one fixed monthly fee, so there's no surprise invoice when a question comes up in July or a tax notice lands in October. You get a CPA who already knows your numbers, because we've been looking at them all year.
 
-Whether you're filing a personal return, running a small business, or managing both, the goal is the same: fewer surprises, more planning, and a return that reflects decisions made months in advance, not scrambled together at the deadline.
+The goal is the same across every business engagement: fewer surprises, more planning, and a return that reflects decisions made months in advance — not scrambled together at the deadline.
 
 <!-- block: content-split | variant: image-right | image: contractor-reviewing-tax-documents.jpg | alt: "Construction business owner reviewing tax documents with an accountant" | query: "contractor meeting accountant office" -->
 ## Business tax services for construction, real estate, and hospitality companies
