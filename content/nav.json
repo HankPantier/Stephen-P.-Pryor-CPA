@@ -83,8 +83,14 @@
       "url": "/services",
       "children": [
         {
-          "label": "Bookkeeping",
-          "url": "/services/bookkeeping"
+          "label": "Outsourced Accounting",
+          "url": "/services/outsourced-accounting",
+          "children": [
+            {
+              "label": "Bookkeeping",
+              "url": "/services/outsourced-accounting/bookkeeping"
+            }
+          ]
         },
         {
           "label": "Tax",
