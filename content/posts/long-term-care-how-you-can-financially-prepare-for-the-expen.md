@@ -26,7 +26,7 @@ Long-term care insurance underwriting looks at your health history, and insurers
 
 ## The three main ways to pay for long-term care
 
-Most people fund long-term care through some blend of three sources: private insurance, veterans benefits if they qualify, and personal savings or investments. None of these is automatically the right answer. The right mix depends on your health, your assets, your family's risk tolerance, and whether a parent or spouse served in the military.
+Most people [fund long-term care through some blend of three sources](/resources/long-term-care-how-you-can-financially-prepare-for-the-expen-2): private insurance, veterans benefits if they qualify, and personal savings or investments. None of these is automatically the right answer. The right mix depends on your health, your assets, your family's risk tolerance, and whether a parent or spouse served in the military.
 
 | Funding source | Best fit for | Typical trade-off |
 |---|---|---|
