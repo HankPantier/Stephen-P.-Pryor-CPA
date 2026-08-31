@@ -1,10 +1,6 @@
 {
   "primary": [
     {
-      "label": "Outsourced Accounting | Stephen P. Pryor, CPA",
-      "url": "/what-we-do/outsourced-accounting"
-    },
-    {
       "label": "Who We Are | Stephen P. Pryor, CPA",
       "url": "/who-we-are"
     },
@@ -39,14 +35,6 @@
     {
       "label": "Tax | Stephen P. Pryor, CPA",
       "url": "/what-we-do/tax"
-    },
-    {
-      "label": "Payroll | Stephen P. Pryor, CPA",
-      "url": "/what-we-do/payroll"
-    },
-    {
-      "label": "Personal Income Tax | Stephen P. Pryor, CPA",
-      "url": "/what-we-do/personal-income-tax"
     },
     {
       "label": "Entity Type Analysis | Stephen P. Pryor, CPA",
@@ -89,16 +77,24 @@
             {
               "label": "Bookkeeping",
               "url": "/services/outsourced-accounting/bookkeeping"
+            },
+            {
+              "label": "Payroll | Stephen P. Pryor, CPA",
+              "url": "/services/outsourced-accounting/payroll"
+            },
+            {
+              "label": "Business Tax",
+              "url": "/services/outsourced-accounting/tax"
             }
           ]
         },
         {
-          "label": "Tax",
-          "url": "/services/tax"
-        },
-        {
           "label": "Advisory Services",
           "url": "/services/advisory"
+        },
+        {
+          "label": "Personal Income Tax | Stephen P. Pryor, CPA",
+          "url": "/services/personal-income-tax"
         }
       ]
     }
