@@ -42,7 +42,7 @@ The fix isn't complicated, but it does require a habit shift. Reviewing a profit
 
 ## Reactive tax decisions cost more than the tax bill itself
 
-Waiting until March to think about taxes is one of the most expensive habits a business owner can carry, and it's rarely about laziness. It's about avoidance. Facing a tax bill feels like facing a verdict, so many owners put it off until there's no room left to plan.
+Waiting until March to think about taxes is one of the most expensive habits a business owner can carry, and it's rarely about laziness. It's about avoidance. Facing a tax bill feels like facing a verdict, so many owners put it off until there's no room left to plan—often because [fatigue clouds decision-making](/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of).
 
 By the time a return is due, most of the moves that actually reduce a tax bill, entity structure, retirement plan contributions, timing of equipment purchases, are already off the table. The [SBA's guide to managing your finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) puts it plainly: financial planning works best as an ongoing practice, not a once-a-year scramble. A hospitality business dealing with tip reporting and sales tax complexity, or a construction company managing payroll across multiple job sites, has even less room for a reactive approach. Quarterly check-ins catch problems while there's still time to act on them.
 
