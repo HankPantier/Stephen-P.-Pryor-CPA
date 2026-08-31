@@ -33,21 +33,6 @@ Stephen P. Pryor, CPA, LLC prepares corporate and business tax returns with that
 
 This is business tax preparation and planning, delivered with the industry context to back it up. It's paired with [bookkeeping](/services/bookkeeping) and [payroll](/services/payroll) support, so the numbers feeding your return are accurate before they ever reach a tax form.
 
-<!-- block: checklist-section | variant: with-image | image: individual-tax-planning-review.jpg | alt: "Accountant reviewing personal tax return with a client at a desk" | query: "accountant client reviewing paperwork" -->
-## Personal income tax preparation with year-round planning
-
-Tax software works if your financial life is simple. It gets shaky the moment you have side income, freelance work, rental property, or a small business woven into your personal return. And a one-time preparer who files your return and doesn't hear from you again for eleven months can't tell you to make an estimated payment in September or adjust withholding after a life change in June.
-
-Personal income tax preparation with Stephen P. Pryor, CPA, LLC includes:
-
-- Digital, secure return preparation with a CPA reviewing every line
-- Year-round access to your preparer, not just a January-to-April window
-- Proactive tax planning and projections so estimated payments and withholding stay on track
-- Support for self-employed income, rental income, and small business owners filing personal returns
-- A fixed monthly fee, so a mid-year question doesn't come with a surprise bill
-
-Explore [personal income tax preparation](/what-we-do/personal-income-tax) or read our guide to [maximizing your tax refund](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning) for a closer look at year-round planning.
-
 <!-- block: content-split | variant: image-left | image: new-business-owner-consultation.jpg | alt: "New business owner discussing entity structure with a CPA" | query: "small business owner consultation meeting" -->
 ## Entity type analysis for new and growing businesses
 
