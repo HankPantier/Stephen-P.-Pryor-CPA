@@ -1,72 +1,6 @@
 {
   "primary": [
     {
-      "label": "Who We Are | Stephen P. Pryor, CPA",
-      "url": "/who-we-are"
-    },
-    {
-      "label": "Resources Library | Stephen P. Pryor, CPA",
-      "url": "/resources/resources-library"
-    },
-    {
-      "label": "eBooks | Stephen P. Pryor, CPA",
-      "url": "/resources/e-books"
-    },
-    {
-      "label": "Forms, Documents & Links | Stephen P. Pryor, CPA",
-      "url": "/resources/forms-documents-and-links"
-    },
-    {
-      "label": "Refund Tracker | Stephen P. Pryor, CPA",
-      "url": "/resources/refund-tracker"
-    },
-    {
-      "label": "Resources",
-      "url": "/resources"
-    },
-    {
-      "label": "Contact | Stephen P. Pryor, CPA",
-      "url": "/contact"
-    },
-    {
-      "label": "Bookkeeping | Stephen P. Pryor, CPA",
-      "url": "/what-we-do/bookkeeping"
-    },
-    {
-      "label": "Tax | Stephen P. Pryor, CPA",
-      "url": "/what-we-do/tax"
-    },
-    {
-      "label": "Entity Type Analysis | Stephen P. Pryor, CPA",
-      "url": "/what-we-do/entity-type-analysis"
-    },
-    {
-      "label": "Accounting System Setup | Stephen P. Pryor, CPA",
-      "url": "/what-we-do/accounting-system-setup"
-    },
-    {
-      "label": "Retirement Plan Analysis | Stephen P. Pryor, CPA",
-      "url": "/what-we-do/retirement-plan-analysis"
-    },
-    {
-      "label": "Industries we serve",
-      "url": "/industries",
-      "children": [
-        {
-          "label": "Construction",
-          "url": "/industries/construction"
-        },
-        {
-          "label": "Real Estate",
-          "url": "/industries/real-estate"
-        },
-        {
-          "label": "Restaurants",
-          "url": "/industries/restaurants"
-        }
-      ]
-    },
-    {
       "label": "Services",
       "url": "/services",
       "children": [
@@ -90,13 +24,71 @@
         },
         {
           "label": "Advisory Services",
-          "url": "/services/advisory"
+          "url": "/services/advisory",
+          "children": [
+            {
+              "label": "Entity Type Analysis | Stephen P. Pryor, CPA",
+              "url": "/services/advisory/entity-type-analysis"
+            },
+            {
+              "label": "Accounting System Setup | Stephen P. Pryor, CPA",
+              "url": "/services/advisory/accounting-system-setup"
+            },
+            {
+              "label": "Retirement Plan Analysis | Stephen P. Pryor, CPA",
+              "url": "/services/advisory/retirement-plan-analysis"
+            }
+          ]
         },
         {
           "label": "Personal Income Tax | Stephen P. Pryor, CPA",
           "url": "/services/personal-income-tax"
         }
       ]
+    },
+    {
+      "label": "Industries we serve",
+      "url": "/industries",
+      "children": [
+        {
+          "label": "Construction",
+          "url": "/industries/construction"
+        },
+        {
+          "label": "Real Estate",
+          "url": "/industries/real-estate"
+        },
+        {
+          "label": "Restaurants",
+          "url": "/industries/restaurants"
+        }
+      ]
+    },
+    {
+      "label": "Who We Are | Stephen P. Pryor, CPA",
+      "url": "/who-we-are"
+    },
+    {
+      "label": "Resources",
+      "url": "/resources",
+      "children": [
+        {
+          "label": "eBooks | Stephen P. Pryor, CPA",
+          "url": "/resources/e-books"
+        },
+        {
+          "label": "Forms, Documents & Links | Stephen P. Pryor, CPA",
+          "url": "/resources/forms-documents-and-links"
+        },
+        {
+          "label": "Refund Tracker | Stephen P. Pryor, CPA",
+          "url": "/resources/refund-tracker"
+        }
+      ]
+    },
+    {
+      "label": "Contact | Stephen P. Pryor, CPA",
+      "url": "/contact"
     }
   ]
 }
