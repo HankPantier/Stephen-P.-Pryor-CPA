@@ -77,7 +77,7 @@ icon: FileText
 
 Year-round tax planning and preparation built around your entity type, not a return filed once a year and forgotten. [Learn more](/services/tax)
 
-### Individual Tax Planning
+### Individual Tax Planning & Preparation
 icon: Calculator
 
 Personal tax preparation with projections and planning that catch deductions before December 31, not after. [Learn more](/what-we-do/personal-income-tax)
