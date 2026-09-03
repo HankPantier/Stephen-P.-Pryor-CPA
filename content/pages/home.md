@@ -275,7 +275,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll, business and personal tax, a
       "name": "How do I get started with Stephen P. Pryor, CPA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Schedule a consultation through the contact page. Stephen, Shawn Wilson, CPA, or Denise Romano, CPA will ask about your business and current setup, then explain how bundled bookkeeping, payroll, tax, and advisory support would work for your situation."
+        "text": "Schedule a consultation through the contact page. Stephen P. Pryor, CPA will ask about your business and current setup, then explain how bundled bookkeeping, payroll, tax, and advisory support would work for your situation."
       }
     }
   ]
