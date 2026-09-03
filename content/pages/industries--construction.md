@@ -59,7 +59,7 @@ Our [payroll](/services/payroll) service is built to handle that complexity: mul
 <!-- block: content-split | variant: image-left | image: contractor-tax-planning-meeting.jpg | alt: "Construction business owner and CPA discussing tax planning documents" | query: "small business owner meeting accountant tax" -->
 ## Tax planning and entity strategy for contractors
 
-Tax season shouldn't be the first time you find out how the year actually went. Year-round [tax](/services/tax) planning means we're looking at your numbers throughout the year, not just in March, so estimated payments, equipment purchases, and entity decisions get made with the whole picture in view instead of a rear-view mirror.
+Tax season shouldn't be the first time you find out how the year actually went. Year-round [tax](/services/tax) planning means we're looking at your numbers throughout the year, not just in March, so estimated payments, equipment purchases, and entity decisions get made with the whole picture in view instead of a rear-view mirror. That matters even more when your work crosses state lines — New York, New Jersey, Connecticut, and Florida each carry their own tax rules, and keeping up with all of them is part of the job.
 
 As construction businesses grow, take on bigger contracts, or add partners, the right legal entity structure changes too. Our [entity type analysis](/what-we-do/entity-type-analysis) looks at how your business is set up today against where it's headed, covering the state and federal tax implications of S-corp, partnership, and LLC structures for contractors. Getting that structure right before a big contract year, not after, is usually where the real tax savings show up.
 
