@@ -91,7 +91,7 @@ A: It depends on contract size, number of partners, and growth plans. Entity typ
 <!-- block: cta-banner | variant: image-bg | image: contractor-handshake-office-meeting.jpg | alt: "Construction business owner shaking hands with a CPA advisor" | query: "business handshake meeting professional office" -->
 ## Let's talk about your construction business
 
-You already carry enough on a job site. Let Stephen P. Pryor, CPA carry the numbers: job costing, payroll, tax planning, and the entity structure that fits where your construction business is headed. Contractors across Port Chester, Westchester County, and beyond work with us because they'd rather spend their time on the next bid than the last invoice.
+You already carry enough on a job site. Let Stephen P. Pryor, CPA carry the numbers: job costing, payroll, tax planning, and the entity structure that fits where your construction business is headed. Contractors in Port Chester, Westchester County, Manhattan, Brooklyn, Asbury Park, and across New York, New Jersey, Connecticut, and Florida work with us because they'd rather spend their time on the next bid than the last invoice.
 
 [Schedule a consultation](/contact) and let's talk about what your construction business actually needs from its accounting.
 
