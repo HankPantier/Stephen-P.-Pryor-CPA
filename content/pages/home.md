@@ -145,15 +145,15 @@ Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll, 
 - Specialized industry experience in construction, real estate, and bars and restaurants
 
 **Internal Links:**
-- Schedule a consultation → /contact — Primary conversion CTA repeated across hero and closing sections
-- See how we help contractors → /industries/construction — Deep link to niche industry page referenced in the specialization section
-- See how we help real estate businesses → /industries/real-estate — Deep link to niche industry page referenced in the specialization section
-- See how we help bars and restaurants → /industries/restaurants — Deep link to niche industry page referenced in the specialization section
-- Learn more → /services/bookkeeping — Links from the services overview grid to the dedicated bookkeeping page
-- Learn more → /services/tax — Links from the services overview grid to the dedicated business tax page
-- Learn more → /what-we-do/personal-income-tax — Links from the services overview grid to individual tax planning details
-- Learn more → /services/advisory — Links from the services overview grid to the advisory services page
-- Meet the team → /who-we-are — Builds trust by pointing visitors to team credentials in the trust section
+- Schedule a consultation: /contact (Primary conversion CTA repeated across hero and closing sections)
+- See how we help contractors: /industries/construction (Deep link to niche industry page referenced in the specialization section)
+- See how we help real estate businesses: /industries/real-estate (Deep link to niche industry page referenced in the specialization section)
+- See how we help bars and restaurants: /industries/restaurants (Deep link to niche industry page referenced in the specialization section)
+- Learn more: /services/bookkeeping (Links from the services overview grid to the dedicated bookkeeping page)
+- Learn more: /services/tax (Links from the services overview grid to the dedicated business tax page)
+- Learn more: /what-we-do/personal-income-tax (Links from the services overview grid to individual tax planning details)
+- Learn more: /services/advisory (Links from the services overview grid to the advisory services page)
+- Meet the team: /who-we-are (Builds trust by pointing visitors to team credentials in the trust section)
 
 **FAQ Block:**
 
