@@ -27,9 +27,9 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll, tax, and
 
 Construction is a cash business until it isn't. Money goes out for materials, labor, and permits long before a project bills out. If you're not tracking each job separately, you can look profitable on paper while the bank account tells a different story.
 
-Stephen P. Pryor, CPA has worked with contractors, builders, and subcontractors across Port Chester and Westchester County long enough to know that construction accounting isn't really about ledgers. It's about knowing which job is making money and which one is quietly costing you.
+Stephen P. Pryor, CPA has worked with contractors, builders, and subcontractors across Port Chester, Westchester County, Manhattan, Brooklyn, and beyond long enough to know that construction accounting isn't really about ledgers. It's about knowing which job is making money and which one is quietly costing you. Whether you're running a crew in White Plains, pulling permits in Manhattan, framing in Brooklyn, or managing projects across the tri-state area or into Florida, the numbers have to keep pace with the work.
 
-Bookkeeping, payroll, tax, and advisory come bundled into one fixed monthly fee, so a phone call about a job cost question doesn't turn into a surprise invoice. One team learns your job costing system, your subcontractor list, and your crew, and stays with you as the work changes.
+Bookkeeping, payroll, tax, and advisory come bundled into one fixed monthly fee, so a phone call about a job cost question doesn't turn into a surprise invoice. One team learns your job costing system, your subcontractor list, and your crew, and stays with you as the work changes — whether that's a single site in Port Chester or jobs spread across New York, New Jersey, Connecticut, and Florida.
 
 <!-- block: checklist-section | variant: with-image | image: construction-cash-flow-planning.jpg | alt: "Construction business owner reviewing cash flow reports and invoices" | query: "contractor reviewing financial reports office" -->
 ## The financial challenges construction companies face
