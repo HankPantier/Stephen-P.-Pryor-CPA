@@ -80,7 +80,7 @@ Year-round tax planning and preparation built around your entity type, not a ret
 ### Individual Tax Planning & Preparation
 icon: Calculator
 
-Personal tax preparation with projections and planning that catch deductions before December 31, not after — whether you're a W-2 employee, a freelancer, or a business owner with personal and business returns to coordinate. [Learn more](/what-we-do/personal-income-tax)
+Personal tax preparation with projections and planning that catch deductions before December 31, not after. Whether you're a W-2 employee, a freelancer, or a business owner with personal and business returns to coordinate, we have you covered. [Learn more](/what-we-do/personal-income-tax)
 
 ### Advisory
 icon: Lightbulb
