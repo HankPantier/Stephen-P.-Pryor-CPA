@@ -26,7 +26,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll, business
 
 Whether you're running a construction crew in Westchester County, managing rental properties in Manhattan, pouring drinks in Brooklyn, or just trying to get your personal taxes under control in Asbury Park, NJ, numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the New York metro area, building bookkeeping, payroll, tax, and advisory support around how each client actually operates rather than a generic template.
 
-You run your business. We'll run your numbers. That's not a slogan hanging on a wall — it's how Stephen P. Pryor, CPA approaches every new client relationship: listen first, then build a system that fits.
+You run your business. We'll run your numbers. That's not a slogan hanging on a wall. It's how Stephen P. Pryor, CPA approaches every new client relationship: listen first, then build a system that fits.
 
 Ready to stop guessing at your financials? [Schedule a consultation](/contact) and tell us what's keeping you up at night.
 
@@ -90,12 +90,12 @@ CFO-level financial analysis and strategic guidance without the cost of a full-t
 <!-- block: content-split | variant: image-left | image: cpa-client-consultation.jpg | alt: "CPA and small business owner discussing financial documents at a desk" | query: "accountant client consultation meeting office" -->
 ## Support that goes beyond tax season
 
-Tax season is three months a year. Your business runs the other nine. When you onboard with us, we spend real time learning how your business already operates, your invoicing habits, your payroll schedule, the software you already use, before we change a single process.
+Tax season is three months a year. Your business runs the other nine. When you onboard with us, we invest time learning how your business already operates, your invoicing habits, your payroll schedule, the software you already use, before we change a single process.
 
 That upfront listening means fewer surprises later. If a vendor payment looks off in June or you're weighing an equipment purchase in September, you call us then, not in April. Our team stays in the conversation year-round, so decisions get made with current numbers instead of guesses. Personalized doesn't mean a form letter with your name on it. It means someone who already knows your business picks up the phone.
 
 <!-- block: checklist-section | variant: with-image-right | image: westchester-county-meeting.jpg | alt: "Advisor and business owner reviewing paperwork in a bright office" | query: "business meeting office consultation Westchester" -->
-## Trusted by business owners and families across Westchester and beyond
+## Trusted by business owners and families across Westchester County and beyond
 
 Word travels fast in a region this connected, and most new clients arrive by referral from someone whose books we already handle. The great majority of our clients are based in Westchester County, NY, but we serve construction businesses, real estate professionals, bar and restaurant owners, and individuals well beyond the county line.
 
