@@ -34,7 +34,7 @@ Bookkeeping, payroll, tax, and advisory come bundled into one fixed monthly fee,
 <!-- block: checklist-section | variant: with-image | image: construction-cash-flow-planning.jpg | alt: "Construction business owner reviewing cash flow reports and invoices" | query: "contractor reviewing financial reports office" -->
 ## The financial challenges construction companies face
 
-Contractors don't lose money because they're bad at the work. They lose it because the accounting doesn't keep pace with how construction actually operates: draws, retainage, change orders, and crews moving between sites. Before we open a single ledger, we've usually already seen these problems play out on other job sites across Westchester County.
+Contractors don't lose money because they're bad at the work. They lose it because the accounting doesn't keep pace with how construction actually operates: draws, retainage, change orders, and crews moving between sites. Before we open a single ledger, we've usually already seen these problems play out on job sites across Westchester County, Manhattan, Brooklyn, Asbury Park, and into Connecticut and Florida.
 
 - Cash flow that swings hard between project phases, with big outlays up front and payment held until milestones or final completion
 - Job costing that's tracked by feel instead of by phase, making it hard to know which contracts are actually profitable
