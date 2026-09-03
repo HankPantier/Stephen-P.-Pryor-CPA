@@ -12,7 +12,7 @@ hero_variant: "statement"
 hero_eyebrow: "Port Chester, NY"
 hero_image: "small-business-cpa-meeting.jpg"
 hero_image_alt: "Accountant and small business owner reviewing documents together at an office desk"
-hero_subhead: "Bundled bookkeeping, payroll, tax, and advisory for one predictable fee — for business owners and individuals across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ"
+hero_subhead: "Bundled bookkeeping, payroll, tax, and advisory for one predictable fee, serving business owners and individuals across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ"
 hero_headline: "A CPA firm that treats your finances like they're our own"
 answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll, business and personal tax, and advisory services for one fixed monthly fee, backed by a secure online platform with real-time financial data. The firm specializes in construction, real estate, and bars and restaurants, with the majority of clients based in Westchester County, NY."
 eeat_signals: ["Stephen P. Pryor, CPA (Certified Public Accountant, firm partner)","Shawn Wilson, CPA (Managing Director)","Denise Romano, CPA (Senior Accountant)","Active member of the Greenwich First Advisory Boards, a regional business and community advisory group","Serves business and individual clients across Westchester County, NY, Manhattan, Brooklyn, Asbury Park NJ, and NY/NJ/CT/FL","Specialized industry experience in construction, real estate, and bars and restaurants"]
@@ -24,7 +24,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll, business
 <!-- block: intro-text | variant: centered -->
 ## A CPA firm that treats your finances like they're our own
 
-Whether you're running a construction crew in Westchester County, managing rental properties in Manhattan, pouring drinks in Brooklyn, or just trying to get your personal taxes under control in Asbury Park, NJ — numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the New York metro area, building bookkeeping, payroll, tax, and advisory support around how each client actually operates instead of a generic template.
+Whether you're running a construction crew in Westchester County, managing rental properties in Manhattan, pouring drinks in Brooklyn, or just trying to get your personal taxes under control in Asbury Park, NJ, numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the New York metro area, building bookkeeping, payroll, tax, and advisory support around how each client actually operates rather than a generic template.
 
 You run your business. We'll run your numbers. That's not a slogan hanging on a wall — it's how Stephen P. Pryor, CPA approaches every new client relationship: listen first, then build a system that fits.
 
@@ -35,12 +35,12 @@ Ready to stop guessing at your financials? [Schedule a consultation](/contact) a
 
 Most accounting firms bill by the hour or charge separately for every phone call and follow-up email. That adds up fast, and it makes budgeting for professional help nearly impossible. We bundle bookkeeping, payroll, tax preparation, and advisory support into one fixed monthly fee, so you know exactly what you're paying before the month even starts.
 
-Every client gets access to a secure online platform showing real-time financial data: cash position, payroll runs, tax documents, all in one place and updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site in Westchester, a property closing in Manhattan, a bar in Brooklyn, or your home office in Asbury Park — any time you need to.
+Every client gets access to a secure online platform showing real-time financial data: cash position, payroll runs, tax documents, all in one place and updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site in Westchester, a property closing in Manhattan, a bar in Brooklyn, or your home office in Asbury Park, any time you need to.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Deep expertise in construction, real estate, and bars and restaurants
 
-General accounting advice doesn't hold up against the specifics of a construction draw schedule or a liquor license renewal. Here's where our practice runs deepest.
+General accounting advice doesn't hold up against the specifics of a construction draw schedule or a liquor license renewal. Here is where our practice runs deepest.
 
 ### Construction
 icon: Hammer
@@ -80,7 +80,7 @@ Year-round tax planning and preparation built around your entity type, not a ret
 ### Individual Tax Planning & Preparation
 icon: Calculator
 
-Personal tax preparation with projections and planning that catch deductions before December 31, not after — whether you're a W-2 employee, a freelancer, or a business owner with personal and business returns to coordinate. [Learn more](/what-we-do/personal-income-tax)
+Personal tax preparation with projections and planning that catch deductions before December 31, not after. Whether you're a W-2 employee, a freelancer, or a business owner with personal and business returns to coordinate, we have you covered. [Learn more](/what-we-do/personal-income-tax)
 
 ### Advisory
 icon: Lightbulb
@@ -145,15 +145,15 @@ Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll, 
 - Specialized industry experience in construction, real estate, and bars and restaurants
 
 **Internal Links:**
-- Schedule a consultation → /contact — Primary conversion CTA repeated across hero and closing sections
-- See how we help contractors → /industries/construction — Deep link to niche industry page referenced in the specialization section
-- See how we help real estate businesses → /industries/real-estate — Deep link to niche industry page referenced in the specialization section
-- See how we help bars and restaurants → /industries/restaurants — Deep link to niche industry page referenced in the specialization section
-- Learn more → /services/bookkeeping — Links from the services overview grid to the dedicated bookkeeping page
-- Learn more → /services/tax — Links from the services overview grid to the dedicated business tax page
-- Learn more → /what-we-do/personal-income-tax — Links from the services overview grid to individual tax planning details
-- Learn more → /services/advisory — Links from the services overview grid to the advisory services page
-- Meet the team → /who-we-are — Builds trust by pointing visitors to team credentials in the trust section
+- Schedule a consultation: /contact (Primary conversion CTA repeated across hero and closing sections)
+- See how we help contractors: /industries/construction (Deep link to niche industry page referenced in the specialization section)
+- See how we help real estate businesses: /industries/real-estate (Deep link to niche industry page referenced in the specialization section)
+- See how we help bars and restaurants: /industries/restaurants (Deep link to niche industry page referenced in the specialization section)
+- Learn more: /services/bookkeeping (Links from the services overview grid to the dedicated bookkeeping page)
+- Learn more: /services/tax (Links from the services overview grid to the dedicated business tax page)
+- Learn more: /what-we-do/personal-income-tax (Links from the services overview grid to individual tax planning details)
+- Learn more: /services/advisory (Links from the services overview grid to the advisory services page)
+- Meet the team: /who-we-are (Builds trust by pointing visitors to team credentials in the trust section)
 
 **FAQ Block:**
 
