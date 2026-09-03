@@ -26,7 +26,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll, business
 
 Running a business in Port Chester, NY means juggling payroll, permits, staffing, and a dozen small fires before lunch. Numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA has spent years learning how construction crews, real estate investors, and restaurant owners across Westchester County run day to day, then building bookkeeping, payroll, tax, and advisory support around that reality instead of a generic template.
 
-You run your business. We'll run your numbers. That's not a slogan hanging on a wall, it's how Stephen, Shawn Wilson, CPA, and Denise Romano, CPA approach every new client relationship: listen first, then build a system that fits.
+You run your business. We'll run your numbers. That's not a slogan hanging on a wall, it's how Stephen P. Pryor, CPA approaches every new client relationship: listen first, then build a system that fits.
 
 Ready to stop guessing at your financials? [Schedule a consultation](/contact) and tell us what's keeping you up at night.
 
