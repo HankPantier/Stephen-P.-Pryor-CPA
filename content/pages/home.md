@@ -92,7 +92,7 @@ CFO-level financial analysis and strategic guidance without the cost of a full-t
 
 Tax season is three months a year. Your business runs the other nine. When you onboard with us, we spend real time learning how your business already operates, your invoicing habits, your payroll schedule, the software you already use, before we change a single process.
 
-That upfront listening means fewer surprises later. If a vendor payment looks off in June or you're weighing an equipment purchase in September, you call us then, not in April. Stephen, Shawn, and Denise stay in the conversation year-round, so decisions get made with current numbers instead of guesses. Personalized doesn't mean a form letter with your name on it. It means someone who already knows your business picks up the phone.
+That upfront listening means fewer surprises later. If a vendor payment looks off in June or you're weighing an equipment purchase in September, you call us then, not in April. Our team stays in the conversation year-round, so decisions get made with current numbers instead of guesses. Personalized doesn't mean a form letter with your name on it. It means someone who already knows your business picks up the phone.
 
 <!-- block: checklist-section | variant: with-image-right | image: westchester-county-meeting.jpg | alt: "Advisor and business owner reviewing paperwork in a bright office" | query: "business meeting office consultation Westchester" -->
 ## Trusted by business owners and families across Westchester and beyond
