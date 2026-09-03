@@ -35,7 +35,7 @@ Ready to stop guessing at your financials? [Schedule a consultation](/contact) a
 
 Most accounting firms bill by the hour or charge separately for every phone call and follow-up email. That adds up fast, and it makes budgeting for professional help nearly impossible. We bundle bookkeeping, payroll, tax preparation, and advisory support into one fixed monthly fee, so you know exactly what you're paying before the month even starts.
 
-Every client gets access to a secure online platform showing real-time financial data: cash position, payroll runs, tax documents, all in one place, updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site in Port Chester or a bar in Brooklyn, whenever you need to.
+Every client gets access to a secure online platform showing real-time financial data: cash position, payroll runs, tax documents, all in one place and updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site in Port Chester or a bar in Brooklyn, any time you need to.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Deep expertise in construction, real estate, and bars and restaurants
@@ -65,7 +65,7 @@ Each service stands on its own, but most clients bundle several together under o
 ### Bookkeeping
 icon: Receipt
 
-Daily transaction classification, expense tracking, bill payment, and invoicing, handled so your books are always current. [Learn more](/services/bookkeeping)
+Daily transaction classification, expense tracking, bill payment, and invoicing handled so your books are always current. [Learn more](/services/bookkeeping)
 
 ### Payroll
 icon: Users
@@ -90,7 +90,7 @@ CFO-level financial analysis and strategic guidance without the cost of a full-t
 <!-- block: content-split | variant: image-left | image: cpa-client-consultation.jpg | alt: "CPA and small business owner discussing financial documents at a desk" | query: "accountant client consultation meeting office" -->
 ## Support that goes beyond tax season
 
-Tax season is three months a year. Your business runs the other nine. When you onboard with us, we spend real time learning how your business already operates, your invoicing habits, your payroll schedule, the software you already use, before changing a single process.
+Tax season is three months a year. Your business runs the other nine. When you onboard with us, we spend real time learning how your business already operates, your invoicing habits, your payroll schedule, the software you already use, before we change a single process.
 
 That upfront listening means fewer surprises later. If a vendor payment looks off in June or you're weighing an equipment purchase in September, you call us then, not in April. Stephen, Shawn, and Denise stay in the conversation year-round, so decisions get made with current numbers instead of guesses. Personalized doesn't mean a form letter with your name on it. It means someone who already knows your business picks up the phone.
 
