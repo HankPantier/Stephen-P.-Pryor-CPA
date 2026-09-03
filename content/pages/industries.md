@@ -23,7 +23,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll, tax, and
 <!-- block: intro-text | variant: centered -->
 ## Industry-focused accounting built around your business
 
-Port Chester and the towns around it are full of business owners who don't have time to translate a spreadsheet into a decision. Stephen P. Pryor, CPA works with a specific set of industries, construction, real estate, and hospitality, with a particular focus on bars and pubs, because generic bookkeeping advice falls apart the moment it meets job costing, cost segregation, or tip reporting rules. Every client gets a CPA who already understands the pressure points of their business before the first meeting ends. That's the difference between a firm that files your taxes and one that helps you run the business. Whether you're pouring concrete, closing on a rental property, or pouring drafts behind the bar, your numbers get the same attention we'd want if they were ours.
+Port Chester and the towns around it are full of business owners who don't have time to translate a spreadsheet into a decision. Stephen P. Pryor, CPA works with a specific set of industries (construction, real estate, and restaurants, with a particular focus on bars and pubs) because generic bookkeeping advice falls apart the moment it meets job costing, cost segregation, or tip reporting rules. Every client gets a CPA who already understands the pressure points of their business before the first meeting ends. That's the difference between a firm that files your taxes and one that helps you run the business. Whether you're pouring concrete, closing on a rental property, or pouring drafts behind the bar, your numbers get the same attention we'd want if they were ours.
 
 <!-- block: content-split | variant: image-right | image: construction-job-site-accounting.jpg | alt: "Construction site foreman reviewing project budget on a tablet" | query: "construction contractor reviewing budget" -->
 ## Construction accounting and payroll support
@@ -44,12 +44,12 @@ For clients holding multiple properties, we set up bookkeeping that separates in
 
 Bars and restaurants run on razor-thin margins, and most owners find out where the money leaked only after it's gone. We track cost of goods, labor, and overhead closely enough that you can see a margin problem developing before it shows up on a bank statement.
 
-Tip reporting and cash handling compliance are areas where hospitality businesses get exposed to IRS scrutiny without meaning to. We set up reporting and payroll processes to keep that clean, and we handle the sales tax complexity that comes with multiple revenue streams: food, alcohol, and sometimes merchandise or events, each taxed differently. Seasonal staffing and multi-location payroll are wrinkles we're used to untangling for bar and pub owners specifically, not restaurants in general. If you're running a bar, a pub, or a small restaurant group near Port Chester, our [restaurant and bar accounting services](/industries/restaurants) page walks through how we work.
+Tip reporting and cash handling compliance are areas where hospitality businesses get exposed to IRS scrutiny without meaning to. We set up reporting and payroll processes to keep that clean, and we handle the sales tax complexity that comes with multiple revenue streams: food, alcohol, and sometimes merchandise or events, each taxed differently. Seasonal staffing and multi-location payroll are wrinkles we're used to untangling for bar and pub owners specifically, not restaurants in general. If you're running a bar, pub, or small restaurant group in Westchester County, our [restaurant and bar accounting services](/industries/restaurants) page walks through how we work.
 
 <!-- block: checklist-section | variant: with-image | image: online-accounting-platform-dashboard.jpg | alt: "Business owner viewing real-time financial dashboard on a laptop" | query: "business owner laptop financial dashboard" -->
 ## One partner for bookkeeping, payroll, tax, and advisory
 
-Construction, real estate, and hospitality clients all share one complaint about their last accountant: too many hands, not enough visibility. We fold bookkeeping, payroll, tax, and advisory into one bundled fee billed monthly, so there's no surprise invoice for a phone call or a mid-year question.
+Construction, real estate, and restaurant clients all share one requirement from their accountant: clear visibility of their finances with business guidance they can trust. We fold bookkeeping, payroll, tax, and advisory into one bundled fee billed monthly, so there's no surprise invoice for a phone call or a mid-year question.
 
 Every client gets a secure online platform showing real-time financial data, not a report that's three weeks old by the time you see it. That means you can check job profitability, cash position, or payroll costs before you make a decision, not after it's too late to change course. Support runs year-round, not just at tax time, from the same CPA who onboarded your business and learned your systems from day one.
 
@@ -61,7 +61,7 @@ Every client gets a secure online platform showing real-time financial data, not
 <!-- block: stats-bar | variant: 3-up -->
 ## Why local business owners trust our firm
 
-Stephen P. Pryor, CPA was built on service and relationships rather than volume. Clients across Port Chester and Westchester County work directly with Stephen, Shawn Wilson, CPA, and Denise Romano, CPA, not a rotating list of seasonal preparers. The firm also participates in the Greenwich First Advisory Boards, a community and business advisory group that keeps us connected to what's actually happening with local businesses, not just their tax returns.
+Stephen P. Pryor, CPA was built on service and relationships rather than volume. Clients across Port Chester and Westchester County work directly with our team of CPAs, not a rotating list of seasonal preparers. The firm also participates in the Greenwich First Advisory Boards, a community and business advisory group that keeps us connected to what's actually happening with local businesses, not just their tax returns.
 
 - 3 CPAs on staff working directly with clients
 - 4 states served: NY, NJ, CT, and FL
@@ -88,7 +88,7 @@ A: Yes. The firm manages certified payroll and prevailing wage reporting for con
 <!-- block: cta-banner | variant: image-bg | image: contractor-handshake-meeting.jpg | alt: "Business owner shaking hands with a CPA advisor in an office" | query: "business owner handshake advisor meeting" -->
 ## Get a personalized plan for your industry
 
-Construction, real estate, and hospitality businesses don't need an accountant who learns the industry on your dime. They need a firm that already knows where the margin leaks, where the depreciation gets missed, and where payroll compliance gets messy. Stephen P. Pryor, CPA works with contractors, real estate investors, and bar and restaurant owners across Port Chester and Westchester County. Tell us about your business and we'll show you what a bundled, fixed-fee accounting relationship looks like for your industry. [Schedule a consultation](/contact) and let's talk about what's actually going on with your numbers.
+Construction, real estate, and restaurant businesses don't need an accountant who learns the industry on your dime. They need a firm that already knows where the margin leaks, where the depreciation gets missed, and where payroll compliance gets messy. Stephen P. Pryor, CPA works with contractors, real estate investors, and bar and restaurant owners across Port Chester and Westchester County. Tell us about your business and we'll show you what a bundled, fixed-fee accounting relationship looks like for your industry. [Schedule a consultation](/contact) and let's talk about what's actually going on with your numbers.
 
 ---
 ## SEO & AIO Metadata
