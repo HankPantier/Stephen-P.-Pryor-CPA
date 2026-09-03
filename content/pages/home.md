@@ -90,7 +90,7 @@ CFO-level financial analysis and strategic guidance without the cost of a full-t
 <!-- block: content-split | variant: image-left | image: cpa-client-consultation.jpg | alt: "CPA and small business owner discussing financial documents at a desk" | query: "accountant client consultation meeting office" -->
 ## Support that goes beyond tax season
 
-Tax season is three months a year. Your business runs the other nine. When you onboard with us, we spend real time learning how your business already operates, your invoicing habits, your payroll schedule, the software you already use, before changing a single process.
+Tax season is three months a year. Your business runs the other nine. When you onboard with us, we spend real time learning how your business already operates, your invoicing habits, your payroll schedule, the software you already use, before we change a single process.
 
 That upfront listening means fewer surprises later. If a vendor payment looks off in June or you're weighing an equipment purchase in September, you call us then, not in April. Stephen, Shawn, and Denise stay in the conversation year-round, so decisions get made with current numbers instead of guesses. Personalized doesn't mean a form letter with your name on it. It means someone who already knows your business picks up the phone.
 
