@@ -97,14 +97,16 @@ That upfront listening means fewer surprises later. If a vendor payment looks of
 <!-- block: checklist-section | variant: with-image-right | image: westchester-county-meeting.jpg | alt: "Advisor and business owner reviewing paperwork in a bright office" | query: "business meeting office consultation Westchester" -->
 ## Trusted by business owners and families across Westchester and beyond
 
-Word travels fast in a county this size, and most new clients arrive by referral from someone whose books we already handle. The great majority of our clients are based in Westchester County, NY, but the work doesn't stop at the county line.
+Word travels fast in a region this connected, and most new clients arrive by referral from someone whose books we already handle. The great majority of our clients are based in Westchester County, NY, but we serve construction businesses, real estate professionals, bar and restaurant owners, and individuals well beyond the county line.
 
-- Business and individual clients spanning Westchester County, NY, Manhattan, Brooklyn, and Asbury Park, NJ
-- Individual and business tax clients across New York, New Jersey, Connecticut, and Florida
+- Construction businesses, real estate investors, and bar and restaurant owners across Westchester County, NY
+- Individual and business clients in Manhattan and Brooklyn, NY
+- Business owners and individuals in Asbury Park, NJ
+- Tax clients across New York, New Jersey, Connecticut, and Florida
 - Stephen Pryor participates in the Greenwich First Advisory Boards, a regional business and community advisory group
 - Practical financial guidance published through the firm's own resources, including tips on building healthier money habits
 
-Want to see if we're a fit for your business? [Meet the team](/who-we-are) or reach out with what you're currently dealing with.
+Want to see if we're a fit? [Meet the team](/who-we-are) or reach out with what you're currently dealing with.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Home | Stephen P. Pryor, CPA
