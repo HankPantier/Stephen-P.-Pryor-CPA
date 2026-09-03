@@ -12,7 +12,7 @@ hero_variant: "statement"
 hero_eyebrow: "Port Chester, NY"
 hero_image: "small-business-cpa-meeting.jpg"
 hero_image_alt: "Accountant and small business owner reviewing documents together at an office desk"
-hero_subhead: "Bundled bookkeeping, payroll, tax, and advisory for one predictable fee, so you can focus on running your business"
+hero_subhead: "Bundled bookkeeping, payroll, tax, and advisory for one predictable fee — for business owners and individuals across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ"
 hero_headline: "A CPA firm that treats your finances like they're our own"
 answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll, business and personal tax, and advisory services for one fixed monthly fee, backed by a secure online platform with real-time financial data. The firm specializes in construction, real estate, and bars and restaurants, with the majority of clients based in Westchester County, NY."
 eeat_signals: ["Stephen P. Pryor, CPA (Certified Public Accountant, firm partner)","Shawn Wilson, CPA (Managing Director)","Denise Romano, CPA (Senior Accountant)","Active member of the Greenwich First Advisory Boards, a regional business and community advisory group","Serves business and individual clients across Westchester County, NY, Manhattan, Brooklyn, Asbury Park NJ, and NY/NJ/CT/FL","Specialized industry experience in construction, real estate, and bars and restaurants"]
