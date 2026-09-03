@@ -13,7 +13,7 @@ hero_eyebrow: "Port Chester, NY"
 hero_image: "small-business-cpa-meeting.jpg"
 hero_image_alt: "Accountant and small business owner reviewing documents together at an office desk"
 hero_subhead: "Bundled bookkeeping, payroll, tax, and advisory for one predictable fee, so you can focus on running your business"
-hero_headline: "A CPA firm that treats your business like it's our own"
+hero_headline: "A CPA firm that treats your finances like they're our own"
 answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll, business and personal tax, and advisory services for one fixed monthly fee, backed by a secure online platform with real-time financial data. The firm specializes in construction, real estate, and bars and restaurants, with the majority of clients based in Westchester County, NY."
 eeat_signals: ["Stephen P. Pryor, CPA (Certified Public Accountant, firm partner)","Shawn Wilson, CPA (Managing Director)","Denise Romano, CPA (Senior Accountant)","Active member of the Greenwich First Advisory Boards, a regional business and community advisory group","Serves business and individual clients across Westchester County, NY, Manhattan, Brooklyn, Asbury Park NJ, and NY/NJ/CT/FL","Specialized industry experience in construction, real estate, and bars and restaurants"]
 internal_links: [{"url":"/contact","reason":"Primary conversion CTA repeated across hero and closing sections","anchor_text":"Schedule a consultation"},{"url":"/industries/construction","reason":"Deep link to niche industry page referenced in the specialization section","anchor_text":"See how we help contractors"},{"url":"/industries/real-estate","reason":"Deep link to niche industry page referenced in the specialization section","anchor_text":"See how we help real estate businesses"},{"url":"/industries/restaurants","reason":"Deep link to niche industry page referenced in the specialization section","anchor_text":"See how we help bars and restaurants"},{"url":"/services/bookkeeping","reason":"Links from the services overview grid to the dedicated bookkeeping page","anchor_text":"Learn more"},{"url":"/services/tax","reason":"Links from the services overview grid to the dedicated business tax page","anchor_text":"Learn more"},{"url":"/what-we-do/personal-income-tax","reason":"Links from the services overview grid to individual tax planning details","anchor_text":"Learn more"},{"url":"/services/advisory","reason":"Links from the services overview grid to the advisory services page","anchor_text":"Learn more"},{"url":"/who-we-are","reason":"Builds trust by pointing visitors to team credentials in the trust section","anchor_text":"Meet the team"}]
@@ -22,7 +22,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll, business
 ---
 
 <!-- block: intro-text | variant: centered -->
-## A CPA firm that treats your business like it's our own
+## A CPA firm that treats your finances like they're our own
 
 Running a business in Port Chester, NY means juggling payroll, permits, staffing, and a dozen small fires before lunch. Numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA has spent years learning how construction crews, real estate investors, and restaurant owners across Westchester County run day to day, then building bookkeeping, payroll, tax, and advisory support around that reality instead of a generic template.
 
