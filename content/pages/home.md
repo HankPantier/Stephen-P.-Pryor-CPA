@@ -65,7 +65,7 @@ Each service stands on its own, but most clients bundle several together under o
 ### Bookkeeping
 icon: Receipt
 
-Daily transaction classification, expense tracking, bill payment, and invoicing, handled so your books are always current. [Learn more](/services/bookkeeping)
+Daily transaction classification, expense tracking, bill payment, and invoicing handled so your books are always current. [Learn more](/services/bookkeeping)
 
 ### Payroll
 icon: Users
