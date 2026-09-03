@@ -1,9 +1,9 @@
 ---
 title: "Industries we serve | Stephen P. Pryor, CPA"
 url: "/industries"
-meta_title: "CPA for Construction Companies in Port Chester, NY"
-meta_description: "Industry-focused CPA firm serving construction, real estate, and hospitality businesses in Port Chester, NY with bundled bookkeeping, payroll, and tax support."
-target_keyword: "CPA for construction companies Port Chester NY"
+meta_title: "CPA for Construction, Real Estate and Restaurants in Port Chester, NY"
+meta_description: "Industry-focused CPA firm serving construction, real estate, and restaurant businesses in Westchester County, NY with bundled bookkeeping, payroll, and tax support."
+target_keyword: "CPA for construction, real estate and restaurants in Port Chester NY"
 secondary_keywords: ["construction accounting Port Chester","real estate tax CPA Port Chester NY","restaurant bookkeeping Port Chester","bar accounting services Port Chester NY","payroll services construction Port Chester","real estate CPA Westchester County","hospitality accounting Port Chester NY","small business CPA Port Chester"]
 canonical_url: "https://pryorcpa.com/industries"
 schema_markup: "Service"
