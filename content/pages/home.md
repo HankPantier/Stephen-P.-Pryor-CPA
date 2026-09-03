@@ -40,7 +40,7 @@ Every client gets access to a secure online platform showing real-time financial
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Deep expertise in construction, real estate, and bars and restaurants
 
-General accounting advice doesn't hold up against the specifics of a construction draw schedule or a liquor license renewal. Here's where our practice runs deepest.
+General accounting advice doesn't hold up against the specifics of a construction draw schedule or a liquor license renewal. Here is where our practice runs deepest.
 
 ### Construction
 icon: Hammer
