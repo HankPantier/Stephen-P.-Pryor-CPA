@@ -37,8 +37,8 @@ Most accounting firms bill by the hour or charge separately for every phone call
 
 Every client gets access to a secure online platform showing real-time financial data: cash position, payroll runs, tax documents, all in one place and updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site in Westchester, a property closing in Manhattan, a bar in Brooklyn, or your home office in Asbury Park, any time you need to.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Deep expertise in construction, real estate, and bars and restaurants
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
+## Deep expertise in construction, real estate, bars and restaurants, and individuals
 
 General accounting advice doesn't hold up against the specifics of a construction draw schedule or a liquor license renewal. Here is where our practice runs deepest.
 
@@ -56,6 +56,11 @@ Depreciation schedules, cost segregation studies, and 1031 exchanges each carry 
 icon: Wallet
 
 Thin margins leave no room for guessing where the money's going. Tip reporting, sales tax compliance, and cash handling create real exposure if they're mishandled. Our restaurant and bar practice was built around exactly these pain points. [See how we help bars and restaurants](/industries/restaurants)
+
+### Individuals
+icon: Calculator
+
+Personal taxes get complicated fast, especially with side income, investments, or a business return to coordinate at the same time. We handle personal tax preparation year-round, not just in April, catching deductions before they expire and building projections that keep you ahead of what you'll owe. [Learn more](/what-we-do/personal-income-tax)
 
 <!-- block: service-cards | variant: 3-col -->
 ## Services built around how your business runs
