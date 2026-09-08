@@ -55,11 +55,11 @@ Rental income arrives on a schedule; expenses don't always cooperate with it. A 
 We help landlords and [real estate](/industries/real-estate) operators think through reserve targets property by property, so a single capital expenditure doesn't derail the portfolio. When you're planning an acquisition or coordinating the timing of a refinance, we talk through how it affects cash on hand across everything you own, not just the one deal in front of you. That bigger-picture view is what keeps a growing portfolio from outrunning its own cash position.
 
 <!-- block: content-split | variant: image-right | image: bar-owner-reviewing-daily-sales.jpg | alt: "Bar owner reviewing daily sales and cash reports at the counter" | query: "restaurant owner reviewing sales reports" -->
-## Cash management for bars and restaurants
+## Cash flow guidance for bars and restaurants
 
 Bar and restaurant margins are thin enough that a bad two weeks can wipe out a good month. Cash moves fast, daily deposits, vendor payments, payroll, tip payouts, and it's easy to lose sight of where it's actually going until the bank balance tells you something's wrong.
 
-We build cash tracking around how [bars and restaurants](/industries/restaurants) actually operate: daily sales against daily cash out, seasonal swings around holidays and summer patio season, and the timing of liquor and food vendor payments against weekly deposits. That day-to-day visibility is what lets an owner catch a margin problem in week two instead of finding it in the month-end numbers.
+We advise [bar and restaurant](/industries/restaurants) owners on how to read their cash flow the way their business actually moves: daily sales against daily cash out, seasonal swings around holidays and summer patio season, and the timing of liquor and food vendor payments against weekly deposits. Understanding those rhythms is what lets an owner catch a margin problem in week two instead of finding it in the month-end numbers.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why Port Chester and Westchester businesses choose our approach
