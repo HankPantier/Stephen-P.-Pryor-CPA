@@ -87,21 +87,21 @@ icon: Building2
 Construction, real estate, and hospitality, including bars and pubs, each move cash differently. Our guidance is built around those differences, not a generic template.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Cash Management | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Cash Flow Management | Stephen P. Pryor, CPA
 
-**Q: What does cash management include at a CPA firm?**
-A: Cash management at Stephen P. Pryor, CPA includes ongoing tracking of inflows and outflows, rolling cash flow forecasts, and shortfall alerts, all viewable through a secure online platform. It's bundled with bookkeeping, payroll, and tax support for one fixed monthly fee rather than sold as a separate hourly service.
+**Q: What does cash flow management advice from a CPA look like?**
+A: At Stephen P. Pryor, CPA, cash flow guidance is built into your ongoing relationship with the firm. We review your inflows and outflows regularly, help you build rolling forecasts, and flag potential shortfalls while there's still time to act. It's part of a bundled fixed monthly fee alongside bookkeeping, payroll, and tax support, not a separate hourly engagement.
 
-**Q: How does cash management help construction companies in Port Chester?**
-A: Construction cash flow swings between project phases, with materials and payroll going out before progress payments and retainage come in. Tracking cash by project helps contractors see which jobs are funding the business and plan bids, payroll, and equipment purchases without a mid-project cash crunch.
+**Q: How can a CPA help a construction company manage cash flow?**
+A: Construction cash flow swings between project phases, with materials and payroll going out before progress payments and retainage come in. We help contractors understand which jobs are funding the business right now, plan around upcoming gaps, and make smarter decisions on bids, equipment, and payroll timing without a mid-project crunch.
 
-**Q: Is cash management different from bookkeeping?**
-A: Bookkeeping records what already happened. Cash management looks forward, forecasting inflows and outflows so you can spot a shortfall weeks in advance. At Pryor CPA, the two are connected: bookkeeping data feeds directly into the cash forecasts you see on the secure client platform.
+**Q: Is cash flow guidance different from bookkeeping?**
+A: Bookkeeping records what already happened. Cash flow guidance looks forward, helping you forecast inflows and outflows so you can spot a shortfall weeks in advance. At Pryor CPA, the two work together: your bookkeeping data feeds directly into the cash picture you review on the secure client platform.
 
-**Q: Do you offer cash management for bars and restaurants?**
-A: Yes. Bars and restaurants deal with thin margins, daily cash handling, and seasonal swings that can hide a problem until it's too late. Our approach tracks daily sales against cash out and vendor payment timing, giving owners visibility week to week instead of just at month end.
+**Q: Do you advise bars and restaurants on cash flow?**
+A: Yes. Bars and restaurants deal with thin margins, daily cash handling, and seasonal swings that can hide a problem until it's too late. We help owners understand their cash rhythm, track daily sales against cash out, and anticipate vendor payment timing so problems show up in week two, not at month end.
 
-**Q: What areas does Stephen P. Pryor, CPA serve for cash management services?**
+**Q: What areas does Stephen P. Pryor, CPA serve?**
 A: The firm serves clients primarily in Port Chester and greater Westchester County, NY, with additional clients in Manhattan, Brooklyn, Asbury Park NJ, and across NY, NJ, and CT.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA shaking hands with a small business owner after a consultation" | query: "business consultation handshake office meeting" -->
