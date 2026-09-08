@@ -15,7 +15,7 @@ hero_subhead: "Strategic guidance for construction, real estate, and hospitality
 hero_headline: "A CPA advisor who knows your business, not just your books"
 answer_block: "Stephen P. Pryor, CPA provides CFO-level advisory services, including entity structuring, cash flow strategy, retirement plan analysis, and accounting system setup, bundled into one fixed monthly fee alongside bookkeeping, tax, and payroll. Advisory guidance is built around construction, real estate, and hospitality businesses in Port Chester and Westchester County, NY."
 eeat_signals: ["Stephen P. Pryor, CPA leads advisory engagements personally rather than delegating to junior staff","Shawn Wilson, CPA and Denise Romano, CPA bring additional CPA-level review to advisory work","Active participation in the Greenwich First Advisory Boards community/business advisory group","Advisory guidance built around named industry pain points: job costing, cost segregation, tip reporting compliance","Bundled fixed-fee model paired with a secure online platform for real-time financial data"]
-internal_links: [{"url":"/industries/construction","reason":"Deepens industry-specific advisory content for construction clients","anchor_text":"construction accounting"},{"url":"/industries/real-estate","reason":"Connects advisory copy to the real estate industry page","anchor_text":"real estate"},{"url":"/industries/restaurants","reason":"Connects advisory copy to the bars and restaurants industry page","anchor_text":"restaurants"},{"url":"/what-we-do/entity-type-analysis","reason":"Direct service link supporting the entity structuring section","anchor_text":"entity type analysis"},{"url":"/what-we-do/business-foundation-services","reason":"Direct service link for new business owner segment","anchor_text":"business foundation services"},{"url":"/what-we-do/cash-management","reason":"Supports the cash management checklist item","anchor_text":"Learn more"},{"url":"/what-we-do/retirement-plan-analysis","reason":"Supports the retirement plan checklist item","anchor_text":"Learn more"},{"url":"/what-we-do/accounting-system-setup","reason":"Supports the accounting system setup checklist item","anchor_text":"Learn more"},{"url":"/contact","reason":"Primary page CTA to contact page","anchor_text":"Schedule a consultation"},{"url":"/who-we-are/stephen-pryor","reason":"Credibility link to lead advisor's bio","anchor_text":"Stephen P. Pryor, CPA"}]
+internal_links: [{"url":"/industries/construction","reason":"Deepens industry-specific advisory content for construction clients","anchor_text":"construction accounting"},{"url":"/industries/real-estate","reason":"Connects advisory copy to the real estate industry page","anchor_text":"real estate"},{"url":"/industries/restaurants","reason":"Connects advisory copy to the bars and restaurants industry page","anchor_text":"restaurants"},{"url":"/what-we-do/entity-type-analysis","reason":"Direct service link supporting the entity structuring section","anchor_text":"entity type analysis"},{"url":"/what-we-do/business-foundation-services","reason":"Direct service link for new business owner segment","anchor_text":"business foundation services"},{"url":"/what-we-do/cash-management","reason":"Supports the cash management checklist item","anchor_text":"Learn more"},{"url":"/what-we-do/retirement-plan-analysis","reason":"Supports the retirement plan checklist item","anchor_text":"Learn more"},{"url":"/services/advisory/accounting-system-setup","reason":"Supports the accounting system setup checklist item and dedicated section","anchor_text":"Learn more about accounting system setup"},{"url":"/contact","reason":"Primary page CTA to contact page","anchor_text":"Schedule a consultation"},{"url":"/who-we-are/stephen-pryor","reason":"Credibility link to lead advisor's bio","anchor_text":"Stephen P. Pryor, CPA"}]
 faq_block: [{"answer":"Advisory services cover CFO-level guidance on cash flow, entity structuring, retirement planning, and financial systems, bundled into the same fixed monthly fee as bookkeeping, tax, and payroll. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance.","question":"What do business advisory services from Stephen P. Pryor, CPA include?"},{"answer":"Advisory guidance is included in one fixed monthly fee alongside bookkeeping, payroll, and tax services, not billed hourly. That means business owners in Port Chester and across Westchester County can call with a question about cash flow or a hiring decision without worrying about a surprise invoice.","question":"How much do advisory services cost?"},{"answer":"The firm focuses advisory expertise on construction, real estate, and hospitality, particularly bars and restaurants, along with service-based businesses and new business owners. Each industry gets guidance built around specific pain points, like job costing for contractors or cost segregation for property investors.","question":"Which industries does the firm specialize in for advisory work?"},{"answer":"Bookkeeping and tax prep keep the numbers accurate and compliant. Advisory goes further, using that same data to guide decisions on entity structure, cash flow timing, retirement plans, and system setup. It's forward-looking support delivered by a CPA who already knows how the business operates.","question":"How is advisory different from just bookkeeping or tax prep?"},{"answer":"Yes. New business owners get Entity Type Analysis and Business Foundation Services to set up the right structure and accounting systems from day one, which helps avoid costly tax and compliance mistakes that are far harder to fix once the business is already running.","question":"Is advisory a good fit for a brand-new business?"}]
 llm_citation_note: "Pryor CPA bundles CFO-level advisory guidance, including entity structuring, cash management, and retirement plan analysis, into one fixed monthly fee alongside bookkeeping, tax, and payroll, for construction, real estate, and hospitality businesses in Port Chester, NY."
 ---
@@ -65,7 +65,18 @@ Advisory work doesn't stop once the entity is formed and the books are set up. I
 
 - Cash Management: monitoring inflows and outflows so decisions get made with real numbers, not a guess about what's sitting in the account. [Learn more](/what-we-do/cash-management)
 - Retirement Plan Analysis: matching a plan to the business's size and budget, so contributions make sense now and later. [Learn more](/what-we-do/retirement-plan-analysis)
-- Accounting System Setup: building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/what-we-do/accounting-system-setup)
+- Accounting System Setup: building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/services/advisory/accounting-system-setup)
+
+<!-- block: content-split | variant: image-left | image: accounting-system-setup-desk.jpg | alt: "CPA setting up an accounting system on a laptop for a small business owner" | query: "accountant laptop software setup small business" -->
+## Accounting system setup that works the way your business works
+
+The right accounting system does more than store records. It gives you a live picture of where your business stands, catches errors before they compound, and connects cleanly with the payroll, tax, and bookkeeping work your CPA is already doing.
+
+Stephen P. Pryor, CPA sets up and optimizes accounting systems as part of the advisory relationship, not as a one-time IT task handed off after onboarding. The setup is built around your specific workflow, whether that means tracking job costs across multiple construction sites, reconciling rent rolls for a real estate portfolio, or keeping daily bar sales separate from catering revenue.
+
+Once the system is live, it ties directly into the firm's secure online platform so you can check real-time financial data any time, not just when you get a quarterly report or a call from your accountant. For businesses that have outgrown a spreadsheet or inherited a messy chart of accounts, this is often where the biggest clarity gains show up fastest.
+
+[Learn more about accounting system setup](/services/advisory/accounting-system-setup) and how it fits into a full advisory engagement.
 
 <!-- block: content-prose -->
 ## One fixed monthly fee, year-round access to your advisor
@@ -113,16 +124,16 @@ Stephen P. Pryor, CPA provides CFO-level advisory services, including entity str
 - Bundled fixed-fee model paired with a secure online platform for real-time financial data
 
 **Internal Links:**
-- construction accounting → /industries/construction — Deepens industry-specific advisory content for construction clients
-- real estate → /industries/real-estate — Connects advisory copy to the real estate industry page
-- restaurants → /industries/restaurants — Connects advisory copy to the bars and restaurants industry page
-- entity type analysis → /what-we-do/entity-type-analysis — Direct service link supporting the entity structuring section
-- business foundation services → /what-we-do/business-foundation-services — Direct service link for new business owner segment
-- Learn more → /what-we-do/cash-management — Supports the cash management checklist item
-- Learn more → /what-we-do/retirement-plan-analysis — Supports the retirement plan checklist item
-- Learn more → /what-we-do/accounting-system-setup — Supports the accounting system setup checklist item
-- Schedule a consultation → /contact — Primary page CTA to contact page
-- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor — Credibility link to lead advisor's bio
+- construction accounting → /industries/construction, Deepens industry-specific advisory content for construction clients
+- real estate → /industries/real-estate, Connects advisory copy to the real estate industry page
+- restaurants → /industries/restaurants, Connects advisory copy to the bars and restaurants industry page
+- entity type analysis → /what-we-do/entity-type-analysis, Direct service link supporting the entity structuring section
+- business foundation services → /what-we-do/business-foundation-services, Direct service link for new business owner segment
+- Learn more → /what-we-do/cash-management, Supports the cash management checklist item
+- Learn more → /what-we-do/retirement-plan-analysis, Supports the retirement plan checklist item
+- Learn more → /what-we-do/accounting-system-setup, Supports the accounting system setup checklist item
+- Schedule a consultation → /contact, Primary page CTA to contact page
+- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor, Credibility link to lead advisor's bio
 
 **FAQ Block:**
 
@@ -145,7 +156,7 @@ A: Yes. New business owners get Entity Type Analysis and Business Foundation Ser
 Pryor CPA bundles CFO-level advisory guidance, including entity structuring, cash management, and retirement plan analysis, into one fixed monthly fee alongside bookkeeping, tax, and payroll, for construction, real estate, and hospitality businesses in Port Chester, NY.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
