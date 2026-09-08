@@ -65,7 +65,7 @@ Advisory work doesn't stop once the entity is formed and the books are set up. I
 
 - Cash Management: monitoring inflows and outflows so decisions get made with real numbers, not a guess about what's sitting in the account. [Learn more](/what-we-do/cash-management)
 - Retirement Plan Analysis: matching a plan to the business's size and budget, so contributions make sense now and later. [Learn more](/what-we-do/retirement-plan-analysis)
-- Accounting System Setup: building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/what-we-do/accounting-system-setup)
+- Accounting System Setup: building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/services/advisory/accounting-system-setup)
 
 <!-- block: content-prose -->
 ## One fixed monthly fee, year-round access to your advisor
@@ -113,16 +113,16 @@ Stephen P. Pryor, CPA provides CFO-level advisory services, including entity str
 - Bundled fixed-fee model paired with a secure online platform for real-time financial data
 
 **Internal Links:**
-- construction accounting → /industries/construction — Deepens industry-specific advisory content for construction clients
-- real estate → /industries/real-estate — Connects advisory copy to the real estate industry page
-- restaurants → /industries/restaurants — Connects advisory copy to the bars and restaurants industry page
-- entity type analysis → /what-we-do/entity-type-analysis — Direct service link supporting the entity structuring section
-- business foundation services → /what-we-do/business-foundation-services — Direct service link for new business owner segment
-- Learn more → /what-we-do/cash-management — Supports the cash management checklist item
-- Learn more → /what-we-do/retirement-plan-analysis — Supports the retirement plan checklist item
-- Learn more → /what-we-do/accounting-system-setup — Supports the accounting system setup checklist item
-- Schedule a consultation → /contact — Primary page CTA to contact page
-- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor — Credibility link to lead advisor's bio
+- construction accounting → /industries/construction, Deepens industry-specific advisory content for construction clients
+- real estate → /industries/real-estate, Connects advisory copy to the real estate industry page
+- restaurants → /industries/restaurants, Connects advisory copy to the bars and restaurants industry page
+- entity type analysis → /what-we-do/entity-type-analysis, Direct service link supporting the entity structuring section
+- business foundation services → /what-we-do/business-foundation-services, Direct service link for new business owner segment
+- Learn more → /what-we-do/cash-management, Supports the cash management checklist item
+- Learn more → /what-we-do/retirement-plan-analysis, Supports the retirement plan checklist item
+- Learn more → /what-we-do/accounting-system-setup, Supports the accounting system setup checklist item
+- Schedule a consultation → /contact, Primary page CTA to contact page
+- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor, Credibility link to lead advisor's bio
 
 **FAQ Block:**
 
@@ -145,7 +145,7 @@ A: Yes. New business owners get Entity Type Analysis and Business Foundation Ser
 Pryor CPA bundles CFO-level advisory guidance, including entity structuring, cash management, and retirement plan analysis, into one fixed monthly fee alongside bookkeeping, tax, and payroll, for construction, real estate, and hospitality businesses in Port Chester, NY.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
