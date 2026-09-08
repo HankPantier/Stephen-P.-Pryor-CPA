@@ -49,12 +49,10 @@ icon: Wallet
 
 Thin margins leave no room for guessing. Advisory support digs into cash handling, tip reporting, and sales tax compliance, then builds a clearer picture of where every dollar goes behind the bar. Visit the [restaurants](/industries/restaurants) page for specifics.
 
-<!-- block: content-split | variant: image-right | image: entity-structuring-meeting.jpg | alt: "Business owner and CPA discussing entity structure paperwork at a desk" | query: "business owner accountant paperwork discussion" -->
-## Entity structuring guidance
+<!-- block: checklist-section | variant: standalone -->
+## Advisory guidance across four key areas
 
-PLACEHOLDER_BODY_START
-
-PLACEHOLDER_BODY_MIDDLE  goes further, covering the accounting setup and system decisions that determine whether year one runs smoothly or turns into a mess of catch-up bookkeeping.
+Whether a business is just getting started or has been running for years, there are four areas where the right guidance makes a measurable difference. Stephen P. Pryor, CPA works with clients on all four as part of the same advisory relationship, bundled into one fixed monthly fee.  goes further, covering the accounting setup and system decisions that determine whether year one runs smoothly or turns into a mess of catch-up bookkeeping.
 
 For new business owners in Port Chester and across Westchester County, this groundwork matters more than almost any other early decision. Get it right the first time with PLACEHOLDER_LINK and [](/what-we-do/business-foundation-services), both part of the same advisory relationship.
 
