@@ -28,15 +28,15 @@ A profitable month on paper doesn't always mean money in the bank when payroll's
 Stephen Pryor helps business owners understand and get ahead of these gaps before they turn into emergencies. Good cash flow management means knowing what comes in and what goes out on a regular schedule, and having a plan when the numbers don't line up. Whether you're a [construction](/industries/construction) firm waiting on progress payments, a restaurant riding weekend swings, or a real estate investor timing a refinance, the goal is the same: know your position today and plan three months out with confidence.
 
 <!-- block: checklist-section | variant: with-image | image: cpa-reviewing-cash-flow-report.jpg | alt: "CPA and business owner reviewing a cash flow report on a laptop" | query: "accountant reviewing financial report client" -->
-## What our cash management service includes
+## How we help you manage cash flow
 
-Cash management isn't a once-a-year report. It's a habit built into how your [bookkeeping](/what-we-do/bookkeeping) gets run every week. Here's what's part of the service:
+Cash flow management isn't a once-a-year conversation. It's a habit built into how your [bookkeeping](/what-we-do/bookkeeping) gets run every week, and how you think about your numbers between tax seasons. Here's where we focus when advising business owners on cash flow:
 
-- Ongoing tracking of cash inflows and outflows across every account you operate
-- Rolling forecasts that flag a shortfall weeks before it hits, not after
-- Real-time access to your numbers through our secure online platform, so you're never waiting on an email to know where you stand
-- Scheduled check-ins to walk through trends, seasonal dips, and upcoming obligations
-- Direct coordination with your bookkeeping and tax data, so cash decisions are based on accurate numbers instead of guesswork
+- Understanding the timing of your inflows and outflows across every account, not just your bank balance
+- Building rolling forecasts so you can see a shortfall coming weeks before it hits, not after
+- Using your secure online platform to review real-time numbers whenever you need them, without waiting on a report
+- Reviewing trends, seasonal dips, and upcoming obligations in regular check-ins so nothing catches you off guard
+- Connecting cash decisions to your bookkeeping and tax data, so your plans are based on accurate numbers instead of estimates
 
 The point is simple: fewer surprises, more lead time. When you can see a gap coming three or four weeks out, you have options, drawing on a line of credit, adjusting a payment schedule, holding off on a purchase. When you find out the week it happens, you don't.
 
