@@ -12,3 +12,4 @@ old_url,new_url,status_code,reason
 /what-we-do/outsourced-accounting,/services/outsourced-accounting,301,Relocated via editor
 /what-we-do/tax,/services/outsourced-accounting/tax,301,Relocated via editor
 /what-we-do/cash-management,/services/advisory/cash-management,301,Relocated via editor
+/services/outsourced-accounting/tax,/services/outsourced-accounting/business-tax,301,Relocated via AI
