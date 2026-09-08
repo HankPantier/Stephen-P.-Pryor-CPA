@@ -52,9 +52,12 @@ Thin margins leave no room for guessing. Advisory support digs into cash handlin
 <!-- block: checklist-section | variant: standalone -->
 ## Advisory guidance across four key areas
 
-Whether a business is just getting started or has been running for years, there are four areas where the right guidance makes a measurable difference. Stephen P. Pryor, CPA works with clients on all four as part of the same advisory relationship, bundled into one fixed monthly fee.  goes further, covering the accounting setup and system decisions that determine whether year one runs smoothly or turns into a mess of catch-up bookkeeping.
+Whether a business is just getting started or has been running for years, there are four areas where the right guidance makes a measurable difference. Stephen P. Pryor, CPA works with clients on all four as part of the same advisory relationship, bundled into one fixed monthly fee.
 
-For new business owners in Port Chester and across Westchester County, this groundwork matters more than almost any other early decision. Get it right the first time with PLACEHOLDER_LINK and [](/what-we-do/business-foundation-services), both part of the same advisory relationship.
+- **Entity Type Analysis:** Choosing the right business structure from the start affects taxes, liability, and how the business can grow. The firm walks through the options and helps owners make the call that fits their situation. [Learn more](/what-we-do/entity-type-analysis)
+- **Cash Management:** Monitoring inflows and outflows so decisions get made with real numbers, not a guess about what's sitting in the account. [Learn more](/what-we-do/cash-management)
+- **Retirement Plan Analysis:** Matching a plan to the business's size and budget, so contributions make sense now and later. [Learn more](/what-we-do/retirement-plan-analysis)
+- **Accounting System Setup:** Building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/services/advisory/accounting-system-setup)
 
 <!-- block: checklist-section | variant: with-image | image: financial-systems-review.jpg | alt: "Accountant reviewing cash flow and retirement plan data on a laptop" | query: "accountant reviewing financial data laptop" -->
 ## Cash flow, retirement planning, and financial systems support
