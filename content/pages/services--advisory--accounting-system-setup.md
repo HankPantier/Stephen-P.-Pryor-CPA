@@ -94,9 +94,9 @@ A: Yes. We connect your point-of-sale system to your books so daily sales, tips,
 A: Your system connects to our secure online platform, where you can view real-time financial data anytime. From there, most clients move into our bundled monthly service covering bookkeeping, payroll, and advisory support for one fixed fee, so the setup work leads directly into ongoing support.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "CPA and small business owner shaking hands after a consultation meeting" | query: "business consultation handshake office meeting" -->
-## Let's build a system that works for your business
+## Let's get your accounting system working for your business
 
-You didn't start a construction company, a real estate portfolio, or a bar to spend your evenings reconciling accounts. Schedule a consultation with Stephen P. Pryor, CPA and let's set up an accounting system that gives you real numbers, in real time, without the busywork.
+You didn't start a construction company, a real estate portfolio, or a bar to spend your evenings reconciling accounts. Schedule a consultation with Stephen P. Pryor, CPA and let's talk through the right accounting system setup for your business: one that gives you real numbers, in real time, without the busywork.
 
 [Schedule a consultation](/contact)
 
