@@ -1,9 +1,9 @@
 ---
 title: "Cash Management | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
 url: "/what-we-do/cash-management"
-meta_title: "Cash Management Services Port Chester NY | Pryor CPA"
-meta_description: "Proactive cash management services in Port Chester, NY. Real-time monitoring and forecasting for construction, real estate, and restaurant businesses."
-target_keyword: "cash management services Port Chester NY"
+meta_title: "Cash Flow Management Advice for Businesses | Pryor CPA Port Chester NY"
+meta_description: "Cash flow guidance and advisory support for small businesses in Port Chester and Westchester County, NY. Construction, real estate, and restaurant expertise."
+target_keyword: "cash flow management advice Port Chester NY"
 secondary_keywords: ["CPA cash management Port Chester","business cash flow management Port Chester NY","cash management for construction companies Port Chester","real estate cash management Port Chester NY","restaurant cash management services Port Chester","small business cash management Port Chester","cash flow consulting Port Chester NY CPA","accounting cash management Port Chester","business cash management services Westchester County","cash management for bars and restaurants NY"]
 canonical_url: "https://pryorcpa.com/what-we-do/cash-management"
 schema_markup: "Service"
@@ -126,12 +126,12 @@ Stephen P. Pryor, CPA provides ongoing cash management services for Port Chester
 - Serves Port Chester, greater Westchester County, Manhattan, Brooklyn, and Asbury Park NJ
 
 **Internal Links:**
-- construction → /industries/construction — Links to the construction industry page for readers researching sector-specific cash flow issues
-- real estate → /industries/real-estate — Connects real estate investors to the dedicated industry page
-- bars and restaurants → /industries/restaurants — Points hospitality readers to the restaurant industry page for deeper detail
-- bookkeeping → /what-we-do/bookkeeping — Shows how cash management ties directly into the firm's bookkeeping service
-- Stephen Pryor → /who-we-are/stephen-pryor — Builds credibility by linking to the founder's bio
-- Schedule a consultation → /contact — Primary page CTA driving conversions
+- construction → /industries/construction, Links to the construction industry page for readers researching sector-specific cash flow issues
+- real estate → /industries/real-estate, Connects real estate investors to the dedicated industry page
+- bars and restaurants → /industries/restaurants, Points hospitality readers to the restaurant industry page for deeper detail
+- bookkeeping → /what-we-do/bookkeeping, Shows how cash management ties directly into the firm's bookkeeping service
+- Stephen Pryor → /who-we-are/stephen-pryor, Builds credibility by linking to the founder's bio
+- Schedule a consultation → /contact, Primary page CTA driving conversions
 
 **FAQ Block:**
 
@@ -154,7 +154,7 @@ A: The firm serves clients primarily in Port Chester and greater Westchester Cou
 Stephen P. Pryor, CPA bundles cash flow monitoring, forecasting, and shortfall alerts into a fixed monthly fee, delivered through a secure online platform, with specific expertise in construction, real estate, and bar/restaurant cash flow patterns.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
