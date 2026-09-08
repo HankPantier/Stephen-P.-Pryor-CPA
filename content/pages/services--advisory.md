@@ -50,7 +50,7 @@ icon: Wallet
 Thin margins leave no room for guessing. Advisory support digs into cash handling, tip reporting, and sales tax compliance, then builds a clearer picture of where every dollar goes behind the bar. Visit the [restaurants](/industries/restaurants) page for specifics.
 
 <!-- block: content-split | variant: image-right | image: entity-structuring-meeting.jpg | alt: "Business owner and CPA discussing entity structure paperwork at a desk" | query: "business owner accountant paperwork discussion" -->
-## Entity structuring and business foundation guidance
+## Entity structuring guidance
 
 Choosing an LLC when an S-corp would have saved thousands in self-employment tax is a common, expensive mistake, and one that's hard to unwind later.
 
