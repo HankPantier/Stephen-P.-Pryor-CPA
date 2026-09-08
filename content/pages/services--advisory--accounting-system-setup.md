@@ -24,17 +24,17 @@ Most accounting headaches trace back to one thing: a system that was never set u
 Stephen P. Pryor, CPA advises Port Chester business owners on accounting system setup for those who need more than software installed and left alone. We look at how your business runs day to day, then guide you through putting together a system that matches it, not a generic template. That's the foundation everything else depends on: clean bookkeeping, accurate payroll, and tax planning that's based on real numbers instead of guesswork.
 
 <!-- block: checklist-section | variant: with-image | image: accounting-system-configuration.jpg | alt: "Accountant configuring bookkeeping software on a laptop for a small business" | query: "accountant setting up bookkeeping software" -->
-## What our accounting system setup includes
+## What our accounting system setup guidance covers
 
-Setting up a system is more than picking software off a shelf. Before we touch a single setting, we learn how your business operates: how invoices go out, how bills get paid, how you track jobs, properties, or nightly sales. Then we build around it.
+Getting your system right is more than picking software off a shelf. Before any decisions are made, we take time to understand how your business operates: how invoices go out, how bills get paid, how you track jobs, properties, or nightly sales. From there, we guide you through putting the right pieces in place.
 
-- Selecting and configuring the right platform for your business, whether that's QuickBooks Online, QuickBooks Desktop, or another platform suited to your industry
-- Building a chart of accounts that reflects how you make decisions, not a generic template pulled from a manual
-- Connecting bank and credit card feeds so transactions flow in automatically instead of getting entered by hand
-- Integrating payroll and invoicing so everything lands in one place instead of three different systems
-- Establishing workflows and approval steps that match how your team [already works](/what-we-do/bookkeeping), rather than forcing you to adapt to the software
+- Advising on the right platform for your business, whether that's QuickBooks Online, QuickBooks Desktop, or another option suited to your industry
+- Guiding the design of a chart of accounts that reflects how you make decisions, not a generic template pulled from a manual
+- Recommending how to connect bank and credit card feeds so transactions flow in automatically instead of getting entered by hand
+- Advising on payroll and invoicing integration so everything lands in one place instead of three different systems
+- Helping establish workflows and approval steps that match how your team [already works](/what-we-do/bookkeeping), rather than forcing you to adapt to the software
 
-We cover this during onboarding, when we're learning your internal systems anyway, so the setup work doesn't feel like a separate project bolted onto everything else.
+We work through this during onboarding, when we're already learning your internal systems, so the setup guidance doesn't feel like a separate project bolted onto everything else.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Set up to match how your industry works
