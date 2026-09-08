@@ -67,16 +67,16 @@ That visibility is the difference between reacting to last quarter's numbers and
 ## A smooth setup process from day one
 
 ### Listening first
-Before any software gets touched, we sit down and learn how your business runs today: what's working, what's not, and what system you're switching from, if any.
+Before any software decisions are made, we sit down and learn how your business runs today: what's working, what's not, and what system you're switching from, if any.
 
 ### Mapping your current systems
-We review your existing books, bank accounts, payroll, and invoicing to understand exactly what needs to move and what can be improved along the way.
+We review your existing books, bank accounts, payroll, and invoicing to understand exactly what needs to change and what can be improved along the way.
 
-### Configuring and migrating
-We build your new chart of accounts, connect your bank feeds, and migrate historical data with minimal disruption to your daily operations.
+### Advising on configuration and migration
+We guide you through designing your new chart of accounts, setting up bank feeds, and migrating historical data with minimal disruption to your daily operations.
 
 ### Training and handoff
-Once the system is live, we walk your team through it and stay available for questions as you settle in, no long gap between setup and support.
+Once the system is live, we walk your team through it and stay available for questions as you settle in, so there's no long gap between setup and ongoing support.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting System Setup | Stephen P. Pryor, CPA
