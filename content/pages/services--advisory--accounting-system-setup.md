@@ -104,7 +104,7 @@ You didn't start a construction company, a real estate portfolio, or a bar to sp
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA sets up QuickBooks and other accounting systems for Port Chester businesses, building a chart of accounts, connected bank feeds, and payroll integration around each client's actual workflow. Setup is tailored for construction job costing, real estate entity tracking, and restaurant POS and sales tax needs, then connected to a secure online platform for real-time data.
+Stephen P. Pryor, CPA advises Port Chester businesses on accounting system setup, guiding them through software selection, chart of accounts design, bank feed configuration, and payroll integration based on each client's actual workflow. Guidance is tailored for construction job costing, real estate entity tracking, and restaurant POS and sales tax needs, and connects to a secure online platform for real-time data.
 
 **E-E-A-T Signals:**
 - Led by Stephen P. Pryor, CPA, with CPAs Shawn Wilson and Denise Romano on the team
