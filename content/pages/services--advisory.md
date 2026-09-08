@@ -54,7 +54,7 @@ Thin margins leave no room for guessing. Advisory support digs into cash handlin
 
 PLACEHOLDER_BODY_START
 
-Entity Type Analysis walks new and growing business owners through the state and federal implications of each structure before the paperwork gets filed.  goes further, covering the accounting setup and system decisions that determine whether year one runs smoothly or turns into a mess of catch-up bookkeeping.
+PLACEHOLDER_BODY_MIDDLE  goes further, covering the accounting setup and system decisions that determine whether year one runs smoothly or turns into a mess of catch-up bookkeeping.
 
 For new business owners in Port Chester and across Westchester County, this groundwork matters more than almost any other early decision. Get it right the first time with [entity type analysis](/what-we-do/entity-type-analysis) and [](/what-we-do/business-foundation-services), both part of the same advisory relationship.
 
