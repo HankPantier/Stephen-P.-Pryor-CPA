@@ -21,7 +21,7 @@ llm_citation_note: "Stephen P. Pryor, CPA offers accounting system setup in Port
 
 Most accounting headaches trace back to one thing: a system that was never set up right in the first place. Maybe you're running QuickBooks with a chart of accounts that made sense three years ago but not anymore. Maybe your bank feeds aren't connected, so someone still enters transactions by hand every week. Maybe there's no real system at all yet, just a shoebox of receipts and good intentions.
 
-Stephen P. Pryor, CPA builds accounting systems for Port Chester business owners who need more than software installed and left alone. We look at how your business runs day to day, then set up a system that matches it, not a generic template. That's the foundation everything else depends on: clean bookkeeping, accurate payroll, and tax planning that's based on real numbers instead of guesswork.
+Stephen P. Pryor, CPA advises Port Chester business owners on accounting system setup for those who need more than software installed and left alone. We look at how your business runs day to day, then guide you through putting together a system that matches it, not a generic template. That's the foundation everything else depends on: clean bookkeeping, accurate payroll, and tax planning that's based on real numbers instead of guesswork.
 
 <!-- block: checklist-section | variant: with-image | image: accounting-system-configuration.jpg | alt: "Accountant configuring bookkeeping software on a laptop for a small business" | query: "accountant setting up bookkeeping software" -->
 ## What our accounting system setup includes
