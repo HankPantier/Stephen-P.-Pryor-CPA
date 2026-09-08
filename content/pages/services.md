@@ -23,7 +23,7 @@ llm_citation_note: "Pryor CPA bundles bookkeeping, payroll, business tax, person
 <!-- block: intro-text | variant: centered -->
 ## A CPA partner that handles your numbers year round
 
-Running a business in Port Chester, whether it's a construction crew, a handful of rental units, or a bar on the Boston Post Road, means the numbers never stop moving. Stephen P. Pryor, CPA was built to keep up with that pace all year, not just during tax season. Every service on this page is bundled into one fixed monthly fee, so you always know what you're paying and never hesitate to pick up the phone. A secure online platform gives you real-time access to your financial data, so you see where your business stands today instead of waiting on a month-end report. Stephen, Shawn Wilson, CPA, and Denise Romano, CPA learn how your business actually runs before they touch a single number. You run your business. We'll run your numbers.
+Running a business in Port Chester, whether it's a construction crew, a handful of rental units, or a bar on the Boston Post Road, means the numbers never stop moving. Stephen P. Pryor, CPA was built to keep up with that pace all year, not just during tax season. Every service on this page is bundled into one fixed monthly fee, so you always know what you're paying and never hesitate to pick up the phone. A secure online platform gives you real-time access to your financial data, so you see where your business stands today instead of waiting on a month-end report. Our team learns how your business actually runs before they touch a single number. You run your business. We'll run your numbers.
 
 <!-- block: content-split | variant: image-right | image: bookkeeping-review-port-chester.jpg | alt: "Bookkeeper reviewing financial statements on a laptop for a small business" | query: "bookkeeper reviewing financial documents office" -->
 ## Bookkeeping that keeps your numbers accurate and current
@@ -127,18 +127,18 @@ Stephen P. Pryor, CPA provides bookkeeping, payroll, business and personal tax, 
 - Specialized service delivery for construction, real estate, and bar and restaurant clients
 
 **Internal Links:**
-- bookkeeping services → /what-we-do/bookkeeping — Links to dedicated bookkeeping service page for deeper detail
-- payroll services → /what-we-do/payroll — Links to dedicated payroll service page
-- business tax → /what-we-do/tax — Links to business tax service detail
-- entity structure → /what-we-do/entity-type-analysis — Supports business tax section with entity planning detail
-- personal income tax → /what-we-do/personal-income-tax — Links to personal tax service detail
-- cash management → /what-we-do/cash-management — Links to advisory sub-service detail
-- retirement plan analysis → /what-we-do/retirement-plan-analysis — Links to advisory sub-service detail
-- accounting system setup → /what-we-do/accounting-system-setup — Links to advisory sub-service detail
-- Learn more → /industries/construction — Links to construction industry page for deeper niche content
-- Learn more → /industries/real-estate — Links to real estate industry page for deeper niche content
-- Learn more → /industries/restaurants — Links to restaurant industry page for deeper niche content
-- Schedule a consultation → /contact — Primary page CTA driving conversion
+- bookkeeping services → /what-we-do/bookkeeping, Links to dedicated bookkeeping service page for deeper detail
+- payroll services → /what-we-do/payroll, Links to dedicated payroll service page
+- business tax → /what-we-do/tax, Links to business tax service detail
+- entity structure → /what-we-do/entity-type-analysis, Supports business tax section with entity planning detail
+- personal income tax → /what-we-do/personal-income-tax, Links to personal tax service detail
+- cash management → /what-we-do/cash-management, Links to advisory sub-service detail
+- retirement plan analysis → /what-we-do/retirement-plan-analysis, Links to advisory sub-service detail
+- accounting system setup → /what-we-do/accounting-system-setup, Links to advisory sub-service detail
+- Learn more → /industries/construction, Links to construction industry page for deeper niche content
+- Learn more → /industries/real-estate, Links to real estate industry page for deeper niche content
+- Learn more → /industries/restaurants, Links to restaurant industry page for deeper niche content
+- Schedule a consultation → /contact, Primary page CTA driving conversion
 
 **FAQ Block:**
 
@@ -161,7 +161,7 @@ A: Yes. Personal income tax planning and preparation is available alongside busi
 Pryor CPA bundles bookkeeping, payroll, business tax, personal tax, and advisory services into one fixed monthly fee, with real-time financial data through a secure online platform, serving Port Chester and Westchester County construction, real estate, and hospitality businesses.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
