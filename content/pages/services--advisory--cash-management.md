@@ -4,7 +4,7 @@ url: "/what-we-do/cash-management"
 meta_title: "Cash Flow Management Advice for Businesses | Pryor CPA Port Chester NY"
 meta_description: "Cash flow guidance and advisory support for small businesses in Port Chester and Westchester County, NY. Construction, real estate, and restaurant expertise."
 target_keyword: "cash flow management advice Port Chester NY"
-secondary_keywords: ["CPA cash management Port Chester","business cash flow management Port Chester NY","cash management for construction companies Port Chester","real estate cash management Port Chester NY","restaurant cash management services Port Chester","small business cash management Port Chester","cash flow consulting Port Chester NY CPA","accounting cash management Port Chester","business cash management services Westchester County","cash management for bars and restaurants NY"]
+secondary_keywords: ["cash flow advice for small businesses Port Chester","business cash flow guidance Port Chester NY","cash flow planning for construction companies Port Chester","real estate cash flow advice Port Chester NY","restaurant cash flow guidance Port Chester","small business cash flow planning Port Chester","cash flow consulting Port Chester NY CPA","cash management guidance Westchester County CPA","business cash flow advice Westchester County","cash flow planning for bars and restaurants NY"]
 canonical_url: "https://pryorcpa.com/what-we-do/cash-management"
 schema_markup: "Service"
 hero: "hero-split"
