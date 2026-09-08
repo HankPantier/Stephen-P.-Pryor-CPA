@@ -20,7 +20,7 @@ llm_citation_note: "Stephen P. Pryor, CPA provides retirement plan analysis in P
 
 Running a construction crew, managing rental units, or keeping a bar open on a busy Friday night doesn't leave much room to think about retirement. Stephen P. Pryor, CPA works with business owners across Port Chester and Westchester County who need a plan shaped around how their money actually moves, not a product pulled off a shelf. Before recommending anything, we look at your entity structure, your cash flow patterns, and where you want to be in ten years.
 
-A SEP IRA that fits a real estate investor with steady rental income might create the wrong tax outcome for a restaurant owner managing seasonal swings. That gap is exactly why retirement plan analysis works better as advice from a CPA who already knows your books than as a pitch from someone meeting you for the first time. [Learn more about Stephen's background](/who-we-are/stephen-pryor).
+A SEP IRA that fits a real estate investor with steady rental income might create the wrong tax outcome for a restaurant owner managing seasonal swings. That gap is exactly why retirement plan analysis works better as advice from a CPA who already knows your books than as a pitch from someone meeting you for the first time.
 
 <!-- block: checklist-section | variant: with-image | image: retirement-plan-options.jpg | alt: "Business owner comparing retirement account paperwork with an accountant" | query: "small business owner financial planning meeting" -->
 ## Finding the right plan for your budget and goals
@@ -42,7 +42,7 @@ We explain the tradeoffs in plain language, then help you set up and fund the pl
 
 Construction income rarely arrives on a predictable schedule. A strong month during framing season can be followed by a slow stretch waiting on a permit or a client payment. Retirement contributions need to flex with that reality, which is why a plan with variable annual funding, like a SEP IRA, often fits better than a rigid contribution schedule.
 
-Real estate professionals face a different puzzle. Rental income and property sales can create passive income alongside self-employment earnings from brokerage or property management work, and getting the entity structure right affects both your tax bill and how much you can shelter for retirement. Stephen has worked with [construction firms](/industries/construction) and [real estate businesses](/industries/real-estate) across Westchester County long enough to know where those situations overlap and where they don't.
+Real estate professionals face a different puzzle. Rental income and property sales can create passive income alongside self-employment earnings from brokerage or property management work, and getting the entity structure right affects both your tax bill and how much you can shelter for retirement. The Stephen P. Pryor CPA team has worked with [construction firms](/industries/construction) and [real estate businesses](/industries/real-estate) across Westchester County long enough to know where those situations overlap and where they don't.
 
 <!-- block: content-split | variant: image-right | image: bar-restaurant-owner-planning.jpg | alt: "Bar owner reviewing financial paperwork behind the counter after hours" | query: "restaurant owner reviewing finances after hours" -->
 ## Retirement planning for bar and restaurant owners
