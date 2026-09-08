@@ -56,7 +56,7 @@ PLACEHOLDER_BODY_START
 
 PLACEHOLDER_BODY_MIDDLE  goes further, covering the accounting setup and system decisions that determine whether year one runs smoothly or turns into a mess of catch-up bookkeeping.
 
-For new business owners in Port Chester and across Westchester County, this groundwork matters more than almost any other early decision. Get it right the first time with [entity type analysis](/what-we-do/entity-type-analysis) and [](/what-we-do/business-foundation-services), both part of the same advisory relationship.
+For new business owners in Port Chester and across Westchester County, this groundwork matters more than almost any other early decision. Get it right the first time with PLACEHOLDER_LINK and [](/what-we-do/business-foundation-services), both part of the same advisory relationship.
 
 <!-- block: checklist-section | variant: with-image | image: financial-systems-review.jpg | alt: "Accountant reviewing cash flow and retirement plan data on a laptop" | query: "accountant reviewing financial data laptop" -->
 ## Cash flow, retirement planning, and financial systems support
