@@ -60,13 +60,9 @@ Whether a business is just getting started or has been running for years, there 
 - **Accounting System Setup:** Building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/services/advisory/accounting-system-setup)
 
 <!-- block: checklist-section | variant: with-image | image: financial-systems-review.jpg | alt: "Accountant reviewing cash flow and retirement plan data on a laptop" | query: "accountant reviewing financial data laptop" -->
-## Cash flow, retirement planning, and financial systems support
+## Year-round guidance, not just a year-end conversation
 
-Advisory work doesn't stop once the entity is formed and the books are set up. It shows up on an ongoing basis, in three places most business owners underestimate.
-
-- Cash Management: monitoring inflows and outflows so decisions get made with real numbers, not a guess about what's sitting in the account. [Learn more](/what-we-do/cash-management)
-- Retirement Plan Analysis: matching a plan to the business's size and budget, so contributions make sense now and later. [Learn more](/what-we-do/retirement-plan-analysis)
-- Accounting System Setup: building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/services/advisory/accounting-system-setup)
+Advisory work doesn't stop once the entity is formed and the books are set up. It shows up on an ongoing basis, as the business grows, hires, and makes decisions that have real financial consequences. Owners in Port Chester and across Westchester County have steady access to a CPA who already knows how their business runs, so the guidance is grounded in what's actually happening, not a once-a-year snapshot.
 
 <!-- block: content-split | variant: image-left | image: accounting-system-setup-desk.jpg | alt: "CPA setting up an accounting system on a laptop for a small business owner" | query: "accountant laptop software setup small business" -->
 ## Accounting system setup that works the way your business works
