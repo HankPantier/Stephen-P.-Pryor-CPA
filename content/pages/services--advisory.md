@@ -67,6 +67,17 @@ Advisory work doesn't stop once the entity is formed and the books are set up. I
 - Retirement Plan Analysis: matching a plan to the business's size and budget, so contributions make sense now and later. [Learn more](/what-we-do/retirement-plan-analysis)
 - Accounting System Setup: building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/services/advisory/accounting-system-setup)
 
+<!-- block: content-split | variant: image-left | image: accounting-system-setup-desk.jpg | alt: "CPA setting up an accounting system on a laptop for a small business owner" | query: "accountant laptop software setup small business" -->
+## Accounting system setup that works the way your business works
+
+The right accounting system does more than store records. It gives you a live picture of where your business stands, catches errors before they compound, and connects cleanly with the payroll, tax, and bookkeeping work your CPA is already doing.
+
+Stephen P. Pryor, CPA sets up and optimizes accounting systems as part of the advisory relationship, not as a one-time IT task handed off after onboarding. The setup is built around your specific workflow, whether that means tracking job costs across multiple construction sites, reconciling rent rolls for a real estate portfolio, or keeping daily bar sales separate from catering revenue.
+
+Once the system is live, it ties directly into the firm's secure online platform so you can check real-time financial data any time, not just when you get a quarterly report or a call from your accountant. For businesses that have outgrown a spreadsheet or inherited a messy chart of accounts, this is often where the biggest clarity gains show up fastest.
+
+[Learn more about accounting system setup](/services/advisory/accounting-system-setup) and how it fits into a full advisory engagement.
+
 <!-- block: content-prose -->
 ## One fixed monthly fee, year-round access to your advisor
 
