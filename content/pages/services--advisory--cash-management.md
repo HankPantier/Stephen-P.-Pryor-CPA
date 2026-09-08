@@ -107,7 +107,7 @@ A: The firm serves clients primarily in Port Chester and greater Westchester Cou
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA shaking hands with a small business owner after a consultation" | query: "business consultation handshake office meeting" -->
 ## Get clarity on your cash flow
 
-You don't need to guess at your cash position or wait for the bank statement to tell you bad news. Stephen Pryor and the team review your inflows, outflows, and upcoming obligations so you can plan a hiring decision, a bid, or a slow season with real numbers behind it. If cash flow has been keeping you up at night, that's exactly the conversation worth having.
+You don't need to guess at your cash position or wait for the bank statement to tell you something's wrong. Stephen Pryor and the team can walk through your inflows, outflows, and upcoming obligations with you so you can plan a hiring decision, a bid, or a slow season with real numbers behind it. If cash flow has been keeping you up at night, that's exactly the conversation worth having.
 
 [Schedule a consultation](/contact)
 
