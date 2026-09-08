@@ -41,11 +41,11 @@ Cash flow management isn't a once-a-year conversation. It's a habit built into h
 The point is simple: fewer surprises, more lead time. When you can see a gap coming three or four weeks out, you have options, drawing on a line of credit, adjusting a payment schedule, holding off on a purchase. When you find out the week it happens, you don't.
 
 <!-- block: content-split | variant: image-right | image: contractor-reviewing-project-costs.jpg | alt: "Construction contractor reviewing project cost documents on a job site" | query: "construction contractor reviewing paperwork jobsite" -->
-## Cash management built for construction companies
+## Cash flow guidance for construction companies
 
 Construction cash flow doesn't move in a straight line. Money goes out for materials and subcontractors well before a progress payment comes in, and retainage can sit held back for months after a job wraps. A contractor with three jobs running at different phases can look profitable on the year-end statement and still come up short in March.
 
-We track cash by project and in aggregate, so you can see which jobs are funding the business right now and which ones are waiting on retainage or a final draw. That visibility helps with timing equipment purchases, payroll during slow stretches, and deciding when to bid on the next job instead of waiting to see what's left in the account.
+We help construction owners think through cash by project and in aggregate, so they can see which jobs are funding the business right now and which ones are waiting on retainage or a final draw. That clarity helps with timing equipment purchases, planning payroll during slow stretches, and deciding when to bid on the next job instead of waiting to see what's left in the account.
 
 <!-- block: content-split | variant: image-left | image: real-estate-investor-reviewing-portfolio.jpg | alt: "Real estate investor reviewing rental property financials at a desk" | query: "real estate investor reviewing property documents" -->
 ## Cash management for real estate investors and businesses
