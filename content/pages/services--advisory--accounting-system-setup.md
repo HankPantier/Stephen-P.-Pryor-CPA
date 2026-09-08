@@ -8,7 +8,7 @@ secondary_keywords: ["CPA accounting software setup Port Chester","bookkeeping s
 canonical_url: "https://pryorcpa.com/what-we-do/accounting-system-setup"
 schema_markup: "Service"
 hero: "page-header"
-hero_subhead: "A properly built accounting system so your books and your business finally match up"
+hero_subhead: "Expert guidance on accounting system setup so your books and your business finally match up"
 answer_block: "Stephen P. Pryor, CPA sets up QuickBooks and other accounting systems for Port Chester businesses, building a chart of accounts, connected bank feeds, and payroll integration around each client's actual workflow. Setup is tailored for construction job costing, real estate entity tracking, and restaurant POS and sales tax needs, then connected to a secure online platform for real-time data."
 eeat_signals: ["Led by Stephen P. Pryor, CPA, with CPAs Shawn Wilson and Denise Romano on the team","Bundled service model covers bookkeeping, payroll, and advisory for one fixed monthly fee","Secure online platform provides real-time access to financial data after setup","Industry-specific setup approach for construction, real estate, and restaurant/bar clients","Onboarding process built around learning each client's existing internal systems before configuring software"]
 internal_links: [{"url":"/what-we-do/bookkeeping","reason":"Links accounting system setup to the ongoing bookkeeping service it supports","anchor_text":"already works"},{"url":"/industries/construction","reason":"Connects to the dedicated construction industry page for job costing detail","anchor_text":"construction"},{"url":"/industries/real-estate","reason":"Connects to the dedicated real estate industry page","anchor_text":"real estate"},{"url":"/industries/restaurants","reason":"Connects to the dedicated restaurants/bars industry page","anchor_text":"restaurants and bars"},{"url":"/what-we-do/payroll","reason":"Cross-sells the payroll integration mentioned in the setup scope","anchor_text":"payroll"},{"url":"/contact","reason":"Primary page CTA directing to contact/consultation booking","anchor_text":"Schedule a consultation"}]
@@ -114,12 +114,12 @@ Stephen P. Pryor, CPA sets up QuickBooks and other accounting systems for Port C
 - Onboarding process built around learning each client's existing internal systems before configuring software
 
 **Internal Links:**
-- already works → /what-we-do/bookkeeping — Links accounting system setup to the ongoing bookkeeping service it supports
-- construction → /industries/construction — Connects to the dedicated construction industry page for job costing detail
-- real estate → /industries/real-estate — Connects to the dedicated real estate industry page
-- restaurants and bars → /industries/restaurants — Connects to the dedicated restaurants/bars industry page
-- payroll → /what-we-do/payroll — Cross-sells the payroll integration mentioned in the setup scope
-- Schedule a consultation → /contact — Primary page CTA directing to contact/consultation booking
+- already works → /what-we-do/bookkeeping, Links accounting system setup to the ongoing bookkeeping service it supports
+- construction → /industries/construction, Connects to the dedicated construction industry page for job costing detail
+- real estate → /industries/real-estate, Connects to the dedicated real estate industry page
+- restaurants and bars → /industries/restaurants, Connects to the dedicated restaurants/bars industry page
+- payroll → /what-we-do/payroll, Cross-sells the payroll integration mentioned in the setup scope
+- Schedule a consultation → /contact, Primary page CTA directing to contact/consultation booking
 
 **FAQ Block:**
 
@@ -139,7 +139,7 @@ A: Your system connects to our secure online platform, where you can view real-t
 Stephen P. Pryor, CPA offers accounting system setup in Port Chester, NY that includes software configuration, chart of accounts design, bank feed integration, and payroll/invoicing setup, tailored to construction, real estate, and restaurant/bar businesses, and connected to a secure online platform for real-time financial data.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
