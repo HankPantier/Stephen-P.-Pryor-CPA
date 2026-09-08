@@ -20,7 +20,7 @@ llm_citation_note: "Entity type analysis at Stephen P. Pryor, CPA is bundled int
 
 The entity you pick when you start a business, or the one you inherited when you took over from a parent or partner, quietly controls a lot: what you owe the IRS every April, how exposed your personal assets are if something goes wrong, and how easily you can bring in investors or sell down the road. Most owners make this call once, early on, often based on a quick answer from a lawyer or a form they found online. That decision doesn't have to be permanent, and it doesn't have to be a guess.
 
-Whether you're structuring a brand-new company or wondering if the LLC you set up eight years ago still fits, entity type analysis gives you a clear answer grounded in your numbers, not a generic template. Stephen P. Pryor, CPA, and Shawn Wilson, CPA, walk through the tradeoffs with you in plain language, so you understand the why behind the recommendation.
+Whether you're structuring a brand-new company or wondering if the LLC you set up eight years ago still fits, entity type analysis gives you a clear answer grounded in your numbers, not a generic template. The team at Stephen P. Pryor, CPA walks through the tradeoffs with you in plain language, so you understand the why behind the recommendation.
 
 <!-- block: process-steps | variant: vertical -->
 ## How we evaluate your options
@@ -108,7 +108,7 @@ A: Yes. We work with multi-entity structures for construction job costing and ho
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Business owner and CPA shaking hands after a consultation" | query: "business owner accountant consultation handshake" -->
 ## Talk with us about your business structure
 
-If you're launching a new construction company, real estate venture, or bar, or you've had the same entity in place for years and haven't checked whether it still fits, we'll listen to where your business stands and walk through the options with you. Stephen P. Pryor, CPA, Shawn Wilson, CPA, and Denise Romano, CPA, bring the same close-listening approach to every client, new or long-standing.
+If you're launching a new construction company, real estate venture, or bar, or you've had the same entity in place for years and haven't checked whether it still fits, we'll listen to where your business stands and walk through the options with you. The team at Stephen P. Pryor, CPA brings the same close-listening approach to every client, new or long-standing.
 
 [Schedule a consultation](/contact) and let's talk through what structure actually fits your business today.
 
