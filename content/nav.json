@@ -73,10 +73,6 @@
       "url": "/resources",
       "children": [
         {
-          "label": "eBooks | Stephen P. Pryor, CPA",
-          "url": "/resources/e-books"
-        },
-        {
           "label": "Forms, Documents & Links | Stephen P. Pryor, CPA",
           "url": "/resources/forms-documents-and-links"
         },
