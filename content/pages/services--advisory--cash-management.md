@@ -62,29 +62,29 @@ Bar and restaurant margins are thin enough that a bad two weeks can wipe out a g
 We advise [bar and restaurant](/industries/restaurants) owners on how to read their cash flow the way their business actually moves: daily sales against daily cash out, seasonal swings around holidays and summer patio season, and the timing of liquor and food vendor payments against weekly deposits. Understanding those rhythms is what lets an owner catch a margin problem in week two instead of finding it in the month-end numbers.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Why Port Chester and Westchester businesses choose our approach
+## Why Port Chester and Westchester businesses work with us on cash flow
 
-Most cash management pitches come from a bank trying to sell a product or a firm charging by the hour for every question. Here's what's different about working with [Stephen Pryor](/who-we-are/stephen-pryor) and the team.
+Most cash flow conversations happen too late, after the shortfall, after the missed payment, after the slow season already hit. Here's what's different about working with [Stephen Pryor](/who-we-are/stephen-pryor) and the team.
 
 ### One fixed monthly fee
 icon: Wallet
 
-Bookkeeping, cash monitoring, payroll, and tax work bundled into a single predictable fee. No surprise invoice for a phone call or a forecast review.
+Bookkeeping, payroll, tax, and ongoing advisory support bundled into a single predictable fee. No surprise invoice for a phone call or a planning conversation.
 
 ### Real-time numbers, not year-old reports
 icon: ChartLine
 
-Our secure online platform gives you live access to your cash position, so you're checking real numbers instead of waiting for a quarterly summary.
+Our secure online platform gives you live access to your financial data, so you're looking at real numbers whenever you need them, not waiting for a quarterly summary.
 
-### Support all year, not just at tax time
+### Advice all year, not just at tax time
 icon: Users
 
-We're in your numbers every month, catching cash issues while there's still time to act on them.
+We're in your numbers every month, which means cash flow issues come up while there's still time to do something about them.
 
-### Industry-specific expertise
+### Industry-specific know-how
 icon: Building2
 
-Construction, real estate, and hospitality, including bars and pubs, each move cash differently. We built our process around those differences instead of a generic template.
+Construction, real estate, and hospitality, including bars and pubs, each move cash differently. Our guidance is built around those differences, not a generic template.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Cash Management | Stephen P. Pryor, CPA
