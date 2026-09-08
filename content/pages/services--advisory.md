@@ -52,7 +52,7 @@ Thin margins leave no room for guessing. Advisory support digs into cash handlin
 <!-- block: content-split | variant: image-right | image: entity-structuring-meeting.jpg | alt: "Business owner and CPA discussing entity structure paperwork at a desk" | query: "business owner accountant paperwork discussion" -->
 ## Entity structuring guidance
 
-Choosing an LLC when an S-corp would have saved thousands in self-employment tax is a common, expensive mistake, and one that's hard to unwind later.
+PLACEHOLDER_BODY_START
 
 Entity Type Analysis walks new and growing business owners through the state and federal implications of each structure before the paperwork gets filed.  goes further, covering the accounting setup and system decisions that determine whether year one runs smoothly or turns into a mess of catch-up bookkeeping.
 
