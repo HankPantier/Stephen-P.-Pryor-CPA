@@ -59,7 +59,7 @@ This is why we cover [construction](/industries/construction), [real estate](/in
 <!-- block: content-split | variant: image-left | image: real-time-dashboard-review.jpg | alt: "Business owner reviewing real-time financial dashboard on a tablet" | query: "business owner reviewing financial dashboard tablet" -->
 ## Real-time visibility through our secure online platform
 
-Once your system is built, you shouldn't have to wait for a monthly report to know where you stand. Every accounting system we set up connects to a secure online platform where you can see your numbers in real time: cash balances, outstanding invoices, payroll costs, whenever you need them.
+Once your system is properly configured, you shouldn't have to wait for a monthly report to know where you stand. The accounting systems we advise on connect to a secure online platform where you can see your numbers in real time: cash balances, outstanding invoices, payroll costs, whenever you need them.
 
 That visibility is the difference between reacting to last quarter's numbers and making decisions with this week's. It's also what makes our bundled monthly service work: one fixed fee covers bookkeeping, payroll, and advisory support, all built on the same system and platform, so nothing falls through the cracks between services.
 
