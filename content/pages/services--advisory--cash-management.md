@@ -25,7 +25,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles cash flow monitoring, forecast
 
 A profitable month on paper doesn't always mean money in the bank when payroll's due. Businesses close every year not because they lacked profit, but because cash ran out at the wrong moment: a client paid late, a big invoice came due before the next check cleared, a slow season stretched longer than the reserve could cover.
 
-Stephen Pryor works through these gaps with clients before they turn into emergencies. Real cash management means watching what comes in and what goes out on a regular schedule, not scrambling to explain a shortfall after it happens. Whether you're a [construction](/industries/construction) firm waiting on progress payments, a restaurant riding weekend swings, or a real estate investor timing a refinance, the goal is the same: know your position today and plan three months out with confidence.
+Stephen Pryor helps business owners understand and get ahead of these gaps before they turn into emergencies. Good cash flow management means knowing what comes in and what goes out on a regular schedule, and having a plan when the numbers don't line up. Whether you're a [construction](/industries/construction) firm waiting on progress payments, a restaurant riding weekend swings, or a real estate investor timing a refinance, the goal is the same: know your position today and plan three months out with confidence.
 
 <!-- block: checklist-section | variant: with-image | image: cpa-reviewing-cash-flow-report.jpg | alt: "CPA and business owner reviewing a cash flow report on a laptop" | query: "accountant reviewing financial report client" -->
 ## What our cash management service includes
