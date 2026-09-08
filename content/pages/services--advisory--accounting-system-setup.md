@@ -42,19 +42,19 @@ We work through this during onboarding, when we're already learning your interna
 ### Construction
 icon: Hammer
 
-Job costing is where most contractors lose track of profitability. We set up systems that tie labor, materials, and subcontractor costs back to individual jobs, so you know which projects make money and which ones quietly don't, before the job is finished instead of after.
+Job costing is where most contractors lose track of profitability. We advise on systems that tie labor, materials, and subcontractor costs back to individual jobs, so you know which projects make money and which ones quietly don't, before the job is finished instead of after.
 
 ### Real estate
 icon: Building2
 
-Property and entity tracking gets complicated fast when you're managing multiple LLCs, mixed-use properties, or a growing portfolio. We build charts of accounts and reporting structures that keep each property and entity separate and clean, so depreciation, cash flow, and 1031 planning stay accurate instead of tangled together.
+Property and entity tracking gets complicated fast when you're managing multiple LLCs, mixed-use properties, or a growing portfolio. We guide the design of charts of accounts and reporting structures that keep each property and entity separate and clean, so depreciation, cash flow, and 1031 planning stay accurate instead of tangled together.
 
 ### Bars and restaurants
 icon: Receipt
 
-Sales tax, tip reporting, and thin margins demand a system that connects your point-of-sale to your books automatically. We set up POS integrations that capture daily sales, tips, and sales tax correctly from day one, so nothing gets reconciled by hand at month-end, and you can see where the money actually goes.
+Sales tax, tip reporting, and thin margins demand a system that connects your point-of-sale to your books automatically. We advise on POS integrations that capture daily sales, tips, and sales tax correctly from day one, so nothing gets reconciled by hand at month-end, and you can see where the money actually goes.
 
-This is why we cover [construction](/industries/construction), [real estate](/industries/real-estate), and [restaurants and bars](/industries/restaurants) as core industries, not side specialties. The setup work looks different for each one, and it should.
+This is why we cover [construction](/industries/construction), [real estate](/industries/real-estate), and [restaurants and bars](/industries/restaurants) as core industries, not side specialties. The guidance looks different for each one, and it should.
 
 <!-- block: content-split | variant: image-left | image: real-time-dashboard-review.jpg | alt: "Business owner reviewing real-time financial dashboard on a tablet" | query: "business owner reviewing financial dashboard tablet" -->
 ## Real-time visibility through our secure online platform
