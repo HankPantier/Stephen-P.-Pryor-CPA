@@ -48,11 +48,11 @@ Construction cash flow doesn't move in a straight line. Money goes out for mater
 We help construction owners think through cash by project and in aggregate, so they can see which jobs are funding the business right now and which ones are waiting on retainage or a final draw. That clarity helps with timing equipment purchases, planning payroll during slow stretches, and deciding when to bid on the next job instead of waiting to see what's left in the account.
 
 <!-- block: content-split | variant: image-left | image: real-estate-investor-reviewing-portfolio.jpg | alt: "Real estate investor reviewing rental property financials at a desk" | query: "real estate investor reviewing property documents" -->
-## Cash management for real estate investors and businesses
+## Cash flow guidance for real estate investors and businesses
 
 Rental income arrives on a schedule; expenses don't always cooperate with it. A roof repair, a vacancy, or a refinance that closes later than planned can pull cash reserves down fast if there's no plan sitting behind the rent roll.
 
-We help landlords and [real estate](/industries/real-estate) operators build reserve targets property by property, so a single capital expenditure doesn't derail the portfolio. When you're planning an acquisition or coordinating the timing of a refinance, we look at how it affects cash on hand across everything you own, not just the one deal in front of you. That coordination is what keeps a growing portfolio from outrunning its own cash position.
+We help landlords and [real estate](/industries/real-estate) operators think through reserve targets property by property, so a single capital expenditure doesn't derail the portfolio. When you're planning an acquisition or coordinating the timing of a refinance, we talk through how it affects cash on hand across everything you own, not just the one deal in front of you. That bigger-picture view is what keeps a growing portfolio from outrunning its own cash position.
 
 <!-- block: content-split | variant: image-right | image: bar-owner-reviewing-daily-sales.jpg | alt: "Bar owner reviewing daily sales and cash reports at the counter" | query: "restaurant owner reviewing sales reports" -->
 ## Cash management for bars and restaurants
