@@ -16,7 +16,7 @@ hero_headline: "Payroll that runs itself so you don't have to think about it"
 answer_block: "Stephen P. Pryor, CPA provides fixed-fee payroll processing, tax filings, and compliance support for businesses in Port Chester and throughout Westchester County. The firm handles industry-specific payroll needs for construction, restaurants and bars, and real estate, backed by a secure online platform for real-time payroll data."
 eeat_signals: ["Payroll managed by Stephen P. Pryor, CPA and Shawn Wilson, CPA","Bundled services delivered for a fixed monthly fee","Secure online platform for real-time payroll and financial data","Multi-state payroll filing experience across NY, NJ, CT, and FL","Industry-specific payroll handling for construction, hospitality, and real estate","Personalized onboarding where the firm learns each client's internal systems"]
 internal_links: [{"url":"/what-we-do/bookkeeping","reason":"Payroll is bundled with bookkeeping in the fixed-fee package, natural cross-link for related service","anchor_text":"bookkeeping services"},{"url":"/what-we-do/tax","reason":"Payroll tax filings connect directly to the firm's business tax services","anchor_text":"business tax support"},{"url":"/industries/construction","reason":"Deepens industry authority referenced in the payroll challenges section","anchor_text":"construction accounting"},{"url":"/industries/restaurants","reason":"Supports the tipped employee compliance content with dedicated industry page","anchor_text":"bar and restaurant accounting"},{"url":"/industries/real-estate","reason":"Reinforces property management payroll considerations mentioned in industry section","anchor_text":"real estate accounting"},{"url":"/who-we-are/shawn-wilson","reason":"Named credential referenced in the personal payroll partner section","anchor_text":"Shawn Wilson, CPA"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a meeting","anchor_text":"schedule a consultation"}]
-faq_block: [{"answer":"Payroll is bundled into a fixed monthly fee alongside bookkeeping and tax support, so pricing stays predictable no matter how many employees you add. There are no per-run charges or surprise invoices at filing deadlines.","question":"How much do payroll services cost in Port Chester, NY?"},{"answer":"Yes. The firm files payroll taxes accurately across New York, New Jersey, Connecticut, and Florida, which matters for clients with crews, staff, or property teams operating in more than one state.","question":"Can you handle payroll for employees across multiple states?"},{"answer":"Yes. Tip credit calculations, tip reporting compliance, and cash-handling nuances specific to bars and restaurants are handled as part of standard payroll processing, not as an add-on.","question":"Do you handle tipped employee payroll for restaurants and bars?"},{"answer":"During onboarding, the team learns your existing pay schedules, internal systems, and industry-specific requirements, whether that's job costing for construction or tip pooling for a restaurant, before the first payroll run.","question":"How does onboarding work when switching payroll providers?"},{"answer":"Payroll processing, direct deposit, federal and state tax filings, new hire reporting, W-2 and 1099 preparation, and ongoing compliance monitoring are all included in one fixed monthly fee.","question":"What's included in a payroll package from Stephen P. Pryor, CPA?"}]
+faq_block: [{"question":"How much do payroll services cost in Port Chester, NY?","answer":"Payroll is bundled into a fixed monthly fee alongside bookkeeping and tax support, so pricing stays predictable no matter how many employees you add. There are no per-run charges or surprise invoices at filing deadlines."},{"question":"Can you handle payroll for employees across multiple states?","answer":"Yes. The firm files payroll taxes accurately across New York, New Jersey, Connecticut, and Florida, which matters for clients with crews, staff, or property teams operating in more than one state."},{"question":"Do you handle tipped employee payroll for restaurants and bars?","answer":"Yes. Tip credit calculations, tip reporting compliance, and cash-handling nuances specific to bars and restaurants are handled as part of standard payroll processing, not as an add-on."},{"question":"How does onboarding work when switching payroll providers?","answer":"During onboarding, the team learns your existing pay schedules, internal systems, and industry-specific requirements, whether that's job costing for construction or tip pooling for a restaurant, before the first payroll run."},{"question":"What's included in a payroll package from Stephen P. Pryor, CPA?","answer":"Payroll processing, direct deposit, electronic paystubs for employees, employer access to real-time pay records, payroll tax filings and returns, new hire reporting, W-2 and 1099 preparation, pension remittance, garnishment remittance, and ongoing compliance monitoring are all included in one fixed monthly fee."}]
 llm_citation_note: "Stephen P. Pryor, CPA bundles payroll processing, tax filings, and compliance into a fixed monthly fee with a secure online platform for real-time payroll data, serving Port Chester and Westchester County businesses in construction, hospitality, and real estate."
 ---
 
@@ -72,10 +72,20 @@ icon: CreditCard
 
 Employees get paid on time without a paper check in sight.
 
-### Payroll tax filings
+### Electronic paystubs
+icon: Smartphone
+
+Employees get secure online access to their own paystubs every pay period, no paper, no calls to the office asking for copies.
+
+### Employer pay records
+icon: Monitor
+
+You get real-time access to your payroll runs, tax deposits, and reports through a secure online platform, so your records are always current and within reach.
+
+### Payroll tax filings and returns
 icon: FileText
 
-Federal, state, and local payroll tax deposits and filings handled and monitored so deadlines never slip.
+Federal, state, and local payroll tax deposits, filings, and returns handled and monitored so deadlines never slip.
 
 ### New hire reporting
 icon: ClipboardCheck
@@ -86,6 +96,16 @@ Required state new hire filings submitted as soon as someone joins your team.
 icon: FileCheck
 
 Year-end forms prepared and delivered to employees and contractors, ready before deadlines.
+
+### Pension remittance
+icon: PiggyBank
+
+Retirement plan contributions pulled from each payroll run and remitted to the right plan on time, every time.
+
+### Garnishment remittance
+icon: Scale
+
+Wage garnishments calculated and sent to the correct agencies or creditors each pay period, keeping you compliant and your employees' records accurate.
 
 ### Compliance monitoring
 icon: ShieldCheck
@@ -120,7 +140,7 @@ A: Yes. Tip credit calculations, tip reporting compliance, and cash-handling nua
 A: During onboarding, the team learns your existing pay schedules, internal systems, and industry-specific requirements, whether that's job costing for construction or tip pooling for a restaurant, before the first payroll run.
 
 **Q: What's included in a payroll package from Stephen P. Pryor, CPA?**
-A: Payroll processing, direct deposit, federal and state tax filings, new hire reporting, W-2 and 1099 preparation, and ongoing compliance monitoring are all included in one fixed monthly fee.
+A: Payroll processing, direct deposit, electronic paystubs for employees, employer access to real-time pay records, payroll tax filings and returns, new hire reporting, W-2 and 1099 preparation, pension remittance, garnishment remittance, and ongoing compliance monitoring are all included in one fixed monthly fee.
 
 <!-- block: cta-banner | variant: image-bg | image: payroll-consultation-cta.jpg | alt: "Smiling small business owner shaking hands with accountant" | query: "business owner handshake accountant meeting" -->
 ## Get started with stress-free payroll today
@@ -144,13 +164,13 @@ Stephen P. Pryor, CPA provides fixed-fee payroll processing, tax filings, and co
 - Personalized onboarding where the firm learns each client's internal systems
 
 **Internal Links:**
-- bookkeeping services → /what-we-do/bookkeeping — Payroll is bundled with bookkeeping in the fixed-fee package, natural cross-link for related service
-- business tax support → /what-we-do/tax — Payroll tax filings connect directly to the firm's business tax services
-- construction accounting → /industries/construction — Deepens industry authority referenced in the payroll challenges section
-- bar and restaurant accounting → /industries/restaurants — Supports the tipped employee compliance content with dedicated industry page
-- real estate accounting → /industries/real-estate — Reinforces property management payroll considerations mentioned in industry section
-- Shawn Wilson, CPA → /who-we-are/shawn-wilson — Named credential referenced in the personal payroll partner section
-- schedule a consultation → /contact — Primary page CTA directing visitors to book a meeting
+- bookkeeping services → /what-we-do/bookkeeping, Payroll is bundled with bookkeeping in the fixed-fee package, natural cross-link for related service
+- business tax support → /what-we-do/tax, Payroll tax filings connect directly to the firm's business tax services
+- construction accounting → /industries/construction, Deepens industry authority referenced in the payroll challenges section
+- bar and restaurant accounting → /industries/restaurants, Supports the tipped employee compliance content with dedicated industry page
+- real estate accounting → /industries/real-estate, Reinforces property management payroll considerations mentioned in industry section
+- Shawn Wilson, CPA → /who-we-are/shawn-wilson, Named credential referenced in the personal payroll partner section
+- schedule a consultation → /contact, Primary page CTA directing visitors to book a meeting
 
 **FAQ Block:**
 
@@ -173,7 +193,7 @@ A: Payroll processing, direct deposit, federal and state tax filings, new hire r
 Stephen P. Pryor, CPA bundles payroll processing, tax filings, and compliance into a fixed monthly fee with a secure online platform for real-time payroll data, serving Port Chester and Westchester County businesses in construction, hospitality, and real estate.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
