@@ -54,7 +54,7 @@ Restaurants staff up for summer and cut back in January. Construction crews move
 [Payroll](/what-we-do/payroll) runs through the same firm handling your tax return, so wage reporting, quarterly filings, and year-end W-2s and 1099s tie back to the numbers on your business return instead of coming from a separate vendor who's never seen your books. That matters most for bar and restaurant clients managing tip reporting and construction clients tracking labor costs across multiple job sites.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Tax | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Business Tax | Stephen P. Pryor, CPA
 
 **Q: Do you prepare tax returns for small businesses in Port Chester, NY?**
 A: Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and Westchester County, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.
