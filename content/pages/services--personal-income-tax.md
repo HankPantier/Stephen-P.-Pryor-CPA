@@ -58,15 +58,19 @@ The firm at Stephen P. Pryor, CPA works with construction, real estate, and hosp
 ## How we make personal tax filing simple
 
 ### Upload your documents securely
+
 Send W-2s, 1099s, and prior returns through our encrypted online platform. No email attachments, no dropping off paper folders.
 
 ### Talk through what changed this year
+
 A short conversation about a job change, a new rental property, or side income tells us what needs extra attention before we start preparing anything.
 
 ### Review your return with a CPA
-Stephen, Shawn, or Denise walks through the finished return with you, line by line, before it's filed, so nothing is a surprise.
+
+A CPA from our team walks through the finished return with you, line by line, before it's filed, so nothing is a surprise.
 
 ### Plan ahead while this year is still fresh
+
 We flag opportunities for next year's return right after this one is done, instead of waiting until the following tax season to bring it up.
 
 <!-- block: content-prose -->
