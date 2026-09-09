@@ -34,7 +34,10 @@ For owners who've been doing their own books at night, or paying a part-time boo
 
 Every client gets the same disciplined process, whether you're running a five-person contracting crew or a neighborhood bar. Each month, we reconcile your bank and credit card accounts, categorize every transaction, and keep your books ready before you ever need them to be.
 
-- Bank and credit card reconciliation
+- Bank account reconciliation
+- Electronic transaction reconciliation into QuickBooks
+- Credit card account reconciliation
+- Sales tax preparation and filing
 - Transaction categorization and coding
 - Accounts payable and bill payment
 - Invoicing and accounts receivable tracking
@@ -136,14 +139,14 @@ Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized busin
 - Documented industry expertise in construction, real estate, and hospitality bookkeeping
 
 **Internal Links:**
-- tax planning and preparation → /services/tax — Cross-sell bundled tax service that pairs with bookkeeping in the fixed monthly fee
-- payroll processing → /what-we-do/payroll — Related bundled service mentioned alongside bookkeeping
-- advisory support → /services/advisory — Ties bookkeeping data into higher-level business guidance
-- construction bookkeeping and job costing → /industries/construction — Deep-dive page for the construction niche referenced in this page
-- real estate accounting → /industries/real-estate — Deep-dive page for the real estate niche referenced in this page
-- bar and restaurant accounting → /industries/restaurants — Deep-dive page for the hospitality niche referenced in this page
-- Stephen Pryor → /who-we-are/stephen-pryor — Builds trust by linking to the founder's bio
-- schedule a consultation → /contact — Primary page CTA
+- tax planning and preparation → /services/tax, Cross-sell bundled tax service that pairs with bookkeeping in the fixed monthly fee
+- payroll processing → /what-we-do/payroll, Related bundled service mentioned alongside bookkeeping
+- advisory support → /services/advisory, Ties bookkeeping data into higher-level business guidance
+- construction bookkeeping and job costing → /industries/construction, Deep-dive page for the construction niche referenced in this page
+- real estate accounting → /industries/real-estate, Deep-dive page for the real estate niche referenced in this page
+- bar and restaurant accounting → /industries/restaurants, Deep-dive page for the hospitality niche referenced in this page
+- Stephen Pryor → /who-we-are/stephen-pryor, Builds trust by linking to the founder's bio
+- schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -166,7 +169,7 @@ A: Most clients are based in Port Chester and across Westchester County, NY. We 
 Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax, payroll, and advisory services, with a secure online platform for real-time financial data, serving construction, real estate, and hospitality clients in Port Chester, NY and Westchester County.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
