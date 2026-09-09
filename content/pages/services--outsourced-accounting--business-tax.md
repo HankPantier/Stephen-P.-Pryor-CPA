@@ -247,7 +247,7 @@ Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for o
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Tax Preparation Port Chester NY | Stephen P. Pryor, CPA",
+  "name": "Business Tax Preparation Port Chester NY | Stephen P. Pryor, CPA",
   "url": "https://pryorcpa.com/what-we-do/tax",
   "description": "Year-round tax preparation and planning for Port Chester, NY businesses and individuals. CPA-led support for construction, real estate, and restaurants.",
   "isPartOf": {
