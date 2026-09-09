@@ -260,7 +260,7 @@ Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for o
     "name": "Stephen P. Pryor, CPA",
     "url": "https://pryorcpa.com"
   },
-  "serviceType": "Tax | Stephen P. Pryor, CPA",
+  "serviceType": "Business Tax | Stephen P. Pryor, CPA",
   "audience": [
     {
       "@type": "Audience",
