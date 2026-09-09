@@ -117,7 +117,7 @@ All of this comes bundled into one fixed monthly fee. No per-item invoicing, no 
 <!-- block: content-split | variant: image-left | image: cpa-client-conversation.jpg | alt: "CPA and client discussing payroll setup at a conference table" | query: "accountant client conversation office" -->
 ## A personal payroll partner, not a call center
 
-National payroll providers route you through a phone tree and a different rep every time you call. That's not how this works. During onboarding, Shawn Wilson, CPA and the team learn your internal systems, your pay schedules, and the quirks specific to your business, whether that's tip pooling at a bar or job costing on a construction site. Questions get answered by someone who already knows your business. That relationship carries through the whole year, not just at tax time.
+National payroll providers route you through a phone tree and a different rep every time you call. That's not how this works. During onboarding, the Stephen P. Pryor, CPA team learns your internal systems, your pay schedules, and the quirks specific to your business, whether that's tip pooling at a bar or job costing on a construction site. Questions get answered by someone who already knows your business. That relationship carries through the whole year, not just at tax time.
 
 <!-- block: content-prose -->
 ## Serving Port Chester and the greater Westchester County area
@@ -145,7 +145,7 @@ A: Payroll processing, direct deposit, electronic paystubs for employees, employ
 <!-- block: cta-banner | variant: image-bg | image: payroll-consultation-cta.jpg | alt: "Smiling small business owner shaking hands with accountant" | query: "business owner handshake accountant meeting" -->
 ## Get started with stress-free payroll today
 
-Payroll shouldn't be the thing that keeps you up before every pay period. Schedule a consultation with Stephen P. Pryor, CPA and find out what fixed-fee, fully managed payroll looks like for your business. You run your business. We'll run your numbers.
+Payroll shouldn't be the thing that keeps you up before every pay period. Schedule a consultation with the team at Stephen P. Pryor, CPA and find out what fixed-fee, fully managed payroll looks like for your business. You run your business. We'll run your numbers.
 
 [Schedule a consultation](/contact)
 
