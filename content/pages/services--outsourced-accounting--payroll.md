@@ -72,10 +72,20 @@ icon: CreditCard
 
 Employees get paid on time without a paper check in sight.
 
-### Payroll tax filings
+### Electronic paystubs
+icon: Smartphone
+
+Employees get secure online access to their own paystubs every pay period, no paper, no calls to the office asking for copies.
+
+### Employer pay records
+icon: Monitor
+
+You get real-time access to your payroll runs, tax deposits, and reports through a secure online platform, so your records are always current and within reach.
+
+### Payroll tax filings and returns
 icon: FileText
 
-Federal, state, and local payroll tax deposits and filings handled and monitored so deadlines never slip.
+Federal, state, and local payroll tax deposits, filings, and returns handled and monitored so deadlines never slip.
 
 ### New hire reporting
 icon: ClipboardCheck
@@ -86,6 +96,16 @@ Required state new hire filings submitted as soon as someone joins your team.
 icon: FileCheck
 
 Year-end forms prepared and delivered to employees and contractors, ready before deadlines.
+
+### Pension remittance
+icon: PiggyBank
+
+Retirement plan contributions pulled from each payroll run and remitted to the right plan on time, every time.
+
+### Garnishment remittance
+icon: Scale
+
+Wage garnishments calculated and sent to the correct agencies or creditors each pay period, keeping you compliant and your employees' records accurate.
 
 ### Compliance monitoring
 icon: ShieldCheck
@@ -144,13 +164,13 @@ Stephen P. Pryor, CPA provides fixed-fee payroll processing, tax filings, and co
 - Personalized onboarding where the firm learns each client's internal systems
 
 **Internal Links:**
-- bookkeeping services → /what-we-do/bookkeeping — Payroll is bundled with bookkeeping in the fixed-fee package, natural cross-link for related service
-- business tax support → /what-we-do/tax — Payroll tax filings connect directly to the firm's business tax services
-- construction accounting → /industries/construction — Deepens industry authority referenced in the payroll challenges section
-- bar and restaurant accounting → /industries/restaurants — Supports the tipped employee compliance content with dedicated industry page
-- real estate accounting → /industries/real-estate — Reinforces property management payroll considerations mentioned in industry section
-- Shawn Wilson, CPA → /who-we-are/shawn-wilson — Named credential referenced in the personal payroll partner section
-- schedule a consultation → /contact — Primary page CTA directing visitors to book a meeting
+- bookkeeping services → /what-we-do/bookkeeping, Payroll is bundled with bookkeeping in the fixed-fee package, natural cross-link for related service
+- business tax support → /what-we-do/tax, Payroll tax filings connect directly to the firm's business tax services
+- construction accounting → /industries/construction, Deepens industry authority referenced in the payroll challenges section
+- bar and restaurant accounting → /industries/restaurants, Supports the tipped employee compliance content with dedicated industry page
+- real estate accounting → /industries/real-estate, Reinforces property management payroll considerations mentioned in industry section
+- Shawn Wilson, CPA → /who-we-are/shawn-wilson, Named credential referenced in the personal payroll partner section
+- schedule a consultation → /contact, Primary page CTA directing visitors to book a meeting
 
 **FAQ Block:**
 
@@ -173,7 +193,7 @@ A: Payroll processing, direct deposit, federal and state tax filings, new hire r
 Stephen P. Pryor, CPA bundles payroll processing, tax filings, and compliance into a fixed monthly fee with a secure online platform for real-time payroll data, serving Port Chester and Westchester County businesses in construction, hospitality, and real estate.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
