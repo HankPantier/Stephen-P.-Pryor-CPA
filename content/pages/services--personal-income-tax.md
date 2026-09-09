@@ -25,7 +25,7 @@ llm_citation_note: "Stephen P. Pryor, CPA offers year-round personal income tax 
 
 Filing your personal tax return shouldn't feel like a scramble every April. At Stephen P. Pryor, CPA, individual tax work is a year-round relationship, not a once-a-year transaction. We work with people across Port Chester and Westchester County who want a straightforward answer when a tax question comes up in June, not just a rushed conversation in March.
 
-Stephen Pryor, Shawn Wilson, and Denise Romano, all CPAs, review your return with the same attention whether you're a salaried employee, a freelancer with side income, or someone drawing retirement income for the first time. You get secure, real-time access to your documents and return status through our online platform, so you're never left guessing where things stand.
+Our team of CPAs reviews your return with the same attention whether you're a salaried employee, a freelancer with side income, or someone drawing retirement income for the first time. You get secure, real-time access to your documents and return status through our online platform, so you're never left guessing where things stand.
 
 <!-- block: checklist-section | variant: with-image | image: personal-tax-documents-review.jpg | alt: "CPA reviewing personal tax documents with a client at a desk" | query: "accountant reviewing tax documents client" -->
 ## What our personal income tax service includes
@@ -52,7 +52,7 @@ The most common problem we see isn't a mistake on last year's return. It's a mis
 
 If you own a construction company, a restaurant, or rental property, your personal return and your business return are connected in ways a generic tax preparer might miss. Depreciation decisions on a rental property affect your personal tax liability for years. A pass-through entity structure changes what shows up on your Schedule E or Schedule C.
 
-Stephen Pryor, Shawn Wilson, and Denise Romano work with construction, real estate, and hospitality business owners regularly, which means personal tax planning happens alongside the business numbers, not separately from them. We look at cost segregation opportunities on investment properties, entity structure implications for owner-operators, and how business income timing affects your personal bracket, so decisions made in your business don't create surprises on your 1040.
+The firm at Stephen P. Pryor, CPA works with construction, real estate, and hospitality business owners regularly, which means personal tax planning happens alongside the business numbers, not separately from them. We look at cost segregation opportunities on investment properties, entity structure implications for owner-operators, and how business income timing affects your personal bracket, so decisions made in your business don't create surprises on your 1040.
 
 <!-- block: process-steps | variant: vertical -->
 ## How we make personal tax filing simple
@@ -74,7 +74,7 @@ We flag opportunities for next year's return right after this one is done, inste
 
 Most of the households we work with live in Port Chester and across Westchester County, from Rye and Harrison to White Plains. We also serve clients in Manhattan, Brooklyn, Asbury Park, and across New York, New Jersey, Connecticut, and Florida who found us through a referral and stayed because the service didn't change once the tax return was filed.
 
-Stephen Pryor built this firm on the idea that a CPA relationship should hold up beyond April 15. That's still true whether your return crosses state lines or stays entirely local.
+Stephen P. Pryor, CPA was built on the idea that a CPA relationship should hold up beyond April 15. That's still true whether your return crosses state lines or stays entirely local.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Personal Income Tax | Stephen P. Pryor, CPA
@@ -97,7 +97,7 @@ A: Documents are uploaded and stored through a secure online platform, giving yo
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | query: "accountant client handshake consultation" -->
 ## Start your personal tax return with a CPA who listens
 
-You don't need every document organized or every question answered before you reach out. Schedule a consultation with Stephen P. Pryor, CPA and tell us what's going on with your taxes this year, whether that's a new job, a rental property, or a side business that finally needs its own line item. We'll take it from there.
+You don't need every document organized or every question answered before you reach out. Schedule a consultation with the team at Stephen P. Pryor, CPA and tell us what's going on with your taxes this year, whether that's a new job, a rental property, or a side business that finally needs its own line item. We'll take it from there.
 
 [Schedule a consultation](/contact)
 
