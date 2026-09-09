@@ -1,5 +1,5 @@
 ---
-title: "Tax | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
+title: "Business Tax | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
 url: "/what-we-do/tax"
 meta_title: "Tax Preparation Port Chester NY | Stephen P. Pryor, CPA"
 meta_description: "Year-round tax preparation and planning for Port Chester, NY businesses and individuals. CPA-led support for construction, real estate, and restaurants."
@@ -93,16 +93,16 @@ Stephen P. Pryor, CPA provides year-round business and personal tax preparation 
 - Secure online platform for real-time client financial data
 
 **Internal Links:**
-- bookkeeping → /what-we-do/bookkeeping — Shows the bundled service model pairing tax with daily bookkeeping
-- payroll → /what-we-do/payroll — Connects to payroll tax compliance section and bundled services
-- construction → /industries/construction — Supports industry-specific tax detail for construction clients
-- real estate → /industries/real-estate — Supports depreciation and 1031 exchange discussion for real estate clients
-- Bars and restaurants → /industries/restaurants — Links to hospitality niche referenced in business tax section
-- Entity type analysis → /what-we-do/entity-type-analysis — Direct service referenced in planning checklist
-- Retirement plan analysis → /what-we-do/retirement-plan-analysis — Direct service referenced in planning checklist
-- Denise Romano, CPA → /who-we-are/denise-romano — Credentials the credentials the page names for personal tax prep
-- Stephen Pryor → /who-we-are/stephen-pryor — Founder credential referenced in closing section
-- Schedule a consultation → /contact — Primary page CTA
+- bookkeeping → /what-we-do/bookkeeping, Shows the bundled service model pairing tax with daily bookkeeping
+- payroll → /what-we-do/payroll, Connects to payroll tax compliance section and bundled services
+- construction → /industries/construction, Supports industry-specific tax detail for construction clients
+- real estate → /industries/real-estate, Supports depreciation and 1031 exchange discussion for real estate clients
+- Bars and restaurants → /industries/restaurants, Links to hospitality niche referenced in business tax section
+- Entity type analysis → /what-we-do/entity-type-analysis, Direct service referenced in planning checklist
+- Retirement plan analysis → /what-we-do/retirement-plan-analysis, Direct service referenced in planning checklist
+- Denise Romano, CPA → /who-we-are/denise-romano, Credentials the credentials the page names for personal tax prep
+- Stephen Pryor → /who-we-are/stephen-pryor, Founder credential referenced in closing section
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -125,7 +125,7 @@ A: Planning is built into the service. Clients get entity type analysis, retirem
 Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for one fixed monthly fee, staffed by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano, with specific expertise in construction, real estate, and hospitality (including bars and pubs) for clients in Port Chester and Westchester County, NY.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
