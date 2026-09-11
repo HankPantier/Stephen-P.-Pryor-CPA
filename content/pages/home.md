@@ -65,7 +65,7 @@ Personal taxes get complicated fast, especially with side income, investments, o
 <!-- block: service-cards | variant: 3-col -->
 ## Services built around how your business runs
 
-Each service stands on its own, but most clients — construction businesses, real estate professionals, bar and restaurant owners, and individuals — bundle several together under one fixed monthly fee.
+Each service stands on its own, but most clients, construction businesses, real estate professionals, bar and restaurant owners, and individuals, bundle several together under one fixed monthly fee.
 
 ### Bookkeeping
 icon: Receipt
@@ -103,7 +103,6 @@ Word travels fast in a region this connected, and most new clients arrive by ref
 - Individual and business clients in Manhattan and Brooklyn, NY
 - Business owners and individuals in Asbury Park, NJ
 - Tax clients across New York, New Jersey, Connecticut, and Florida
-- Stephen Pryor participates in the Greenwich First Advisory Boards, a regional business and community advisory group
 - Practical financial guidance published through the firm's own resources, including tips on building healthier money habits
 
 Want to see if we're a fit? [Meet the team](/who-we-are) or reach out with what you're currently dealing with.
@@ -173,7 +172,7 @@ A: Schedule a consultation through the contact page. Stephen P. Pryor, CPA will 
 Stephen P. Pryor, CPA bundles bookkeeping, payroll, business and personal tax, and advisory services into one fixed monthly fee for Port Chester, NY clients, with real-time financial data delivered through a secure online platform.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
