@@ -39,17 +39,17 @@ Every invoice gets categorized correctly the first time. Receivables get tracked
 The goal is simple: know your numbers in real time, not at month-end. Explore the full [bookkeeping services](/services/bookkeeping) built around this kind of daily-operation reality.
 
 <!-- block: checklist-section | variant: with-image | image: restaurant-payroll-tip-reporting.jpg | alt: "Restaurant manager reviewing payroll and tip reports on a tablet" | query: "restaurant manager payroll tablet" -->
-## Payroll and tip compliance made simple
+## Payroll compliance made straightforward
 
-Multi-shift schedules, tipped employees, and seasonal hires make restaurant payroll more complicated than most other small businesses face. Getting it wrong means penalties, back pay, or an uncomfortable conversation with the IRS. Getting it right frees you up to run the floor instead of chasing paperwork.
+Multi-shift schedules, tipped employees, and seasonal hires make payroll compliance more complicated for restaurants than for most other small businesses. Getting filings wrong means penalties, back pay, or an uncomfortable conversation with the IRS. Getting it right frees you up to run the floor instead of chasing paperwork.
 
-- Accurate processing for tipped, hourly, salaried, and seasonal staff
-- Tip reporting handled correctly to meet IRS and state requirements
-- Payroll tax filings submitted on time, every time
+- Payroll tax filings completed accurately for tipped, hourly, salaried, and seasonal staff
+- Tip income reported correctly to meet IRS and New York state requirements
+- Filings submitted on time, every time
 - Support for multi-location or multi-shift scheduling complexity
-- Direct answers when a new hire or a wage question comes up mid-week
+- W-2 and 1099 processing handled on schedule
 
-Payroll here isn't outsourced to a call center. Questions get answered by the same team that already knows your business. See how [payroll services](/what-we-do/payroll) fit into your bar or restaurant's weekly rhythm.
+Payroll compliance here means accurate, timely filings handled by the same team that already knows your business. See how [payroll compliance services](/what-we-do/payroll) fit into your bar or restaurant's operation.
 
 <!-- block: content-split | variant: image-right | image: restaurant-tax-planning-meeting.jpg | alt: "CPA and restaurant owner discussing tax planning documents together" | query: "accountant restaurant owner tax planning" -->
 ## Tax planning and preparation for restaurant owners
