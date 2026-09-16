@@ -2,7 +2,7 @@
 title: "Restaurants | Stephen P. Pryor, CPA"
 url: "/industries/restaurants"
 meta_title: "CPA for Restaurants in Port Chester, NY | Pryor CPA"
-meta_description: "Restaurant bookkeeping, payroll, and tax planning for Port Chester and Westchester bars and restaurants. One flat monthly fee, real-time data, hands-on CPA support."
+meta_description: "Restaurant bookkeeping, payroll compliance, and tax planning for bars and restaurants across New York, New Jersey, Connecticut, and beyond. One flat monthly fee, real-time data, hands-on CPA support."
 target_keyword: "CPA for restaurants Port Chester NY"
 secondary_keywords: ["restaurant accountant Port Chester","restaurant bookkeeping Port Chester NY","restaurant tax preparation Port Chester","CPA bars and restaurants the tri-state area","restaurant payroll services Port Chester","restaurant accounting Port Chester NY","hospitality accounting Port Chester","restaurant financial advisor Port Chester NY","F&B accounting Port Chester","restaurant cash management Port Chester NY","certified public accountant restaurants Westchester"]
 canonical_url: "https://pryorcpa.com/industries/restaurants"
