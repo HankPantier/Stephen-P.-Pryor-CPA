@@ -254,7 +254,7 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
       "name": "What does payroll compliance service include for restaurant clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not payroll processing."
+        "text": "Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not live payroll processing."
       }
     },
     {
