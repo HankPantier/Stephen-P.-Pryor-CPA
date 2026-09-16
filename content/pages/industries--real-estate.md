@@ -67,7 +67,7 @@ This isn't a one-time conversation. As a portfolio grows or a property gets refi
 ### Payroll compliance for property teams
 icon: Users
 
-On-site managers, maintenance staff, and leasing agents all need accurate, on-time payroll, with the right handling for W-2 employees and 1099 contractors alike. We manage processing and filings so nothing falls through the cracks as your team expands.
+On-site managers, maintenance staff, and leasing agents all require accurate, on-time payroll tax filings, with the right handling for W-2 employees and 1099 contractors alike. We handle the compliance side, including payroll filings, W-2 and 1099 processing, so nothing falls through the cracks as your team expands.
 
 ### Advisory as your portfolio scales
 icon: ChartLine
