@@ -121,6 +121,9 @@ A: Yes. Construction, real estate, and bars and restaurants are core specialties
 **Q: How do I get started with Stephen P. Pryor, CPA?**
 A: Schedule a consultation through the contact page. Stephen P. Pryor, CPA will ask about your business and current setup, then explain how bundled bookkeeping, payroll compliance, and tax support would work for your situation.
 
+**Q: Does the firm work with construction, real estate, and restaurant businesses?**
+A: Yes. Construction, real estate, and bars and restaurants are core specialties, covering job costing and cash flow for contractors, 1031 exchanges and depreciation for property owners, and margin visibility and tip compliance for bar and restaurant owners.
+
 <!-- block: cta-banner | variant: image-bg | image: handshake-business-meeting.jpg | alt: "Advisor and business owner shaking hands after a meeting" | query: "handshake business meeting agreement" -->
 ## Your next step starts with a conversation
 
