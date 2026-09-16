@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "restaurant-owner-with-cpa-port-chester.jpg"
 hero_image_alt: "Restaurant owner and CPA reviewing financial reports together in a restaurant dining room"
-hero_subhead: "Straightforward bookkeeping, payroll, and tax support for Port Chester and the tri-state area bars and restaurants"
+hero_subhead: "Straightforward bookkeeping, payroll compliance, and tax support for bars and restaurants across New York, New Jersey, Connecticut, and beyond"
 hero_headline: "A CPA who understands the restaurant business"
 answer_block: "Stephen P. Pryor, CPA provides bookkeeping, payroll, tax planning, and advisory services built specifically for bars, pubs, and restaurants in Port Chester and across the tri-state area. Services are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance."
 eeat_signals: ["Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality","Shawn Wilson, CPA and Denise Romano, CPA are named credentialed team members supporting restaurant clients","Firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Firm participates in the Greenwich First Advisory Boards community/business advisory group","Bundled fixed-fee model with secure online platform for real-time financial data"]
