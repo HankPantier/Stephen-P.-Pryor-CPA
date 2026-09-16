@@ -54,7 +54,7 @@ Construction, real estate, and restaurant clients all share one requirement from
 Every client gets a secure online platform showing real-time financial data, not a report that's three weeks old by the time you see it. That means you can check job profitability, cash position, or payroll costs before you make a decision, not after it's too late to change course. Support runs year-round, not just at tax time, from the same CPA who onboarded your business and learned your systems from day one.
 
 - Bookkeeping, payroll compliance, and tax bundled into one fixed monthly fee
-- Advisory services tailored to your industry available alongside the core bundle
+- Advisory services tailored to your industry, available separately
 - Secure online platform with real-time financial data
 - Year-round support from a CPA who already knows your business
 - Industry-specific expertise in construction, real estate, and hospitality
