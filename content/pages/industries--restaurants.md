@@ -13,10 +13,10 @@ hero_image: "restaurant-owner-with-cpa-port-chester.jpg"
 hero_image_alt: "Restaurant owner and CPA reviewing financial reports together in a restaurant dining room"
 hero_subhead: "Straightforward bookkeeping, payroll compliance, and tax support for bars and restaurants across New York, New Jersey, Connecticut, and beyond"
 hero_headline: "A CPA who understands the restaurant business"
-answer_block: "Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning built specifically for bars, pubs, and restaurants across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Bookkeeping, payroll compliance, and tax are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance. Advisory services are available separately and tailored to each client's specific needs."
-eeat_signals: ["Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality","Shawn Wilson, CPA and Denise Romano, CPA are named credentialed team members supporting restaurant clients","Firm serves restaurant clients from its Port Chester, NY office across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Firm participates in the Greenwich First Advisory Boards community/business advisory group","Bundled fixed-fee model covering bookkeeping, payroll compliance, and tax with a secure online platform for real-time financial data","Advisory services are available separately, tailored to each client's specific needs"]
+answer_block: "Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning built specifically for bars, pubs, and restaurants across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Bookkeeping, payroll compliance, and tax are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance. Advisory services are also available and tailored to each client's specific needs."
+eeat_signals: ["Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality","Shawn Wilson, CPA and Denise Romano, CPA are named credentialed team members supporting restaurant clients","Firm serves restaurant clients from its Port Chester, NY office across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Firm participates in the Greenwich First Advisory Boards community/business advisory group","Bundled fixed-fee model covering bookkeeping, payroll compliance, and tax with a secure online platform for real-time financial data","Advisory services are also available and tailored to each client's specific needs"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Supports the daily-operations bookkeeping section with a direct service page link","anchor_text":"bookkeeping services"},{"url":"/what-we-do/payroll","reason":"Directly relevant to the tip compliance and payroll section","anchor_text":"payroll services"},{"url":"/what-we-do/tax","reason":"Supports the tax planning section for restaurant owners","anchor_text":"business tax services"},{"url":"/services/advisory","reason":"Ties the margin-protection section to the firm's advisory offering","anchor_text":"advisory services"},{"url":"/what-we-do/cash-management","reason":"Reinforces seasonal cash flow support mentioned in advisory section","anchor_text":"cash management"},{"url":"/industries","reason":"Connects this niche page back to the broader industries hub","anchor_text":"industries served"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"Does Pryor CPA work with bars and pubs specifically, not just full-service restaurants?","answer":"Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation."},{"question":"What does payroll compliance service include for restaurant clients?","answer":"Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not payroll processing."},{"question":"What does the flat monthly fee for restaurant clients include?","answer":"Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are available separately and tailored to each client's specific needs."},{"question":"Can the firm help with sales tax questions specific to food and beverage sales?","answer":"Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time."},{"question":"Do you serve restaurants, bars and pubs outside Port Chester?","answer":"Yes. From its office in Port Chester, New York, the firm serves restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."}]
+faq_block: [{"question":"Does Pryor CPA work with bars and pubs specifically, not just full-service restaurants?","answer":"Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation."},{"question":"What does payroll compliance service include for restaurant clients?","answer":"Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not live payroll processing."},{"question":"What does the flat monthly fee for restaurant clients include?","answer":"Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are also available and tailored to each client's specific needs."},{"question":"Can the firm help with sales tax questions specific to food and beverage sales?","answer":"Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time."},{"question":"Do you serve restaurants, bars and pubs outside Port Chester?","answer":"Yes. From its office in Port Chester, New York, the firm serves restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."}]
 llm_citation_note: "Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaurants into one flat monthly fee, with a secure online platform providing real-time financial data, backed by CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano."
 ---
 
@@ -43,7 +43,7 @@ The goal is simple: know your numbers in real time, not at month-end. Explore th
 
 Multi-shift schedules, tipped employees, and seasonal hires make payroll compliance more complicated for restaurants than for most other small businesses. Getting filings wrong means penalties, back pay, or an uncomfortable conversation with the IRS. Getting it right frees you up to run the floor instead of chasing paperwork.
 
-This firm provides payroll compliance service, which means accurate, timely payroll tax filings submitted on your behalf. Payroll compliance is a filing service, not payroll processing. If you already run payroll through a processor, the compliance filings can still be handled here alongside your bookkeeping and tax.
+This firm provides payroll compliance service, which means accurate, timely payroll tax filings submitted on your behalf. Payroll compliance is a filing and compliance service, not live payroll processing. If you already run payroll through a separate processor, the compliance filings can still be handled here alongside your bookkeeping and tax.
 
 - Payroll tax filings completed accurately for tipped, hourly, salaried, and seasonal staff
 - Tip income reported correctly to meet IRS and New York state requirements
@@ -74,12 +74,12 @@ This is advisory work built for the reality of running a bar or restaurant, deli
 <!-- block: feature-grid | variant: 3-col -->
 ## One flat monthly fee, real-time financial data
 
-Restaurant owners already juggle enough moving pieces without a bill that changes every month depending on how many questions they asked. Bookkeeping, payroll compliance, and tax are bundled into one fixed monthly fee. Advisory services are available separately and tailored to each client's specific needs.
+Restaurant owners already juggle enough moving pieces without a bill that changes every month depending on how many questions they asked. Bookkeeping, payroll compliance, and tax are bundled into one fixed monthly fee.
 
 ### One Bundled Fee
 icon: Wallet
 
-Bookkeeping, payroll compliance, and tax support are bundled into a single fixed monthly fee. Advisory services are available separately. No surprise invoices, no per-question charges, no guessing what next month costs.
+Bookkeeping, payroll compliance, and tax support are bundled into a single fixed monthly fee. No surprise invoices, no per-question charges, no guessing what next month costs.
 
 ### Real-Time Online Access
 icon: Globe
@@ -98,10 +98,10 @@ Questions get answered when they come up, not batched for an annual meeting. Tha
 A: Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation.
 
 **Q: What does payroll compliance service include for restaurant clients?**
-A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not payroll processing.
+A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not live payroll processing.
 
 **Q: What does the flat monthly fee for restaurant clients include?**
-A: Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are available separately and tailored to each client's specific needs.
+A: Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are also available and tailored to each client's specific needs.
 
 **Q: Can the firm help with sales tax questions specific to food and beverage sales?**
 A: Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time.
@@ -112,7 +112,7 @@ A: Yes. From its office in Port Chester, New York, the firm serves restaurant cl
 <!-- block: cta-banner | variant: image-bg | image: restaurant-kitchen-handshake.jpg | alt: "Restaurant owner shaking hands with advisor in kitchen setting" | query: "restaurant owner handshake kitchen" -->
 ## Let's talk about your restaurant's numbers
 
-If you're running a bar, pub, or restaurant in Port Chester or anywhere across the tri-state area, your books shouldn't be the thing keeping you up at night. Stephen P. Pryor, CPA and the team are ready to look at what you're working with now and show you where a fixed-fee, hands-on approach could make things easier.
+If you're running a bar, pub, or restaurant in Port Chester or anywhere across the tri-state area, your books shouldn't be the thing keeping you up at night. The Stephen P. Pryor, CPA team is ready to look at what you're working with now and show you where a fixed-fee, hands-on approach could make things easier.
 
 [Schedule a consultation](/contact) and bring your questions, your last few months of statements, or just your biggest current headache.
 
@@ -120,7 +120,7 @@ If you're running a bar, pub, or restaurant in Port Chester or anywhere across t
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning built specifically for bars, pubs, and restaurants in Port Chester and across the tri-state area. Bookkeeping, payroll compliance, and tax are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance. Advisory services are available separately and tailored to each client's specific needs.
+Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning built specifically for bars, pubs, and restaurants in Port Chester and across the tri-state area. Bookkeeping, payroll compliance, and tax are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance. Advisory services are also available and tailored to each client's specific needs.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality
@@ -145,12 +145,12 @@ Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning
 A: Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation.
 
 **Q: What does payroll compliance service include for restaurant clients?**
-A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not payroll processing.
+A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not live payroll processing.
 
 **Q: What does the flat monthly fee for restaurant clients include?**
-A: Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are available separately and tailored to each client's specific needs.
+A: Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are also available and tailored to each client's specific needs.
 
-**Q: Can this firm help with sales tax questions specific to food and beverage sales?**
+**Q: Can the firm help with sales tax questions specific to food and beverage sales?**
 A: Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time.
 
 **Q: Do you serve restaurants, bars and pubs outside Port Chester?**
@@ -254,7 +254,7 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
       "name": "What does payroll compliance service include for restaurant clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not payroll processing."
+        "text": "Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not live payroll processing."
       }
     },
     {
