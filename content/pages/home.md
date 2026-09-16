@@ -287,7 +287,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and business and 
   "@type": "WebPage",
   "name": "CPA in Port Chester, NY | Stephen P. Pryor, CPA Firm",
   "url": "https://pryorcpa.com/",
-  "description": "Bundled bookkeeping, payroll, tax, and advisory for one fixed monthly fee. Stephen P. Pryor, CPA serves Port Chester, NY construction, real estate, and restaurant owners.",
+  "description": "Bundled bookkeeping, payroll compliance, and tax for one fixed monthly fee. Stephen P. Pryor, CPA serves construction, real estate, and restaurant owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
