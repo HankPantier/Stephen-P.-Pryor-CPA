@@ -139,7 +139,7 @@ Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll c
 - Shawn Wilson, CPA (Managing Director)
 - Denise Romano, CPA (Senior Accountant)
 - Active member of the Greenwich First Advisory Boards, a regional business and community advisory group
-- Serves business and individual clients across Westchester County, NY, Manhattan, Brooklyn, Asbury Park NJ, and NY/NJ/CT/FL
+- Serves business and individual clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States
 - Specialized industry experience in construction, real estate, and bars and restaurants
 
 **Internal Links:**
