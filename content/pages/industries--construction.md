@@ -223,7 +223,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services 
       "name": "Do you work with construction companies outside Port Chester?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The firm serves construction businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors regardless of where a job site is located."
+        "text": "Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located."
       }
     },
     {
