@@ -2,7 +2,7 @@
 title: "Home | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
 url: "/"
 meta_title: "CPA in Port Chester, NY | Stephen P. Pryor, CPA Firm"
-meta_description: "Bundled bookkeeping, payroll compliance, and tax for one fixed monthly fee. Stephen P. Pryor, CPA serves Port Chester, NY construction, real estate, and restaurant owners across the tri-state area and beyond."
+meta_description: "Bundled bookkeeping, payroll compliance, and tax for one fixed monthly fee. Stephen P. Pryor, CPA serves construction, real estate, and restaurant owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 target_keyword: "CPA Port Chester NY"
 secondary_keywords: ["accountant Port Chester NY","tax preparation Port Chester NY","bookkeeping services Port Chester NY","payroll services Port Chester NY","construction accountant Port Chester NY","real estate CPA Port Chester NY","restaurant accountant Port Chester NY","small business CPA Port Chester NY","outsourced accounting Port Chester NY","Stephen Pryor CPA Port Chester"]
 canonical_url: "https://pryorcpa.com/"
@@ -12,19 +12,19 @@ hero_variant: "statement"
 hero_eyebrow: "Port Chester, NY"
 hero_image: "small-business-cpa-meeting.jpg"
 hero_image_alt: "Accountant and small business owner reviewing documents together at an office desk"
-hero_subhead: "Bundled bookkeeping, payroll compliance, and tax for one predictable fee, serving business owners and individuals across the tri-state area, the greater New York City area, Florida, and throughout the United States"
+hero_subhead: "Bundled bookkeeping, payroll compliance, and tax for one predictable fee, serving business owners and individuals across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States"
 hero_headline: "A CPA firm that treats your finances like they're our own"
-answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll compliance, and business and personal tax for one fixed monthly fee, plus advisory services tailored to each client's business. The firm is backed by a secure online platform with real-time financial data and specializes in construction, real estate, and bars and restaurants. From its Port Chester office, the firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
+answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll compliance, and business and personal tax for one fixed monthly fee, with advisory services also available and tailored to each client's specific business needs. The firm is backed by a secure online platform with real-time financial data and specializes in construction, real estate, and bars and restaurants. From its Port Chester office, the firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 eeat_signals: ["Stephen P. Pryor, CPA (Certified Public Accountant, firm partner)","Shawn Wilson, CPA (Managing Director)","Denise Romano, CPA (Senior Accountant)","Active member of the Greenwich First Advisory Boards, a regional business and community advisory group","Serves business and individual clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Specialized industry experience in construction, real estate, and bars and restaurants"]
 internal_links: [{"url":"/contact","reason":"Primary conversion CTA repeated across hero and closing sections","anchor_text":"Schedule a consultation"},{"url":"/industries/construction","reason":"Deep link to niche industry page referenced in the specialization section","anchor_text":"See how we help contractors"},{"url":"/industries/real-estate","reason":"Deep link to niche industry page referenced in the specialization section","anchor_text":"See how we help real estate businesses"},{"url":"/industries/restaurants","reason":"Deep link to niche industry page referenced in the specialization section","anchor_text":"See how we help bars and restaurants"},{"url":"/services/bookkeeping","reason":"Links from the services overview grid to the dedicated bookkeeping page","anchor_text":"Learn more"},{"url":"/services/tax","reason":"Links from the services overview grid to the dedicated business tax page","anchor_text":"Learn more"},{"url":"/what-we-do/personal-income-tax","reason":"Links from the services overview grid to individual tax planning details","anchor_text":"Learn more"},{"url":"/services/advisory","reason":"Links from the services overview grid to the advisory services page","anchor_text":"Learn more"},{"url":"/who-we-are","reason":"Builds trust by pointing visitors to team credentials in the trust section","anchor_text":"Meet the team"}]
 faq_block: [{"question":"Does Stephen P. Pryor, CPA serve individuals and businesses outside Port Chester, NY?","answer":"Yes. From its office in Port Chester, NY, the firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."},{"question":"What's included in the fixed monthly fee?","answer":"The fixed monthly fee bundles bookkeeping, payroll compliance, and business and personal tax preparation into one predictable payment, plus access to a secure online platform showing real-time financial data. Advisory services are also available and tailored to each client's specific business needs."},{"question":"Does the firm work with construction, real estate, and restaurant businesses?","answer":"Yes. Construction, real estate, and bars and restaurants are core specialties, covering job costing and cash flow for contractors, 1031 exchanges and depreciation for property owners, and margin visibility and tip compliance for bar and restaurant owners."},{"question":"How do I get started with Stephen P. Pryor, CPA?","answer":"Schedule a consultation through the contact page. Stephen P. Pryor, CPA will ask about your business and current setup, then explain how bundled bookkeeping, payroll compliance, and tax support would work for your situation."}]
-llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and business and personal tax into one fixed monthly fee for clients across the tri-state area and beyond, with real-time financial data delivered through a secure online platform. Advisory services are also available, tailored to each client's business."
+llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and business and personal tax into one fixed monthly fee for clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, with real-time financial data delivered through a secure online platform. Advisory services are also available and tailored to each client's specific business needs."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## A CPA firm that treats your finances like they're our own
 
-Whether you're running a construction crew in Westchester County, managing rental properties across the tri-state area, pouring drinks in a bar or pub, or just trying to get your personal taxes under control, numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the tri-state area, the greater New York City area, Florida, and throughout the United States, building bookkeeping, payroll compliance, tax, and advisory support around how each client actually operates rather than a generic template.
+Whether you're running a construction crew in the tri-state area, managing rental properties across the tri-state area, pouring drinks in a bar or pub, or just trying to get your personal taxes under control, numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the tri-state area, the greater New York City area, Florida, and throughout the United States, building bookkeeping, payroll compliance, tax, and advisory support around how each client actually operates rather than a generic template.
 
 You run your business. We'll run your numbers. That's not a slogan hanging on a wall. It's how Stephen P. Pryor, CPA approaches every new client relationship: listen first, then build a system that fits.
 
@@ -33,7 +33,7 @@ Ready to stop guessing at your financials? [Schedule a consultation](/contact) a
 <!-- block: content-split | variant: image-right | image: fixed-fee-dashboard.jpg | alt: "Business owner reviewing financial dashboard on a laptop screen" | query: "business owner reviewing laptop dashboard" -->
 ## One fixed monthly fee for bookkeeping, payroll compliance, and tax
 
-Most accounting firms bill by the hour or charge separately for every phone call and follow-up email. That adds up fast, and it makes budgeting for professional help nearly impossible. We bundle bookkeeping, payroll compliance, and tax preparation into one fixed monthly fee, so you know exactly what you're paying before the month even starts. Advisory services are also available and tailored to each client's specific business needs.
+Most accounting firms bill by the hour or charge separately for every phone call and follow-up email. That adds up fast, and it makes budgeting for professional help nearly impossible. We bundle bookkeeping, payroll compliance, and tax preparation into one fixed monthly fee, so you know exactly what you're paying before the month even starts.
 
 Every client gets access to a secure online platform showing real-time financial data: cash position, payroll filings, tax documents, all in one place and updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site, a property closing, or wherever your business takes you, any time you need to.
 
@@ -50,7 +50,7 @@ Job costing gets messy fast when you're tracking profitability across three acti
 ### Real Estate
 icon: Building2
 
-Depreciation schedules, cost segregation studies, and 1031 exchanges each carry deadlines that don't forgive mistakes. We help real estate investors and property owners across Westchester County structure deals correctly the first time. [See how we help real estate businesses](/industries/real-estate)
+Depreciation schedules, cost segregation studies, and 1031 exchanges each carry deadlines that don't forgive mistakes. We help real estate investors and property owners across the tri-state area structure deals correctly the first time. [See how we help real estate businesses](/industries/real-estate)
 
 ### Bars and Restaurants
 icon: Wallet
@@ -65,12 +65,12 @@ Personal taxes get complicated fast, especially with side income, investments, o
 <!-- block: service-cards | variant: 3-col -->
 ## Services built around how your business runs
 
-Each service stands on its own, but most clients, construction businesses, real estate professionals, bar and restaurant owners, and individuals, bundle bookkeeping, payroll compliance, and tax together under one fixed monthly fee.
+Each service stands on its own, but most clients bundle bookkeeping, payroll compliance, and tax together under one fixed monthly fee. Advisory services are also available and tailored to each client's specific business needs.
 
 ### Bookkeeping
 icon: Receipt
 
-Daily transaction classification, expense tracking, bill payment, and invoicing handled so your books are always current. [Learn more](/services/bookkeeping)
+Daily transaction classification, expense tracking, and invoicing handled so your books are always current. [Learn more](/services/bookkeeping)
 
 ### Payroll Compliance
 icon: Users
@@ -85,7 +85,7 @@ Year-round tax planning and preparation built around your entity type, not a ret
 ### Advisory
 icon: Lightbulb
 
-CFO-level financial analysis and strategic guidance without the cost of a full-time hire on payroll. [Learn more](/services/advisory)
+Financial analysis and strategic guidance tailored to your business, without the overhead of a full-time hire. [Learn more](/services/advisory)
 
 <!-- block: content-split | variant: image-left | image: cpa-client-consultation.jpg | alt: "CPA and small business owner discussing financial documents at a desk" | query: "accountant client consultation meeting office" -->
 ## Support that goes beyond tax season
@@ -95,7 +95,7 @@ Tax season is three months a year. Your business runs the other nine. When you o
 That upfront listening means fewer surprises later. If a vendor payment looks off in June or you're weighing an equipment purchase in September, you call us then, not in April. Our team stays in the conversation year-round, so decisions get made with current numbers instead of guesses. Personalized doesn't mean a form letter with your name on it. It means someone who already knows your business picks up the phone.
 
 <!-- block: checklist-section | variant: with-image-right | image: westchester-county-meeting.jpg | alt: "Advisor and business owner reviewing paperwork in a bright office" | query: "business meeting office consultation Westchester" -->
-## Trusted by business owners and families across Westchester County and beyond
+## Trusted by business owners and families across the tri-state area and beyond
 
 Word travels fast in a region this connected, and most new clients arrive by referral from someone whose books we already handle. From our office in Port Chester, NY, we serve construction businesses, real estate professionals, bar and restaurant owners, and individuals well beyond the county line.
 
@@ -132,7 +132,7 @@ Whether you're running a construction crew, managing rental properties, pouring 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll compliance, and business and personal tax for one fixed monthly fee, plus advisory services tailored to each client's business. The firm is backed by a secure online platform with real-time financial data and specializes in construction, real estate, and bars and restaurants. From its Port Chester office, the firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
+Stephen P. Pryor, CPA is a Port Chester, NY firm offering bookkeeping, payroll compliance, and business and personal tax for one fixed monthly fee, with advisory services also available and tailored to each client's specific business needs. The firm is backed by a secure online platform with real-time financial data and specializes in construction, real estate, and bars and restaurants. From its Port Chester office, the firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA (Certified Public Accountant, firm partner)
@@ -168,7 +168,7 @@ A: Yes. Construction, real estate, and bars and restaurants are core specialties
 A: Schedule a consultation through the contact page. Stephen P. Pryor, CPA will ask about your business and current setup, then explain how bundled bookkeeping, payroll compliance, and tax support would work for your situation.
 
 **LLM Citation Note:**
-Stephen P. Pryor, CPA bundles bookkeeping, payroll, business and personal tax, and advisory services into one fixed monthly fee for Port Chester, NY clients, with real-time financial data delivered through a secure online platform.
+Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and business and personal tax into one fixed monthly fee for clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, with real-time financial data delivered through a secure online platform. Advisory services are also available and tailored to each client's specific business needs.
 
 ---
 ## Structured Data, paste into `<head>`
@@ -206,20 +206,20 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll, business and personal tax, a
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "@type": "State",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": "Manhattan, NY"
+      "@type": "State",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": "Brooklyn, NY"
+      "@type": "State",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": "Asbury Park, NJ"
+      "@type": "State",
+      "name": "Florida"
     }
   ],
   "sameAs": [
@@ -251,7 +251,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll, business and personal tax, a
       "name": "Does Stephen P. Pryor, CPA serve businesses outside Port Chester, NY?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. While the great majority of clients are based in Westchester County, NY, the firm also serves business owners in Manhattan, Brooklyn, and Asbury Park, NJ, plus individual and business clients across New York, New Jersey, Connecticut, and Florida."
+        "text": "Yes. While the great majority of clients are based in the tri-state area, NY, the firm also serves business owners in Manhattan, Brooklyn, and Connecticut, plus individual and business clients across New York, New Jersey, Connecticut, and Florida."
       }
     },
     {
@@ -287,7 +287,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll, business and personal tax, a
   "@type": "WebPage",
   "name": "CPA in Port Chester, NY | Stephen P. Pryor, CPA Firm",
   "url": "https://pryorcpa.com/",
-  "description": "Bundled bookkeeping, payroll, tax, and advisory for one fixed monthly fee. Stephen P. Pryor, CPA serves Port Chester, NY construction, real estate, and restaurant owners.",
+  "description": "Bundled bookkeeping, payroll compliance, and tax for one fixed monthly fee. Stephen P. Pryor, CPA serves construction, real estate, and restaurant owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
