@@ -27,7 +27,7 @@ Running a bar or restaurant in Port Chester means thin margins, unpredictable we
 
 Bars and pubs are a specific focus of this firm, not an afterthought. Food and beverage cost ratios, tip credit rules, seasonal staffing swings, and cash-heavy operations all require a different level of attention than a typical small business. Our team learns how your restaurant actually runs during onboarding, from your POS system to your vendor terms, so the numbers reflect reality from day one.
 
-Clients from Port Chester to the greater New York City area and beyond rely on this hands-on approach instead of a once-a-year check-in.
+From Port Chester to the greater New York City area and across New York, New Jersey, Connecticut, Florida, and the United States, clients rely on this hands-on approach instead of a once-a-year check-in.
 
 <!-- block: content-split | variant: image-left | image: restaurant-bookkeeping-daily-transactions.jpg | alt: "Bookkeeper organizing restaurant invoices and receipts at a desk" | query: "bookkeeper reviewing restaurant invoices" -->
 ## Bookkeeping built for daily restaurant operations
