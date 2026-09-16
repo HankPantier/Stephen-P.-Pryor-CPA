@@ -143,7 +143,7 @@ Stephen P. Pryor, CPA provides bookkeeping, payroll, tax planning, and advisory 
 A: Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation.
 
 **Q: How is restaurant tip reporting handled for payroll compliance?**
-A: Payroll processing accounts for tipped, hourly, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce the owner's exposure to penalties or back pay issues.
+A: Payroll compliance services account for tipped, hourly, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce the owner's exposure to penalties or back pay issues.
 
 **Q: What does the flat monthly fee for restaurant clients include?**
 A: Bookkeeping, payroll, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month.
