@@ -60,7 +60,7 @@ A restaurant tax return should never feel like a surprise delivered in April. Sa
 
 Year-round planning means adjustments happen when they can still make a difference, not after the fiscal year closes. That includes reviewing entity structure, tracking deductible expenses specific to F&B operations, and flagging sales tax exposure before it becomes an issue with the state. Preparation happens on a secure digital platform, so documents move back and forth without a single trip to an office.
 
-Restaurant owners in across the tri-state area get a plan built around their calendar, their busy season, and their actual cash position, through [business tax services](/what-we-do/tax) designed for exactly this kind of complexity.
+Restaurant owners across the tri-state area get a plan built around their calendar, their busy season, and their actual cash position, through [business tax services](/what-we-do/tax) designed for exactly this kind of complexity.
 
 <!-- block: content-split | variant: image-left | image: restaurant-cost-margin-analysis.jpg | alt: "Advisor pointing to cost and margin charts with restaurant client" | query: "financial advisor restaurant charts" -->
 ## Advisory support to protect your margins
