@@ -108,7 +108,7 @@ Whether you own a single rental in Port Chester or a portfolio spread across the
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in real estate, working with landlords, investors, and property managers on depreciation strategy, 1031 exchanges, entity structuring, and year-round tax planning. The firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, with bookkeeping, tax, and payroll compliance services bundled for a fixed monthly fee.
+Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in real estate, working with landlords, investors, and property managers on depreciation strategy, 1031 exchanges, entity structuring, and year-round tax planning. The firm serves real estate clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, with bookkeeping, tax, and payroll compliance available as a bundled fixed monthly fee.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA holds active CPA licensure and leads the firm's real estate practice
