@@ -172,20 +172,20 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services 
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "the tri-state area, Westchester, NY"
+      "@type": "AdministrativeArea",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": "Manhattan, NY"
+      "@type": "AdministrativeArea",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": "Brooklyn, NY"
+      "@type": "AdministrativeArea",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": "Asbury Park, NJ"
+      "@type": "AdministrativeArea",
+      "name": "Florida"
     }
   ],
   "sameAs": [
