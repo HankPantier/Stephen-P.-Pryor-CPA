@@ -79,7 +79,7 @@ Restaurant owners already juggle enough moving pieces without a bill that change
 ### One Bundled Fee
 icon: Wallet
 
-Bookkeeping, payroll compliance, and tax support are bundled into a single fixed monthly fee. No surprise invoices, no per-question charges, no guessing what next month costs.
+Bookkeeping, payroll compliance, and tax support are bundled into a single fixed monthly fee. Advisory services are available separately. No surprise invoices, no per-question charges, no guessing what next month costs.
 
 ### Real-Time Online Access
 icon: Globe
