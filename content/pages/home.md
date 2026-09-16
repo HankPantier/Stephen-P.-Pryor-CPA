@@ -2,7 +2,7 @@
 title: "Home | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
 url: "/"
 meta_title: "CPA in Port Chester, NY | Stephen P. Pryor, CPA Firm"
-meta_description: "Bundled bookkeeping, payroll compliance, and tax for one fixed monthly fee. Stephen P. Pryor, CPA serves Port Chester, NY construction, real estate, and restaurant owners across the tri-state area and beyond."
+meta_description: "Bundled bookkeeping, payroll compliance, and tax for one fixed monthly fee. Stephen P. Pryor, CPA serves construction, real estate, and restaurant owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 target_keyword: "CPA Port Chester NY"
 secondary_keywords: ["accountant Port Chester NY","tax preparation Port Chester NY","bookkeeping services Port Chester NY","payroll services Port Chester NY","construction accountant Port Chester NY","real estate CPA Port Chester NY","restaurant accountant Port Chester NY","small business CPA Port Chester NY","outsourced accounting Port Chester NY","Stephen Pryor CPA Port Chester"]
 canonical_url: "https://pryorcpa.com/"
