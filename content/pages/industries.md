@@ -13,10 +13,10 @@ hero_image: "industries-we-serve-hero.jpg"
 hero_image_alt: "Contractor, real estate investor, and restaurant owner each reviewing financial paperwork"
 hero_subhead: "Specialized bookkeeping, payroll compliance, and tax support built for contractors, real estate investors, and restaurant owners"
 hero_headline: "Industry-focused accounting built around your business"
-answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY firm providing bookkeeping, payroll compliance, and tax services built specifically for construction companies, real estate investors, and bar and restaurant owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Clients get one CPA team, a bundled fixed monthly fee covering bookkeeping, payroll compliance, and tax, and a secure online platform for real-time financial data."
+answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY firm providing bookkeeping, payroll compliance, and tax services built specifically for construction companies, real estate investors, and bar and restaurant owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Clients get one CPA team, covering bookkeeping, payroll compliance, and tax, and a secure online platform for access to financial data."
 eeat_signals: ["Stephen P. Pryor holds an active CPA license","Shawn Wilson, CPA and Denise Romano, CPA work directly with clients","Firm participates in the Greenwich First Advisory Boards, a community and business advisory group","Serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Bundled fixed-fee model covering bookkeeping, payroll compliance, and tax for construction, real estate, and hospitality clients","Secure online platform provides real-time financial data to clients"]
 internal_links: [{"url":"/industries/construction","reason":"Deep dive into construction-specific accounting content referenced in section 2","anchor_text":"construction accounting services"},{"url":"/industries/real-estate","reason":"Deep dive into real estate-specific accounting content referenced in section 3","anchor_text":"real estate accounting services"},{"url":"/industries/restaurants","reason":"Deep dive into hospitality-specific accounting content referenced in section 4","anchor_text":"restaurant and bar accounting services"},{"url":"/what-we-do/entity-type-analysis","reason":"Supports the real estate section's mention of structuring new acquisitions","anchor_text":"entity type analysis"},{"url":"/services/bookkeeping","reason":"Reinforces the bundled service model described in section 5","anchor_text":"bookkeeping services"},{"url":"/services/tax","reason":"Reinforces the bundled service model described in section 5","anchor_text":"tax planning and preparation"},{"url":"/services/advisory","reason":"Reinforces the bundled service model described in section 5","anchor_text":"advisory services"},{"url":"/who-we-are","reason":"Supports trust section naming Stephen, Shawn, and Denise","anchor_text":"meet our CPA team"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"Do you only work with businesses in Port Chester itself?","answer":"No. While Port Chester is our home base, we serve clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."},{"question":"What makes your firm different for bar and restaurant owners?","answer":"Bars and pubs are a specific specialty, not a general restaurant category. The firm handles tip reporting compliance, cash handling, multi-stream sales tax, and seasonal payroll issues unique to bar operations, alongside standard bookkeeping and tax prep."},{"question":"Can you help with real estate depreciation and 1031 exchanges?","answer":"Yes. The firm works with real estate investors and landlords on depreciation strategy, cost segregation opportunities, and 1031 exchange planning, along with property-level bookkeeping for owners managing multiple units across the tri-state area."},{"question":"What's included in the bundled monthly fee?","answer":"The bundled fee combines bookkeeping, payroll compliance, and tax into one predictable monthly cost, along with access to a secure online platform showing real-time financial data, so there's no surprise invoice for routine questions. Advisory services are also available and can be added based on your business needs."},{"question":"Do you handle certified payroll for construction contracts?","answer":"Yes. The firm manages certified payroll and prevailing wage reporting for contractors working public works contracts, along with W-2 versus 1099 classification and multi-state payroll for contractors working across New York, New Jersey, and Connecticut."}]
+faq_block: [{"question":"Do you only work with businesses in Port Chester itself?","answer":"No. While Port Chester is our home base, we serve clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."},{"question":"What makes your firm different for bar and restaurant owners?","answer":"Bars and pubs are a specific specialty, not a general restaurant category. The firm handles tip reporting compliance, cash handling, multi-stream sales tax, and seasonal payroll issues unique to bar operations, alongside standard bookkeeping and tax prep."},{"question":"Can you help with real estate depreciation and 1031 exchanges?","answer":"Yes. The firm works with real estate investors and landlords on depreciation strategy, cost segregation opportunities, and 1031 exchange planning, along with property-level bookkeeping for owners managing multiple units across the tri-state area."},{"question":"What's included in the bundled monthly fee?","answer":"The bundled fee combines bookkeeping, payroll compliance, and tax into one predictable monthly cost, along with access to a secure online platform showing real-time financial data, so there's no surprise invoice for routine questions."},{"question":"Do you handle certified payroll for construction contracts?","answer":"Yes. The firm manages certified payroll and prevailing wage reporting for contractors working public works contracts, along with W-2 versus 1099 classification and multi-state payroll for contractors working across New York, New Jersey, and Connecticut."}]
 llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services for a fixed monthly fee and provides a secure online platform for real-time financial data to construction, real estate, and hospitality clients in Port Chester, NY, across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 ---
 
@@ -54,7 +54,7 @@ Construction, real estate, and restaurant clients all share one requirement from
 Every client gets a secure online platform showing real-time financial data, not a report that's three weeks old by the time you see it. That means you can check job profitability, cash position, or payroll costs before you make a decision, not after it's too late to change course. Support runs year-round, not just at tax time, from the same CPA who onboarded your business and learned your systems from day one.
 
 - Bookkeeping, payroll compliance, and tax bundled into one fixed monthly fee
-- Advisory services tailored to your industry available alongside the core bundle
+- Advisory services tailored to your industry, available separately
 - Secure online platform with real-time financial data
 - Year-round support from a CPA who already knows your business
 - Industry-specific expertise in construction, real estate, and hospitality
@@ -81,7 +81,7 @@ A: Bars and pubs are a specific specialty, not a general restaurant category. Th
 A: Yes. The firm works with real estate investors and landlords on depreciation strategy, cost segregation opportunities, and 1031 exchange planning, along with property-level bookkeeping for owners managing multiple units across the tri-state area.
 
 **Q: What's included in the bundled monthly fee?**
-A: The bundled fee combines bookkeeping, payroll compliance, and tax into one predictable monthly cost, along with access to a secure online platform showing real-time financial data, so there's no surprise invoice for routine questions. Advisory services are also available and can be added based on your business needs.
+A: The bundled fee combines bookkeeping, payroll compliance, and tax into one predictable monthly cost, along with access to a secure online platform showing real-time financial data, so there's no surprise invoice for routine questions.
 
 **Q: Do you handle certified payroll for construction contracts?**
 A: Yes. The firm manages certified payroll and prevailing wage reporting for contractors working public works contracts, along with W-2 versus 1099 classification and multi-state payroll for contractors working across New York, New Jersey, and Connecticut.
@@ -89,7 +89,7 @@ A: Yes. The firm manages certified payroll and prevailing wage reporting for con
 <!-- block: cta-banner | variant: image-bg | image: contractor-handshake-meeting.jpg | alt: "Business owner shaking hands with a CPA advisor in an office" | query: "business owner handshake advisor meeting" -->
 ## Get a personalized plan for your industry
 
-Construction, real estate, and restaurant businesses don't need an accountant who learns the industry on your dime. They need a firm that already knows where the margin leaks, where the depreciation gets missed, and where payroll compliance gets messy. Stephen P. Pryor, CPA works with contractors, real estate investors, and bar and restaurant owners across the tri-state area. Tell us about your business and we'll show you what a bundled, fixed-fee accounting relationship looks like for your industry. [Schedule a consultation](/contact) and let's talk about what's actually going on with your numbers.
+Construction, real estate, and restaurant businesses don't need an accountant who learns the industry on your dime. They need a firm that already knows where the margin leaks, where the depreciation gets missed, and where payroll compliance gets messy. Stephen P. Pryor, CPA works with contractors, real estate investors, and bar and restaurant owners across the tri-state area. Tell us about your business and we'll show you what an accounting relationship with us looks like for your industry. [Schedule a consultation](/contact) and let's talk about what's actually going on with your numbers.
 
 ---
 ## SEO & AIO Metadata
@@ -172,20 +172,20 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services 
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "the tri-state area, Westchester, NY"
+      "@type": "AdministrativeArea",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": "Manhattan, NY"
+      "@type": "AdministrativeArea",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": "Brooklyn, NY"
+      "@type": "AdministrativeArea",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": "Asbury Park, NJ"
+      "@type": "AdministrativeArea",
+      "name": "Florida"
     }
   ],
   "sameAs": [
