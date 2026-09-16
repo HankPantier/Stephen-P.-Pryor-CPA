@@ -31,11 +31,11 @@ You run your business. We'll run your numbers. That's not a slogan hanging on a 
 Ready to stop guessing at your financials? [Schedule a consultation](/contact) and tell us what's keeping you up at night.
 
 <!-- block: content-split | variant: image-right | image: fixed-fee-dashboard.jpg | alt: "Business owner reviewing financial dashboard on a laptop screen" | query: "business owner reviewing laptop dashboard" -->
-## One fixed monthly fee for bookkeeping, payroll, tax, and advisory
+## One fixed monthly fee for bookkeeping, payroll compliance, and tax
 
-Most accounting firms bill by the hour or charge separately for every phone call and follow-up email. That adds up fast, and it makes budgeting for professional help nearly impossible. We bundle bookkeeping, payroll, tax preparation, and advisory support into one fixed monthly fee, so you know exactly what you're paying before the month even starts.
+Most accounting firms bill by the hour or charge separately for every phone call and follow-up email. That adds up fast, and it makes budgeting for professional help nearly impossible. We bundle bookkeeping, payroll compliance, and tax preparation into one fixed monthly fee, so you know exactly what you're paying before the month even starts. Advisory services are also available and tailored to each client's specific business needs.
 
-Every client gets access to a secure online platform showing real-time financial data: cash position, payroll runs, tax documents, all in one place and updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site in Westchester, a property closing in Manhattan, a bar in Brooklyn, or your home office in Asbury Park, any time you need to.
+Every client gets access to a secure online platform showing real-time financial data: cash position, payroll filings, tax documents, all in one place and updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site, a property closing, or wherever your business takes you, any time you need to.
 
 <!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Deep expertise in construction, real estate, bars and restaurants, and individuals
