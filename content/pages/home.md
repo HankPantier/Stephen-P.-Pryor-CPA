@@ -33,7 +33,7 @@ Ready to stop guessing at your financials? [Schedule a consultation](/contact) a
 <!-- block: content-split | variant: image-right | image: fixed-fee-dashboard.jpg | alt: "Business owner reviewing financial dashboard on a laptop screen" | query: "business owner reviewing laptop dashboard" -->
 ## One fixed monthly fee for bookkeeping, payroll compliance, and tax
 
-Most accounting firms bill by the hour or charge separately for every phone call and follow-up email. That adds up fast, and it makes budgeting for professional help nearly impossible. We bundle bookkeeping, payroll compliance, and tax preparation into one fixed monthly fee, so you know exactly what you're paying before the month even starts. Advisory services are also available and tailored to each client's specific business needs.
+Most accounting firms bill by the hour or charge separately for every phone call and follow-up email. That adds up fast, and it makes budgeting for professional help nearly impossible. We bundle bookkeeping, payroll compliance, and tax preparation into one fixed monthly fee, so you know exactly what you're paying before the month even starts.
 
 Every client gets access to a secure online platform showing real-time financial data: cash position, payroll filings, tax documents, all in one place and updated as transactions happen. No more waiting until March to find out how last year went. Check your numbers from a job site, a property closing, or wherever your business takes you, any time you need to.
 
