@@ -24,7 +24,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll complianc
 <!-- block: intro-text | variant: centered -->
 ## A CPA firm that treats your finances like they're our own
 
-Whether you're running a construction crew in Westchester County, managing rental properties across the tri-state area, pouring drinks in a bar or pub, or just trying to get your personal taxes under control, numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the tri-state area, the greater New York City area, Florida, and throughout the United States, building bookkeeping, payroll compliance, tax, and advisory support around how each client actually operates rather than a generic template.
+Whether you're running a construction crew in the tri-state area, managing rental properties across the tri-state area, pouring drinks in a bar or pub, or just trying to get your personal taxes under control, numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the tri-state area, the greater New York City area, Florida, and throughout the United States, building bookkeeping, payroll compliance, tax, and advisory support around how each client actually operates rather than a generic template.
 
 You run your business. We'll run your numbers. That's not a slogan hanging on a wall. It's how Stephen P. Pryor, CPA approaches every new client relationship: listen first, then build a system that fits.
 
@@ -50,7 +50,7 @@ Job costing gets messy fast when you're tracking profitability across three acti
 ### Real Estate
 icon: Building2
 
-Depreciation schedules, cost segregation studies, and 1031 exchanges each carry deadlines that don't forgive mistakes. We help real estate investors and property owners across Westchester County structure deals correctly the first time. [See how we help real estate businesses](/industries/real-estate)
+Depreciation schedules, cost segregation studies, and 1031 exchanges each carry deadlines that don't forgive mistakes. We help real estate investors and property owners across the tri-state area structure deals correctly the first time. [See how we help real estate businesses](/industries/real-estate)
 
 ### Bars and Restaurants
 icon: Wallet
@@ -70,7 +70,7 @@ Each service stands on its own, but most clients, construction businesses, real 
 ### Bookkeeping
 icon: Receipt
 
-Daily transaction classification, expense tracking, bill payment, and invoicing handled so your books are always current. [Learn more](/services/bookkeeping)
+Daily transaction classification, expense tracking, and invoicing handled so your books are always current. [Learn more](/services/bookkeeping)
 
 ### Payroll Compliance
 icon: Users
@@ -85,7 +85,7 @@ Year-round tax planning and preparation built around your entity type, not a ret
 ### Advisory
 icon: Lightbulb
 
-CFO-level financial analysis and strategic guidance without the cost of a full-time hire on payroll. [Learn more](/services/advisory)
+Financial analysis and strategic guidance tailored to your business, without the overhead of a full-time hire. [Learn more](/services/advisory)
 
 <!-- block: content-split | variant: image-left | image: cpa-client-consultation.jpg | alt: "CPA and small business owner discussing financial documents at a desk" | query: "accountant client consultation meeting office" -->
 ## Support that goes beyond tax season
@@ -95,7 +95,7 @@ Tax season is three months a year. Your business runs the other nine. When you o
 That upfront listening means fewer surprises later. If a vendor payment looks off in June or you're weighing an equipment purchase in September, you call us then, not in April. Our team stays in the conversation year-round, so decisions get made with current numbers instead of guesses. Personalized doesn't mean a form letter with your name on it. It means someone who already knows your business picks up the phone.
 
 <!-- block: checklist-section | variant: with-image-right | image: westchester-county-meeting.jpg | alt: "Advisor and business owner reviewing paperwork in a bright office" | query: "business meeting office consultation Westchester" -->
-## Trusted by business owners and families across Westchester County and beyond
+## Trusted by business owners and families across the tri-state area and beyond
 
 Word travels fast in a region this connected, and most new clients arrive by referral from someone whose books we already handle. From our office in Port Chester, NY, we serve construction businesses, real estate professionals, bar and restaurant owners, and individuals well beyond the county line.
 
@@ -207,19 +207,19 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll, business and personal tax, a
   "areaServed": [
     {
       "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "name": "Port Chester, NY"
     },
     {
       "@type": "City",
-      "name": "Manhattan, NY"
+      "name": "New York, NY"
     },
     {
       "@type": "City",
-      "name": "Brooklyn, NY"
+      "name": "New Jersey"
     },
     {
       "@type": "City",
-      "name": "Asbury Park, NJ"
+      "name": "Connecticut"
     }
   ],
   "sameAs": [
@@ -251,7 +251,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll, business and personal tax, a
       "name": "Does Stephen P. Pryor, CPA serve businesses outside Port Chester, NY?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. While the great majority of clients are based in Westchester County, NY, the firm also serves business owners in Manhattan, Brooklyn, and Asbury Park, NJ, plus individual and business clients across New York, New Jersey, Connecticut, and Florida."
+        "text": "Yes. While the great majority of clients are based in the tri-state area, NY, the firm also serves business owners in Manhattan, Brooklyn, and Connecticut, plus individual and business clients across New York, New Jersey, Connecticut, and Florida."
       }
     },
     {
