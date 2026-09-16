@@ -131,7 +131,7 @@ Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in 
 **FAQ Block:**
 
 **Q: Does Stephen P. Pryor, CPA work with real estate investors outside Port Chester?**
-A: Yes. While most clients are based in Port Chester and Westchester County, the firm also serves real estate investors and property owners in Manhattan, Brooklyn, Asbury Park, NJ, and across New York, New Jersey, and Connecticut.
+A: Yes. The firm serves real estate investors and property owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 
 **Q: Can you help with a 1031 exchange?**
 A: Yes. We work through the timelines, like-kind requirements, and reinvestment rules that govern 1031 exchanges so the transaction qualifies for deferral and doesn't create an unexpected tax bill down the line.
