@@ -72,10 +72,10 @@ icon: Receipt
 
 Daily transaction classification, expense tracking, bill payment, and invoicing handled so your books are always current. [Learn more](/services/bookkeeping)
 
-### Payroll
+### Payroll Compliance
 icon: Users
 
-Complex payroll processing and filings managed accurately and on time, whether you have five employees or fifty. [Learn more](/services/payroll)
+Complex payroll compliance filings managed accurately and on time, whether you have five employees or fifty. [Learn more](/services/payroll)
 
 ### Business Tax
 icon: FileText
