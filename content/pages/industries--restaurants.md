@@ -74,12 +74,12 @@ This is advisory work built for the reality of running a bar or restaurant, deli
 <!-- block: feature-grid | variant: 3-col -->
 ## One flat monthly fee, real-time financial data
 
-Restaurant owners already juggle enough moving pieces without a bill that changes every month depending on how many questions they asked. Bookkeeping, payroll compliance, and tax are bundled into one fixed monthly fee. Advisory services are available separately and tailored to each client's specific needs.
+Restaurant owners already juggle enough moving pieces without a bill that changes every month depending on how many questions they asked. Bookkeeping, payroll compliance, and tax are bundled into one fixed monthly fee.
 
 ### One Bundled Fee
 icon: Wallet
 
-Bookkeeping, payroll compliance, and tax support are bundled into a single fixed monthly fee. Advisory services are available separately. No surprise invoices, no per-question charges, no guessing what next month costs.
+Bookkeeping, payroll compliance, and tax support are bundled into a single fixed monthly fee. No surprise invoices, no per-question charges, no guessing what next month costs.
 
 ### Real-Time Online Access
 icon: Globe
