@@ -112,7 +112,7 @@ A: Yes. From its office in Port Chester, New York, the firm serves restaurant cl
 <!-- block: cta-banner | variant: image-bg | image: restaurant-kitchen-handshake.jpg | alt: "Restaurant owner shaking hands with advisor in kitchen setting" | query: "restaurant owner handshake kitchen" -->
 ## Let's talk about your restaurant's numbers
 
-If you're running a bar, pub, or restaurant in Port Chester or anywhere across the tri-state area, your books shouldn't be the thing keeping you up at night. Stephen P. Pryor, CPA and the team are ready to look at what you're working with now and show you where a fixed-fee, hands-on approach could make things easier.
+If you're running a bar, pub, or restaurant in Port Chester or anywhere across the tri-state area, your books shouldn't be the thing keeping you up at night. The Stephen P. Pryor, CPA team is ready to look at what you're working with now and show you where a fixed-fee, hands-on approach could make things easier.
 
 [Schedule a consultation](/contact) and bring your questions, your last few months of statements, or just your biggest current headache.
 
