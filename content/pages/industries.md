@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "industries-we-serve-hero.jpg"
 hero_image_alt: "Contractor, real estate investor, and restaurant owner each reviewing financial paperwork"
-hero_subhead: "Specialized bookkeeping, payroll, tax, and advisory support built for contractors, real estate investors, and restaurant owners"
+hero_subhead: "Specialized bookkeeping, payroll compliance, and tax support built for contractors, real estate investors, and restaurant owners"
 hero_headline: "Industry-focused accounting built around your business"
 answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY firm providing bookkeeping, payroll compliance, and tax services built specifically for construction companies, real estate investors, and bar and restaurant owners across the tri-state area. Clients get one CPA team, a bundled fixed monthly fee covering bookkeeping, payroll compliance, and tax, and a secure online platform for real-time financial data."
 eeat_signals: ["Stephen P. Pryor holds an active CPA license","Shawn Wilson, CPA and Denise Romano, CPA work directly with clients","Firm participates in the Greenwich First Advisory Boards, a community and business advisory group","Serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Bundled fixed-fee model covering bookkeeping, payroll compliance, and tax for construction, real estate, and hospitality clients","Secure online platform provides real-time financial data to clients"]
@@ -47,7 +47,7 @@ Bars and restaurants run on razor-thin margins, and most owners find out where t
 Tip reporting and cash handling compliance are areas where hospitality businesses get exposed to IRS scrutiny without meaning to. We set up reporting and payroll processes to keep that clean, and we handle the sales tax complexity that comes with multiple revenue streams: food, alcohol, and sometimes merchandise or events, each taxed differently. Seasonal staffing and multi-location payroll are wrinkles we're used to untangling for bar and pub owners specifically, not restaurants in general. If you're running a bar, pub, or small restaurant group in the tri-state area, our [restaurant and bar accounting services](/industries/restaurants) page walks through how we work.
 
 <!-- block: checklist-section | variant: with-image | image: online-accounting-platform-dashboard.jpg | alt: "Business owner viewing real-time financial dashboard on a laptop" | query: "business owner laptop financial dashboard" -->
-## One partner for bookkeeping, payroll, tax, and advisory
+## One partner for bookkeeping, payroll compliance, and tax
 
 Construction, real estate, and restaurant clients all share one requirement from their accountant: clear visibility of their finances with business guidance they can trust. We fold bookkeeping, payroll compliance, and tax into one bundled fee billed monthly, so there's no surprise invoice for a phone call or a mid-year question.
 
