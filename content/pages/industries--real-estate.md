@@ -100,7 +100,7 @@ A: Yes. Real estate agents and brokers face self-employment tax obligations that
 <!-- block: cta-banner | variant: image-bg | image: real-estate-consultation-handshake.jpg | alt: "Real estate investor shaking hands with CPA after consultation" | query: "business handshake office consultation" -->
 ## Let's talk about your real estate portfolio
 
-Whether you own a single rental in Port Chester or a portfolio spread across the tri-state area and beyond, the right accounting partner should already understand how real estate works before your first meeting. Bundled bookkeeping, tax, and payroll compliance services for a fixed monthly fee mean no surprise invoices, and our secure online platform keeps your numbers visible year-round, not just at filing time.
+Whether you own a single rental in Port Chester or a portfolio spread across the tri-state area and beyond, the right accounting partner should already understand how real estate works before your first meeting. Bundled bookkeeping, tax, and payroll compliance for a fixed monthly fee mean no surprise invoices, and our secure online platform keeps your numbers visible year-round, not just at filing time.
 
 [Schedule a consultation](/contact) and let's go through your properties together.
 
