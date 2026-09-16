@@ -265,9 +265,9 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services 
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Construction Accounting Port Chester NY | CPA Firm",
+  "name": "Construction CPA Port Chester NY | Stephen P. Pryor, CPA",
   "url": "https://pryorcpa.com/industries/construction",
-  "description": "Construction CPA services in Port Chester NY and : job costing, payroll, and tax planning for contractors. Schedule a consultation now.",
+  "description": "Construction CPA services in Port Chester NY: job costing, payroll compliance, and tax planning for contractors across the tri-state area and beyond. Schedule a consultation now.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
