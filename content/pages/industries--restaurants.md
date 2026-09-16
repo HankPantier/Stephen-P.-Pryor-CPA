@@ -43,7 +43,7 @@ The goal is simple: know your numbers in real time, not at month-end. Explore th
 
 Multi-shift schedules, tipped employees, and seasonal hires make payroll compliance more complicated for restaurants than for most other small businesses. Getting filings wrong means penalties, back pay, or an uncomfortable conversation with the IRS. Getting it right frees you up to run the floor instead of chasing paperwork.
 
-This firm handles payroll compliance, meaning accurate, timely payroll tax filings, not live payroll processing. If you already run payroll through a processor, the compliance side can still be managed here.
+This firm provides payroll compliance service, which means accurate, timely payroll tax filings submitted on your behalf. It is not a live payroll processing service. If you already run payroll through a processor, the compliance filings can still be handled here alongside your bookkeeping and tax.
 
 - Payroll tax filings completed accurately for tipped, hourly, salaried, and seasonal staff
 - Tip income reported correctly to meet IRS and New York state requirements
