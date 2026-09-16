@@ -32,9 +32,9 @@ Clients from Port Chester to the greater New York City area and beyond rely on t
 <!-- block: content-split | variant: image-left | image: restaurant-bookkeeping-daily-transactions.jpg | alt: "Bookkeeper organizing restaurant invoices and receipts at a desk" | query: "bookkeeper reviewing restaurant invoices" -->
 ## Bookkeeping built for daily restaurant operations
 
-Thin margins leave no room for guessing where the money went. Daily transaction classification, vendor bill pay, and expense tracking give you a clear picture of food cost, beverage cost, and labor spend as they happen, not weeks later when the numbers are already stale.
+Thin margins leave no room for guessing where the money went. Daily transaction classification and expense tracking give you a clear picture of food cost, beverage cost, and labor spend as they happen, not weeks later when the numbers are already stale.
 
-Every invoice gets categorized correctly the first time. Bills get paid on schedule so vendor relationships stay solid, and receivables get tracked so nothing slips through. That level of daily discipline is what turns a stack of receipts into a report you can actually use to make decisions about staffing, menu pricing, or that new keg order.
+Every invoice gets categorized correctly the first time. Receivables get tracked so nothing slips through. That level of daily discipline is what turns a clean set of records into a report you can actually use to make decisions about staffing, menu pricing, or that new keg order.
 
 The goal is simple: know your numbers in real time, not at month-end. Explore the full [bookkeeping services](/services/bookkeeping) built around this kind of daily-operation reality.
 
