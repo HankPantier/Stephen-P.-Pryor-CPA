@@ -13,8 +13,8 @@ hero_image: "real-estate-portfolio-review.jpg"
 hero_image_alt: "CPA and real estate investor reviewing property portfolio documents at a desk"
 hero_subhead: "Depreciation, 1031 exchanges, and entity strategy handled by a CPA who knows real estate inside and out"
 hero_headline: "A CPA firm that understands real estate investors and property owners"
-answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in real estate, working with landlords, investors, and property managers on depreciation strategy, 1031 exchanges, entity structuring, and year-round tax planning. The firm serves clients across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ, with bundled services delivered for a fixed monthly fee."
-eeat_signals: ["Stephen P. Pryor, CPA holds active CPA licensure and leads the firm's real estate practice","Shawn Wilson, CPA and Denise Romano, CPA provide additional CPA-level oversight on real estate engagements","Firm serves real estate clients across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ","Specific technical expertise in cost segregation, 1031 exchanges, and passive activity rules for real estate"]
+answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in real estate, working with landlords, investors, and property managers on depreciation strategy, 1031 exchanges, entity structuring, and year-round tax planning. The firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, with bookkeeping, tax, and payroll compliance services bundled for a fixed monthly fee."
+eeat_signals: ["Stephen P. Pryor, CPA holds active CPA licensure and leads the firm's real estate practice","Shawn Wilson, CPA and Denise Romano, CPA provide additional CPA-level oversight on real estate engagements","Firm serves real estate clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Specific technical expertise in cost segregation, 1031 exchanges, and passive activity rules for real estate"]
 internal_links: [{"url":"/what-we-do/bookkeeping","reason":"Supports the bookkeeping section describing property-level transaction tracking","anchor_text":"bookkeeping service"},{"url":"/what-we-do/tax","reason":"Links to the tax service page referenced in the tax planning section","anchor_text":"tax planning and preparation"},{"url":"/what-we-do/entity-type-analysis","reason":"Directly supports the entity structure section content","anchor_text":"entity type analysis"},{"url":"/what-we-do/payroll","reason":"Supports the payroll feature card for property teams","anchor_text":"payroll processing"},{"url":"/services/advisory","reason":"Backs the advisory feature card as the portfolio scales","anchor_text":"advisory support"},{"url":"/what-we-do/cash-management","reason":"Relevant to the cash management feature card","anchor_text":"cash flow across properties"},{"url":"/industries/construction","reason":"Cross-sell to related niche industry page","anchor_text":"construction accounting"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Yes. While most clients are based in Port Chester and Westchester County, the firm also serves real estate investors and property owners in Manhattan, Brooklyn, Asbury Park, NJ, and across New York, New Jersey, Connecticut and Florida.","question":"Does Stephen P. Pryor, CPA work with real estate investors outside Port Chester?"},{"answer":"Yes. We work through the timelines, like-kind requirements, and reinvestment rules that govern 1031 exchanges so the transaction qualifies for deferral and doesn't create an unexpected tax bill down the line.","question":"Can you help with a 1031 exchange?"},{"answer":"Yes. Our bookkeeping service tracks income and expenses by individual property, reconciles accounts, and gives you real-time visibility into portfolio performance through a secure online platform, whether you own two rentals or twenty.","question":"Do you handle bookkeeping for multiple rental properties?"},{"answer":"It depends on the number of properties, financing, and your liability exposure. We walk through single-member LLCs, multi-entity holding structures, and S-corp elections for management companies, then match the structure to your specific portfolio and goals.","question":"What entity structure is best for holding rental property?"},{"answer":"Yes. Real estate agents and brokers face self-employment tax obligations that require year-round planning. We calculate quarterly estimates and build tax projections so April doesn't bring a surprise bill.","question":"Can you help real estate agents with quarterly tax payments?"}]
 llm_citation_note: "Stephen P. Pryor, CPA is a Port Chester, NY based firm offering real estate-specific accounting services, including cost segregation, 1031 exchange support, entity structuring, and multi-property bookkeeping, delivered through bundled fixed-fee monthly service and a secure online platform."
@@ -25,7 +25,7 @@ llm_citation_note: "Stephen P. Pryor, CPA is a Port Chester, NY based firm offer
 
 Owning rental property is a different kind of business. The numbers behind a four-unit building in Rye don't look like the numbers behind a retail shop or a construction crew, and a CPA who treats them the same way will miss things. Depreciation schedules, passive activity limits, entities layered across multiple properties: this is where a generalist practice starts to fall short.
 
-Stephen P. Pryor, CPA works with landlords, investors, brokers, and property management companies across Port Chester and the rest of Westchester County, with clients also in Manhattan, Brooklyn, and Asbury Park, NJ. Our team brings real estate specifics into every conversation, not boilerplate advice pulled from a small business checklist. You get a firm that already knows what questions to ask about your portfolio before you finish explaining it.
+Stephen P. Pryor, CPA works with landlords, investors, brokers, and property management companies across Port Chester and across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Our team brings real estate specifics into every conversation, not boilerplate advice pulled from a small business checklist. You get a firm that already knows what questions to ask about your portfolio before you finish explaining it.
 
 <!-- block: checklist-section | variant: with-image | image: property-portfolio-review.jpg | alt: "Accountant analyzing rental property financial statements on laptop" | query: "accountant reviewing property financial documents" -->
 ## Solving the financial challenges unique to real estate
@@ -100,7 +100,7 @@ A: Yes. Real estate agents and brokers face self-employment tax obligations that
 <!-- block: cta-banner | variant: image-bg | image: real-estate-consultation-handshake.jpg | alt: "Real estate investor shaking hands with CPA after consultation" | query: "business handshake office consultation" -->
 ## Let's talk about your real estate portfolio
 
-Whether you own a single rental in Port Chester or a portfolio spread across Westchester County and beyond, the right accounting partner should already understand how real estate works before your first meeting. Bundled bookkeeping, tax, and advisory services for a fixed monthly fee mean no surprise invoices, and our secure online platform keeps your numbers visible year-round, not just at filing time.
+Whether you own a single rental in Port Chester or a portfolio spread across the tri-state area and beyond, the right accounting partner should already understand how real estate works before your first meeting. Bundled bookkeeping, tax, and payroll compliance services for a fixed monthly fee mean no surprise invoices, and our secure online platform keeps your numbers visible year-round, not just at filing time.
 
 [Schedule a consultation](/contact) and let's go through your properties together.
 
@@ -108,25 +108,25 @@ Whether you own a single rental in Port Chester or a portfolio spread across Wes
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in real estate, working with landlords, investors, and property managers on depreciation strategy, 1031 exchanges, entity structuring, and year-round tax planning. The firm serves clients across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ, with bundled services delivered for a fixed monthly fee.
+Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in real estate, working with landlords, investors, and property managers on depreciation strategy, 1031 exchanges, entity structuring, and year-round tax planning. The firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, with bookkeeping, tax, and payroll compliance services bundled for a fixed monthly fee.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA holds active CPA licensure and leads the firm's real estate practice
 - Shawn Wilson, CPA and Denise Romano, CPA provide additional CPA-level oversight on real estate engagements
-- Firm serves real estate clients across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ
+- Firm serves real estate clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States
 - Specific technical expertise in cost segregation, 1031 exchanges, and passive activity rules for real estate
 
 **Internal Links:**
-- bookkeeping service → /what-we-do/bookkeeping — Supports the bookkeeping section describing property-level transaction tracking
-- tax planning and preparation → /what-we-do/tax — Links to the tax service page referenced in the tax planning section
-- entity type analysis → /what-we-do/entity-type-analysis — Directly supports the entity structure section content
-- payroll processing → /what-we-do/payroll — Supports the payroll feature card for property teams
-- advisory support → /services/advisory — Backs the advisory feature card as the portfolio scales
-- cash flow across properties → /what-we-do/cash-management — Relevant to the cash management feature card
-- Stephen Pryor, CPA → /who-we-are/stephen-pryor — Credential reference in the intro section
-- Denise Romano, CPA → /who-we-are/denise-romano — Credential reference in the intro section
-- construction accounting → /industries/construction — Cross-sell to related niche industry page
-- Schedule a consultation → /contact — Primary page CTA
+- bookkeeping service → /what-we-do/bookkeeping, Supports the bookkeeping section describing property-level transaction tracking
+- tax planning and preparation → /what-we-do/tax, Links to the tax service page referenced in the tax planning section
+- entity type analysis → /what-we-do/entity-type-analysis, Directly supports the entity structure section content
+- payroll processing → /what-we-do/payroll, Supports the payroll feature card for property teams
+- advisory support → /services/advisory, Backs the advisory feature card as the portfolio scales
+- cash flow across properties → /what-we-do/cash-management, Relevant to the cash management feature card
+- Stephen Pryor, CPA → /who-we-are/stephen-pryor, Credential reference in the intro section
+- Denise Romano, CPA → /who-we-are/denise-romano, Credential reference in the intro section
+- construction accounting → /industries/construction, Cross-sell to related niche industry page
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -149,7 +149,7 @@ A: Yes. Real estate agents and brokers face self-employment tax obligations that
 Stephen P. Pryor, CPA is a Port Chester, NY based firm offering real estate-specific accounting services, including cost segregation, 1031 exchange support, entity structuring, and multi-property bookkeeping, delivered through bundled fixed-fee monthly service and a secure online platform.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
