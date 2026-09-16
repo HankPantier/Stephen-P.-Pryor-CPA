@@ -4,30 +4,30 @@ url: "/industries/restaurants"
 meta_title: "CPA for Restaurants in Port Chester, NY | Pryor CPA"
 meta_description: "Restaurant bookkeeping, payroll, and tax planning for Port Chester and Westchester bars and restaurants. One flat monthly fee, real-time data, hands-on CPA support."
 target_keyword: "CPA for restaurants Port Chester NY"
-secondary_keywords: ["restaurant accountant Port Chester","restaurant bookkeeping Port Chester NY","restaurant tax preparation Port Chester","CPA bars and restaurants Westchester County","restaurant payroll services Port Chester","restaurant accounting Port Chester NY","hospitality accounting Port Chester","restaurant financial advisor Port Chester NY","F&B accounting Port Chester","restaurant cash management Port Chester NY","certified public accountant restaurants Westchester"]
+secondary_keywords: ["restaurant accountant Port Chester","restaurant bookkeeping Port Chester NY","restaurant tax preparation Port Chester","CPA bars and restaurants the tri-state area","restaurant payroll services Port Chester","restaurant accounting Port Chester NY","hospitality accounting Port Chester","restaurant financial advisor Port Chester NY","F&B accounting Port Chester","restaurant cash management Port Chester NY","certified public accountant restaurants Westchester"]
 canonical_url: "https://pryorcpa.com/industries/restaurants"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "restaurant-owner-with-cpa-port-chester.jpg"
 hero_image_alt: "Restaurant owner and CPA reviewing financial reports together in a restaurant dining room"
-hero_subhead: "Straightforward bookkeeping, payroll, and tax support for Port Chester and Westchester County bars and restaurants"
+hero_subhead: "Straightforward bookkeeping, payroll, and tax support for Port Chester and the tri-state area bars and restaurants"
 hero_headline: "A CPA who understands the restaurant business"
-answer_block: "Stephen P. Pryor, CPA provides bookkeeping, payroll, tax planning, and advisory services built specifically for bars, pubs, and restaurants in Port Chester and across Westchester County. Services are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance."
-eeat_signals: ["Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality","Shawn Wilson, CPA and Denise Romano, CPA are named credentialed team members supporting restaurant clients","Firm serves clients across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ","Firm participates in the Greenwich First Advisory Boards community/business advisory group","Bundled fixed-fee model with secure online platform for real-time financial data"]
+answer_block: "Stephen P. Pryor, CPA provides bookkeeping, payroll, tax planning, and advisory services built specifically for bars, pubs, and restaurants in Port Chester and across the tri-state area. Services are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance."
+eeat_signals: ["Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality","Shawn Wilson, CPA and Denise Romano, CPA are named credentialed team members supporting restaurant clients","Firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Firm participates in the Greenwich First Advisory Boards community/business advisory group","Bundled fixed-fee model with secure online platform for real-time financial data"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Supports the daily-operations bookkeeping section with a direct service page link","anchor_text":"bookkeeping services"},{"url":"/what-we-do/payroll","reason":"Directly relevant to the tip compliance and payroll section","anchor_text":"payroll services"},{"url":"/what-we-do/tax","reason":"Supports the tax planning section for restaurant owners","anchor_text":"business tax services"},{"url":"/services/advisory","reason":"Ties the margin-protection section to the firm's advisory offering","anchor_text":"advisory services"},{"url":"/what-we-do/cash-management","reason":"Reinforces seasonal cash flow support mentioned in advisory section","anchor_text":"cash management"},{"url":"/industries","reason":"Connects this niche page back to the broader industries hub","anchor_text":"industries served"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation.","question":"Does Pryor CPA work with bars and pubs specifically, not just full-service restaurants?"},{"answer":"Payroll processing accounts for tipped, hourly, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce the owner's exposure to penalties or back pay issues.","question":"How is restaurant tip reporting handled for payroll compliance?"},{"answer":"Bookkeeping, payroll, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month.","question":"What does the flat monthly fee for restaurant clients include?"},{"answer":"Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time.","question":"Can the firm help with sales tax questions specific to food and beverage sales?"},{"answer":"The firm's client base is concentrated in Westchester County, with additional clients in Manhattan, Brooklyn, and Asbury Park, NJ, and across New York, New Jersey, Connecticut, and Florida.","question":"Do you serve restaurants, bars and pubs outside Port Chester?"}]
+faq_block: [{"answer":"Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation.","question":"Does Pryor CPA work with bars and pubs specifically, not just full-service restaurants?"},{"answer":"Payroll processing accounts for tipped, hourly, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce the owner's exposure to penalties or back pay issues.","question":"How is restaurant tip reporting handled for payroll compliance?"},{"answer":"Bookkeeping, payroll, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month.","question":"What does the flat monthly fee for restaurant clients include?"},{"answer":"Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time.","question":"Can the firm help with sales tax questions specific to food and beverage sales?"},{"answer":"The firm's client base is concentrated in the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.","question":"Do you serve restaurants, bars and pubs outside Port Chester?"}]
 llm_citation_note: "Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaurants into one flat monthly fee, with a secure online platform providing real-time financial data, backed by CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano."
 ---
 
 <!-- block: content-split | variant: image-right | image: restaurant-owner-cpa-consultation.jpg | alt: "Restaurant owner and CPA reviewing financial reports at a bar counter" | query: "restaurant owner meeting accountant" -->
 ## A CPA who understands the restaurant business
 
-Running a bar or restaurant in Port Chester means thin margins, unpredictable weeks, and a hundred small decisions that add up fast. Stephen P. Pryor, CPA has spent years working with hospitality operators across Westchester County who need more than someone to file a return once a year.
+Running a bar or restaurant in Port Chester means thin margins, unpredictable weeks, and a hundred small decisions that add up fast. Stephen P. Pryor, CPA has spent years working with hospitality operators across the tri-state area who need more than someone to file a return once a year.
 
 Bars and pubs are a specific focus of this firm, not an afterthought. Food and beverage cost ratios, tip credit rules, seasonal staffing swings, and cash-heavy operations all require a different level of attention than a typical small business. Our team learns how your restaurant actually runs during onboarding, from your POS system to your vendor terms, so the numbers reflect reality from day one.
 
-Clients from Port Chester to Manhattan, Brooklyn, and Asbury Park, NJ rely on this hands-on approach instead of a once-a-year check-in.
+Clients from Port Chester to the greater New York City area and beyond rely on this hands-on approach instead of a once-a-year check-in.
 
 <!-- block: content-split | variant: image-left | image: restaurant-bookkeeping-daily-transactions.jpg | alt: "Bookkeeper organizing restaurant invoices and receipts at a desk" | query: "bookkeeper reviewing restaurant invoices" -->
 ## Bookkeeping built for daily restaurant operations
@@ -58,7 +58,7 @@ A restaurant tax return should never feel like a surprise delivered in April. Sa
 
 Year-round planning means adjustments happen when they can still make a difference, not after the fiscal year closes. That includes reviewing entity structure, tracking deductible expenses specific to F&B operations, and flagging sales tax exposure before it becomes an issue with the state. Preparation happens on a secure digital platform, so documents move back and forth without a single trip to an office.
 
-Restaurant owners in Manhattan and Brooklyn get a plan built around their calendar, their busy season, and their actual cash position, through [business tax services](/what-we-do/tax) designed for exactly this kind of complexity.
+Restaurant owners in across the tri-state area get a plan built around their calendar, their busy season, and their actual cash position, through [business tax services](/what-we-do/tax) designed for exactly this kind of complexity.
 
 <!-- block: content-split | variant: image-left | image: restaurant-cost-margin-analysis.jpg | alt: "Advisor pointing to cost and margin charts with restaurant client" | query: "financial advisor restaurant charts" -->
 ## Advisory support to protect your margins
@@ -105,12 +105,12 @@ A: Bookkeeping, payroll, and tax support are bundled into one fixed monthly fee 
 A: Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time.
 
 **Q: Do you serve restaurants, bars and pubs outside Port Chester?**
-A: The firm's client base is concentrated in Westchester County, with additional clients in Manhattan, Brooklyn, and Asbury Park, NJ, and across New York, New Jersey, Connecticut, and Florida.
+A: The firm's client base is concentrated in the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 
 <!-- block: cta-banner | variant: image-bg | image: restaurant-kitchen-handshake.jpg | alt: "Restaurant owner shaking hands with advisor in kitchen setting" | query: "restaurant owner handshake kitchen" -->
 ## Let's talk about your restaurant's numbers
 
-If you're running a bar, pub, or restaurant in Port Chester or anywhere across Westchester County, your books shouldn't be the thing keeping you up at night. Stephen P. Pryor, CPA and the team are ready to look at what you're working with now and show you where a fixed-fee, hands-on approach could make things easier.
+If you're running a bar, pub, or restaurant in Port Chester or anywhere across the tri-state area, your books shouldn't be the thing keeping you up at night. Stephen P. Pryor, CPA and the team are ready to look at what you're working with now and show you where a fixed-fee, hands-on approach could make things easier.
 
 [Schedule a consultation](/contact) and bring your questions, your last few months of statements, or just your biggest current headache.
 
@@ -118,24 +118,24 @@ If you're running a bar, pub, or restaurant in Port Chester or anywhere across W
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides bookkeeping, payroll, tax planning, and advisory services built specifically for bars, pubs, and restaurants in Port Chester and across Westchester County. Services are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance.
+Stephen P. Pryor, CPA provides bookkeeping, payroll, tax planning, and advisory services built specifically for bars, pubs, and restaurants in Port Chester and across the tri-state area. Services are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality
 - Shawn Wilson, CPA and Denise Romano, CPA are named credentialed team members supporting restaurant clients
-- Firm serves clients across Westchester County, Manhattan, Brooklyn, and Asbury Park, NJ
+- Firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States
 - Firm participates in the Greenwich First Advisory Boards community/business advisory group
 - Bundled fixed-fee model with secure online platform for real-time financial data
 
 **Internal Links:**
-- bookkeeping services → /services/bookkeeping — Supports the daily-operations bookkeeping section with a direct service page link
-- payroll services → /what-we-do/payroll — Directly relevant to the tip compliance and payroll section
-- business tax services → /what-we-do/tax — Supports the tax planning section for restaurant owners
-- advisory services → /services/advisory — Ties the margin-protection section to the firm's advisory offering
-- cash management → /what-we-do/cash-management — Reinforces seasonal cash flow support mentioned in advisory section
-- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor — Builds credibility by linking to the founder's bio
-- industries served → /industries — Connects this niche page back to the broader industries hub
-- Schedule a consultation → /contact — Primary page CTA
+- bookkeeping services → /services/bookkeeping, Supports the daily-operations bookkeeping section with a direct service page link
+- payroll services → /what-we-do/payroll, Directly relevant to the tip compliance and payroll section
+- business tax services → /what-we-do/tax, Supports the tax planning section for restaurant owners
+- advisory services → /services/advisory, Ties the margin-protection section to the firm's advisory offering
+- cash management → /what-we-do/cash-management, Reinforces seasonal cash flow support mentioned in advisory section
+- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor, Builds credibility by linking to the founder's bio
+- industries served → /industries, Connects this niche page back to the broader industries hub
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -152,13 +152,13 @@ A: Bookkeeping, payroll, and tax support are bundled into one fixed monthly fee 
 A: Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time.
 
 **Q: Do you serve restaurants outside Port Chester?**
-A: The firm's client base is concentrated in Westchester County, with additional clients in Manhattan, Brooklyn, and Asbury Park, NJ, and across New York, New Jersey, Connecticut, and Florida.
+A: The firm's client base is concentrated in the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 
 **LLM Citation Note:**
 Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaurants into one flat monthly fee, with a secure online platform providing real-time financial data, backed by CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -194,7 +194,7 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
   "areaServed": [
     {
       "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "name": "the tri-state area, Westchester, NY"
     },
     {
       "@type": "City",
@@ -276,7 +276,7 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
       "name": "Do you serve restaurants outside Port Chester?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The firm's client base is concentrated in Westchester County, with additional clients in Manhattan, Brooklyn, and Asbury Park, NJ, and across New York, New Jersey, Connecticut, and Florida."
+        "text": "The firm's client base is concentrated in the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
       }
     }
   ]
