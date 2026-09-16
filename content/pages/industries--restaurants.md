@@ -4,7 +4,7 @@ url: "/industries/restaurants"
 meta_title: "CPA for Restaurants in Port Chester, NY | Pryor CPA"
 meta_description: "Restaurant bookkeeping, payroll compliance, and tax planning for bars and restaurants across New York, New Jersey, Connecticut, and beyond. One flat monthly fee, real-time data, hands-on CPA support."
 target_keyword: "CPA for restaurants Port Chester NY"
-secondary_keywords: ["restaurant accountant Port Chester","restaurant bookkeeping Port Chester NY","restaurant tax preparation Port Chester","CPA bars and restaurants the tri-state area","restaurant payroll services Port Chester","restaurant accounting Port Chester NY","hospitality accounting Port Chester","restaurant financial advisor Port Chester NY","F&B accounting Port Chester","restaurant cash management Port Chester NY","certified public accountant restaurants Westchester"]
+secondary_keywords: ["restaurant accountant Port Chester","restaurant bookkeeping Port Chester NY","restaurant tax preparation Port Chester","CPA bars and restaurants the tri-state area","restaurant payroll services Port Chester","restaurant accounting Port Chester NY","hospitality accounting Port Chester","restaurant financial advisor Port Chester NY","F&B accounting Port Chester","restaurant cash management Port Chester NY","certified public accountant restaurants "]
 canonical_url: "https://pryorcpa.com/industries/restaurants"
 schema_markup: "Service"
 hero: "hero-split"
@@ -183,7 +183,7 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
   "url": "https://pryorcpa.com",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "363 Westchester Ave",
+    "streetAddress": "363  Ave",
     "addressLocality": "Port Chester",
     "addressRegion": "NY",
     "postalCode": "10573",
@@ -194,19 +194,19 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
   "areaServed": [
     {
       "@type": "City",
-      "name": "the tri-state area, Westchester, NY"
+      "name": "the tri-state area, "
     },
     {
       "@type": "City",
-      "name": "Manhattan, NY"
+      "name": ""
     },
     {
       "@type": "City",
-      "name": "Brooklyn, NY"
+      "name": ""
     },
     {
       "@type": "City",
-      "name": "Asbury Park, NJ"
+      "name": ""
     }
   ],
   "sameAs": [
@@ -288,7 +288,7 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
   "@type": "Service",
   "name": "CPA for Restaurants in Port Chester, NY | Pryor CPA",
   "url": "https://pryorcpa.com/industries/restaurants",
-  "description": "Restaurant bookkeeping, payroll, and tax planning for Port Chester and Westchester bars and restaurants. One flat monthly fee, real-time data, hands-on CPA support.",
+  "description": "Restaurant bookkeeping, payroll, and tax planning for Port Chester and  bars and restaurants. One flat monthly fee, real-time data, hands-on CPA support.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
