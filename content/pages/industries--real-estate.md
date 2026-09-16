@@ -2,7 +2,7 @@
 title: "Real Estate | Stephen P. Pryor, CPA"
 url: "/industries/real-estate"
 meta_title: "Real Estate CPA in Port Chester, NY | Pryor CPA"
-meta_description: "Real estate CPA serving Port Chester and Westchester County landlords and investors. Depreciation, 1031 exchanges, entity setup, bookkeeping, and tax planning."
+meta_description: "Real estate CPA serving landlords and investors across New York, New Jersey, Connecticut, and Florida. Depreciation, 1031 exchanges, entity setup, bookkeeping, and tax planning."
 target_keyword: "real estate CPA Port Chester NY"
 secondary_keywords: ["real estate accountant Port Chester","CPA for real estate agents Port Chester NY","real estate tax preparation Port Chester","property management accounting Port Chester","real estate bookkeeping services Port Chester NY","CPA real estate investors Port Chester","real estate business tax CPA near Port Chester","landlord accounting Port Chester NY","real estate entity setup Port Chester","1031 exchange CPA Port Chester","real estate depreciation services Port Chester NY","rental property accounting Port Chester","commercial real estate CPA Port Chester","real estate payroll services Port Chester NY"]
 canonical_url: "https://pryorcpa.com/industries/real-estate"
