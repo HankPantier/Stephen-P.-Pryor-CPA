@@ -119,16 +119,16 @@ Stephen P. Pryor, CPA provides construction accounting in Port Chester, NY, incl
 **FAQ Block:**
 
 **Q: Do you work with construction companies outside Port Chester?**
-A: Yes. The firm serves construction businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors regardless of where a job site is located.
+A: Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located.
 
 **Q: What makes construction bookkeeping different from regular bookkeeping?**
 A: Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each individual job. Labor, materials, subcontractor draws, and retainage all get coded to the specific contract they belong to, instead of getting lumped into general business expenses.
 
 **Q: Can you handle certified payroll and prevailing wage requirements?**
-A: Yes. Payroll services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site.
+A: Yes. Payroll compliance services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site.
 
 **Q: How does the fixed monthly fee work for construction clients?**
-A: Bookkeeping, payroll, tax, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue don't turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round.
+A: Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round.
 
 **Q: What entity structure is best for a construction business?**
 A: It depends on contract size, number of partners, and growth plans. Entity type analysis compares S-corp, partnership, and LLC structures against your specific state and federal tax situation, so the decision is based on where the business is headed, not a generic recommendation.
