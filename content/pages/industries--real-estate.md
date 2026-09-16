@@ -120,7 +120,7 @@ Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in 
 - bookkeeping service → /what-we-do/bookkeeping, Supports the bookkeeping section describing property-level transaction tracking
 - tax planning and preparation → /what-we-do/tax, Links to the tax service page referenced in the tax planning section
 - entity type analysis → /what-we-do/entity-type-analysis, Directly supports the entity structure section content
-- payroll processing → /what-we-do/payroll, Supports the payroll feature card for property teams
+- payroll compliance → /what-we-do/payroll, Supports the payroll compliance feature card for property teams
 - advisory support → /services/advisory, Backs the advisory feature card as the portfolio scales
 - cash flow across properties → /what-we-do/cash-management, Relevant to the cash management feature card
 - Stephen Pryor, CPA → /who-we-are/stephen-pryor, Credential reference in the intro section
