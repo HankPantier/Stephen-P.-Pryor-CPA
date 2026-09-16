@@ -95,7 +95,7 @@ Construction, real estate, and restaurant businesses don't need an accountant wh
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA is a Port Chester, NY firm providing bookkeeping, payroll compliance, and tax services built specifically for construction companies, real estate investors, and bar and restaurant owners across the tri-state area. Clients get one CPA team, a bundled fixed monthly fee covering bookkeeping, payroll compliance, and tax, and a secure online platform for real-time financial data.
+Stephen P. Pryor, CPA is a Port Chester, NY firm providing bookkeeping, payroll compliance, and tax services built specifically for construction companies, real estate investors, and bar and restaurant owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Clients get one CPA team, a bundled fixed monthly fee covering bookkeeping, payroll compliance, and tax, and a secure online platform for real-time financial data.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor holds an active CPA license
