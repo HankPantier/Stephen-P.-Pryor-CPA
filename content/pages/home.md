@@ -97,12 +97,11 @@ That upfront listening means fewer surprises later. If a vendor payment looks of
 <!-- block: checklist-section | variant: with-image-right | image: westchester-county-meeting.jpg | alt: "Advisor and business owner reviewing paperwork in a bright office" | query: "business meeting office consultation Westchester" -->
 ## Trusted by business owners and families across Westchester County and beyond
 
-Word travels fast in a region this connected, and most new clients arrive by referral from someone whose books we already handle. The great majority of our clients are based in Westchester County, NY, but we serve construction businesses, real estate professionals, bar and restaurant owners, and individuals well beyond the county line.
+Word travels fast in a region this connected, and most new clients arrive by referral from someone whose books we already handle. From our office in Port Chester, NY, we serve construction businesses, real estate professionals, bar and restaurant owners, and individuals well beyond the county line.
 
-- Construction businesses, real estate investors, and bar and restaurant owners across Westchester County, NY
-- Individual and business clients in Manhattan and Brooklyn, NY
-- Business owners and individuals in Asbury Park, NJ
-- Tax clients across New York, New Jersey, Connecticut, and Florida
+- Construction businesses, real estate investors, and bar and restaurant owners across the tri-state area
+- Business and individual clients across the greater New York City area
+- Clients in Florida and throughout the United States
 - Practical financial guidance published through the firm's own resources, including tips on building healthier money habits
 
 Want to see if we're a fit? [Meet the team](/who-we-are) or reach out with what you're currently dealing with.
