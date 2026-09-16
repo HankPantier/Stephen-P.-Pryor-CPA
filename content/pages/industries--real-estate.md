@@ -64,7 +64,7 @@ This isn't a one-time conversation. As a portfolio grows or a property gets refi
 <!-- block: feature-grid | variant: 3-col -->
 ## Payroll and advisory support as your real estate business grows
 
-### Payroll for property teams
+### Payroll compliance for property teams
 icon: Users
 
 On-site managers, maintenance staff, and leasing agents all need accurate, on-time payroll, with the right handling for W-2 employees and 1099 contractors alike. We manage processing and filings so nothing falls through the cracks as your team expands.
