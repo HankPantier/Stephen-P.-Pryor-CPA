@@ -102,10 +102,10 @@ You already carry enough on a job site. Let Stephen P. Pryor, CPA carry the numb
 Stephen P. Pryor, CPA provides construction accounting in Port Chester, NY, including job-cost-based bookkeeping, payroll compliance for crews and subcontractors, and year-round tax planning. Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, with a secure online platform giving contractors real-time access to job costs and cash flow.
 
 **E-E-A-T Signals:**
-- Stephen P. Pryor, CPA - licensed CPA serving construction clients in Port Chester and 
+- Stephen P. Pryor, CPA - licensed CPA serving construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States
 - Shawn Wilson, CPA - firm accountant supporting construction and real estate clients
 - Denise Romano, CPA - firm accountant supporting construction and real estate clients
-- Bundled fixed-monthly-fee model covering bookkeeping, payroll, tax, and advisory for construction businesses
+- Bundled fixed-monthly-fee model covering bookkeeping, payroll compliance, and tax for construction businesses
 - Secure online platform delivering real-time job cost and cash flow data
 
 **Internal Links:**
