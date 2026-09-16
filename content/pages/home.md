@@ -206,20 +206,20 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and business and 
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Port Chester, NY"
+      "@type": "State",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": "New York, NY"
-    },
-    {
-      "@type": "City",
+      "@type": "State",
       "name": "New Jersey"
     },
     {
-      "@type": "City",
+      "@type": "State",
       "name": "Connecticut"
+    },
+    {
+      "@type": "State",
+      "name": "Florida"
     }
   ],
   "sameAs": [
