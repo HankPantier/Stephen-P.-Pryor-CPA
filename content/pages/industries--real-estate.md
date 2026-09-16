@@ -279,7 +279,7 @@ Stephen P. Pryor, CPA is a Port Chester, NY based firm offering real estate-spec
   "@type": "Service",
   "name": "Real Estate CPA in Port Chester, NY | Pryor CPA",
   "url": "https://pryorcpa.com/industries/real-estate",
-  "description": "Real estate CPA serving Port Chester and Westchester County landlords and investors. Depreciation, 1031 exchanges, entity setup, bookkeeping, and tax planning.",
+  "description": "Real estate CPA serving Port Chester and  landlords and investors. Depreciation, 1031 exchanges, entity setup, bookkeeping, and tax planning.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
