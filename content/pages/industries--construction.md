@@ -247,7 +247,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services 
       "name": "How does the fixed monthly fee work for construction clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bookkeeping, payroll, tax, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue don't turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round."
+        "text": "Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round."
       }
     },
     {
