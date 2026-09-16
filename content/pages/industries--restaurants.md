@@ -150,7 +150,7 @@ A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, a
 **Q: What does the flat monthly fee for restaurant clients include?**
 A: Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are also available and tailored to each client's specific needs.
 
-**Q: Can this firm help with sales tax questions specific to food and beverage sales?**
+**Q: Can the firm help with sales tax questions specific to food and beverage sales?**
 A: Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time.
 
 **Q: Do you serve restaurants, bars and pubs outside Port Chester?**
