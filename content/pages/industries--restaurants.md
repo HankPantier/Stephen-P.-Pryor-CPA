@@ -275,10 +275,10 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
     },
     {
       "@type": "Question",
-      "name": "Do you serve restaurants outside Port Chester?",
+      "name": "Do you serve restaurants, bars and pubs outside Port Chester?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The firm's client base is concentrated in the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
+        "text": "Yes. From its office in Port Chester, New York, the firm serves restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
       }
     }
   ]
