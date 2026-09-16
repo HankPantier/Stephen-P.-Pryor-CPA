@@ -262,7 +262,7 @@ Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaur
       "name": "What does the flat monthly fee for restaurant clients include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are available separately from the bundled fee."
+        "text": "Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are also available and tailored to each client's specific needs."
       }
     },
     {
