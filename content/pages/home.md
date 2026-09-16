@@ -24,7 +24,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll complianc
 <!-- block: intro-text | variant: centered -->
 ## A CPA firm that treats your finances like they're our own
 
-Whether you're running a construction crew in Westchester County, managing rental properties in Manhattan, pouring drinks in Brooklyn, or just trying to get your personal taxes under control in Asbury Park, NJ, numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the New York metro area, building bookkeeping, payroll, tax, and advisory support around how each client actually operates rather than a generic template.
+Whether you're running a construction crew in Westchester County, managing rental properties across the tri-state area, pouring drinks in a bar or pub, or just trying to get your personal taxes under control, numbers shouldn't be one more thing keeping you up at night. Stephen P. Pryor, CPA works with construction businesses, real estate professionals, bar and restaurant owners, and individuals across the tri-state area, the greater New York City area, Florida, and throughout the United States, building bookkeeping, payroll compliance, tax, and advisory support around how each client actually operates rather than a generic template.
 
 You run your business. We'll run your numbers. That's not a slogan hanging on a wall. It's how Stephen P. Pryor, CPA approaches every new client relationship: listen first, then build a system that fits.
 
