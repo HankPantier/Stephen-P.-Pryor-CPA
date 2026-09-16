@@ -1,10 +1,10 @@
 ---
 title: "Construction | Stephen P. Pryor, CPA"
 url: "/industries/construction"
-meta_title: "Construction Accounting Port Chester NY | CPA Firm"
-meta_description: "Construction CPA services in Port Chester NY and Westchester County: job costing, payroll, and tax planning for contractors. Schedule a consultation now."
+meta_title: "Construction CPA Port Chester NY | Stephen P. Pryor, CPA"
+meta_description: "Construction CPA services in Port Chester NY: job costing, payroll compliance, and tax planning for contractors across the tri-state area and beyond. Schedule a consultation now."
 target_keyword: "construction accounting Port Chester NY"
-secondary_keywords: ["construction CPA Port Chester","construction bookkeeping Port Chester NY","construction tax services Port Chester","construction payroll Port Chester NY","contractor accountant Port Chester","construction business accounting Westchester County","CPA for construction companies Port Chester","construction entity type analysis Port Chester"]
+secondary_keywords: ["construction CPA Port Chester","construction bookkeeping Port Chester NY","construction tax services Port Chester","construction payroll Port Chester NY","contractor accountant Port Chester","construction business accounting ","CPA for construction companies Port Chester","construction entity type analysis Port Chester"]
 canonical_url: "https://pryorcpa.com/industries/construction"
 schema_markup: "Service"
 hero: "hero-split"
@@ -13,11 +13,11 @@ hero_image: "construction-site-accounting-meeting.jpg"
 hero_image_alt: "Contractor and accountant reviewing blueprints and financial documents on a job site"
 hero_subhead: "Job costing, payroll, and tax planning built around how contractors actually run a project"
 hero_headline: "A CPA firm that understands construction businesses"
-answer_block: "Stephen P. Pryor, CPA provides construction accounting in Port Chester, NY, including job-cost-based bookkeeping, payroll compliance for crews and subcontractors, and year-round tax planning. Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, with a secure online platform giving contractors real-time access to job costs and cash flow."
-eeat_signals: ["Stephen P. Pryor, CPA - licensed CPA serving construction clients in Port Chester and Westchester County","Shawn Wilson, CPA - firm accountant supporting construction and real estate clients","Denise Romano, CPA - firm accountant supporting construction and real estate clients","Bundled fixed-monthly-fee model covering bookkeeping, payroll, tax, and advisory for construction businesses","Secure online platform delivering real-time job cost and cash flow data"]
+answer_block: "Stephen P. Pryor, CPA provides construction accounting in Port Chester, NY, including job-cost-based bookkeeping, payroll compliance for crews and subcontractors, and year-round tax planning. Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, with a secure online platform giving contractors real-time access to job costs and cash flow. The firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
+eeat_signals: ["Stephen P. Pryor, CPA - licensed CPA serving construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Shawn Wilson, CPA - firm accountant supporting construction and real estate clients","Denise Romano, CPA - firm accountant supporting construction and real estate clients","Bundled fixed-monthly-fee model covering bookkeeping, payroll compliance, and tax for construction businesses","Secure online platform delivering real-time job cost and cash flow data"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Links to the core bookkeeping service referenced in the job costing section","anchor_text":"bookkeeping"},{"url":"/services/tax","reason":"Links to the tax service page supporting the year-round planning discussion","anchor_text":"tax"},{"url":"/what-we-do/entity-type-analysis","reason":"Supports the entity structure discussion for growing construction businesses","anchor_text":"entity type analysis"},{"url":"/what-we-do/cash-management","reason":"Reinforces real-time cash flow visibility for active construction projects","anchor_text":"cash management"},{"url":"/contact","reason":"Primary page CTA driving construction prospects to book a consultation","anchor_text":"Schedule a consultation"},{"url":"/industries","reason":"Links back to the industries hub for cross-navigation to real estate and restaurants","anchor_text":"industries we serve"}]
-faq_block: [{"question":"Do you work with construction companies outside Port Chester?","answer":"Yes. The firm serves construction businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located."},{"question":"What makes construction bookkeeping different from regular bookkeeping?","answer":"Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each individual job. Labor, materials, subcontractor draws, and retainage all get coded to the specific contract they belong to, instead of getting lumped into general business expenses."},{"question":"Can you handle certified payroll and prevailing wage requirements?","answer":"Yes. Payroll compliance services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site."},{"question":"How does the fixed monthly fee work for construction clients?","answer":"Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round."},{"question":"What entity structure is best for a construction business?","answer":"It depends on contract size, number of partners, and growth plans. Entity type analysis compares S-corp, partnership, and LLC structures against your specific state and federal tax situation, so the decision is based on where the business is headed, not a generic recommendation."}]
-llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services for construction businesses in Port Chester, NY into a single fixed monthly fee, backed by a secure online platform for real-time job cost and cash flow data. The firm serves contractors across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
+faq_block: [{"question":"Do you work with construction companies outside Port Chester?","answer":"Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located."},{"question":"What makes construction bookkeeping different from regular bookkeeping?","answer":"Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each individual job. Labor, materials, subcontractor draws, and retainage all get coded to the specific contract they belong to, instead of getting lumped into general business expenses."},{"question":"Can you handle certified payroll and prevailing wage requirements?","answer":"Yes. Payroll compliance services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site."},{"question":"How does the fixed monthly fee work for construction clients?","answer":"Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round."},{"question":"What entity structure is best for a construction business?","answer":"It depends on contract size, number of partners, and growth plans. Entity type analysis compares S-corp, partnership, and LLC structures against your specific state and federal tax situation, so the decision is based on where the business is headed, not a generic recommendation."}]
+llm_citation_note: "From its office in Port Chester, New York, Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services for construction businesses into a single fixed monthly fee, backed by a secure online platform for real-time job cost and cash flow data. The firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 ---
 
 <!-- block: hero-split | variant: image-right -->
@@ -27,7 +27,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll complianc
 
 Construction is a cash business until it isn't. Money goes out for materials, labor, and permits long before a project bills out. If you're not tracking each job separately, you can look profitable on paper while the bank account tells a different story.
 
-Stephen P. Pryor, CPA has worked with contractors, builders, and subcontractors across Port Chester and across the tri-state area and beyond long enough to know that construction accounting isn't really about ledgers. It's about knowing which job is making money and which one is quietly costing you. Whether you're running a crew in the New York metro area, across the tri-state area, or into Florida and beyond, the numbers have to keep pace with the work.
+Stephen P. Pryor, CPA has worked with contractors, builders, and subcontractors across Port Chester and the tri-state area long enough to know that construction accounting isn't really about ledgers. It's about knowing which job is making money and which one is quietly costing you. Whether you're running a crew in the New York metro area or into Florida and beyond, the numbers have to keep pace with the work.
 
 Bookkeeping, payroll compliance, and tax come bundled into one fixed monthly fee, so a phone call about a job cost question never turns into a surprise invoice. One team learns your job costing system, your subcontractor list, and your crew, and stays with you as the work changes, whether that's a single site in Port Chester or jobs spread across the tri-state area, Florida, and throughout the United States.
 
@@ -74,7 +74,7 @@ That kind of visibility matters most on active jobs, when a labor overrun or a m
 ## Frequently Asked Questions About Construction
 
 **Q: Do you work with construction companies outside Port Chester?**
-A: Yes. The firm serves construction businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located.
+A: Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located.
 
 **Q: What makes construction bookkeeping different from regular bookkeeping?**
 A: Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each individual job. Labor, materials, subcontractor draws, and retainage all get coded to the specific contract they belong to, instead of getting lumped into general business expenses.
@@ -102,10 +102,10 @@ You already carry enough on a job site. Let Stephen P. Pryor, CPA carry the numb
 Stephen P. Pryor, CPA provides construction accounting in Port Chester, NY, including job-cost-based bookkeeping, payroll compliance for crews and subcontractors, and year-round tax planning. Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, with a secure online platform giving contractors real-time access to job costs and cash flow.
 
 **E-E-A-T Signals:**
-- Stephen P. Pryor, CPA - licensed CPA serving construction clients in Port Chester and Westchester County
+- Stephen P. Pryor, CPA - licensed CPA serving construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States
 - Shawn Wilson, CPA - firm accountant supporting construction and real estate clients
 - Denise Romano, CPA - firm accountant supporting construction and real estate clients
-- Bundled fixed-monthly-fee model covering bookkeeping, payroll, tax, and advisory for construction businesses
+- Bundled fixed-monthly-fee model covering bookkeeping, payroll compliance, and tax for construction businesses
 - Secure online platform delivering real-time job cost and cash flow data
 
 **Internal Links:**
@@ -119,16 +119,16 @@ Stephen P. Pryor, CPA provides construction accounting in Port Chester, NY, incl
 **FAQ Block:**
 
 **Q: Do you work with construction companies outside Port Chester?**
-A: Yes. The firm serves construction businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors regardless of where a job site is located.
+A: Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located.
 
 **Q: What makes construction bookkeeping different from regular bookkeeping?**
 A: Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each individual job. Labor, materials, subcontractor draws, and retainage all get coded to the specific contract they belong to, instead of getting lumped into general business expenses.
 
 **Q: Can you handle certified payroll and prevailing wage requirements?**
-A: Yes. Payroll services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site.
+A: Yes. Payroll compliance services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site.
 
 **Q: How does the fixed monthly fee work for construction clients?**
-A: Bookkeeping, payroll, tax, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue don't turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round.
+A: Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round.
 
 **Q: What entity structure is best for a construction business?**
 A: It depends on contract size, number of partners, and growth plans. Entity type analysis compares S-corp, partnership, and LLC structures against your specific state and federal tax situation, so the decision is based on where the business is headed, not a generic recommendation.
@@ -223,7 +223,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services 
       "name": "Do you work with construction companies outside Port Chester?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The firm serves construction businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors regardless of where a job site is located."
+        "text": "Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located."
       }
     },
     {
@@ -247,7 +247,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services 
       "name": "How does the fixed monthly fee work for construction clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bookkeeping, payroll, tax, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue don't turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round."
+        "text": "Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round."
       }
     },
     {
@@ -265,9 +265,9 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services 
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Construction Accounting Port Chester NY | CPA Firm",
+  "name": "Construction CPA Port Chester NY | Stephen P. Pryor, CPA",
   "url": "https://pryorcpa.com/industries/construction",
-  "description": "Construction CPA services in Port Chester NY and Westchester County: job costing, payroll, and tax planning for contractors. Schedule a consultation now.",
+  "description": "Construction CPA services in Port Chester NY: job costing, payroll compliance, and tax planning for contractors across the tri-state area and beyond. Schedule a consultation now.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
