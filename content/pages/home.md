@@ -65,7 +65,7 @@ Personal taxes get complicated fast, especially with side income, investments, o
 <!-- block: service-cards | variant: 3-col -->
 ## Services built around how your business runs
 
-Each service stands on its own, but most clients, construction businesses, real estate professionals, bar and restaurant owners, and individuals, bundle several together under one fixed monthly fee.
+Each service stands on its own, but most clients, construction businesses, real estate professionals, bar and restaurant owners, and individuals, bundle bookkeeping, payroll compliance, and tax together under one fixed monthly fee.
 
 ### Bookkeeping
 icon: Receipt
