@@ -29,7 +29,7 @@ Construction is a cash business until it isn't. Money goes out for materials, la
 
 Stephen P. Pryor, CPA has worked with contractors, builders, and subcontractors across Port Chester and across the tri-state area and beyond long enough to know that construction accounting isn't really about ledgers. It's about knowing which job is making money and which one is quietly costing you. Whether you're running a crew in the New York metro area, across the tri-state area, or into Florida and beyond, the numbers have to keep pace with the work.
 
-Bookkeeping, payroll compliance, and tax come bundled into one fixed monthly fee, so a phone call about a job cost question never turns into a surprise invoice. One team learns your job costing system, your subcontractor list, and your crew, and stays with you as the work changes, whether that's a single site in Port Chester or jobs spread across New York, New Jersey, Connecticut, and Florida.
+Bookkeeping, payroll compliance, and tax come bundled into one fixed monthly fee, so a phone call about a job cost question never turns into a surprise invoice. One team learns your job costing system, your subcontractor list, and your crew, and stays with you as the work changes, whether that's a single site in Port Chester or jobs spread across the tri-state area, Florida, and throughout the United States.
 
 <!-- block: checklist-section | variant: with-image | image: construction-cash-flow-planning.jpg | alt: "Construction business owner reviewing cash flow reports and invoices" | query: "contractor reviewing financial reports office" -->
 ## The financial challenges construction companies face
