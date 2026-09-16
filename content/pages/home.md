@@ -126,7 +126,7 @@ A: Schedule a consultation through the contact page. Stephen P. Pryor, CPA will 
 
 Whether you're running a construction crew, managing rental properties, pouring drinks behind a bar, or just trying to get your personal taxes filed without the stress, the first conversation costs you nothing but twenty minutes. We'll ask about your business, your goals, and what's frustrating you about your current setup, then tell you honestly whether we're the right fit.
 
-[Schedule a consultation](/contact) and find out what fixed-fee, year-round support looks like for a business like yours.
+[Schedule a consultation](/contact) and find out what fixed-fee bookkeeping, payroll compliance, and tax support looks like for a business like yours.
 
 ---
 ## SEO & AIO Metadata
