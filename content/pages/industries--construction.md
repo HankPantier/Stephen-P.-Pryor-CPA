@@ -239,7 +239,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll, tax, and advisory services f
       "name": "Can you handle certified payroll and prevailing wage requirements?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Payroll services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site."
+        "text": "Yes. Payroll compliance services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site."
       }
     },
     {
