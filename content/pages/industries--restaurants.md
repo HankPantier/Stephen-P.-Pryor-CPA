@@ -145,7 +145,7 @@ Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning
 A: Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation.
 
 **Q: What does payroll compliance service include for restaurant clients?**
-A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not .
+A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not payroll processing.
 
 **Q: What does the flat monthly fee for restaurant clients include?**
 A: Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are also available and tailored to each client's specific needs.
