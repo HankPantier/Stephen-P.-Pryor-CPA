@@ -120,7 +120,7 @@ If you're running a bar, pub, or restaurant in Port Chester or anywhere across t
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning built specifically for bars, pubs, and restaurants in Port Chester and across the tri-state area. Bookkeeping, payroll compliance, and tax are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance. Advisory services are also available and tailored to each client's specific needs.
+Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning built specifically for bars, pubs, and restaurants in Port Chester and across the tri-state area. Bookkeeping, payroll compliance, and tax are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance. Advisory services are available separately and tailored to each client's specific needs.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality
