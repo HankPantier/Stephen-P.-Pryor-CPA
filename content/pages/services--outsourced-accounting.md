@@ -193,20 +193,20 @@ Outsourced accounting from Stephen P. Pryor, CPA bundles bookkeeping, reconcilia
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": ", Westchester, NY"
+      "@type": "State",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": ""
+      "@type": "State",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": ""
+      "@type": "State",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": ""
+      "@type": "State",
+      "name": "Florida"
     }
   ],
   "sameAs": [
