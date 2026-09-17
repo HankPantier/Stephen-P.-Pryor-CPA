@@ -117,7 +117,7 @@ If reconciliations are piling up, payroll feels like a monthly scramble, or you'
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides full charge outsourced accounting for Port Chester and  businesses, bundling bookkeeping, reconciliation, payroll coordination, and tax integration under one fixed monthly fee. Clients access real-time financials through a secure online platform instead of waiting on monthly reports, with specific expertise in construction, real estate, and hospitality accounting.
+Stephen P. Pryor, CPA provides full charge outsourced accounting for construction, real estate, and restaurant businesses across the tri-state area, greater New York City, Florida, and throughout the United States. The firm bundles bookkeeping, payroll compliance, and tax under one fixed monthly fee. Clients access real-time financials through a secure online platform instead of waiting on monthly reports, with specific expertise in construction, real estate, and hospitality accounting.
 
 **E-E-A-T Signals:**
 - Team includes Stephen P. Pryor, CPA, Shawn Wilson, CPA, and Denise Romano, CPA
