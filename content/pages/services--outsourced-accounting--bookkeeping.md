@@ -205,20 +205,28 @@ Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "@type": "State",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": "Manhattan, NY"
+      "@type": "State",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": "Brooklyn, NY"
+      "@type": "State",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": "Asbury Park, NJ"
+      "@type": "State",
+      "name": "Florida"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Greater New York City Area"
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
     }
   ],
   "sameAs": [
