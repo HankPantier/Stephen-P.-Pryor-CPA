@@ -173,7 +173,33 @@ Stephen P. Pryor, CPA provides retirement plan analysis in Port Chester, NY, com
   },
   "telephone": "(914) 934-5255",
   "email": "admin@pryorcpa.com",
-  "areaServed_PLACEHOLDER": [
+  "areaServed": [
+    {
+      "@type": "State",
+      "name": "New York"
+    },
+    {
+      "@type": "State",
+      "name": "New Jersey"
+    },
+    {
+      "@type": "State",
+      "name": "Connecticut"
+    },
+    {
+      "@type": "State",
+      "name": "Florida"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Greater New York City Area"
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
+    }
+  ],
+  "REMOVE_OLD_AREA_SERVED":
     {
       "@type": "City",
       "name": "tri-state area, Westchester, NY"
