@@ -185,20 +185,24 @@ Stephen P. Pryor, CPA offers year-round personal income tax preparation and plan
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "the tri-state area, Westchester, NY"
+      "@type": "State",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": ", NY"
+      "@type": "State",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": ", NY"
+      "@type": "State",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": ", NJ"
+      "@type": "State",
+      "name": "Florida"
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
     }
   ],
   "sameAs": [
