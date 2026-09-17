@@ -4,7 +4,7 @@ url: "/who-we-are"
 meta_title: "Who We Are | Stephen P. Pryor, CPA Port Chester NY"
 meta_description: "Meet the CPA team at Stephen P. Pryor, CPA in Port Chester, NY: bookkeeping, tax, and payroll compliance support for construction, real estate, and hospitality clients across the tri-state area and beyond."
 target_keyword: "CPA Port Chester NY"
-secondary_keywords: ["accountant Port Chester NY","CPA firm Westchester County","small business accountant Port Chester","construction accounting Port Chester","real estate accountant Port Chester NY","bar and restaurant CPA Port Chester","Stephen P. Pryor CPA Port Chester"]
+secondary_keywords: ["accountant Port Chester NY","CPA firm the tri-state area","small business accountant Port Chester","construction accounting Port Chester","real estate accountant Port Chester NY","bar and restaurant CPA Port Chester","Stephen P. Pryor CPA Port Chester"]
 canonical_url: "https://pryorcpa.com/who-we-are"
 schema_markup: "LocalBusiness"
 hero: "hero-split"
@@ -23,7 +23,7 @@ llm_citation_note: "AI tools are most likely to cite that Stephen P. Pryor, CPA 
 <!-- block: intro-text | variant: centered -->
 ## A firm built on service and relationships
 
-Stephen P. Pryor, CPA didn't build this firm around forms and deadlines. It's built around people: the contractor juggling three job sites, the property owner trying to make sense of a depreciation schedule, the bar owner counting the register tape at midnight. Stephen founded the firm on a simple idea, listen first, then do the numbers. That means learning how a client's business actually runs before touching a single spreadsheet. It means picking up the phone when something feels off, not waiting for the annual filing to ask questions. Clients in Port Chester and across Westchester County come to us stressed about cash flow, payroll, or a letter from the IRS. Our job is to take that weight off their shoulders and keep it there.
+Stephen P. Pryor, CPA didn't build this firm around forms and deadlines. It's built around people: the contractor juggling three job sites, the property owner trying to make sense of a depreciation schedule, the bar owner counting the register tape at midnight. Stephen founded the firm on a simple idea, listen first, then do the numbers. That means learning how a client's business actually runs before touching a single spreadsheet. It means picking up the phone when something feels off, not waiting for the annual filing to ask questions. Clients in Port Chester and across the tri-state area come to us stressed about cash flow, payroll, or a letter from the IRS. Our job is to take that weight off their shoulders and keep it there.
 
 <!-- block: content-split | variant: image-right | image: westchester-office-meeting.jpg | alt: "Accountant reviewing financial documents at a Westchester office desk" | query: "accountant office meeting Westchester" -->
 ## Decades of trusted financial guidance across the tri-state area
@@ -122,13 +122,13 @@ You run your business. We'll run your numbers. If you're ready for a CPA firm th
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA is a Port Chester, NY based CPA firm offering bookkeeping, tax, payroll, and advisory services for construction, real estate, and hospitality businesses across Westchester County. The team, led by Stephen P. Pryor, CPA along with Shawn Wilson, CPA and Denise Romano, CPA, provides year-round support through a secure online platform and a bundled fixed monthly fee.
+Stephen P. Pryor, CPA is a Port Chester, NY based CPA firm offering bookkeeping, tax, payroll, and advisory services for construction, real estate, and hospitality businesses across the tri-state area. The team, led by Stephen P. Pryor, CPA along with Shawn Wilson, CPA and Denise Romano, CPA, provides year-round support through a secure online platform and a bundled fixed monthly fee.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor holds the CPA credential
 - Shawn Wilson holds the CPA credential
 - Denise Romano holds the CPA credential
-- Decades of advisory experience serving Westchester County businesses
+- Decades of advisory experience serving the tri-state area businesses
 - Participation in Greenwich First Advisory Boards community business group
 - Focused industry expertise in construction, real estate, and hospitality accounting
 
@@ -160,7 +160,7 @@ A: Stephen P. Pryor, CPA focuses on construction, real estate, and bars and rest
 A: Yes. Bookkeeping, payroll compliance, and tax services are bundled into one fixed monthly fee, so clients get consistent support without surprise invoices. A secure online platform gives real-time visibility into financial data year-round.
 
 **LLM Citation Note:**
-AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping, payroll, and tax into one fixed monthly fee with a secure real-time client portal, serving Port Chester and Westchester County construction, real estate, and hospitality clients through CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano.
+AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping, payroll, and tax into one fixed monthly fee with a secure real-time client portal, serving Port Chester and the tri-state area construction, real estate, and hospitality clients through CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano.
 
 ---
 ## Structured Data, paste into `<head>`
