@@ -4,7 +4,7 @@ url: "/who-we-are"
 meta_title: "Who We Are | Stephen P. Pryor, CPA Port Chester NY"
 meta_description: "Meet the CPA team at Stephen P. Pryor, CPA in Port Chester, NY: bookkeeping, tax, and payroll compliance support for construction, real estate, and hospitality clients across the tri-state area and beyond."
 target_keyword: "CPA Port Chester NY"
-secondary_keywords: ["accountant Port Chester NY","CPA firm the tri-state area","small business accountant Port Chester","construction accounting Port Chester","real estate accountant Port Chester NY","bar and restaurant CPA Port Chester","Stephen P. Pryor CPA Port Chester"]
+secondary_keywords: ["accountant Port Chester NY","CPA firm tri-state area","small business accountant Port Chester","construction CPA Port Chester NY","real estate accountant Port Chester NY","bar and restaurant CPA Port Chester","restaurant CPA near Port Chester NY","Stephen P. Pryor CPA Port Chester"]
 canonical_url: "https://pryorcpa.com/who-we-are"
 schema_markup: "LocalBusiness"
 hero: "hero-split"
