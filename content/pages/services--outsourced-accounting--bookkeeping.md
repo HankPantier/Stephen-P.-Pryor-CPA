@@ -90,9 +90,9 @@ We set up or migrate your accounts, establish your monthly reconciliation schedu
 Onboarding isn't a one-time event. We check in as your business changes, because the way you operated at launch usually isn't how you'll operate at year three.
 
 <!-- block: content-prose -->
-## Serving Port Chester and the surrounding region
+## Serving clients across the tri-state area and beyond
 
-Most of our bookkeeping clients are based in Port Chester and across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. We also work with clients who'd rather have a firm that knows their industry than one that's simply nearby.
+From its office in Port Chester, New York, the firm serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. We work with clients who'd rather have a firm that knows their industry than one that's simply nearby.
 
 Bookkeeping doesn't require an in-person visit every month. Our secure platform and regular check-ins keep the relationship close no matter where your business operates. What matters is that someone is paying attention to your numbers consistently, not just at tax time.
 
