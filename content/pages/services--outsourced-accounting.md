@@ -37,7 +37,7 @@ Full charge outsourced accounting means every function that keeps your books acc
 - Daily transaction classification and bookkeeping, so your books stay current instead of piling up for tax season
 - Bank and credit card reconciliation, catching errors and discrepancies before they become problems
 - Cash management, monitoring inflows and outflows so you always know where you stand
-- Payroll compliance, so filings are accurate, on time, and fully documented
+- Payroll compliance filings, managed so your submissions are accurate, on time, and fully documented
 - Tax integration, so your bookkeeping data flows directly into planning and preparation instead of getting reconstructed every spring
 
 Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers.
