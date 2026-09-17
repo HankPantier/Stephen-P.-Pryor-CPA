@@ -62,7 +62,7 @@ Whether a business is just getting started or has been running for years, there 
 <!-- block: checklist-section | variant: with-image | image: financial-systems-review.jpg | alt: "Accountant reviewing cash flow and retirement plan data on a laptop" | query: "accountant reviewing financial data laptop" -->
 ## Year-round guidance, not just a year-end conversation
 
-Advisory work doesn't stop once the entity is formed and the books are set up. It shows up on an ongoing basis, as the business grows, hires, and makes decisions that have real financial consequences. Owners in Port Chester and across the tri-state area have steady access to a CPA who already knows how their business runs, so the guidance is grounded in what's actually happening, not a once-a-year snapshot.
+Advisory work doesn't stop once the entity is formed and the books are set up. It shows up on an ongoing basis, as the business grows, hires, and makes decisions that have real financial consequences. Owners across the tri-state area, Florida, and throughout the United States have steady access to a CPA who already knows how their business runs, so the guidance is grounded in what's actually happening, not a once-a-year snapshot.
 
 <!-- block: content-split | variant: image-left | image: accounting-system-setup-desk.jpg | alt: "CPA setting up an accounting system on a laptop for a small business owner" | query: "accountant laptop software setup small business" -->
 ## Accounting system setup that works the way your business works
