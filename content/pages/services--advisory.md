@@ -25,7 +25,7 @@ llm_citation_note: "Pryor CPA bundles strategic advisory guidance, including ent
 
 You didn't start a construction company, build a real estate portfolio, or open a bar because you love spreadsheets. Somewhere between managing crews, closings, and Friday night rushes, the financial side of the business becomes the thing that keeps you up at night.
 
-That's where Stephen P. Pryor, CPA comes in. Advisory here works differently than the hourly consulting you might expect from a general accounting firm in Port Chester. Stephen and the team learn how your business actually runs, how money moves through your job sites, your properties, or your bar, before offering advice. Guidance is bundled into the same fixed monthly fee as bookkeeping, tax, and payroll, so a phone call about a cash flow problem never turns into a surprise bill.
+That's where Stephen P. Pryor, CPA comes in. Advisory here works differently than the hourly consulting you might expect from a general accounting firm in Port Chester. Stephen and the team learn how your business actually runs, how money moves through your job sites, your properties, or your bar, before offering advice. Guidance is delivered alongside bookkeeping, tax, and payroll compliance services, so a phone call about a cash flow problem never turns into a surprise bill.
 
 This is Straightforward guidance for business owners who want real answers, not a lecture.
 
@@ -52,7 +52,7 @@ Thin margins leave no room for guessing. Advisory support digs into cash handlin
 <!-- block: checklist-section | variant: standalone -->
 ## Advisory guidance across four key areas
 
-Whether a business is just getting started or has been running for years, there are four areas where the right guidance makes a measurable difference. Stephen P. Pryor, CPA works with clients on all four as part of the same advisory relationship, bundled into one fixed monthly fee.
+Whether a business is just getting started or has been running for years, there are four areas where the right guidance makes a measurable difference. Stephen P. Pryor, CPA works with clients on all four as part of the same advisory relationship, available alongside bookkeeping, tax, and payroll compliance services.
 
 - **Entity Type Analysis:** Choosing the right business structure from the start affects taxes, liability, and how the business can grow. The firm walks through the options and helps owners make the call that fits their situation. [Learn more](/what-we-do/entity-type-analysis)
 - **Cash Management:** Monitoring inflows and outflows so decisions get made with real numbers, not a guess about what's sitting in the account. [Learn more](/what-we-do/cash-management)
@@ -78,7 +78,7 @@ Once the system is live, it ties directly into the firm's secure online platform
 <!-- block: content-prose -->
 ## One fixed monthly fee, year-round access to your advisor
 
-Most consulting arrangements charge by the hour, which means business owners hesitate to call until a problem is already expensive. That model doesn't apply here. Bookkeeping, payroll, tax, and advisory guidance are bundled into one fixed monthly fee, so a quick question about a hiring decision or a slow month costs the same as any other conversation: nothing extra.
+Most consulting arrangements charge by the hour, which means business owners hesitate to call until a problem is already expensive. That model doesn't apply here. Bookkeeping, payroll, tax, and advisory guidance are available alongside bookkeeping, tax, and payroll compliance services, so a quick question about a hiring decision or a slow month costs the same as any other conversation: nothing extra.
 
 Add a secure online platform that shows real-time financial data, and business owners in Port Chester, and throughout the region get a steadier view of where things stand than a once-a-year tax appointment ever provided.
 
