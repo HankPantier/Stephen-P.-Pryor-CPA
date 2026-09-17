@@ -74,7 +74,7 @@ A: Planning is built into the service. Clients get entity type analysis, retirem
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "Business owner shaking hands with a CPA after a consultation" | query: "business owner advisor handshake meeting" -->
 ## One CPA relationship for every tax need
 
-Business tax, personal tax, and payroll compliance: it's one relationship with one firm for a fixed monthly fee covering all three, not a different preparer every time your situation changes. You get a secure online platform with real-time access to your numbers, one team that already knows your business when a question comes up, and a plan built before tax season starts, not scrambled together during it.
+Business tax, personal tax, and payroll compliance: it's one relationship with one firm for a fixed monthly fee covering all three. You get a secure online platform with real-time access to your numbers, one team that already knows your business when a question comes up, and a plan built before tax season starts, not scrambled together during it.
 
 From its office in Port Chester, New York, the team at Stephen P. Pryor, CPA works with construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. [Schedule a consultation](/contact) to see how tax support built around your business works.
 
