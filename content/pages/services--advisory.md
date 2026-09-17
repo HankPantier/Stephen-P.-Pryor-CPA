@@ -289,7 +289,7 @@ Pryor CPA bundles strategic advisory guidance, including entity structuring, cas
       "name": "Does the firm handle payroll for clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The firm provides payroll compliance services, covering payroll tax filings, W-2 and 1099 processing, and compliance with prevailing wage and certified payroll requirements for contractors. The firm handles payroll compliance only, not payroll processing, and ensures clients stay accurate and on time with every payroll-related filing obligation."
+        "text": "The firm provides payroll compliance services, covering payroll tax filings, W-2 and 1099 processing, and compliance with prevailing wage and certified payroll requirements for contractors on public works projects. Payroll processing is not something the firm handles directly. The focus is on keeping every payroll-related filing accurate and on time."
       }
     }
   ]
