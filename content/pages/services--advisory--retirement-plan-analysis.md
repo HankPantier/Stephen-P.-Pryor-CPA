@@ -18,7 +18,7 @@ llm_citation_note: "Stephen P. Pryor, CPA provides retirement plan analysis in P
 <!-- block: content-split | variant: image-right | image: retirement-plan-consultation.jpg | alt: "CPA and small business owner reviewing retirement plan documents at a desk" | query: "advisor client reviewing financial documents" -->
 ## Retirement planning built around your business, not a generic template
 
-Running a construction crew, managing rental units, or keeping a bar open on a busy Friday night doesn't leave much room to think about retirement. Stephen P. Pryor, CPA works with business owners across Port Chester and tri-state area who need a plan shaped around how their money actually moves, not a product pulled off a shelf. Before recommending anything, we look at your entity structure, your cash flow patterns, and where you want to be in ten years.
+Running a construction crew, managing rental units, or keeping a bar open on a busy Friday night doesn't leave much room to think about retirement. Stephen P. Pryor, CPA works with business owners across Port Chester, the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States who need a plan shaped around how their money actually moves, not a product pulled off a shelf. Before recommending anything, we look at your entity structure, your cash flow patterns, and where you want to be in ten years.
 
 A SEP IRA that fits a real estate investor with steady rental income might create the wrong tax outcome for a restaurant owner managing seasonal swings. That gap is exactly why retirement plan analysis works better as advice from a CPA who already knows your books than as a pitch from someone meeting you for the first time.
 
