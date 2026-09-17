@@ -25,7 +25,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll complianc
 
 Tax season shouldn't mean scrambling to find last year's preparer or hoping the seasonal storefront that did your return in April is still open when a notice shows up in October. Stephen P. Pryor, CPA works with business owners and households in Port Chester, NY on a year-round basis, not just during filing season. Our team handles both business and personal returns, so you talk to the same accountant who filed last year's return when a question comes up in June.
 
-Bookkeeping, payroll compliance, and tax are bundled for one fixed monthly fee, with a secure online platform giving you real-time access to your numbers instead of a folder of paper waiting for April. Learn more about our [bookkeeping](/what-we-do/bookkeeping) and [payroll compliance](/what-we-do/payroll) services.
+Bookkeeping, payroll compliance, and tax preparation are bundled for one fixed monthly fee, with a secure online platform giving you real-time access to your numbers instead of a folder of paper waiting for April. Learn more about our [bookkeeping](/what-we-do/bookkeeping) and [payroll compliance](/what-we-do/payroll) services.
 
 <!-- block: content-split | variant: image-right | image: construction-real-estate-tax.jpg | alt: "CPA reviewing project financials with a construction business owner" | query: "contractor reviewing paperwork office meeting" -->
 ## Business tax preparation for construction, real estate, and hospitality
