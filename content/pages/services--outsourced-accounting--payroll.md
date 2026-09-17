@@ -160,7 +160,7 @@ Stephen P. Pryor, CPA provides payroll compliance services, including tax filing
 **FAQ Block:**
 
 **Q: What payroll compliance services does Stephen P. Pryor, CPA provide?**
-A: The firm manages payroll tax filings and compliance, including federal, state, and local payroll tax deposits and returns, W-2 and 1099 preparation, new hire reporting, pension remittance, and garnishment remittance. The firm does not operate as a payroll compliance provider but handles the compliance and filing side so your obligations to tax agencies are always met accurately and on time.
+A: The firm manages payroll tax filings and compliance, including federal, state, and local payroll tax deposits and returns, W-2 and 1099 preparation, new hire reporting, pension remittance, and garnishment remittance. The firm offers payroll compliance service, not live payroll processing, so your obligations to tax agencies are always met accurately and on time.
 
 **Q: How much do payroll compliance services cost in Port Chester, NY?**
 A: Payroll compliance is bundled into a fixed monthly fee alongside bookkeeping and tax, so pricing stays predictable no matter how many employees you have. There are no per-run charges or surprise invoices at filing deadlines.
