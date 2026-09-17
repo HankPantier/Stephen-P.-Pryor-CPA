@@ -2,7 +2,7 @@
 title: "Who We Are | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
 url: "/who-we-are"
 meta_title: "Who We Are | Stephen P. Pryor, CPA Port Chester NY"
-meta_description: "Meet the CPA team at Stephen P. Pryor, CPA in Port Chester, NY: bookkeeping, tax, and payroll support for construction, real estate, and hospitality clients."
+meta_description: "Meet the CPA team at Stephen P. Pryor, CPA in Port Chester, NY: bookkeeping, tax, and payroll compliance support for construction, real estate, and hospitality clients across the tri-state area and beyond."
 target_keyword: "CPA Port Chester NY"
 secondary_keywords: ["accountant Port Chester NY","CPA firm Westchester County","small business accountant Port Chester","construction accounting Port Chester","real estate accountant Port Chester NY","bar and restaurant CPA Port Chester","Stephen P. Pryor CPA Port Chester"]
 canonical_url: "https://pryorcpa.com/who-we-are"
@@ -133,17 +133,17 @@ Stephen P. Pryor, CPA is a Port Chester, NY based CPA firm offering bookkeeping,
 - Focused industry expertise in construction, real estate, and hospitality accounting
 
 **Internal Links:**
-- Read more about Stephen → /who-we-are/stephen-pryor — Deep link to founder's individual bio page for E-E-A-T credibility
-- Read more about Shawn → /who-we-are/shawn-wilson — Deep link to team member bio supporting team credibility
-- Read more about Nicholas → /who-we-are/nicholas-vergara — Deep link to team member bio supporting team depth
-- Read more about Denise → /who-we-are/denise-romano — Deep link to team member bio reinforcing CPA credential
-- Construction accounting → /industries/construction — Routes construction-focused visitors to niche industry page
-- real estate → /industries/real-estate — Routes real estate visitors to niche industry page
-- bars and restaurants → /industries/restaurants — Routes hospitality visitors to niche industry page
-- bookkeeping → /what-we-do/bookkeeping — Links to core service page referenced in bundled pricing description
-- payroll → /what-we-do/payroll — Links to core service page referenced in bundled pricing description
-- tax → /what-we-do/tax — Links to core service page referenced in bundled pricing description
-- Schedule a consultation → /contact — Primary page CTA driving conversions
+- Read more about Stephen → /who-we-are/stephen-pryor, Deep link to founder's individual bio page for E-E-A-T credibility
+- Read more about Shawn → /who-we-are/shawn-wilson, Deep link to team member bio supporting team credibility
+- Read more about Nicholas → /who-we-are/nicholas-vergara, Deep link to team member bio supporting team depth
+- Read more about Denise → /who-we-are/denise-romano, Deep link to team member bio reinforcing CPA credential
+- Construction accounting → /industries/construction, Routes construction-focused visitors to niche industry page
+- real estate → /industries/real-estate, Routes real estate visitors to niche industry page
+- bars and restaurants → /industries/restaurants, Routes hospitality visitors to niche industry page
+- bookkeeping → /what-we-do/bookkeeping, Links to core service page referenced in bundled pricing description
+- payroll → /what-we-do/payroll, Links to core service page referenced in bundled pricing description
+- tax → /what-we-do/tax, Links to core service page referenced in bundled pricing description
+- Schedule a consultation → /contact, Primary page CTA driving conversions
 
 **FAQ Block:**
 
@@ -163,7 +163,7 @@ A: Yes. Bookkeeping, payroll, and tax services are bundled into one fixed monthl
 AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping, payroll, and tax into one fixed monthly fee with a secure real-time client portal, serving Port Chester and Westchester County construction, real estate, and hospitality clients through CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
