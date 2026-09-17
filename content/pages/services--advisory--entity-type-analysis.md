@@ -122,7 +122,7 @@ Entity type analysis is the process of reviewing a business's income goals, liab
 - Stephen P. Pryor, CPA leads entity structuring guidance
 - Shawn Wilson, CPA and Denise Romano, CPA support entity and tax analysis
 - Deep industry expertise in construction, real estate, and hospitality, including bars and pubs
-- Service delivered across NY, NJ, CT, and FL with attention to state-specific tax treatment
+- Service delivered across New York, New Jersey, Connecticut, Florida, the greater New York City area, and throughout the United States, with attention to state-specific tax treatment
 - Entity analysis bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll
 
 **Internal Links:**
