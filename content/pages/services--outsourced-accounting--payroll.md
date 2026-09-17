@@ -42,22 +42,22 @@ Every industry brings its own payroll compliance headaches, and this firm has wo
 - New hire and termination reporting: filed correctly, every pay period, with no missed deadlines
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Payroll expertise for construction, hospitality, and real estate
+## Payroll compliance expertise for construction, hospitality, and real estate
 
 ### Construction
 icon: Hammer
 
-Job costing gets complicated fast when crews move between sites and projects. Labor gets tracked by job, certified and prevailing wage requirements get flagged, and payroll tax filings stay accurate across every state where your crews work.
+Payroll compliance gets complicated fast when crews move between sites and projects. Labor costs are tracked by job, certified and prevailing wage requirements get flagged, and payroll tax filings stay accurate across every state where your crews work.
 
 ### Bars and restaurants
 icon: Receipt
 
-Tip reporting, cash handling, and tipped minimum wage rules trip up a lot of payroll providers. This firm knows the tip credit rules well and makes sure tipped staff, hosts, and kitchen crew are all paid and reported correctly.
+Tip reporting, cash handling, and tipped minimum wage rules trip up a lot of businesses. This firm knows the tip credit rules well and makes sure tipped staff, hosts, and kitchen crew are all reported and filed correctly.
 
 ### Real estate and property management
 icon: Building2
 
-Property managers juggle maintenance staff, leasing agents, and sometimes multiple entities under one roof. Payroll gets set up to match how your properties are structured, so reporting stays clean at tax time.
+Property managers juggle maintenance staff, leasing agents, and sometimes multiple entities under one roof. Payroll compliance gets set up to match how your properties are structured, so reporting stays clean at tax time.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## What's included in your payroll service
