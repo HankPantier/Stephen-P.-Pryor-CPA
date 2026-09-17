@@ -258,7 +258,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax into a fi
       "name": "What payroll compliance services does Stephen P. Pryor, CPA provide?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The firm manages payroll tax filings and compliance, including federal, state, and local payroll tax deposits and returns, W-2 and 1099 preparation, new hire reporting, pension remittance, and garnishment remittance. The firm does not operate as a payroll compliance provider but handles the compliance and filing side so your obligations to tax agencies are always met accurately and on time."
+        "text": "The firm manages payroll tax filings and compliance, including federal, state, and local payroll tax deposits and returns, W-2 and 1099 preparation, new hire reporting, pension remittance, and garnishment remittance. The firm offers payroll compliance service, not live payroll processing, so your obligations to tax agencies are always met accurately and on time."
       }
     },
     {
