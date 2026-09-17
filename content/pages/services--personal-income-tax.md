@@ -74,9 +74,9 @@ A CPA from our team walks through the finished return with you, line by line, be
 We flag opportunities for next year's return right after this one is done, instead of waiting until the following tax season to bring it up.
 
 <!-- block: content-prose -->
-## Serving individuals across Port Chester and the tri-state area
+## Serving individuals across the tri-state area and beyond
 
-Most of the households we work with live in Port Chester and across the tri-state area, from Rye and Harrison to White Plains. We also serve clients in New York, New Jersey, Connecticut, Florida, and throughout the United States who found us through a referral and stayed because the service didn't change once the tax return was filed.
+Most of the households we work with are based in Port Chester, NY and across the greater New York City area. We also serve clients throughout New York, New Jersey, Connecticut, Florida, and the rest of the United States who found us through a referral and stayed because the service didn't change once the tax return was filed.
 
 Stephen P. Pryor, CPA was built on the idea that a CPA relationship should hold up beyond April 15. That's still true whether your return crosses state lines or stays entirely local.
 
