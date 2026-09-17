@@ -61,7 +61,7 @@ Side income, investment accounts, and life changes make personal returns more co
 ### Stephen P. Pryor, CPA
 Founder
 
-Stephen founded the firm on the belief that accounting works best when it's personal. He works directly with construction, real estate, and hospitality clients across Westchester County, building the kind of long-term relationships where clients call before a problem becomes a crisis, not after. [Read more about Stephen.](/who-we-are/stephen-pryor)
+Stephen founded the firm on the belief that accounting works best when it's personal. He works directly with construction, real estate, and hospitality clients across the tri-state area, building the kind of long-term relationships where clients call before a problem becomes a crisis, not after. [Read more about Stephen.](/who-we-are/stephen-pryor)
 
 ### Shawn Wilson, CPA
 Managing Director
