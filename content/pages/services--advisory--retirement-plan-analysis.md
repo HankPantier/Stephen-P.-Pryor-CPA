@@ -49,7 +49,7 @@ Real estate professionals face a different puzzle. Rental income and property sa
 
 Bar and restaurant margins run thin even in a good year, and cash flow can swing hard between a quiet Tuesday and a packed Saturday. Owners often assume retirement planning has to wait until the business is more stable. It doesn't have to.
 
-Plans like a SEP IRA let you contribute more in strong months and less when things tighten, without locking you into a fixed schedule you can't meet. We've built retirement strategies for [bar and pub owners](/industries/restaurants) around Port Chester who needed something flexible enough to bend with a seasonal calendar and unpredictable tip income, while still lowering their tax bill.
+Plans like a SEP IRA let you contribute more in strong months and less when things tighten, without locking you into a fixed schedule you can't meet. We've built retirement strategies for [bar and pub owners](/industries/restaurants) across Port Chester, the tri-state area, and beyond who needed something flexible enough to bend with a seasonal calendar and unpredictable tip income, while still lowering their tax bill.
 
 <!-- block: content-prose -->
 ## How retirement plan analysis fits into your overall tax strategy
