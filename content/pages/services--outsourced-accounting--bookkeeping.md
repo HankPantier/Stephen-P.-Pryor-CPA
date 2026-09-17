@@ -44,7 +44,7 @@ Every client gets the same disciplined process, whether you're running a five-pe
 - Monthly financial reporting and statements
 - General ledger maintenance
 
-Bookkeeping isn't sold on its own here. It's bundled with tax, payroll, and advisory support for one fixed monthly fee, so there's no surprise invoice for a phone call or a question about a transaction. Firms that bill by the hour tend to make clients think twice before reaching out. We'd rather you call.
+Bookkeeping isn't sold on its own here. It's bundled with tax and payroll compliance for one fixed monthly fee, so there's no surprise invoice for a phone call or a question about a transaction. Firms that bill by the hour tend to make clients think twice before reaching out. We'd rather you call.
 
 <!-- block: content-split | variant: image-left | image: secure-bookkeeping-platform.jpg | alt: "Business owner checking financial dashboard on a laptop and phone" | query: "business owner checking laptop dashboard" -->
 ## Real-time financial visibility through our secure platform
