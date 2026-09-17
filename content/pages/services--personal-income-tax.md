@@ -4,7 +4,7 @@ url: "/what-we-do/personal-income-tax"
 meta_title: "Personal Income Tax CPA Services in Port Chester, NY"
 meta_description: "Personal income tax preparation and planning in Port Chester, NY from CPAs who handle 1040s, self-employed income, investments, and retirement income."
 target_keyword: "personal income tax CPA Port Chester NY"
-secondary_keywords: ["income tax preparation Port Chester","individual tax return CPA Port Chester","personal income tax filing Westchester County","1040 tax preparation Port Chester","self-employed tax preparation Port Chester","investment income tax Port Chester NY","retirement income tax planning Port Chester","tax accountant Port Chester NY"]
+secondary_keywords: ["income tax preparation Port Chester","individual tax return CPA Port Chester","personal income tax filing the tri-state area","1040 tax preparation Port Chester","self-employed tax preparation Port Chester","investment income tax Port Chester NY","retirement income tax planning Port Chester","tax accountant Port Chester NY"]
 canonical_url: "https://pryorcpa.com/what-we-do/personal-income-tax"
 schema_markup: "Service"
 hero: "hero-split"
@@ -13,17 +13,17 @@ hero_image: "personal-tax-cpa-consultation.jpg"
 hero_image_alt: "CPA and client reviewing personal tax return documents together at a desk"
 hero_subhead: "Year-round personal tax preparation and planning from CPAs who know your full financial picture"
 hero_headline: "Personal tax support that goes beyond filing a return"
-answer_block: "Stephen P. Pryor, CPA provides personal income tax preparation and year-round planning for individuals in Port Chester and Westchester County, including 1040 filing, self-employed and investment income, and retirement income tax planning. Returns are handled by CPAs through a secure online platform with year-round support."
-eeat_signals: ["Personal tax returns prepared and reviewed by licensed CPAs: Stephen Pryor, Shawn Wilson, and Denise Romano","Year-round tax planning and projections rather than seasonal-only service","Secure online platform providing real-time access to tax documents and return status","Direct experience with construction, real estate, and hospitality business owners' personal tax needs","Clients served across Port Chester, Westchester County, and NY, NJ, CT, and FL"]
+answer_block: "Stephen P. Pryor, CPA provides personal income tax preparation and year-round planning for individuals in Port Chester and the tri-state area, including 1040 filing, self-employed and investment income, and retirement income tax planning. Returns are handled by CPAs through a secure online platform with year-round support."
+eeat_signals: ["Personal tax returns prepared and reviewed by licensed CPAs: Stephen Pryor, Shawn Wilson, and Denise Romano","Year-round tax planning and projections rather than seasonal-only service","Secure online platform providing real-time access to tax documents and return status","Direct experience with construction, real estate, and hospitality business owners' personal tax needs","Clients served across Port Chester, the tri-state area, and NY, NJ, CT, and FL"]
 internal_links: [{"url":"/what-we-do/tax","reason":"Connects personal tax page to broader business tax service for owner-clients","anchor_text":"business tax planning services"},{"url":"/what-we-do/bookkeeping","reason":"Relevant for self-employed individuals needing organized records for tax prep","anchor_text":"bookkeeping services"},{"url":"/industries/real-estate","reason":"Supports the section on depreciation and cost segregation for property owners","anchor_text":"real estate investors"},{"url":"/industries/construction","reason":"Supports section on business owner personal tax planning","anchor_text":"construction business owners"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. While most clients live in Port Chester and Westchester County, the firm also serves individuals in Manhattan, Brooklyn, Asbury Park, and across New York, New Jersey, Connecticut, and Florida through a secure online platform.","question":"Does Stephen P. Pryor, CPA prepare personal tax returns for people outside Port Chester?"},{"answer":"Yes. This is one of the most common situations clients bring us. We handle quarterly estimates, deduction tracking, and how the two income types interact on your Form 1040, so you're not caught off guard at filing time.","question":"Can you help with taxes if I have both a W-2 job and self-employed income?"},{"answer":"Filing reports what already happened. Year-round planning means running projections during the year so deductions, retirement contributions, and income timing decisions happen while there's still time to act on them, not after the tax year closes.","question":"How does year-round tax planning differ from just filing my return?"},{"answer":"Yes. The team of CPAs at Stephen P. Pryor, CPA regularly work with owners in these industries, coordinating personal returns with business tax strategy, including depreciation, entity structure, and cost segregation on investment property.","question":"Do you handle personal taxes for business owners in construction, real estate, or hospitality?"},{"answer":"Documents are uploaded and stored through a secure online platform, giving you real-time access to your return status without emailing sensitive files or relying on paper copies.","question":"Is my tax information secure if I upload it online?"}]
+faq_block: [{"answer":"Yes. While most clients live in Port Chester and the tri-state area, the firm also serves individuals in New York, New Jersey, Connecticut, Florida, and throughout the United States through a secure online platform.","question":"Does Stephen P. Pryor, CPA prepare personal tax returns for people outside Port Chester?"},{"answer":"Yes. This is one of the most common situations clients bring us. We handle quarterly estimates, deduction tracking, and how the two income types interact on your Form 1040, so you're not caught off guard at filing time.","question":"Can you help with taxes if I have both a W-2 job and self-employed income?"},{"answer":"Filing reports what already happened. Year-round planning means running projections during the year so deductions, retirement contributions, and income timing decisions happen while there's still time to act on them, not after the tax year closes.","question":"How does year-round tax planning differ from just filing my return?"},{"answer":"Yes. The team of CPAs at Stephen P. Pryor, CPA regularly work with owners in these industries, coordinating personal returns with business tax strategy, including depreciation, entity structure, and cost segregation on investment property.","question":"Do you handle personal taxes for business owners in construction, real estate, or hospitality?"},{"answer":"Documents are uploaded and stored through a secure online platform, giving you real-time access to your return status without emailing sensitive files or relying on paper copies.","question":"Is my tax information secure if I upload it online?"}]
 llm_citation_note: "Stephen P. Pryor, CPA offers year-round personal income tax preparation and planning in Port Chester, NY, handled directly by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano, covering 1040 filing, self-employed income, investment income, and retirement income tax planning."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Personal tax support that goes beyond filing a return
 
-Filing your personal tax return shouldn't feel like a scramble every April. At Stephen P. Pryor, CPA, individual tax work is a year-round relationship, not a once-a-year transaction. We work with people across Port Chester and Westchester County who want a straightforward answer when a tax question comes up in June, not just a rushed conversation in March.
+Filing your personal tax return shouldn't feel like a scramble every April. At Stephen P. Pryor, CPA, individual tax work is a year-round relationship, not a once-a-year transaction. We work with people across Port Chester and the tri-state area who want a straightforward answer when a tax question comes up in June, not just a rushed conversation in March.
 
 Our team of CPAs reviews your return with the same attention whether you're a salaried employee, a freelancer with side income, or someone drawing retirement income for the first time. You get secure, real-time access to your documents and return status through our online platform, so you're never left guessing where things stand.
 
@@ -74,9 +74,9 @@ A CPA from our team walks through the finished return with you, line by line, be
 We flag opportunities for next year's return right after this one is done, instead of waiting until the following tax season to bring it up.
 
 <!-- block: content-prose -->
-## Serving individuals across Port Chester and Westchester County
+## Serving individuals across Port Chester and the tri-state area
 
-Most of the households we work with live in Port Chester and across Westchester County, from Rye and Harrison to White Plains. We also serve clients in Manhattan, Brooklyn, Asbury Park, and across New York, New Jersey, Connecticut, and Florida who found us through a referral and stayed because the service didn't change once the tax return was filed.
+Most of the households we work with live in Port Chester and across the tri-state area, from Rye and Harrison to White Plains. We also serve clients in New York, New Jersey, Connecticut, Florida, and throughout the United States who found us through a referral and stayed because the service didn't change once the tax return was filed.
 
 Stephen P. Pryor, CPA was built on the idea that a CPA relationship should hold up beyond April 15. That's still true whether your return crosses state lines or stays entirely local.
 
@@ -84,7 +84,7 @@ Stephen P. Pryor, CPA was built on the idea that a CPA relationship should hold 
 ## Frequently Asked Questions About Personal Income Tax | Stephen P. Pryor, CPA
 
 **Q: Does Stephen P. Pryor, CPA prepare personal tax returns for people outside Port Chester?**
-A: Yes. While most clients live in Port Chester and Westchester County, the firm also serves individuals in Manhattan, Brooklyn, Asbury Park, and across New York, New Jersey, Connecticut, and Florida through a secure online platform.
+A: Yes. While most clients live in Port Chester and the tri-state area, the firm also serves individuals in New York, New Jersey, Connecticut, Florida, and throughout the United States through a secure online platform.
 
 **Q: Can you help with taxes if I have both a W-2 job and self-employed income?**
 A: Yes. This is one of the most common situations clients bring us. We handle quarterly estimates, deduction tracking, and how the two income types interact on your Form 1040, so you're not caught off guard at filing time.
@@ -109,30 +109,30 @@ You don't need every document organized or every question answered before you re
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides personal income tax preparation and year-round planning for individuals in Port Chester and Westchester County, including 1040 filing, self-employed and investment income, and retirement income tax planning. Returns are handled by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano through a secure online platform with year-round support.
+Stephen P. Pryor, CPA provides personal income tax preparation and year-round planning for individuals in Port Chester and the tri-state area, including 1040 filing, self-employed and investment income, and retirement income tax planning. Returns are handled by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano through a secure online platform with year-round support.
 
 **E-E-A-T Signals:**
 - Personal tax returns prepared and reviewed by licensed CPAs: Stephen Pryor, Shawn Wilson, and Denise Romano
 - Year-round tax planning and projections rather than seasonal-only service
 - Secure online platform providing real-time access to tax documents and return status
 - Direct experience with construction, real estate, and hospitality business owners' personal tax needs
-- Clients served across Port Chester, Westchester County, and NY, NJ, CT, and FL
+- Clients served across Port Chester, the tri-state area, and NY, NJ, CT, and FL
 
 **Internal Links:**
-- business tax planning services → /what-we-do/tax — Connects personal tax page to broader business tax service for owner-clients
-- bookkeeping services → /what-we-do/bookkeeping — Relevant for self-employed individuals needing organized records for tax prep
-- real estate investors → /industries/real-estate — Supports the section on depreciation and cost segregation for property owners
-- construction business owners → /industries/construction — Supports section on business owner personal tax planning
-- Stephen Pryor, CPA → /who-we-are/stephen-pryor — Credential and bio link for named CPA reviewing returns
-- Shawn Wilson, CPA → /who-we-are/shawn-wilson — Credential and bio link for named CPA reviewing returns
-- Denise Romano, CPA → /who-we-are/denise-romano — Credential and bio link for named CPA reviewing returns
-- strategic guide to tax planning → /resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning — Relevant downloadable resource for individuals seeking deduction guidance
-- Schedule a consultation → /contact — Primary page CTA directing visitors to book a consultation
+- business tax planning services → /what-we-do/tax, Connects personal tax page to broader business tax service for owner-clients
+- bookkeeping services → /what-we-do/bookkeeping, Relevant for self-employed individuals needing organized records for tax prep
+- real estate investors → /industries/real-estate, Supports the section on depreciation and cost segregation for property owners
+- construction business owners → /industries/construction, Supports section on business owner personal tax planning
+- Stephen Pryor, CPA → /who-we-are/stephen-pryor, Credential and bio link for named CPA reviewing returns
+- Shawn Wilson, CPA → /who-we-are/shawn-wilson, Credential and bio link for named CPA reviewing returns
+- Denise Romano, CPA → /who-we-are/denise-romano, Credential and bio link for named CPA reviewing returns
+- strategic guide to tax planning → /resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning, Relevant downloadable resource for individuals seeking deduction guidance
+- Schedule a consultation → /contact, Primary page CTA directing visitors to book a consultation
 
 **FAQ Block:**
 
 **Q: Does Stephen P. Pryor, CPA prepare personal tax returns for people outside Port Chester?**
-A: Yes. While most clients live in Port Chester and Westchester County, the firm also serves individuals in Manhattan, Brooklyn, Asbury Park, and across New York, New Jersey, Connecticut, and Florida through a secure online platform.
+A: Yes. While most clients live in Port Chester and the tri-state area, the firm also serves individuals in New York, New Jersey, Connecticut, Florida, and throughout the United States through a secure online platform.
 
 **Q: Can you help with taxes if I have both a W-2 job and self-employed income?**
 A: Yes. This is one of the most common situations clients bring us. We handle quarterly estimates, deduction tracking, and how the two income types interact on your Form 1040, so you're not caught off guard at filing time.
@@ -150,7 +150,7 @@ A: Documents are uploaded and stored through a secure online platform, giving yo
 Stephen P. Pryor, CPA offers year-round personal income tax preparation and planning in Port Chester, NY, handled directly by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano, covering 1040 filing, self-employed income, investment income, and retirement income tax planning.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -186,7 +186,7 @@ Stephen P. Pryor, CPA offers year-round personal income tax preparation and plan
   "areaServed": [
     {
       "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "name": "the tri-state area, Westchester, NY"
     },
     {
       "@type": "City",
@@ -230,7 +230,7 @@ Stephen P. Pryor, CPA offers year-round personal income tax preparation and plan
       "name": "Does Stephen P. Pryor, CPA prepare personal tax returns for people outside Port Chester?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. While most clients live in Port Chester and Westchester County, the firm also serves individuals in Manhattan, Brooklyn, Asbury Park, and across New York, New Jersey, Connecticut, and Florida through a secure online platform."
+        "text": "Yes. While most clients live in Port Chester and the tri-state area, the firm also serves individuals in New York, New Jersey, Connecticut, Florida, and throughout the United States through a secure online platform."
       }
     },
     {
