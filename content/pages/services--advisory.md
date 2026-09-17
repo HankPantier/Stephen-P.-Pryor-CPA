@@ -78,9 +78,9 @@ Once the system is live, it ties directly into the firm's secure online platform
 <!-- block: content-prose -->
 ## Bookkeeping, payroll compliance, and tax on one predictable monthly fee
 
-Bookkeeping, payroll compliance, and tax services are available as a bundled fixed monthly fee, so there are no hourly surprises when your numbers need attention. Whether you have a question about a hiring decision or a slow quarter, the firm is reachable throughout the year. Advisory guidance is a separate service billed outside the bundled fee.
+Bookkeeping, payroll compliance, and tax services are available as a bundled fixed monthly fee, so there are no hourly surprises when your numbers need attention. Whether you have a question about a hiring decision or a slow quarter, the firm is reachable throughout the year. Advisory services are a separate engagement and are billed outside that fee.
 
-Add a secure online platform that shows real-time financial data, and business owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States get a steadier view of where things stand than a once-a-year tax appointment ever provided.
+Pair that with a secure online platform that shows real-time financial data, and business owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States get a steadier view of where things stand than a once-a-year tax appointment ever provided.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Advisory Services
