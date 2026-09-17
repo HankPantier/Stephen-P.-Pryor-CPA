@@ -255,42 +255,42 @@ Stephen P. Pryor, CPA bundles payroll processing, tax filings, and compliance in
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How much do payroll services cost in Port Chester, NY?",
+      "name": "What payroll compliance services does Stephen P. Pryor, CPA provide?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Payroll is bundled into a fixed monthly fee alongside bookkeeping and tax support, so pricing stays predictable no matter how many employees you add. There are no per-run charges or surprise invoices at filing deadlines."
+        "text": "The firm manages payroll tax filings and compliance, including federal, state, and local payroll tax deposits and returns, W-2 and 1099 preparation, new hire reporting, pension remittance, and garnishment remittance. The firm does not operate as a live payroll processor but handles the compliance and filing side so your obligations to tax agencies are always met accurately and on time."
       }
     },
     {
       "@type": "Question",
-      "name": "Can you handle payroll for employees across multiple states?",
+      "name": "How much do payroll compliance services cost in Port Chester, NY?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The firm files payroll taxes accurately across New York, New Jersey, Connecticut, and Florida, which matters for clients with crews, staff, or property teams operating in more than one state."
+        "text": "Payroll compliance is bundled into a fixed monthly fee alongside bookkeeping and tax, so pricing stays predictable no matter how many employees you have. There are no per-run charges or surprise invoices at filing deadlines."
       }
     },
     {
       "@type": "Question",
-      "name": "Do you handle tipped employee payroll for restaurants and bars?",
+      "name": "Can you handle payroll compliance for employees across multiple states?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Tip credit calculations, tip reporting compliance, and cash-handling nuances specific to bars and restaurants are handled as part of standard payroll processing, not as an add-on."
+        "text": "Yes. The firm manages payroll tax filings accurately across New York, New Jersey, Connecticut, and Florida, which matters for construction contractors, restaurant groups, and property management companies with staff operating in more than one state."
       }
     },
     {
       "@type": "Question",
-      "name": "How does onboarding work when switching payroll providers?",
+      "name": "Do you handle tipped employee payroll compliance for restaurants and bars?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "During onboarding, the team learns your existing pay schedules, internal systems, and industry-specific requirements, whether that's job costing for construction or tip pooling for a restaurant, before the first payroll run."
+        "text": "Yes. Tip credit calculations, tip reporting compliance, and cash-handling nuances specific to bars and restaurants are handled as part of standard payroll compliance service, not as an add-on."
       }
     },
     {
       "@type": "Question",
-      "name": "What's included in a payroll package from Stephen P. Pryor, CPA?",
+      "name": "How does onboarding work when switching payroll compliance providers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Payroll processing, direct deposit, federal and state tax filings, new hire reporting, W-2 and 1099 preparation, and ongoing compliance monitoring are all included in one fixed monthly fee."
+        "text": "During onboarding, the team learns your existing pay schedules, internal systems, and industry-specific requirements, whether that's job costing for construction or tip pooling for a restaurant, before taking over compliance filings."
       }
     }
   ]
