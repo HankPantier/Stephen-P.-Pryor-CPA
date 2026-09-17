@@ -230,7 +230,7 @@ Stephen P. Pryor, CPA offers year-round personal income tax preparation and plan
       "name": "Does Stephen P. Pryor, CPA prepare personal tax returns for people outside Port Chester?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. While most clients live in Port Chester and the tri-state area, the firm also serves individuals in New York, New Jersey, Connecticut, Florida, and throughout the United States through a secure online platform."
+        "text": "Yes. While many clients are based in Port Chester and the greater New York City area, the firm serves individuals across New York, New Jersey, Connecticut, Florida, and throughout the United States through a secure online platform."
       }
     },
     {
