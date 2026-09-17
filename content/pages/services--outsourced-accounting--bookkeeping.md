@@ -39,7 +39,6 @@ Every client gets the same disciplined process, whether you're running a five-pe
 - Credit card account reconciliation
 - Sales tax preparation and filing
 - Transaction categorization and coding
-- Accounts payable and bill payment
 - Invoicing and accounts receivable tracking
 - Monthly financial reporting and statements
 - General ledger maintenance
