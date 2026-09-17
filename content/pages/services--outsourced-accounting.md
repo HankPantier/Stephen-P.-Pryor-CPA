@@ -84,9 +84,9 @@ The goal is a transition you barely notice, except for the part where your books
 <!-- block: content-prose -->
 ## Serving Port Chester and the surrounding region
 
-The great majority of our clients operate in , from Port Chester to Rye to White Plains. We also support outsourced accounting engagements in , and across New York, New Jersey, and Connecticut.
+The great majority of our clients are based in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area, with a home office in Port Chester. We also support outsourced accounting engagements across Florida and throughout the United States.
 
-Whether your business runs job sites across the county, manages rental properties in three towns, or pours drinks seven nights a week, the accounting fundamentals don't change with the zip code. What changes is how well your accounting firm understands your industry, and that's where local, hands-on knowledge of construction, real estate, and hospitality businesses in this region makes the difference.
+Whether your business runs job sites in multiple states, manages rental properties across several towns, or pours drinks seven nights a week, the accounting fundamentals don't change with the zip code. What changes is how well your accounting firm understands your industry, and that's where hands-on knowledge of construction, real estate, and hospitality businesses makes the difference.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced Accounting | Stephen P. Pryor, CPA
