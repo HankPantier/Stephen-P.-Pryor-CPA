@@ -116,7 +116,7 @@ A: Yes. Stephen Pryor, Shawn Wilson, and Denise Romano, all CPAs, prepare busine
 A: The firm focuses on construction, real estate, and hospitality, with particular depth in bars and pubs. That means job costing analysis for contractors, depreciation and 1031 exchange planning for real estate investors, and margin and sales tax guidance for bar and restaurant owners.
 
 **Q: Do you handle payroll tax filings for seasonal businesses?**
-A: Yes. Restaurants and construction businesses with variable staffing get payroll compliance service that runs through the same firm handling their business tax return. Wage reporting, quarterly filings, and year-end forms consistent instead of relying on a separate payroll vendor.
+A: Yes. The firm provides payroll compliance service for restaurants and construction businesses with variable staffing. That includes payroll tax filings, quarterly reporting, and year-end W-2 and 1099 processing, all handled by the same team managing your business tax return so wage reporting ties back to the numbers on your books.
 
 **Q: Is tax planning included, or do you only file returns?**
 A: Planning is built into the service. Clients get entity type analysis, retirement plan analysis, and quarterly tax projections throughout the year, not just a return prepared once in the spring, so decisions get made with tax consequences in mind before they happen.
