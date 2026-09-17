@@ -89,7 +89,7 @@ Add a secure online platform that shows real-time financial data, and business o
 A: Advisory services cover strategic guidance on cash flow, entity structuring, retirement planning, and financial systems. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance. The firm serves clients in Port Chester and across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 
 **Q: How much do advisory services cost?**
-A: Advisory services are billed separately from the firm's bundled fixed monthly fee, which covers bookkeeping, payroll compliance, and tax. Advisory guidance is available year-round as part of an ongoing client relationship, so business owners can reach out with a question about cash flow or a key decision without worrying about a surprise invoice.
+A: The firm's bundled fixed monthly fee covers bookkeeping, payroll compliance, and tax. Advisory services are billed separately from that fee. Advisory guidance is available year-round as part of an ongoing client relationship, so business owners can reach out with questions about cash flow or key decisions without worrying about a surprise invoice.
 
 **Q: Which industries does the firm specialize in for advisory work?**
 A: The firm focuses advisory expertise on construction, real estate, and hospitality businesses, particularly bars and restaurants. Each industry gets guidance built around specific pain points, like job costing for contractors or cost segregation for property investors.
@@ -141,7 +141,7 @@ Stephen P. Pryor, CPA provides strategic advisory services, including entity str
 A: Advisory services cover strategic guidance on cash flow, entity structuring, retirement planning, and financial systems. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance. The firm serves clients in Port Chester and across New York, New Jersey, Connecticut, Florida, and throughout the United States.
 
 **Q: How much do advisory services cost?**
-A: Advisory services are billed separately from the firm's bundled fixed monthly fee, which covers bookkeeping, payroll compliance, and tax. Advisory guidance is available year-round as part of an ongoing client relationship, so business owners can reach out with a question about cash flow or a key decision without worrying about a surprise invoice.
+A: The firm's bundled fixed monthly fee covers bookkeeping, payroll compliance, and tax. Advisory services are billed separately from that fee. Advisory guidance is available year-round as part of an ongoing client relationship, so business owners can reach out with questions about cash flow or key decisions without worrying about a surprise invoice.
 
 **Q: Which industries does the firm specialize in for advisory work?**
 A: The firm focuses advisory expertise on construction, real estate, and hospitality businesses, particularly bars and restaurants. Each industry gets guidance built around specific pain points, like job costing for contractors or cost segregation for property investors.
