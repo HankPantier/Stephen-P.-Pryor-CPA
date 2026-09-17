@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "payroll-processing-port-chester.jpg"
 hero_image_alt: "Accountant processing payroll on laptop for a small business client"
-hero_subhead: "Fixed-fee payroll, accurate filings, and real-time online access so paydays never become a headache"
+hero_subhead: "Payroll compliance, accurate filings, and real-time online access so tax deadlines never become a headache"
 hero_headline: "Payroll that runs itself so you don't have to think about it"
 answer_block: "Stephen P. Pryor, CPA provides fixed-fee payroll processing, tax filings, and compliance support for businesses in Port Chester and throughout tri-state area. The firm handles industry-specific payroll needs for construction, restaurants and bars, and real estate, backed by a secure online platform for real-time payroll data."
 eeat_signals: ["Payroll managed by Stephen P. Pryor, CPA and Shawn Wilson, CPA","Bundled services delivered for a fixed monthly fee","Secure online platform for real-time payroll and financial data","Multi-state payroll filing experience across NY, NJ, CT, and FL","Industry-specific payroll handling for construction, hospitality, and real estate","Personalized onboarding where the firm learns each client's internal systems"]
