@@ -2,7 +2,7 @@
 title: "Payroll | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
 url: "/what-we-do/payroll"
 meta_title: "Payroll Services Port Chester NY | Stephen P. Pryor, CPA"
-meta_description: "Fixed-fee payroll for Port Chester and tri-state area businesses. Accurate filings, secure online access, and year-round support from a local CPA firm."
+meta_description: "Payroll compliance services for Port Chester and tri-state area businesses. Accurate filings, secure online access, and year-round support from a local CPA firm."
 target_keyword: "payroll services Port Chester NY"
 secondary_keywords: ["CPA payroll Port Chester","payroll processing Port Chester NY","construction payroll Port Chester","restaurant payroll services Port Chester","small business payroll Port Chester","payroll tax Port Chester NY","payroll management Port Chester","certified payroll Port Chester","payroll outsourcing Port Chester NY","bar and restaurant payroll Port Chester","real estate payroll Port Chester","payroll accountant Port Chester","local payroll services tri-state area","payroll processing Westchester","business payroll help Port Chester","affordable payroll services Port Chester NY"]
 canonical_url: "https://pryorcpa.com/what-we-do/payroll"
