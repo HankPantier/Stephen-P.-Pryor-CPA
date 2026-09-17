@@ -105,9 +105,9 @@ All of this comes bundled into one fixed monthly fee alongside bookkeeping and t
 National providers route you through a phone tree and a different rep every time you call. That's not how this works. During onboarding, the Stephen P. Pryor, CPA team learns your internal systems, your pay schedules, and the filing requirements specific to your business, whether that's tip pooling at a bar or job costing on a construction site. Questions get answered by someone who already knows your business. That relationship carries through the whole year, not just at tax time.
 
 <!-- block: content-prose -->
-## Serving Port Chester and the greater tri-state area area
+## Serving Port Chester and beyond
 
-Most clients are based right here in tri-state area, from Port Chester to the surrounding towns. The firm also supports payroll for businesses in New York, New Jersey, Connecticut, and Florida, and throughout the United States. Whether you run a single restaurant on Westchester Avenue or manage crews across three states, payroll gets handled with the same attention and the same secure online access to your data.
+Most clients are based right here in Port Chester and the surrounding towns. From its office in Port Chester, New York, the firm supports payroll compliance for businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Whether you run a single restaurant on Westchester Avenue or manage crews across multiple states, payroll compliance is handled with the same attention and the same secure online access to your data.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Payroll | Stephen P. Pryor, CPA
