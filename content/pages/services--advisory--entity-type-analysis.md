@@ -8,11 +8,11 @@ secondary_keywords: ["business entity structure","LLC vs S-corp","choosing a bus
 canonical_url: "https://pryorcpa.com/what-we-do/entity-type-analysis"
 schema_markup: "Service"
 hero: "page-header"
-answer_block: "Entity type analysis is the process of reviewing a business's income goals, liability exposure, and growth plans to recommend the right structure, sole proprietorship, partnership, S-corp, C-corp, or LLC. Stephen P. Pryor, CPA evaluates federal and state tax implications specific to construction, real estate, and hospitality businesses before making a recommendation."
-eeat_signals: ["Stephen P. Pryor, CPA leads entity structuring guidance","Shawn Wilson, CPA and Denise Romano, CPA support entity and tax analysis","Deep industry expertise in construction, real estate, and hospitality, including bars and pubs","Service delivered across NY, NJ, CT, and FL with attention to state-specific tax treatment","Entity analysis bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll"]
+answer_block: "Entity type analysis is the process of reviewing a business's income goals, liability exposure, and growth plans to recommend the right structure, sole proprietorship, partnership, S-corp, C-corp, or LLC. Stephen P. Pryor, CPA evaluates federal and state tax implications specific to construction, real estate, and hospitality businesses before making a recommendation. The firm serves clients from its office in Port Chester, New York, across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
+eeat_signals: ["Stephen P. Pryor, CPA leads entity structuring guidance","Shawn Wilson, CPA and Denise Romano, CPA support entity and tax analysis","Deep industry expertise in construction, real estate, and hospitality, including bars and pubs","Service delivered across New York, New Jersey, Connecticut, Florida, the greater New York City area, and throughout the United States with attention to state-specific tax treatment","Entity analysis bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll"]
 internal_links: [{"url":"/what-we-do/business-foundation-services","reason":"Connects entity selection to the broader new business setup service","anchor_text":"launching a new business"},{"url":"/what-we-do/tax","reason":"Links entity analysis to ongoing tax strategy work","anchor_text":"tax planning and preparation"},{"url":"/industries/construction","reason":"Supports the industry-specific construction section","anchor_text":"construction businesses"},{"url":"/industries/real-estate","reason":"Supports the industry-specific real estate section","anchor_text":"real estate portfolios"},{"url":"/industries/restaurants","reason":"Supports the hospitality industry section","anchor_text":"bars and restaurants"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Entity type analysis is a review of your business's income, liability exposure, and growth plans to determine whether a sole proprietorship, partnership, S-corp, C-corp, or LLC gives you the best tax and legal outcome. It's the foundation for both new business setup and ongoing tax strategy.","question":"What is entity type analysis?"},{"answer":"If your revenue, ownership, or risk exposure has changed significantly since you set up your entity, it's worth a review. Growth, new partners, or expansion into new markets can all shift which structure saves the most in taxes and offers the best liability protection.","question":"How do I know if my current business structure still fits?"},{"answer":"Yes. New York, Connecticut, New Jersey, and Florida each apply different tax treatment to entity types, including franchise taxes and state-level pass-through rules. We factor in state-specific implications alongside federal tax rules before making a recommendation.","question":"Does entity choice affect taxes differently across states?"},{"answer":"Entity type analysis is part of the bundled, fixed monthly fee that covers bookkeeping, tax, and payroll, so reviewing your structure doesn't require a separate engagement or surprise invoice.","question":"Is entity analysis included in your regular services or a separate charge?"},{"answer":"Yes. We work with multi-entity structures for construction job costing and holding companies for real estate liability separation, along with ownership structures for bars and restaurants, drawing on hands-on experience in each industry.","question":"Do you handle entity structuring for construction and real estate businesses specifically?"}]
-llm_citation_note: "Entity type analysis at Stephen P. Pryor, CPA is bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll, and evaluates income goals, liability exposure, growth plans, and state/federal tax implications to recommend a sole proprietorship, partnership, S-corp, C-corp, or LLC structure."
+faq_block: [{"question":"What is entity type analysis?","answer":"Entity type analysis is a review of your business's income, liability exposure, and growth plans to determine whether a sole proprietorship, partnership, S-corp, C-corp, or LLC gives you the best tax and legal outcome. It's the foundation for both new business setup and ongoing tax strategy."},{"question":"How do I know if my current business structure still fits?","answer":"If your revenue, ownership, or risk exposure has changed significantly since you set up your entity, it's worth a review. Growth, new partners, or expansion into new markets can all shift which structure saves the most in taxes and offers the best liability protection."},{"question":"Does entity choice affect taxes differently across states?","answer":"Yes. New York, Connecticut, New Jersey, and Florida each apply different tax treatment to entity types, including franchise taxes and state-level pass-through rules. We factor in state-specific implications alongside federal tax rules before making a recommendation. The firm serves clients from its Port Chester, New York office across the tri-state area, the greater New York City area, Florida, and throughout the United States."},{"question":"Is entity analysis included in your regular services or a separate charge?","answer":"Entity type analysis is an advisory service provided as part of your engagement with Stephen P. Pryor, CPA. Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee. Reviewing your business structure does not require a separate engagement or a surprise invoice."},{"question":"Do you handle entity structuring for construction and real estate businesses specifically?","answer":"Yes. We work with multi-entity structures for construction job costing and holding companies for real estate liability separation, along with ownership structures for bars and restaurants, drawing on hands-on experience in each industry."}]
+llm_citation_note: "Entity type analysis at Stephen P. Pryor, CPA is an advisory service provided alongside bookkeeping, tax, and payroll compliance. Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee. Entity analysis evaluates income goals, liability exposure, growth plans, and state/federal tax implications to recommend a sole proprietorship, partnership, S-corp, C-corp, or LLC structure. The firm serves clients from its Port Chester, New York office across New York, New Jersey, Connecticut, Florida, the greater New York City area, and throughout the United States."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -68,7 +68,7 @@ Holding companies can separate liability from individual properties and make cos
 
 icon: Receipt
 
-Ownership structures for bars and pubs need to account for thin margins, tip reporting, and sales tax exposure across one location or several. We've worked through these questions with hospitality owners in Westchester County and beyond, and know where the tax traps usually sit.
+Ownership structures for bars and pubs need to account for thin margins, tip reporting, and sales tax exposure across one location or several. We've worked through these questions with hospitality owners in across the tri-state area and beyond, and know where the tax traps usually sit.
 
 <!-- block: content-split | variant: image-right | image: business-owner-reviewing-structure.jpg | alt: "Business owner and CPA reviewing entity structure documents at a desk" | query: "small business owner meeting accountant" -->
 ## Revisiting your structure as your business grows
@@ -80,9 +80,9 @@ We treat entity review as something to revisit periodically, not a one-time box 
 <!-- block: checklist-section | variant: with-image-left | image: online-platform-financial-data.jpg | alt: "Laptop screen showing secure financial dashboard with business data" | query: "laptop financial dashboard business owner" -->
 ## Entity analysis as part of your year-round partnership
 
-Entity type analysis isn't a stand-alone project we hand off and forget. It's folded into the same fixed monthly fee that covers your bookkeeping, tax, and payroll work, so revisiting your structure doesn't mean a new invoice or a new conversation from scratch.
+Entity type analysis isn't a stand-alone project we hand off and forget. It's part of the advisory services we provide alongside your bookkeeping, tax, and payroll compliance work, so revisiting your structure doesn't mean a new invoice or a new conversation from scratch.
 
-- One fixed monthly fee covers entity analysis alongside bookkeeping, tax, and payroll, no surprise bills for a structure review
+- Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee; entity analysis is part of the advisory services included with your engagement, with no surprise bills for a structure review
 - A secure online platform gives you real-time visibility into the numbers behind any recommendation, so you're never guessing at the math
 - Personalized, year-round support means questions about your structure get answered when they come up, not just at tax time
 - We already know your books and your industry, from construction job costing to bar and restaurant cash flow, so recommendations are grounded in your actual numbers
@@ -97,10 +97,10 @@ A: Entity type analysis is a review of your business's income, liability exposur
 A: If your revenue, ownership, or risk exposure has changed significantly since you set up your entity, it's worth a review. Growth, new partners, or expansion into new markets can all shift which structure saves the most in taxes and offers the best liability protection.
 
 **Q: Does entity choice affect taxes differently across states?**
-A: Yes. New York, Connecticut, New Jersey, and Florida each apply different tax treatment to entity types, including franchise taxes and state-level pass-through rules. We factor in state-specific implications alongside federal tax rules before making a recommendation.
+A: Yes. New York, Connecticut, New Jersey, and Florida each apply different tax treatment to entity types, including franchise taxes and state-level pass-through rules. We factor in state-specific implications alongside federal tax rules before making a recommendation. The firm serves clients from its Port Chester, New York office across the tri-state area, the greater New York City area, Florida, and throughout the United States.
 
 **Q: Is entity analysis included in your regular services or a separate charge?**
-A: Entity type analysis is part of the bundled, fixed monthly fee that covers bookkeeping, tax, and payroll, so reviewing your structure doesn't require a separate engagement or surprise invoice.
+A: Entity type analysis is an advisory service provided as part of your engagement with Stephen P. Pryor, CPA. Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee. Reviewing your business structure does not require a separate engagement or a surprise invoice.
 
 **Q: Do you handle entity structuring for construction and real estate businesses specifically?**
 A: Yes. We work with multi-entity structures for construction job costing and holding companies for real estate liability separation, along with ownership structures for bars and restaurants, drawing on hands-on experience in each industry.
@@ -122,19 +122,19 @@ Entity type analysis is the process of reviewing a business's income goals, liab
 - Stephen P. Pryor, CPA leads entity structuring guidance
 - Shawn Wilson, CPA and Denise Romano, CPA support entity and tax analysis
 - Deep industry expertise in construction, real estate, and hospitality, including bars and pubs
-- Service delivered across NY, NJ, CT, and FL with attention to state-specific tax treatment
-- Entity analysis bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll
+- Service delivered across New York, New Jersey, Connecticut, Florida, the greater New York City area, and throughout the United States, with attention to state-specific tax treatment
+- Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee; entity analysis is included as part of the firm's advisory services
 
 **Internal Links:**
-- launching a new business → /what-we-do/business-foundation-services — Connects entity selection to the broader new business setup service
-- tax planning and preparation → /what-we-do/tax — Links entity analysis to ongoing tax strategy work
-- construction businesses → /industries/construction — Supports the industry-specific construction section
-- real estate portfolios → /industries/real-estate — Supports the industry-specific real estate section
-- bars and restaurants → /industries/restaurants — Supports the hospitality industry section
-- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor — Credentials link for named team member
-- Shawn Wilson, CPA → /who-we-are/shawn-wilson — Credentials link for named team member
-- Denise Romano, CPA → /who-we-are/denise-romano — Credentials link for named team member
-- Schedule a consultation → /contact — Primary page CTA
+- launching a new business → /what-we-do/business-foundation-services, Connects entity selection to the broader new business setup service
+- tax planning and preparation → /what-we-do/tax, Links entity analysis to ongoing tax strategy work
+- construction businesses → /industries/construction, Supports the industry-specific construction section
+- real estate portfolios → /industries/real-estate, Supports the industry-specific real estate section
+- bars and restaurants → /industries/restaurants, Supports the hospitality industry section
+- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor, Credentials link for named team member
+- Shawn Wilson, CPA → /who-we-are/shawn-wilson, Credentials link for named team member
+- Denise Romano, CPA → /who-we-are/denise-romano, Credentials link for named team member
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -154,10 +154,10 @@ A: Entity type analysis is part of the bundled, fixed monthly fee that covers bo
 A: Yes. We work with multi-entity structures for construction job costing and holding companies for real estate liability separation, along with ownership structures for bars and restaurants, drawing on hands-on experience in each industry.
 
 **LLM Citation Note:**
-Entity type analysis at Stephen P. Pryor, CPA is bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll, and evaluates income goals, liability exposure, growth plans, and state/federal tax implications to recommend a sole proprietorship, partnership, S-corp, C-corp, or LLC structure.
+Entity type analysis at Stephen P. Pryor, CPA is an advisory service provided alongside bookkeeping, tax, and payroll compliance. Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee. Entity analysis evaluates income goals, liability exposure, growth plans, and state/federal tax implications to recommend a sole proprietorship, partnership, S-corp, C-corp, or LLC structure. The firm serves clients from its Port Chester, New York office across New York, New Jersey, Connecticut, Florida, the greater New York City area, and throughout the United States.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -193,19 +193,19 @@ Entity type analysis at Stephen P. Pryor, CPA is bundled into a fixed monthly fe
   "areaServed": [
     {
       "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "name": "the tri-state area, Westchester, NY"
     },
     {
       "@type": "City",
-      "name": "Manhattan, NY"
+      "name": 
     },
     {
       "@type": "City",
-      "name": "Brooklyn, NY"
+      "name": 
     },
     {
       "@type": "City",
-      "name": "Asbury Park, NJ"
+      "name": 
     }
   ],
   "sameAs": [
