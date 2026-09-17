@@ -2,7 +2,7 @@
 title: "Bookkeeping | Stephen P. Pryor, CPA"
 url: "/services/bookkeeping"
 meta_title: "Bookkeeping Services Port Chester NY | Stephen Pryor CPA"
-meta_description: "Monthly bookkeeping in Port Chester, NY with a fixed fee, secure online access, and expertise in construction, real estate, and hospitality bookkeeping."
+meta_description: "Monthly bookkeeping for construction, real estate, and restaurant businesses. Fixed monthly fee with tax and payroll compliance, secure online access, serving clients from Port Chester, NY across the tri-state area and beyond."
 target_keyword: "bookkeeping services Port Chester NY"
 secondary_keywords: ["CPA bookkeeping Port Chester","small business bookkeeping Port Chester","construction bookkeeping Port Chester NY","restaurant bookkeeping Port Chester","real estate bookkeeping Port Chester NY","outsourced bookkeeping Port Chester NY","monthly bookkeeping Port Chester NY","quickbooks bookkeeping Port Chester","contractor bookkeeping Port Chester NY","hospitality bookkeeping Port Chester"]
 canonical_url: "https://pryorcpa.com/services/bookkeeping"
