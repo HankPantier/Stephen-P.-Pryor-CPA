@@ -68,7 +68,7 @@ Holding companies can separate liability from individual properties and make cos
 
 icon: Receipt
 
-Ownership structures for bars and pubs need to account for thin margins, tip reporting, and sales tax exposure across one location or several. We've worked through these questions with hospitality owners in Westchester County and beyond, and know where the tax traps usually sit.
+Ownership structures for bars and pubs need to account for thin margins, tip reporting, and sales tax exposure across one location or several. We've worked through these questions with hospitality owners in across the tri-state area and beyond, and know where the tax traps usually sit.
 
 <!-- block: content-split | variant: image-right | image: business-owner-reviewing-structure.jpg | alt: "Business owner and CPA reviewing entity structure documents at a desk" | query: "small business owner meeting accountant" -->
 ## Revisiting your structure as your business grows
@@ -126,15 +126,15 @@ Entity type analysis is the process of reviewing a business's income goals, liab
 - Entity analysis bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll
 
 **Internal Links:**
-- launching a new business → /what-we-do/business-foundation-services — Connects entity selection to the broader new business setup service
-- tax planning and preparation → /what-we-do/tax — Links entity analysis to ongoing tax strategy work
-- construction businesses → /industries/construction — Supports the industry-specific construction section
-- real estate portfolios → /industries/real-estate — Supports the industry-specific real estate section
-- bars and restaurants → /industries/restaurants — Supports the hospitality industry section
-- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor — Credentials link for named team member
-- Shawn Wilson, CPA → /who-we-are/shawn-wilson — Credentials link for named team member
-- Denise Romano, CPA → /who-we-are/denise-romano — Credentials link for named team member
-- Schedule a consultation → /contact — Primary page CTA
+- launching a new business → /what-we-do/business-foundation-services, Connects entity selection to the broader new business setup service
+- tax planning and preparation → /what-we-do/tax, Links entity analysis to ongoing tax strategy work
+- construction businesses → /industries/construction, Supports the industry-specific construction section
+- real estate portfolios → /industries/real-estate, Supports the industry-specific real estate section
+- bars and restaurants → /industries/restaurants, Supports the hospitality industry section
+- Stephen P. Pryor, CPA → /who-we-are/stephen-pryor, Credentials link for named team member
+- Shawn Wilson, CPA → /who-we-are/shawn-wilson, Credentials link for named team member
+- Denise Romano, CPA → /who-we-are/denise-romano, Credentials link for named team member
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -157,7 +157,7 @@ A: Yes. We work with multi-entity structures for construction job costing and ho
 Entity type analysis at Stephen P. Pryor, CPA is bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll, and evaluates income goals, liability exposure, growth plans, and state/federal tax implications to recommend a sole proprietorship, partnership, S-corp, C-corp, or LLC structure.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -193,7 +193,7 @@ Entity type analysis at Stephen P. Pryor, CPA is bundled into a fixed monthly fe
   "areaServed": [
     {
       "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "name": "the tri-state area, Westchester, NY"
     },
     {
       "@type": "City",
