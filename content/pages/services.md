@@ -197,19 +197,19 @@ Pryor CPA bundles bookkeeping, payroll, business tax, personal tax, and advisory
   "areaServed": [
     {
       "@type": "City",
-      "name": "Westchester, NY"
+      "name": ""
     },
     {
       "@type": "City",
-      "name": "Manhattan, NY"
+      "name": ""
     },
     {
       "@type": "City",
-      "name": "Brooklyn, NY"
+      "name": ""
     },
     {
       "@type": "City",
-      "name": "Asbury Park, NJ"
+      "name": ""
     }
   ],
   "sameAs": [
