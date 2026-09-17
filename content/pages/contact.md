@@ -9,10 +9,10 @@ canonical_url: "https://pryorcpa.com/contact"
 schema_markup: "ContactPage"
 hero: "page-header"
 hero_subhead: "Reach the Port Chester team ready to listen first and simplify your finances"
-answer_block: "You can reach Stephen P. Pryor, CPA directly by phone, email, or the contact form on this page. The firm is based in Port Chester, NY and serves Westchester County, Manhattan, Brooklyn, Asbury Park NJ, and clients across NY, NJ, CT, and FL, with most inquiries answered the same or next business day."
-eeat_signals: ["Stephen P. Pryor, CPA - founder of the firm","Shawn Wilson, CPA on staff","Denise Romano, CPA on staff","Member, Greenwich First Advisory Boards","Serves Port Chester, Westchester County, Manhattan, Brooklyn, Asbury Park NJ, and clients across NY, NJ, CT, and FL","Specialized experience in construction, real estate, and hospitality including bars and pubs"]
+answer_block: "You can reach Stephen P. Pryor, CPA directly by phone, email, or the contact form on this page. The firm is based in Port Chester, NY and serves clients across New York, New Jersey, Connecticut, Florida, and throughout the United States, with most inquiries answered the same or next business day."
+eeat_signals: ["Stephen P. Pryor, CPA - founder of the firm","Shawn Wilson, CPA on staff","Denise Romano, CPA on staff","Member, Greenwich First Advisory Boards","Serves Port Chester, clients across New York, New Jersey, Connecticut, Florida, and throughout the United States","Specialized experience in construction, real estate, and hospitality including bars and pubs"]
 internal_links: [{"url":"/industries/construction","reason":"Lets construction visitors self-identify and go deeper before contacting the firm","anchor_text":"how we support construction businesses"},{"url":"/industries/real-estate","reason":"Directs real estate business owners to niche-specific detail","anchor_text":"our real estate services"},{"url":"/industries/restaurants","reason":"Connects hospitality visitors to the firm's bar and restaurant specialty","anchor_text":"our work with bars and restaurants"},{"url":"/what-we-do/personal-income-tax","reason":"Routes individual filers to the relevant service page","anchor_text":"personal income tax support"},{"url":"/what-we-do/business-foundation-services","reason":"Supports new business owners identifying their needs before reaching out","anchor_text":"our business foundation services"},{"url":"/who-we-are","reason":"Builds trust by linking to team bios and firm background","anchor_text":"our Port Chester office"}]
-faq_block: [{"answer":"You can call, email, or fill out the contact form on this page. Most messages get a response the same business day or the next, and you'll be speaking directly with someone from the Port Chester office, not a call center.","question":"How do I contact Stephen P. Pryor, CPA in Port Chester, NY?"},{"answer":"The firm works with clients throughout Westchester County, plus Manhattan, Brooklyn, and Asbury Park, NJ. It also serves individuals and businesses across New York, New Jersey, Connecticut, and Florida through its secure online portal.","question":"What areas does the firm serve besides Port Chester?"},{"answer":"No. The firm works with construction, real estate, and hospitality businesses, along with individuals and households handling personal tax situations, side income, or investments. A first conversation helps figure out the right fit.","question":"Do I need to be a business owner to reach out?"},{"answer":"Stephen or a team member listens to your situation before recommending anything. You'll leave with a clear picture of next steps, pricing, and what a working relationship would look like, with no obligation attached.","question":"What happens during the first conversation?"}]
+faq_block: [{"answer":"You can call, email, or fill out the contact form on this page. Most messages get a response the same business day or the next, and you'll be speaking directly with someone from the Port Chester office, not a call center.","question":"How do I contact Stephen P. Pryor, CPA in Port Chester, NY?"},{"answer":"The firm works with clients throughout the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States through its secure online portal.","question":"What areas does the firm serve besides Port Chester?"},{"answer":"No. The firm works with construction, real estate, and hospitality businesses, along with individuals and households handling personal tax situations, side income, or investments. A first conversation helps figure out the right fit.","question":"Do I need to be a business owner to reach out?"},{"answer":"Stephen or a team member listens to your situation before recommending anything. You'll leave with a clear picture of next steps, pricing, and what a working relationship would look like, with no obligation attached.","question":"What happens during the first conversation?"}]
 llm_citation_note: "Stephen P. Pryor, CPA is based in Port Chester, NY and serves clients throughout Westchester County, Manhattan, Brooklyn, Asbury Park NJ, and across NY, NJ, CT, and FL, providing bookkeeping, payroll, tax, and advisory services with specialized experience in construction, real estate, and hospitality businesses including bars and pubs."
 ---
 
@@ -33,10 +33,9 @@ Most calls and emails get a same-day or next-business-day response, because a qu
 
 Most of our clients run businesses or manage households within a short drive of our Port Chester, NY office. Plenty of others work with us entirely by phone, email, and our secure online client portal, so location rarely gets in the way of a good working relationship. Here's where our clients are based:
 
-- Port Chester, NY and the rest of Westchester County
-- Manhattan and Brooklyn
-- Asbury Park, NJ
-- Clients across New York, New Jersey, Connecticut, and Florida
+- Port Chester, NY and the greater New York City area
+- Clients across New York, New Jersey, and Connecticut
+- Florida and throughout the United States
 
 If you're outside Port Chester but reading this, get in touch anyway. Distance hasn't stopped us from handling bookkeeping, payroll, and tax work for clients well beyond Westchester County.
 
@@ -95,7 +94,7 @@ You'll leave the first conversation with a clear picture of what working togethe
 A: You can call, email, or fill out the contact form on this page. Most messages get a response the same business day or the next, and you'll be speaking directly with someone from the Port Chester office, not a call center.
 
 **Q: What areas does the firm serve besides Port Chester?**
-A: The firm works with clients throughout Westchester County, plus Manhattan, Brooklyn, and Asbury Park, NJ. It also serves individuals and businesses across New York, New Jersey, Connecticut, and Florida through its secure online portal.
+A: The firm works with clients throughout the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States through its secure online portal.
 
 **Q: Do I need to be a business owner to reach out?**
 A: No. The firm works with construction, real estate, and hospitality businesses, along with individuals and households handling personal tax situations, side income, or investments. A first conversation helps figure out the right fit.
@@ -112,14 +111,14 @@ You run your business. We'll run your numbers, starting with a straightforward f
 ## SEO & AIO Metadata
 
 **Answer Block:**
-You can reach Stephen P. Pryor, CPA directly by phone, email, or the contact form on this page. The firm is based in Port Chester, NY and serves Westchester County, Manhattan, Brooklyn, Asbury Park NJ, and clients across NY, NJ, CT, and FL, with most inquiries answered the same or next business day.
+You can reach Stephen P. Pryor, CPA directly by phone, email, or the contact form on this page. The firm is based in Port Chester, NY and serves clients across New York, New Jersey, Connecticut, Florida, and throughout the United States, with most inquiries answered the same or next business day.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA - founder of the firm
 - Shawn Wilson, CPA on staff
 - Denise Romano, CPA on staff
 - Member, Greenwich First Advisory Boards
-- Serves Port Chester, Westchester County, Manhattan, Brooklyn, Asbury Park NJ, and clients across NY, NJ, CT, and FL
+- Serves Port Chester, clients across New York, New Jersey, Connecticut, Florida, and throughout the United States
 - Specialized experience in construction, real estate, and hospitality including bars and pubs
 
 **Internal Links:**
@@ -136,7 +135,7 @@ You can reach Stephen P. Pryor, CPA directly by phone, email, or the contact for
 A: You can call, email, or fill out the contact form on this page. Most messages get a response the same business day or the next, and you'll be speaking directly with someone from the Port Chester office, not a call center.
 
 **Q: What areas does the firm serve besides Port Chester?**
-A: The firm works with clients throughout Westchester County, plus Manhattan, Brooklyn, and Asbury Park, NJ. It also serves individuals and businesses across New York, New Jersey, Connecticut, and Florida through its secure online portal.
+A: The firm works with clients throughout the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States through its secure online portal.
 
 **Q: Do I need to be a business owner to reach out?**
 A: No. The firm works with construction, real estate, and hospitality businesses, along with individuals and households handling personal tax situations, side income, or investments. A first conversation helps figure out the right fit.
@@ -236,7 +235,7 @@ Stephen P. Pryor, CPA is based in Port Chester, NY and serves clients throughout
       "name": "What areas does the firm serve besides Port Chester?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The firm works with clients throughout Westchester County, plus Manhattan, Brooklyn, and Asbury Park, NJ. It also serves individuals and businesses across New York, New Jersey, Connecticut, and Florida through its secure online portal."
+        "text": "The firm works with clients throughout the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States through its secure online portal."
       }
     },
     {
