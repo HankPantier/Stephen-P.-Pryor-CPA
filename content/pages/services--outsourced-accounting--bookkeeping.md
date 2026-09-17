@@ -141,7 +141,7 @@ Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized busin
 
 **Internal Links:**
 - tax planning and preparation → /services/tax, Cross-sell bundled tax service that pairs with bookkeeping in the fixed monthly fee
-- payroll processing → /what-we-do/payroll, Related bundled service mentioned alongside bookkeeping
+- payroll compliance → /what-we-do/payroll, Related bundled service mentioned alongside bookkeeping
 - advisory support → /services/advisory, Ties bookkeeping data into higher-level business guidance
 - construction bookkeeping and job costing → /industries/construction, Deep-dive page for the construction niche referenced in this page
 - real estate accounting → /industries/real-estate, Deep-dive page for the real estate niche referenced in this page
