@@ -128,9 +128,9 @@ A: During onboarding, the team learns your existing pay schedules, internal syst
 A: Payroll processing, direct deposit, electronic paystubs for employees, employer access to real-time pay records, payroll tax filings and returns, new hire reporting, W-2 and 1099 preparation, pension remittance, garnishment remittance, and ongoing compliance monitoring are all included in one fixed monthly fee.
 
 <!-- block: cta-banner | variant: image-bg | image: payroll-consultation-cta.jpg | alt: "Smiling small business owner shaking hands with accountant" | query: "business owner handshake accountant meeting" -->
-## Get started with stress-free payroll today
+## Get started with stress-free payroll compliance today
 
-Payroll shouldn't be the thing that keeps you up before every pay period. Schedule a consultation with the team at Stephen P. Pryor, CPA and find out what fixed-fee, fully managed payroll looks like for your business. You run your business. We'll run your numbers.
+Payroll compliance shouldn't be the thing that keeps you up before every filing deadline. Schedule a consultation with the team at Stephen P. Pryor, CPA and find out what fixed-fee payroll compliance looks like for your business. You run your business. We'll run your numbers.
 
 [Schedule a consultation](/contact)
 
