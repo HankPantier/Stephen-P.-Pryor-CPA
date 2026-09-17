@@ -38,7 +38,7 @@ Full charge outsourced accounting means every function that keeps your books acc
 - Bank and credit card reconciliation, catching errors and discrepancies before they become problems
 - 
 - Cash management, monitoring inflows and outflows so you always know where you stand
-- Payroll coordination, keeping filings accurate and employees paid on time
+- Payroll compliance, so filings are accurate, on time, and fully documented
 - Tax integration, so your bookkeeping data flows directly into planning and preparation instead of getting reconstructed every spring
 
 Each piece works together instead of living in separate spreadsheets or software subscriptions. That's the point of outsourcing the whole function instead of hiring around it, one task at a time.
