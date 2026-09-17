@@ -101,7 +101,7 @@ A: Bookkeeping and tax prep keep the numbers accurate and compliant. Advisory go
 A: Yes. New business owners need Entity Type Analysis and Accounting System Setup to put the right structure and financial systems in place from day one, which helps avoid costly tax and compliance mistakes that are far harder to fix once the business is already running.
 
 **Q: Does the firm handle payroll for clients?**
-A: The firm provides payroll compliance services, covering payroll tax filings, W-2 and 1099 processing, and compliance with prevailing wage and certified payroll requirements for contractors on public works projects. Payroll processing is not something the firm handles directly. The focus is on keeping every payroll-related filing accurate and on time.
+A: The firm provides payroll compliance services, covering payroll tax filings, W-2 and 1099 processing, and compliance with prevailing wage and certified payroll requirements for contractors on public works projects. The firm handles payroll compliance only, not payroll processing, and keeps every payroll-related filing accurate and on time.
 
 <!-- block: cta-banner | variant: image-bg | image: advisory-consultation-call.jpg | alt: "Small business owner shaking hands with CPA advisor after a consultation" | query: "business handshake advisor consultation" -->
 ## Let's talk about where your business is headed
