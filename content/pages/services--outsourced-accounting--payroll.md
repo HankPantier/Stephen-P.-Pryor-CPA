@@ -142,7 +142,7 @@ Stephen P. Pryor, CPA provides payroll compliance services, including tax filing
 
 **E-E-A-T Signals:**
 - Payroll compliance managed by Stephen P. Pryor, CPA and Shawn Wilson, CPA
-- Bookkeeping, payroll compliance, and tax delivered for a fixed monthly fee
+- Bookkeeping, payroll compliance, and tax bundled for a fixed monthly fee
 - Secure online platform for real-time payroll and financial data
 - Multi-state payroll filing experience across NY, NJ, CT, and FL
 - Industry-specific payroll compliance handling for construction, hospitality, and real estate
