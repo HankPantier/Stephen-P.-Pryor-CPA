@@ -247,7 +247,7 @@ AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping,
       "name": "Who is Stephen P. Pryor, CPA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Stephen P. Pryor, CPA founded the firm on a service-first approach, working directly with construction, real estate, and hospitality clients across Port Chester and Westchester County. He focuses on long-term relationships rather than one-time filings, learning each client's internal systems from the first meeting."
+        "text": "Stephen P. Pryor, CPA founded the firm on a service-first approach, working directly with construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut. He focuses on long-term relationships rather than one-time filings, learning each client's internal systems from the first meeting."
       }
     },
     {
@@ -255,7 +255,7 @@ AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping,
       "name": "What areas does Stephen P. Pryor, CPA serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The firm serves Port Chester and the majority of Westchester County, along with clients in Manhattan, Brooklyn, and Asbury Park, NJ. Additional clients across New York, New Jersey, Connecticut, and Florida work with the team remotely through a secure online platform."
+        "text": "The firm is based in Port Chester, New York, and serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. A secure online platform makes it easy to work with the team from anywhere."
       }
     },
     {
@@ -271,7 +271,7 @@ AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping,
       "name": "Does Stephen P. Pryor, CPA offer bundled pricing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Bookkeeping, payroll, and tax services are bundled into one fixed monthly fee, so clients get consistent support without surprise invoices. A secure online platform gives real-time visibility into financial data year-round."
+        "text": "Yes. Bookkeeping, payroll compliance, and tax services are bundled into one fixed monthly fee, so clients get consistent support without surprise invoices. A secure online platform gives real-time visibility into financial data year-round."
       }
     }
   ]
