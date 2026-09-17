@@ -86,7 +86,7 @@ Behind Stephen, Shawn, Nicholas, and Denise is an office team handling billing, 
 
 Onboarding starts with listening, not paperwork. Before touching a single number, we learn how a client's business actually runs, their invoicing habits, their payroll schedule, the way cash moves through a busy weekend at a bar.
 
-- One bundled fee covers [bookkeeping](/what-we-do/bookkeeping), [payroll compliance](/what-we-do/payroll), and [tax](/what-we-do/tax), billed monthly with no surprise invoices.
+- One bundled fee covers [bookkeeping](/what-we-do/bookkeeping), [payroll compliance](/what-we-do/payroll), and [tax](/what-we-do/tax), billed monthly with no surprise invoices. Advisory services are available separately and tailored to each client's business.
 - A secure online platform gives clients real-time access to their financial data, not a quarterly PDF.
 - One contact who already knows the business, reachable beyond tax season.
 - Ongoing check-ins that catch cash flow problems before they turn into emergencies.
