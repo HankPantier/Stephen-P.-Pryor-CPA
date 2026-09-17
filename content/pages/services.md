@@ -48,7 +48,7 @@ Personal returns get complicated the moment you add a side business, rental inco
 <!-- block: feature-grid | variant: 3-col -->
 ## Advisory support to help you make confident financial decisions
 
-Compliance work tells you where you've been. Advisory work helps you decide where to go next. Our advisory services bring strategic insight to decisions that come up long after your return is filed, from cash flow to retirement planning to the accounting systems running behind your business.
+Staying compliant is the foundation. Making smart decisions with your numbers is what moves the business forward. Our advisory services bring strategic insight to decisions that come up long after your return is filed, from cash flow to retirement planning to the accounting systems running behind your business.
 
 ### Strategic Guidance
 icon: ChartLine
