@@ -2,7 +2,7 @@
 title: "Advisory Services | Stephen P. Pryor, CPA"
 url: "/services/advisory"
 meta_title: "Business Advisory Services Port Chester NY | Pryor CPA"
-meta_description: "CPA advisory services in Port Chester, NY for construction, real estate, and hospitality businesses across New York, New Jersey, Connecticut, and Florida."
+meta_description: "CPA advisory services in Port Chester, NY for construction, real estate, and hospitality businesses across New York, New Jersey, Connecticut, the greater New York City area, Florida, and throughout the United States."
 target_keyword: "business advisory services Port Chester NY"
 secondary_keywords: ["CPA advisory Port Chester","construction accounting advisor Port Chester","real estate CPA advisory Port Chester","bar and restaurant accounting advisory Port Chester","entity type analysis Port Chester CPA","retirement plan advisor Port Chester NY","cash management services Port Chester","accounting system setup Port Chester"," Port Chester NY","small business advisor Port Chester NY"]
 canonical_url: "https://pryorcpa.com/services/advisory"
