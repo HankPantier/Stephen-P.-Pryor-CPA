@@ -51,7 +51,7 @@ Most tax prep shops see you once a year, hand you a bill or a refund, and see yo
 
 Restaurants staff up for summer and cut back in January. Construction crews move between job sites and sometimes between states. Both situations make payroll tax compliance harder than a standard nine-to-five office, and generic tax software wasn't built for it.
 
-The firm handles [payroll compliance](/what-we-do/payroll), not live payroll processing. That means payroll tax filings, quarterly reporting, and year-end W-2 and 1099 processing are all managed by the same team handling your business tax return. Wage reporting ties back to the numbers on your books instead of coming from a separate vendor who has never seen them. That consistency matters most for bar and restaurant clients managing tip reporting and construction clients tracking labor costs across multiple job sites.
+The firm handles [payroll compliance](/what-we-do/payroll), not  processing. That means payroll tax filings, quarterly reporting, and year-end W-2 and 1099 processing are all managed by the same team handling your business tax return. Wage reporting ties back to the numbers on your books instead of coming from a separate vendor who has never seen them. That consistency matters most for bar and restaurant clients managing tip reporting and construction clients tracking labor costs across multiple job sites.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business Tax | Stephen P. Pryor, CPA
