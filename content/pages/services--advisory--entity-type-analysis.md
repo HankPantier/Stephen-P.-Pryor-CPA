@@ -197,15 +197,15 @@ Entity type analysis at Stephen P. Pryor, CPA is bundled into a fixed monthly fe
     },
     {
       "@type": "City",
-      "name": "Manhattan, NY"
+      "name": 
     },
     {
       "@type": "City",
-      "name": "Brooklyn, NY"
+      "name": 
     },
     {
       "@type": "City",
-      "name": "Asbury Park, NJ"
+      "name": 
     }
   ],
   "sameAs": [
