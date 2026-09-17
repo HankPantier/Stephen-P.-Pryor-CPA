@@ -96,6 +96,8 @@ Most of our bookkeeping clients are based in Port Chester and across the tri-sta
 
 Bookkeeping doesn't require an in-person visit every month. Our secure platform and regular check-ins keep the relationship close no matter where your business operates. What matters is that someone is paying attention to your numbers consistently, not just at tax time.
 
+
+
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Bookkeeping
 
