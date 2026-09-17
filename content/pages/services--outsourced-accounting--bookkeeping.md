@@ -152,7 +152,7 @@ Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized busin
 **FAQ Block:**
 
 **Q: How much does bookkeeping cost with Stephen P. Pryor, CPA?**
-A: Bookkeeping is bundled into a fixed monthly fee alongside tax, payroll, and advisory support, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business.
+A: Bookkeeping is bundled into a fixed monthly fee alongside tax and payroll compliance, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business.
 
 **Q: Do you work with businesses that already use QuickBooks?**
 A: Yes. During onboarding we review your existing QuickBooks setup, clean up what needs it, and build our monthly reconciliation process around the software you're already using, so switching bookkeepers doesn't mean starting over from scratch.
