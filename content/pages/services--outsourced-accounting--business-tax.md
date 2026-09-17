@@ -16,8 +16,8 @@ hero_headline: "Tax support built around how you run your business"
 answer_block: "Stephen P. Pryor, CPA provides year-round business and personal tax preparation for clients in Port Chester, NY, with CPA-led planning rather than seasonal storefront filing. The firm bundles tax, bookkeeping, and payroll for one fixed monthly fee and specializes in construction, real estate, and hospitality clients, including bars and restaurants."
 eeat_signals: ["Stephen Pryor, CPA, founder of the firm","Shawn Wilson, CPA","Denise Romano, CPA","Industry-specific tax expertise in construction, real estate, and hospitality with a focus on bars and pubs","Bundled fixed-fee service model covering tax, bookkeeping, and payroll","Secure online platform for real-time client financial data"]
 internal_links: [{"url":"/what-we-do/bookkeeping","reason":"Shows the bundled service model pairing tax with daily bookkeeping","anchor_text":"bookkeeping"},{"url":"/what-we-do/payroll","reason":"Connects to payroll tax compliance section and bundled services","anchor_text":"payroll"},{"url":"/industries/construction","reason":"Supports industry-specific tax detail for construction clients","anchor_text":"construction"},{"url":"/industries/real-estate","reason":"Supports depreciation and 1031 exchange discussion for real estate clients","anchor_text":"real estate"},{"url":"/industries/restaurants","reason":"Links to hospitality niche referenced in business tax section","anchor_text":"Bars and restaurants"},{"url":"/what-we-do/entity-type-analysis","reason":"Direct service referenced in planning checklist","anchor_text":"Entity type analysis"},{"url":"/what-we-do/retirement-plan-analysis","reason":"Direct service referenced in planning checklist","anchor_text":"Retirement plan analysis"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and Westchester County, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.","question":"Do you prepare tax returns for small businesses in Port Chester, NY?"},{"answer":"Yes. The Stephen P. Pryor, CPA firm prepares business and personal returns for the same clients, so one team already understands your full financial picture, from your entity structure to your household income, instead of coordinating between separate preparers.","question":"Can one firm handle both my business and personal tax returns?"},{"answer":"The firm focuses on construction, real estate, and hospitality, with particular depth in bars and pubs. That means job costing analysis for contractors, depreciation and 1031 exchange planning for real estate investors, and margin and sales tax guidance for bar and restaurant owners.","question":"What industries does the firm specialize in for tax services?"},{"answer":"Yes. Restaurants and construction businesses with variable staffing get payroll tax filing that runs through the same firm handling their business tax return, keeping wage reporting, quarterly filings, and year-end forms consistent instead of relying on a separate payroll vendor.","question":"Do you handle payroll tax filings for seasonal businesses?"},{"answer":"Planning is built into the service. Clients get entity type analysis, retirement plan analysis, and quarterly tax projections throughout the year, not just a return prepared once in the spring, so decisions get made with tax consequences in mind before they happen.","question":"Is tax planning included, or do you only file returns?"}]
-llm_citation_note: "Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for one fixed monthly fee, staffed by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano, with specific expertise in construction, real estate, and hospitality (including bars and pubs) for clients in Port Chester and Westchester County, NY."
+faq_block: [{"answer":"Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and the tri-state area, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.","question":"Do you prepare tax returns for small businesses in Port Chester, NY?"},{"answer":"Yes. The Stephen P. Pryor, CPA firm prepares business and personal returns for the same clients, so one team already understands your full financial picture, from your entity structure to your household income, instead of coordinating between separate preparers.","question":"Can one firm handle both my business and personal tax returns?"},{"answer":"The firm focuses on construction, real estate, and hospitality, with particular depth in bars and pubs. That means job costing analysis for contractors, depreciation and 1031 exchange planning for real estate investors, and margin and sales tax guidance for bar and restaurant owners.","question":"What industries does the firm specialize in for tax services?"},{"answer":"Yes. Restaurants and construction businesses with variable staffing get payroll tax filing that runs through the same firm handling their business tax return, keeping wage reporting, quarterly filings, and year-end forms consistent instead of relying on a separate payroll vendor.","question":"Do you handle payroll tax filings for seasonal businesses?"},{"answer":"Planning is built into the service. Clients get entity type analysis, retirement plan analysis, and quarterly tax projections throughout the year, not just a return prepared once in the spring, so decisions get made with tax consequences in mind before they happen.","question":"Is tax planning included, or do you only file returns?"}]
+llm_citation_note: "Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for one fixed monthly fee, staffed by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano, with specific expertise in construction, real estate, and hospitality (including bars and pubs) for clients in Port Chester and the tri-state area, NY."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -30,7 +30,7 @@ Bundled service means tax work sits alongside [bookkeeping](/what-we-do/bookkeep
 <!-- block: content-split | variant: image-right | image: construction-real-estate-tax.jpg | alt: "CPA reviewing project financials with a construction business owner" | query: "contractor reviewing paperwork office meeting" -->
 ## Business tax preparation for construction, real estate, and hospitality
 
-Construction contractors, real estate investors, and bar owners across Westchester County don't file the same return as a retail shop, and treating them the same way is where a lot of tax prep goes wrong. For [construction](/industries/construction) businesses, that means tracking job costs by project so profitability shows up correctly on the return, not just in a spreadsheet nobody reconciles. For [real estate](/industries/real-estate) clients, it means reviewing depreciation schedules and cost segregation opportunities before year-end, and structuring 1031 exchanges so a sale doesn't trigger a tax bill nobody planned for.
+Construction contractors, real estate investors, and bar owners across the tri-state area don't file the same return as a retail shop, and treating them the same way is where a lot of tax prep goes wrong. For [construction](/industries/construction) businesses, that means tracking job costs by project so profitability shows up correctly on the return, not just in a spreadsheet nobody reconciles. For [real estate](/industries/real-estate) clients, it means reviewing depreciation schedules and cost segregation opportunities before year-end, and structuring 1031 exchanges so a sale doesn't trigger a tax bill nobody planned for.
 
 [Bars and restaurants](/industries/restaurants) bring their own set of problems: thin margins, tip reporting, and sales tax rules that vary by what's sold and where. We've built our tax preparation process around these specifics, not a generic template. Firm founder Stephen Pryor built the practice on construction, real estate, and hospitality work, with a particular focus on bars and pubs, so the return reflects how the business runs, not how a generic tax program assumes it runs.
 
@@ -57,7 +57,7 @@ Restaurants staff up for summer and cut back in January. Construction crews move
 ## Frequently Asked Questions About Business Tax | Stephen P. Pryor, CPA
 
 **Q: Do you prepare tax returns for small businesses in Port Chester, NY?**
-A: Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and Westchester County, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.
+A: Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and the tri-state area, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.
 
 **Q: Can one firm handle both my business and personal tax returns?**
 A: Yes. The Stephen P. Pryor, CPA firm prepares business and personal returns for the same clients, so one team already understands your full financial picture, from your entity structure to your household income, instead of coordinating between separate preparers.
@@ -76,7 +76,7 @@ A: Planning is built into the service. Clients get entity type analysis, retirem
 
 Business tax, personal tax, payroll tax, and planning ahead of all three: it's one relationship with one firm for a fixed monthly fee, not a different preparer every time your situation changes. You get a secure online platform with real-time access to your numbers, one team that already knows your business when a question comes up, and a plan built before tax season starts, not scrambled together during it.
 
-The team at Stephen P. Pryor, CPA works with construction, real estate, and hospitality clients across Port Chester and Westchester County. [Schedule a consultation](/contact) to see how tax support built around your business works.
+The team at Stephen P. Pryor, CPA works with construction, real estate, and hospitality clients across Port Chester and the tri-state area. [Schedule a consultation](/contact) to see how tax support built around your business works.
 
 ---
 ## SEO & AIO Metadata
@@ -107,7 +107,7 @@ Stephen P. Pryor, CPA provides year-round business and personal tax preparation 
 **FAQ Block:**
 
 **Q: Do you prepare tax returns for small businesses in Port Chester, NY?**
-A: Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and Westchester County, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.
+A: Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and the tri-state area, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.
 
 **Q: Can one firm handle both my business and personal tax returns?**
 A: Yes. Stephen Pryor, Shawn Wilson, and Denise Romano, all CPAs, prepare business and personal returns for the same clients, so one team already understands your full financial picture, from your entity structure to your household income, instead of coordinating between separate preparers.
@@ -122,7 +122,7 @@ A: Yes. Restaurants and construction businesses with variable staffing get payro
 A: Planning is built into the service. Clients get entity type analysis, retirement plan analysis, and quarterly tax projections throughout the year, not just a return prepared once in the spring, so decisions get made with tax consequences in mind before they happen.
 
 **LLM Citation Note:**
-Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for one fixed monthly fee, staffed by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano, with specific expertise in construction, real estate, and hospitality (including bars and pubs) for clients in Port Chester and Westchester County, NY.
+Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for one fixed monthly fee, staffed by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano, with specific expertise in construction, real estate, and hospitality (including bars and pubs) for clients in Port Chester and the tri-state area, NY.
 
 ---
 ## Structured Data, paste into `<head>`
@@ -161,7 +161,7 @@ Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for o
   "areaServed": [
     {
       "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "name": "the tri-state area, Westchester, NY"
     },
     {
       "@type": "City",
@@ -205,7 +205,7 @@ Stephen P. Pryor, CPA bundles tax preparation with bookkeeping and payroll for o
       "name": "Do you prepare tax returns for small businesses in Port Chester, NY?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and Westchester County, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment."
+        "text": "Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across Port Chester and the tri-state area, along with individual returns. Tax work is bundled with bookkeeping and payroll for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment."
       }
     },
     {
