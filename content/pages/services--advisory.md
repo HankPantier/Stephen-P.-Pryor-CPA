@@ -257,7 +257,7 @@ Pryor CPA bundles strategic advisory guidance, including entity structuring, cas
       "name": "How much do advisory services cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Advisory services are billed separately from the firm's bundled fixed monthly fee, which covers bookkeeping, payroll compliance, and tax. Advisory guidance is available year-round as part of an ongoing client relationship, so business owners can reach out with a question about cash flow or a key decision without worrying about a surprise invoice."
+        "text": "The firm's bundled fixed monthly fee covers bookkeeping, payroll compliance, and tax. Advisory services are billed separately from that fee. Advisory guidance is available year-round as part of an ongoing client relationship, so business owners can reach out with questions about cash flow or key decisions without worrying about a surprise invoice."
       }
     },
     {
