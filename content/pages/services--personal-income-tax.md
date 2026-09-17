@@ -254,7 +254,7 @@ Stephen P. Pryor, CPA offers year-round personal income tax preparation and plan
       "name": "Do you handle personal taxes for business owners in construction, real estate, or hospitality?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Stephen Pryor, Shawn Wilson, and Denise Romano regularly work with owners in these industries, coordinating personal returns with business tax strategy, including depreciation, entity structure, and cost segregation on investment property."
+        "text": "Yes. The team of CPAs at Stephen P. Pryor, CPA regularly work with owners in these industries, coordinating personal returns with business tax strategy, including depreciation, entity structure, and cost segregation on investment property."
       }
     },
     {
