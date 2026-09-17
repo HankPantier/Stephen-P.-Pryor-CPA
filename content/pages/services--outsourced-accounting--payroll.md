@@ -100,9 +100,9 @@ Ongoing review of wage and hour rules, so a mid-year rule change doesn't catch y
 All of this comes bundled into one fixed monthly fee alongside bookkeeping and tax. No per-item invoicing, no surprise add-ons.
 
 <!-- block: content-split | variant: image-left | image: cpa-client-conversation.jpg | alt: "CPA and client discussing payroll setup at a conference table" | query: "accountant client conversation office" -->
-## A personal payroll partner, not a call center
+## A personal payroll compliance partner, not a call center
 
-National payroll providers route you through a phone tree and a different rep every time you call. That's not how this works. During onboarding, the Stephen P. Pryor, CPA team learns your internal systems, your pay schedules, and the quirks specific to your business, whether that's tip pooling at a bar or job costing on a construction site. Questions get answered by someone who already knows your business. That relationship carries through the whole year, not just at tax time.
+National providers route you through a phone tree and a different rep every time you call. That's not how this works. During onboarding, the Stephen P. Pryor, CPA team learns your internal systems, your pay schedules, and the filing requirements specific to your business, whether that's tip pooling at a bar or job costing on a construction site. Questions get answered by someone who already knows your business. That relationship carries through the whole year, not just at tax time.
 
 <!-- block: content-prose -->
 ## Serving Port Chester and the greater tri-state area area
