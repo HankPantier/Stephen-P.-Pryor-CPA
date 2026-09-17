@@ -237,7 +237,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax for one f
       "name": "Do you handle payroll tax filings for seasonal businesses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Restaurants and construction businesses with variable staffing get payroll compliance service that runs through the same firm handling their business tax return. Wage reporting, quarterly filings, and year-end forms consistent instead of relying on a separate payroll vendor."
+        "text": "Yes. The firm provides payroll compliance service for restaurants and construction businesses with variable staffing. That includes payroll tax filings, quarterly reporting, and year-end W-2 and 1099 processing, all handled by the same team managing your business tax return so wage reporting ties back to the numbers on your books."
       }
     },
     {
