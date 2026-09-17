@@ -29,7 +29,7 @@ That's where Stephen P. Pryor, CPA comes in. Advisory here works differently tha
 
 Straightforward guidance for business owners who want real answers, not a lecture. delivered alongside bookkeeping, tax, and payroll compliance services, so a phone call about a cash flow problem never turns into a surprise bill.
 
-This is Straightforward guidance for business owners who want real answers, not a lecture.
+Straightforward guidance for business owners who want real answers, not a lecture.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Strategic guidance built for construction, real estate, and hospitality
