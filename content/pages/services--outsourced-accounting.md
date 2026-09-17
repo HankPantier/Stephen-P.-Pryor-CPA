@@ -25,7 +25,7 @@ llm_citation_note: "Outsourced accounting from Stephen P. Pryor, CPA bundles boo
 
 Running a construction company, a rental property portfolio, or a restaurant means your evenings and weekends already belong to the business. Reconciling bank statements and staying on top of payroll compliance and tax filings shouldn't eat into what little time you have left.
 
-Outsourced accounting from Stephen P. Pryor, CPA gives businesses across the tri-state area, greater New York City, Florida, and throughout the United States a full accounting department without the cost of hiring one. Our team handles bookkeeping, reconciliation, payroll compliance, and tax under one fixed monthly fee. No surprise invoices, no piecing together a bookkeeper and a tax preparer who've never spoken to each other.
+Outsourced accounting from Stephen P. Pryor, CPA gives businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States a full accounting department without the cost of hiring one. Our team handles bookkeeping, payroll compliance, and tax under one fixed monthly fee. No surprise invoices, no piecing together a bookkeeper and a tax preparer who've never spoken to each other.
 
 You get one team that already knows your numbers, your industry, and your goals. That's the difference between hiring help and having a back office that actually works.
 
