@@ -107,7 +107,7 @@ Stephen P. Pryor, CPA provides year-round business and personal tax preparation 
 **FAQ Block:**
 
 **Q: Do you prepare tax returns for small businesses in Port Chester, NY?**
-A: Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, along with individual returns. Tax work is bundled with bookkeeping, payroll compliance, and tax for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.
+A: Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, along with individual returns. Bookkeeping, payroll compliance, and tax preparation are bundled for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.
 
 **Q: Can one firm handle both my business and personal tax returns?**
 A: Yes. Stephen Pryor, Shawn Wilson, and Denise Romano, all CPAs, prepare business and personal returns for the same clients, so one team already understands your full financial picture, from your entity structure to your household income, instead of coordinating between separate preparers.
