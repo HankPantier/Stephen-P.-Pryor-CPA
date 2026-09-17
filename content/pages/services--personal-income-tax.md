@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "personal-tax-cpa-consultation.jpg"
 hero_image_alt: "CPA and client reviewing personal tax return documents together at a desk"
-hero_subhead: "Year-round personal tax preparation and planning from CPAs who know your full financial picture"
+hero_subhead: "Year-round personal tax preparation and planning from CPAs who know your full financial picture, serving individuals across New York, New Jersey, Connecticut, Florida, and throughout the United States"
 hero_headline: "Personal tax support that goes beyond filing a return"
 answer_block: "Stephen P. Pryor, CPA provides personal income tax preparation and year-round planning for individuals in Port Chester and the tri-state area, including 1040 filing, self-employed and investment income, and retirement income tax planning. Returns are handled by CPAs through a secure online platform with year-round support."
 eeat_signals: ["Personal tax returns prepared and reviewed by licensed CPAs: Stephen Pryor, Shawn Wilson, and Denise Romano","Year-round tax planning and projections rather than seasonal-only service","Secure online platform providing real-time access to tax documents and return status","Direct experience with construction, real estate, and hospitality business owners' personal tax needs","Clients served across Port Chester, the tri-state area, and NY, NJ, CT, and FL"]
