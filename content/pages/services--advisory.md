@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "cpa-advisor-business-meeting.jpg"
 hero_image_alt: "CPA advisor and small business owner reviewing financial strategy together at a desk"
-hero_subhead: "Strategic guidance for construction, real estate, and hospitality businesses across New York, New Jersey, Connecticut, and beyond"
+hero_subhead: "Strategic guidance for construction, real estate, and hospitality businesses across New York, New Jersey, Connecticut, the greater New York City area, Florida, and throughout the United States"
 hero_headline: "A CPA advisor who knows your business, not just your books"
 answer_block: "Stephen P. Pryor, CPA provides strategic advisory services, including entity structuring, cash flow strategy, retirement plan analysis, and accounting system setup. Advisory guidance is built around construction, real estate, and hospitality businesses in Port Chester, NY, and serves clients across the tri-state area, Florida, and throughout the United States."
 eeat_signals: ["Stephen P. Pryor, CPA leads advisory engagements personally rather than delegating to junior staff","Shawn Wilson, CPA and Denise Romano, CPA bring additional CPA-level review to advisory work","Active participation in the Greenwich First Advisory Boards community/business advisory group","Advisory guidance built around named industry pain points: job costing, cost segregation, tip reporting compliance","Bundled fixed-fee model paired with a secure online platform for real-time financial data"]
