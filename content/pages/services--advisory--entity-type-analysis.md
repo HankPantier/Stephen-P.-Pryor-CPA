@@ -261,7 +261,7 @@ Entity type analysis at Stephen P. Pryor, CPA is an advisory service provided al
       "name": "Is entity analysis included in your regular services or a separate charge?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Entity type analysis is part of the bundled, fixed monthly fee that covers bookkeeping, tax, and payroll, so reviewing your structure doesn't require a separate engagement or surprise invoice."
+        "text": "Entity type analysis is an advisory service provided as part of your engagement with Stephen P. Pryor, CPA. Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee. Advisory services like entity analysis are separate from that bundle, but reviewing your structure does not require a separate engagement or a surprise invoice."
       }
     },
     {
