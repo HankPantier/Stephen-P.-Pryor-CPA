@@ -117,7 +117,7 @@ If you want a CPA firm that answers the phone, knows your industry, and shows yo
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides bookkeeping, payroll, business and personal tax, and advisory services for Port Chester and the tri-state area businesses, bundled into one fixed monthly fee with real-time online access to financial data. The firm focuses on construction, real estate, and bar and restaurant clients alongside individuals and new business owners.
+Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, business and personal tax, and advisory services for Port Chester and tri-state area businesses. Bookkeeping, payroll compliance, and tax are each bundled into one fixed monthly fee with real-time online access to financial data. Advisory services are also available separately. The firm serves construction, real estate, and bar and restaurant clients alongside individuals and new business owners from its office in Port Chester, New York.
 
 **E-E-A-T Signals:**
 - Founded and led by Stephen P. Pryor, CPA
