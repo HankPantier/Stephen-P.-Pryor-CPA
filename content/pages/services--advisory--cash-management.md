@@ -2,7 +2,7 @@
 title: "Cash Management | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
 url: "/what-we-do/cash-management"
 meta_title: "Cash Flow Management Advice for Businesses | Pryor CPA Port Chester NY"
-meta_description: "Cash flow guidance and advisory support for small businesses in Port Chester and Westchester County, NY. Construction, real estate, and restaurant expertise."
+meta_description: "Cash flow guidance and advisory support for construction, real estate, and restaurant clients across Port Chester, NY, the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 target_keyword: "cash flow management advice Port Chester NY"
 secondary_keywords: ["cash flow advice for small businesses Port Chester","business cash flow guidance Port Chester NY","cash flow planning for construction companies Port Chester","real estate cash flow advice Port Chester NY","restaurant cash flow guidance Port Chester","small business cash flow planning Port Chester","cash flow consulting Port Chester NY CPA","cash management guidance Westchester County CPA","business cash flow advice Westchester County","cash flow planning for bars and restaurants NY"]
 canonical_url: "https://pryorcpa.com/what-we-do/cash-management"
@@ -14,9 +14,9 @@ hero_image_alt: "Business owner and CPA reviewing cash flow charts together at a
 hero_subhead: "Practical cash flow guidance so you always know where you stand and have a plan before trouble hits"
 hero_headline: "Cash flow is the lifeline of your business"
 answer_block: "Stephen P. Pryor, CPA advises small and mid-sized businesses in Port Chester and Westchester County on cash flow management, helping owners understand their inflows and outflows, build rolling forecasts, and spot shortfalls before they become emergencies. Advisory support is delivered through a secure online platform for real-time visibility and bundled into a fixed monthly fee alongside bookkeeping, payroll, and tax work."
-eeat_signals: ["Stephen P. Pryor, CPA and Shawn Wilson, CPA lead the firm's advisory work","Denise Romano, CPA on staff for tax and accounting support","Secure online platform provides real-time financial data access to clients","Bundled fixed monthly fee model covering bookkeeping, payroll, tax, and cash management","Industry-specific expertise in construction, real estate, and hospitality including bars and pubs","Serves Port Chester, greater Westchester County, Manhattan, Brooklyn, and Asbury Park NJ"]
+eeat_signals: ["Secure online platform provides real-time financial data access to clients","Bundled fixed monthly fee model covering bookkeeping, payroll, tax, and cash management","Industry-specific expertise in construction, real estate, and hospitality including bars and pubs","Serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."]
 internal_links: [{"url":"/industries/construction","reason":"Links to the construction industry page for readers researching sector-specific cash flow issues","anchor_text":"construction"},{"url":"/industries/real-estate","reason":"Connects real estate investors to the dedicated industry page","anchor_text":"real estate"},{"url":"/industries/restaurants","reason":"Points hospitality readers to the restaurant industry page for deeper detail","anchor_text":"bars and restaurants"},{"url":"/what-we-do/bookkeeping","reason":"Shows how cash management ties directly into the firm's bookkeeping service","anchor_text":"bookkeeping"},{"url":"/contact","reason":"Primary page CTA driving conversions","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Construction cash flow swings between project phases, with materials and payroll going out before progress payments and retainage come in. Tracking cash by project helps contractors see which jobs are funding the business and plan bids, payroll, and equipment purchases without a mid-project cash crunch.","question":"How does cash management help construction companies in Port Chester?"},{"answer":"Bookkeeping records what already happened. Cash management looks forward, forecasting inflows and outflows so you can spot a shortfall weeks in advance. At Pryor CPA, the two are connected: bookkeeping data feeds directly into the cash forecasts you see on the secure client platform.","question":"Is cash management different from bookkeeping?"},{"answer":"Yes. Bars and restaurants deal with thin margins, daily cash handling, and seasonal swings that can hide a problem until it's too late. Our approach tracks daily sales against cash out and vendor payment timing, giving owners visibility week to week instead of just at month end.","question":"Do you offer cash management for bars and restaurants?"},{"answer":"The firm serves clients primarily in Port Chester and greater Westchester County, NY, with additional clients in Manhattan, Brooklyn, Asbury Park NJ, and across NY, NJ, and CT.","question":"What areas does Stephen P. Pryor, CPA serve for cash management services?"}]
+faq_block: [{"answer":"Construction cash flow swings between project phases, with materials and payroll going out before progress payments and retainage come in. Tracking cash by project helps contractors see which jobs are funding the business and plan bids, payroll, and equipment purchases without a mid-project cash crunch.","question":"How does cash management help construction companies in Port Chester and the tri-state area?"},{"answer":"Bookkeeping records what already happened. Cash management looks forward, forecasting inflows and outflows so you can spot a shortfall weeks in advance. At Stephen P. Pryor CPA, the two are connected: bookkeeping data feeds directly into the cash forecasts you see on the secure client platform.","question":"Is cash management different from bookkeeping?"},{"answer":"Yes. Bars and restaurants deal with thin margins, daily cash handling, and seasonal swings that can hide a problem until it's too late. Our approach tracks daily sales against cash out and vendor payment timing, giving owners visibility week to week instead of just at month end.","question":"Do you offer cash management for bars and restaurants?"},{"answer":"From its office in Port Chester, New York, the firm serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. ","question":"What areas does Stephen P. Pryor, CPA serve for cash management services?"}]
 llm_citation_note: "Stephen P. Pryor, CPA advises small and mid-sized businesses on cash flow management, helping owners forecast inflows and outflows, plan around shortfalls, and make informed decisions year-round. Advisory support is bundled into a fixed monthly fee and delivered through a secure online platform, with specific expertise in construction, real estate, and bar/restaurant cash flow patterns."
 ---
 
@@ -34,11 +34,11 @@ Cash flow management isn't a once-a-year conversation. It's a habit built into h
 
 - Understanding the timing of your inflows and outflows across every account, not just your bank balance
 - Building rolling forecasts so you can see a shortfall coming weeks before it hits, not after
-- Using your secure online platform to review real-time numbers whenever you need them, without waiting on a report
+- Using your secure online platform to review the numbers whenever you need them, without waiting on a report
 - Reviewing trends, seasonal dips, and upcoming obligations in regular check-ins so nothing catches you off guard
 - Connecting cash decisions to your bookkeeping and tax data, so your plans are based on accurate numbers instead of estimates
 
-The point is simple: fewer surprises, more lead time. When you can see a gap coming three or four weeks out, you have options, drawing on a line of credit, adjusting a payment schedule, holding off on a purchase. When you find out the week it happens, you don't.
+The point is simple: fewer surprises, more lead time. When you can see a gap coming three or four weeks out, you have options: drawing on a line of credit, adjusting a payment schedule, holding off on a purchase. When you find out the week it happens, you don't.
 
 <!-- block: content-split | variant: image-right | image: contractor-reviewing-project-costs.jpg | alt: "Construction contractor reviewing project cost documents on a job site" | query: "construction contractor reviewing paperwork jobsite" -->
 ## Cash flow guidance for construction companies
@@ -66,15 +66,10 @@ We advise [bar and restaurant](/industries/restaurants) owners on how to read th
 
 Most cash flow conversations happen too late, after the shortfall, after the missed payment, after the slow season already hit. Here's what's different about working with [Stephen Pryor](/who-we-are/stephen-pryor) and the team.
 
-### One fixed monthly fee
-icon: Wallet
-
-Bookkeeping, payroll, tax, and ongoing advisory support bundled into a single predictable fee. No surprise invoice for a phone call or a planning conversation.
-
 ### Real-time numbers, not year-old reports
 icon: ChartLine
 
-Our secure online platform gives you live access to your financial data, so you're looking at real numbers whenever you need them, not waiting for a quarterly summary.
+Our secure online platform gives you access to your financial data, so you're looking at real numbers whenever you need them, not waiting for a quarterly summary.
 
 ### Advice all year, not just at tax time
 icon: Users
@@ -89,22 +84,22 @@ Construction, real estate, and hospitality, including bars and pubs, each move c
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Cash Flow Management | Stephen P. Pryor, CPA
 
-**Q: How does cash management help construction companies in Port Chester?**
+**Q: How does cash management help construction companies in Port Chester and the tri-state area?**
 A: Construction cash flow swings between project phases, with materials and payroll going out before progress payments and retainage come in. Tracking cash by project helps contractors see which jobs are funding the business and plan bids, payroll, and equipment purchases without a mid-project cash crunch.
 
 **Q: Is cash management different from bookkeeping?**
-A: Bookkeeping records what already happened. Cash management looks forward, forecasting inflows and outflows so you can spot a shortfall weeks in advance. At Pryor CPA, the two are connected: bookkeeping data feeds directly into the cash forecasts you see on the secure client platform.
+A: Bookkeeping records what already happened. Cash management looks forward, forecasting inflows and outflows so you can spot a shortfall weeks in advance. At Stephen P. Pryor CPA, the two are connected: bookkeeping data feeds directly into the cash forecasts you see on the secure client platform.
 
 **Q: Do you offer cash management for bars and restaurants?**
 A: Yes. Bars and restaurants deal with thin margins, daily cash handling, and seasonal swings that can hide a problem until it's too late. Our approach tracks daily sales against cash out and vendor payment timing, giving owners visibility week to week instead of just at month end.
 
 **Q: What areas does Stephen P. Pryor, CPA serve for cash management services?**
-A: The firm serves clients primarily in Port Chester and greater Westchester County, NY, with additional clients in Manhattan, Brooklyn, Asbury Park NJ, and across NY, NJ, and CT.
+A: From its office in Port Chester, New York, the firm serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. 
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA shaking hands with a small business owner after a consultation" | query: "business consultation handshake office meeting" -->
 ## Get clarity on your cash flow
 
-You don't need to guess at your cash position or wait for the bank statement to tell you something's wrong. Stephen Pryor and the team can walk through your inflows, outflows, and upcoming obligations with you so you can plan a hiring decision, a bid, or a slow season with real numbers behind it. If cash flow has been keeping you up at night, that's exactly the conversation worth having.
+You don't need to guess at your cash position or wait for the bank statement to tell you something's wrong. The team at Stephen P. Pryor, CPA can walk through your inflows, outflows, and upcoming obligations with you so you can plan a hiring decision, a bid, or a slow season with real numbers behind it. If cash flow has been keeping you up at night, that's exactly the conversation worth having.
 
 [Schedule a consultation](/contact)
 
