@@ -94,9 +94,9 @@ Onboarding starts with listening, not paperwork. Before touching a single number
 It's the reason clients stay for years instead of shopping for a new accountant every filing season.
 
 <!-- block: content-prose -->
-## Proudly serving Port Chester and the surrounding region
+## Proudly serving clients from Port Chester to across the country
 
-Most clients are based in Westchester County, in and around Port Chester, Rye, and White Plains. Others are in Manhattan and Brooklyn, running construction and hospitality businesses that don't stop at the county line. A growing group is in Asbury Park, NJ, along with clients across New York, New Jersey, Connecticut, and Florida who've stayed with the firm after relocating. The secure online platform makes that distance manageable: a client in Florida gets the same real-time visibility into their books as one two blocks from the office.
+The firm is based in Port Chester, New York, and serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes distance a non-issue: a client across the country gets the same real-time visibility into their books as one two blocks from the office.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Who We Are | Stephen P. Pryor, CPA
