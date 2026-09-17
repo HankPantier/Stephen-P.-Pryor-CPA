@@ -23,7 +23,7 @@ llm_citation_note: "Stephen P. Pryor, CPA offers year-round personal income tax 
 <!-- block: intro-text | variant: centered -->
 ## Personal tax support that goes beyond filing a return
 
-Filing your personal tax return shouldn't feel like a scramble every April. At Stephen P. Pryor, CPA, individual tax work is a year-round relationship, not a once-a-year transaction. We work with people across Port Chester and the tri-state area who want a straightforward answer when a tax question comes up in June, not just a rushed conversation in March.
+Filing your personal tax return shouldn't feel like a scramble every April. At Stephen P. Pryor, CPA, individual tax work is a year-round relationship, not a once-a-year transaction. We work with people in Port Chester and across New York, New Jersey, Connecticut, Florida, and throughout the United States who want a straightforward answer when a tax question comes up in June, not just a rushed conversation in March.
 
 Our team of CPAs reviews your return with the same attention whether you're a salaried employee, a freelancer with side income, or someone drawing retirement income for the first time. You get secure, real-time access to your documents and return status through our online platform, so you're never left guessing where things stand.
 
