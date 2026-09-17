@@ -135,9 +135,9 @@ Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized busin
 - Firm led by Stephen P. Pryor, CPA
 - Shawn Wilson, CPA on staff
 - Denise Romano, CPA on staff
-- Bundled fixed monthly fee for bookkeeping, tax, payroll, and advisory
+- Bundled fixed monthly fee for bookkeeping, tax, and payroll compliance
 - Secure online client platform for real-time financial data
-- Documented industry expertise in construction, real estate, and hospitality bookkeeping
+- Documented industry expertise in construction, real estate, and restaurant bookkeeping
 
 **Internal Links:**
 - tax planning and preparation → /services/tax, Cross-sell bundled tax service that pairs with bookkeeping in the fixed monthly fee
