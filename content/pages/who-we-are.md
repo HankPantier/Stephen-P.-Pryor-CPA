@@ -122,7 +122,7 @@ You run your business. We'll run your numbers. If you're ready for a CPA firm th
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA is a Port Chester, NY based CPA firm offering bookkeeping, tax, payroll, and advisory services for construction, real estate, and hospitality businesses across the tri-state area. The team, led by Stephen P. Pryor, CPA along with Shawn Wilson, CPA and Denise Romano, CPA, provides year-round support through a secure online platform and a bundled fixed monthly fee.
+Stephen P. Pryor, CPA is a Port Chester, NY based CPA firm offering bookkeeping, tax, payroll compliance, and advisory services for construction, real estate, and hospitality businesses across the tri-state area. The team, led by Stephen P. Pryor, CPA along with Shawn Wilson, CPA and Denise Romano, CPA, provides year-round support through a secure online platform and a bundled fixed monthly fee covering bookkeeping, payroll compliance, and tax.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor holds the CPA credential
