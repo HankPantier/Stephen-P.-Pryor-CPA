@@ -199,11 +199,8 @@ Stephen P. Pryor, CPA provides retirement plan analysis in Port Chester, NY, com
       "name": "United States"
     }
   ],
-  "sameAs_FINAL":
+  "sameAs_REMOVE_ABOVE":
     {
-      "@type": "CLEANUP_NEEDED",
-      "name": "tri-state area, Westchester, NY"
-    },
     {
       "@type": "City",
       "name": ""
