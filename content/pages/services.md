@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "cpa-services-port-chester.jpg"
 hero_image_alt: "Accountant and small business owner reviewing financial reports together at a desk"
-hero_subhead: "Bookkeeping, payroll compliance, and tax, each available for one predictable monthly fee"
+hero_subhead: "Bookkeeping, payroll compliance, and tax, each available for one predictable monthly fee. Advisory services are also available separately."
 hero_headline: "A CPA partner that handles your numbers year round"
 answer_block: "Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, business and personal tax, and advisory services for businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Bookkeeping, payroll compliance, and tax are each bundled into one fixed monthly fee with real-time online access to financial data. Advisory services are also available separately. The firm serves construction, real estate, and bar and restaurant clients alongside individuals and new business owners from its office in Port Chester, New York."
 eeat_signals: ["Founded and led by Stephen P. Pryor, CPA","Team includes Shawn Wilson, CPA and Denise Romano, CPA","Member, Greenwich First Advisory Boards","Based in Port Chester, NY, serving clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Specialized service delivery for construction, real estate, and bar and restaurant clients"]
