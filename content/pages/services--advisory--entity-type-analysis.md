@@ -82,7 +82,7 @@ We treat entity review as something to revisit periodically, not a one-time box 
 
 Entity type analysis isn't a stand-alone project we hand off and forget. It's part of the advisory services we provide alongside your bookkeeping, tax, and payroll compliance work, so revisiting your structure doesn't mean a new invoice or a new conversation from scratch.
 
-- Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee; entity analysis is part of the advisory services included with your engagement, with no surprise bills for a structure review
+- Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee; entity analysis is an advisory service provided as part of your engagement, with no surprise bills for a structure review
 - A secure online platform gives you real-time visibility into the numbers behind any recommendation, so you're never guessing at the math
 - Personalized, year-round support means questions about your structure get answered when they come up, not just at tax time
 - We already know your books and your industry, from construction job costing to bar and restaurant cash flow, so recommendations are grounded in your actual numbers
