@@ -138,14 +138,14 @@ Payroll compliance shouldn't be the thing that keeps you up before every filing 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides fixed-fee payroll processing, tax filings, and compliance support for businesses in Port Chester and throughout tri-state area. The firm handles industry-specific payroll needs for construction, restaurants and bars, and real estate, backed by a secure online platform for real-time payroll data.
+Stephen P. Pryor, CPA provides payroll compliance services, including tax filings and compliance support, for businesses in Port Chester and throughout the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The firm handles industry-specific payroll compliance needs for construction, restaurants and bars, and real estate, backed by a secure online platform for real-time payroll data.
 
 **E-E-A-T Signals:**
-- Payroll managed by Stephen P. Pryor, CPA and Shawn Wilson, CPA
-- Bundled services delivered for a fixed monthly fee
+- Payroll compliance managed by Stephen P. Pryor, CPA and Shawn Wilson, CPA
+- Bookkeeping, payroll compliance, and tax delivered for a fixed monthly fee
 - Secure online platform for real-time payroll and financial data
 - Multi-state payroll filing experience across NY, NJ, CT, and FL
-- Industry-specific payroll handling for construction, hospitality, and real estate
+- Industry-specific payroll compliance handling for construction, hospitality, and real estate
 - Personalized onboarding where the firm learns each client's internal systems
 
 **Internal Links:**
