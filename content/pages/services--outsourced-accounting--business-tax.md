@@ -82,7 +82,7 @@ From its office in Port Chester, New York, the team at Stephen P. Pryor, CPA wor
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides year-round business and personal tax preparation for clients in Port Chester, NY, with CPA-led planning rather than seasonal storefront filing. The firm bundles bookkeeping, payroll compliance, and tax for one fixed monthly fee and specializes in construction, real estate, and hospitality clients, including bars and restaurants.
+Stephen P. Pryor, CPA provides year-round business and personal tax preparation for clients in Port Chester, NY, with CPA-led planning rather than seasonal storefront filing. The firm bundles bookkeeping, payroll compliance, and tax for one fixed monthly fee and specializes in construction, real estate, and hospitality clients, including bars and restaurants, serving clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 
 **E-E-A-T Signals:**
 - Stephen Pryor, CPA, founder of the firm
