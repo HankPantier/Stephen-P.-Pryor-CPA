@@ -60,47 +60,32 @@ icon: Building2
 Property managers juggle maintenance staff, leasing agents, and sometimes multiple entities under one roof. Payroll compliance gets set up to match how your properties are structured, so reporting stays clean at tax time.
 
 <!-- block: feature-grid | variant: 3-col -->
-## What's included in your payroll service
-
-### Payroll processing
-icon: Calculator
-
-Hours in, paychecks out. Calculations, deductions, and pay runs handled on the schedule your business needs, weekly, biweekly, or monthly.
-
-### Direct deposit
-icon: CreditCard
-
-Employees get paid on time without a paper check in sight.
-
-### Electronic paystubs
-icon: Smartphone
-
-Employees get secure online access to their own paystubs every pay period, no paper, no calls to the office asking for copies.
-
-### Employer pay records
-icon: Monitor
-
-You get real-time access to your payroll runs, tax deposits, and reports through a secure online platform, so your records are always current and within reach.
+## What's included in your payroll compliance service
 
 ### Payroll tax filings and returns
 icon: FileText
 
 Federal, state, and local payroll tax deposits, filings, and returns handled and monitored so deadlines never slip.
 
-### New hire reporting
-icon: ClipboardCheck
+### Employer pay records
+icon: Monitor
 
-Required state new hire filings submitted as soon as someone joins your team.
+You get real-time access to your payroll filings, tax deposits, and reports through a secure online platform, so your records are always current and within reach.
 
 ### W-2 and 1099 preparation
 icon: FileCheck
 
 Year-end forms prepared and delivered to employees and contractors, ready before deadlines.
 
+### New hire reporting
+icon: ClipboardCheck
+
+Required state new hire filings submitted as soon as someone joins your team.
+
 ### Pension remittance
 icon: PiggyBank
 
-Retirement plan contributions pulled from each payroll run and remitted to the right plan on time, every time.
+Retirement plan contributions tracked and remitted to the right plan on time, every time.
 
 ### Garnishment remittance
 icon: Scale
@@ -112,7 +97,7 @@ icon: ShieldCheck
 
 Ongoing review of wage and hour rules, so a mid-year rule change doesn't catch you off guard.
 
-All of this comes bundled into one fixed monthly fee. No per-item invoicing, no surprise add-ons.
+All of this comes bundled into one fixed monthly fee alongside bookkeeping and tax. No per-item invoicing, no surprise add-ons.
 
 <!-- block: content-split | variant: image-left | image: cpa-client-conversation.jpg | alt: "CPA and client discussing payroll setup at a conference table" | query: "accountant client conversation office" -->
 ## A personal payroll partner, not a call center
