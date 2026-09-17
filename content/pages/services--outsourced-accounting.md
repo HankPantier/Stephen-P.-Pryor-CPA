@@ -237,7 +237,7 @@ Outsourced accounting from Stephen P. Pryor, CPA bundles bookkeeping, payroll co
       "name": "What does outsourced accounting include at Stephen P. Pryor, CPA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It bundles bookkeeping, bank reconciliation,  cash management, payroll coordination, and tax integration into one service under a fixed monthly fee, so Port Chester businesses get a full back office without hiring in-house staff."
+        "text": "It bundles bookkeeping, bank reconciliation, cash management, payroll compliance filings, and tax into one service under a fixed monthly fee, so businesses get a full back office without hiring in-house staff."
       }
     },
     {
