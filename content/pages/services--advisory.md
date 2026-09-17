@@ -76,11 +76,11 @@ Once the system is live, it ties directly into the firm's secure online platform
 [Learn more about accounting system setup](/services/advisory/accounting-system-setup) and how it fits into a full advisory engagement.
 
 <!-- block: content-prose -->
-## One predictable fee, year-round access to your advisor
+## Bookkeeping, payroll compliance, and tax on one predictable monthly fee
 
-Most consulting arrangements charge by the hour, which means business owners hesitate to call until a problem is already expensive. That model doesn't apply here. Bookkeeping, payroll compliance, and tax are offered as a bundled fixed monthly fee, and advisory guidance is available year-round as part of the firm's ongoing client relationships, so a quick question about a hiring decision or a slow month never comes with a surprise invoice.
+Bookkeeping, payroll compliance, and tax services are available as a bundled fixed monthly fee, so there are no hourly surprises when your numbers need attention. Advisory guidance is a separate, ongoing service available to clients throughout the year. Whether you have a question about a hiring decision or a slow quarter, the firm is reachable without you wondering what the call will cost.
 
-Add a secure online platform that shows real-time financial data, and business owners in Port Chester, and throughout the region get a steadier view of where things stand than a once-a-year tax appointment ever provided.
+Add a secure online platform that shows real-time financial data, and business owners across New York, New Jersey, Connecticut, Florida, and the rest of the United States get a steadier view of where things stand than a once-a-year tax appointment ever provided.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Advisory Services
