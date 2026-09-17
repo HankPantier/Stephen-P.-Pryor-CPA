@@ -198,15 +198,15 @@ Outsourced accounting from Stephen P. Pryor, CPA bundles bookkeeping, reconcilia
     },
     {
       "@type": "City",
-      "name": "Manhattan, NY"
+      "name": ""
     },
     {
       "@type": "City",
-      "name": "Brooklyn, NY"
+      "name": ""
     },
     {
       "@type": "City",
-      "name": "Asbury Park, NJ"
+      "name": ""
     }
   ],
   "sameAs": [
