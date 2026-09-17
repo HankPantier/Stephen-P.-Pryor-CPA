@@ -2,7 +2,7 @@
 title: "Business Tax | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
 url: "/what-we-do/tax"
 meta_title: "Tax Preparation Port Chester NY | Stephen P. Pryor, CPA"
-meta_description: "Year-round tax preparation and planning for Port Chester, NY businesses and individuals. CPA-led support for construction, real estate, and restaurants across the tri-state area, greater New York City, Florida, and the United States."
+meta_description: "Year-round tax preparation and planning for Port Chester, NY businesses and individuals. CPA-led support for construction, real estate, and restaurants across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 target_keyword: "tax preparation Port Chester NY"
 secondary_keywords: ["CPA tax services Port Chester","personal income tax Port Chester NY","business tax preparation Port Chester","construction tax services Port Chester","real estate tax CPA Port Chester","restaurant tax accounting Port Chester NY","payroll tax services Port Chester NY","entity type tax analysis Port Chester","tax planning Port Chester","self-employed tax Port Chester"]
 canonical_url: "https://pryorcpa.com/what-we-do/tax"
