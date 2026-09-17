@@ -25,7 +25,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping, payroll complianc
 
 Payroll compliance shouldn't feel like a fire drill. Between calculating withholdings, filing accurately, and staying current with tax agencies in New York, New Jersey, Connecticut, and Florida, it's easy for a growing business to fall behind. From its office in Port Chester, New York, Stephen P. Pryor, CPA handles payroll tax filings and compliance for construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, so filings stay accurate and deadlines are never missed.
 
-Payroll compliance is bundled into a fixed monthly fee alongside bookkeeping and tax, so there's no surprise invoice when a new employee joins or a filing deadline shifts. You also get access to a secure online platform where you can check payroll filings, tax deposits, and reports in real time, without waiting on a callback.
+Payroll compliance is bundled into a fixed monthly fee alongside bookkeeping and tax, so there's no surprise invoice when filing deadlines shift or your headcount changes. You also get access to a secure online platform where you can check payroll filings, tax deposits, and reports in real time, without waiting on a callback.
 
 Running a construction company, restaurant, or real estate business is demanding enough. Payroll compliance doesn't need to be one more thing keeping you up at night.
 
