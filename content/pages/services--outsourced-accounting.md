@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-hero.jpg"
 hero_image_alt: "Accountant and business owner reviewing financial reports together at a desk"
-hero_subhead: "A full accounting department for your construction, real estate, or hospitality business, at one fixed monthly fee"
+hero_subhead: "Bookkeeping, payroll compliance, and tax bundled for your construction, real estate, or restaurant business, at one fixed monthly fee"
 hero_headline: "Your full back office without the overhead"
 answer_block: "Stephen P. Pryor, CPA provides full charge outsourced accounting for Port Chester and  businesses, bundling bookkeeping, reconciliation, payroll coordination, and tax integration under one fixed monthly fee. Clients access real-time financials through a secure online platform instead of waiting on monthly reports, with specific expertise in construction, real estate, and hospitality accounting."
 eeat_signals: ["Team includes Stephen P. Pryor, CPA, Shawn Wilson, CPA, and Denise Romano, CPA","Serves clients across New York, New Jersey, Connecticut, Florida, and across the United States","Industry-specific expertise in construction, real estate, and hospitality including bars and pubs","Secure online platform provides real-time financial data access, not delayed monthly reporting"]
