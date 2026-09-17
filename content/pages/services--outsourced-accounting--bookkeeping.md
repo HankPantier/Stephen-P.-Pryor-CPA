@@ -300,7 +300,7 @@ Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax
   "@type": "Service",
   "name": "Bookkeeping Services Port Chester NY | Stephen Pryor CPA",
   "url": "https://pryorcpa.com/services/bookkeeping",
-  "description": "Monthly bookkeeping in Port Chester, NY with a fixed fee, secure online access, and expertise in construction, real estate, and hospitality bookkeeping.",
+  "description": "Monthly bookkeeping for construction, real estate, and restaurant businesses. Fixed monthly fee with tax and payroll compliance, secure online access, serving clients from Port Chester, NY across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
