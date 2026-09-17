@@ -264,7 +264,7 @@ Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax
       "name": "How much does bookkeeping cost with Stephen P. Pryor, CPA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bookkeeping is bundled into a fixed monthly fee alongside tax, payroll, and advisory support, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business."
+        "text": "Bookkeeping is bundled into a fixed monthly fee alongside tax and payroll compliance, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business."
       }
     },
     {
