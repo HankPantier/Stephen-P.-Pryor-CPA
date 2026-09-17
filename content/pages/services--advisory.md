@@ -301,7 +301,7 @@ Pryor CPA provides strategic advisory guidance, including entity structuring, ca
   "@type": "Service",
   "name": "Business Advisory Services Port Chester NY | Pryor CPA",
   "url": "https://pryorcpa.com/services/advisory",
-  "description": "CPA advisory services in Port Chester, NY for construction, real estate, and hospitality businesses, all bundled into one predictable fixed monthly fee.",
+  "description": "CPA advisory services in Port Chester, NY for construction, real estate, and hospitality businesses. Bookkeeping, payroll compliance, and tax are available as a bundled fixed monthly fee. Advisory services are a separate engagement.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
