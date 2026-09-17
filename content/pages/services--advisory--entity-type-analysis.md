@@ -123,7 +123,7 @@ Entity type analysis is the process of reviewing a business's income goals, liab
 - Shawn Wilson, CPA and Denise Romano, CPA support entity and tax analysis
 - Deep industry expertise in construction, real estate, and hospitality, including bars and pubs
 - Service delivered across New York, New Jersey, Connecticut, Florida, the greater New York City area, and throughout the United States, with attention to state-specific tax treatment
-- Entity analysis bundled into a fixed monthly fee alongside bookkeeping, tax, and payroll
+- Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee; entity analysis is included as part of the firm's advisory services
 
 **Internal Links:**
 - launching a new business → /what-we-do/business-foundation-services, Connects entity selection to the broader new business setup service
