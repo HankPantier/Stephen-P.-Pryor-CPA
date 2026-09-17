@@ -94,7 +94,7 @@ A: Contribution strategy should be revisited at least annually, alongside quarte
 <!-- block: cta-banner | variant: image-bg | image: schedule-retirement-consultation.jpg | alt: "Handshake between accountant and business owner in a Port Chester office" | query: "handshake business meeting office" -->
 ## Start planning for your retirement with confidence
 
-You don't need a Wall Street broker to start saving for retirement. You need a CPA who already understands how your business runs. Stephen P. Pryor, CPA has helped construction, real estate, and hospitality owners across Port Chester and tri-state area build retirement plans that fit their real numbers, not a template pulled off a shelf.
+You don't need a Wall Street broker to start saving for retirement. You need a CPA who already understands how your business runs. Stephen P. Pryor, CPA has helped construction, real estate, and hospitality owners across Port Chester, the tri-state area, Florida, and throughout the United States build retirement plans that fit their real numbers, not a template pulled off a shelf.
 
 [Schedule a consultation](/contact) and let's find the plan that works for you.
 
