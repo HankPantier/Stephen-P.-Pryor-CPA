@@ -152,7 +152,7 @@ A: Yes. The firm specializes in job costing and cash flow tracking for construct
 A: Bookkeeping, payroll compliance, and tax are each bundled into one predictable monthly fee, so there's no surprise invoice for a phone call or extra report. It's designed for year-round support rather than one-time seasonal work.
 
 **Q: Can you help with bookkeeping and tax for a bar or restaurant?**
-A: Yes. The firm handles the margin tracking, cash handling, tip reporting compliance, and sales tax complexity specific to bars and restaurants, alongside standard bookkeeping, payroll, and tax preparation.
+A: Yes. The firm handles the margin tracking, cash handling, tip reporting compliance, and sales tax complexity specific to bars and restaurants, alongside standard bookkeeping, payroll compliance, and tax preparation.
 
 **Q: Do you prepare personal income tax returns as well as business returns?**
 A: Yes. Personal income tax planning and preparation is available alongside business services, which is useful for business owners who want their household and business numbers handled by the same team throughout the year.
