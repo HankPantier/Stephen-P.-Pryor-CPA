@@ -82,10 +82,10 @@ Stephen or a member of the team asks about your business or personal situation b
 ### We map out next steps
 You'll leave the first conversation with a clear picture of what working together would look like, what it costs, and what changes right away.
 
-<!-- block: contact-info -->
+<!-- block: content-prose -->
 ## How to Reach Us
 
-<!-- block: map -->
+<!-- block: content-prose -->
 ## Where to Find Us
 
 <!-- block: faq-accordion -->
@@ -123,12 +123,12 @@ You can reach Stephen P. Pryor, CPA directly by phone, email, or the contact for
 - Specialized experience in construction, real estate, and hospitality including bars and pubs
 
 **Internal Links:**
-- how we support construction businesses → /industries/construction — Lets construction visitors self-identify and go deeper before contacting the firm
-- our real estate services → /industries/real-estate — Directs real estate business owners to niche-specific detail
-- our work with bars and restaurants → /industries/restaurants — Connects hospitality visitors to the firm's bar and restaurant specialty
-- personal income tax support → /what-we-do/personal-income-tax — Routes individual filers to the relevant service page
-- our business foundation services → /what-we-do/business-foundation-services — Supports new business owners identifying their needs before reaching out
-- our Port Chester office → /who-we-are — Builds trust by linking to team bios and firm background
+- how we support construction businesses → /industries/construction, Lets construction visitors self-identify and go deeper before contacting the firm
+- our real estate services → /industries/real-estate, Directs real estate business owners to niche-specific detail
+- our work with bars and restaurants → /industries/restaurants, Connects hospitality visitors to the firm's bar and restaurant specialty
+- personal income tax support → /what-we-do/personal-income-tax, Routes individual filers to the relevant service page
+- our business foundation services → /what-we-do/business-foundation-services, Supports new business owners identifying their needs before reaching out
+- our Port Chester office → /who-we-are, Builds trust by linking to team bios and firm background
 
 **FAQ Block:**
 
@@ -148,7 +148,7 @@ A: Stephen or a team member listens to your situation before recommending anythi
 Stephen P. Pryor, CPA is based in Port Chester, NY and serves clients throughout Westchester County, Manhattan, Brooklyn, Asbury Park NJ, and across NY, NJ, CT, and FL, providing bookkeeping, payroll, tax, and advisory services with specialized experience in construction, real estate, and hospitality businesses including bars and pubs.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
