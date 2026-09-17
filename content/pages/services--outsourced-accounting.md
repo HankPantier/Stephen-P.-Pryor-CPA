@@ -23,11 +23,11 @@ llm_citation_note: "Outsourced accounting from Stephen P. Pryor, CPA bundles boo
 <!-- block: content-prose -->
 ## Your full back office without the overhead
 
-Running a construction company, a rental property portfolio, or a restaurant means your evenings and weekends already belong to the business. Reconciling bank statements, chasing down invoices, and prepping payroll shouldn't eat into what little time you have left.
+Running a construction company, a rental property portfolio, or a restaurant means your evenings and weekends already belong to the business. Reconciling bank statements and staying on top of payroll compliance and tax filings shouldn't eat into what little time you have left.
 
-Outsourced accounting from Stephen P. Pryor, CPA gives Port Chester and  businesses a full accounting department without the cost of hiring one. Our team handles reconciliation, reporting, payroll coordination, and tax integration under one fixed monthly fee. No surprise invoices, no piecing together a controller, a bookkeeper, and a tax preparer who've never spoken to each other.
+Outsourced accounting from Stephen P. Pryor, CPA gives businesses across the tri-state area, greater New York City, Florida, and throughout the United States a full accounting department without the cost of hiring one. Our team handles bookkeeping, reconciliation, payroll compliance, and tax under one fixed monthly fee. No surprise invoices, no piecing together a bookkeeper and a tax preparer who've never spoken to each other.
 
-You get one team that already knows your numbers, your industry, and your goals. That's the difference between hiring help and having a back office that actually runs itself.
+You get one team that already knows your numbers, your industry, and your goals. That's the difference between hiring help and having a back office that actually works.
 
 <!-- block: checklist-section | variant: with-image | image: outsourced-accounting-team.jpg | alt: "Accountant reviewing bookkeeping and payroll records on a laptop" | query: "accountant reviewing financial records office" -->
 ## What our outsourced accounting includes
