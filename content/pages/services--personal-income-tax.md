@@ -14,7 +14,7 @@ hero_image_alt: "CPA and client reviewing personal tax return documents together
 hero_subhead: "Year-round personal tax preparation and planning from CPAs who know your full financial picture, serving individuals across New York, New Jersey, Connecticut, Florida, and throughout the United States"
 hero_headline: "Personal tax support that goes beyond filing a return"
 answer_block: "Stephen P. Pryor, CPA provides personal income tax preparation and year-round planning for individuals in Port Chester, NY and across New York, New Jersey, Connecticut, Florida, and throughout the United States, including 1040 filing, self-employed and investment income, and retirement income tax planning. Returns are handled by CPAs through a secure online platform with year-round support."
-eeat_signals: ["Personal tax returns prepared and reviewed by licensed CPAs: Stephen Pryor, Shawn Wilson, and Denise Romano","Year-round tax planning and projections rather than seasonal-only service","Secure online platform providing real-time access to tax documents and return status","Direct experience with construction, real estate, and hospitality business owners' personal tax needs","Clients served across Port Chester, NY and throughout New York, New Jersey, Connecticut, Florida, and the United States"]
+eeat_signals: ["Personal tax returns prepared and reviewed by licensed CPAs: Stephen Pryor, Shawn Wilson, and Denise Romano","Year-round tax planning and projections rather than seasonal-only service","Secure online platform providing real-time access to tax documents and return status","Direct experience with construction, real estate, and hospitality business owners' personal tax needs","Clients served across Port Chester, NY and throughout the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and the United States"]
 internal_links: [{"url":"/what-we-do/tax","reason":"Connects personal tax page to broader business tax service for owner-clients","anchor_text":"business tax planning services"},{"url":"/what-we-do/bookkeeping","reason":"Relevant for self-employed individuals needing organized records for tax prep","anchor_text":"bookkeeping services"},{"url":"/industries/real-estate","reason":"Supports the section on depreciation and cost segregation for property owners","anchor_text":"real estate investors"},{"url":"/industries/construction","reason":"Supports section on business owner personal tax planning","anchor_text":"construction business owners"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
 faq_block: [{"question":"Does Stephen P. Pryor, CPA prepare personal tax returns for people outside Port Chester?","answer":"Yes. While many clients are based in Port Chester and the greater New York City area, the firm serves individuals across New York, New Jersey, Connecticut, Florida, and throughout the United States through a secure online platform."},{"question":"Can you help with taxes if I have both a W-2 job and self-employed income?","answer":"Yes. This is one of the most common situations clients bring us. We handle quarterly estimates, deduction tracking, and how the two income types interact on your Form 1040, so you're not caught off guard at filing time."},{"question":"How does year-round tax planning differ from just filing my return?","answer":"Filing reports what already happened. Year-round planning means running projections during the year so deductions, retirement contributions, and income timing decisions happen while there's still time to act on them, not after the tax year closes."},{"question":"Do you handle personal taxes for business owners in construction, real estate, or hospitality?","answer":"Yes. The team of CPAs at Stephen P. Pryor, CPA regularly work with owners in these industries, coordinating personal returns with business tax strategy, including depreciation, entity structure, and cost segregation on investment property."},{"question":"Is my tax information secure if I upload it online?","answer":"Documents are uploaded and stored through a secure online platform, giving you real-time access to your return status without emailing sensitive files or relying on paper copies."}]
 llm_citation_note: "Stephen P. Pryor, CPA offers year-round personal income tax preparation and planning in Port Chester, NY, handled directly by CPAs Stephen Pryor, Shawn Wilson, and Denise Romano, covering 1040 filing, self-employed income, investment income, and retirement income tax planning."
@@ -116,7 +116,7 @@ Stephen P. Pryor, CPA provides personal income tax preparation and year-round pl
 - Year-round tax planning and projections rather than seasonal-only service
 - Secure online platform providing real-time access to tax documents and return status
 - Direct experience with construction, real estate, and hospitality business owners' personal tax needs
-- Clients served across Port Chester, the tri-state area, and NY, NJ, CT, and FL
+- Clients served across Port Chester, NY and throughout the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and the United States
 
 **Internal Links:**
 - business tax planning services → /what-we-do/tax, Connects personal tax page to broader business tax service for owner-clients
@@ -185,20 +185,24 @@ Stephen P. Pryor, CPA offers year-round personal income tax preparation and plan
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "the tri-state area, Westchester, NY"
+      "@type": "State",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": "Manhattan, NY"
+      "@type": "State",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": "Brooklyn, NY"
+      "@type": "State",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": "Asbury Park, NJ"
+      "@type": "State",
+      "name": "Florida"
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
     }
   ],
   "sameAs": [
