@@ -100,7 +100,7 @@ A: If your revenue, ownership, or risk exposure has changed significantly since 
 A: Yes. New York, Connecticut, New Jersey, and Florida each apply different tax treatment to entity types, including franchise taxes and state-level pass-through rules. We factor in state-specific implications alongside federal tax rules before making a recommendation. The firm serves clients from its Port Chester, New York office across the tri-state area, the greater New York City area, Florida, and throughout the United States.
 
 **Q: Is entity analysis included in your regular services or a separate charge?**
-A: Entity type analysis is an advisory service provided as part of your engagement with Stephen P. Pryor, CPA. Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee. Reviewing your business structure does not require a separate engagement or a surprise invoice.
+A: Entity type analysis is an advisory service provided as part of your engagement with Stephen P. Pryor, CPA. Bookkeeping, tax, and payroll compliance are available as a bundled, fixed monthly fee. Advisory services like entity analysis are separate from that bundle, but reviewing your structure does not require a separate engagement or a surprise invoice.
 
 **Q: Do you handle entity structuring for construction and real estate businesses specifically?**
 A: Yes. We work with multi-entity structures for construction job costing and holding companies for real estate liability separation, along with ownership structures for bars and restaurants, drawing on hands-on experience in each industry.
