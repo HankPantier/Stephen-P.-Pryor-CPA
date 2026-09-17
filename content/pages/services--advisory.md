@@ -78,7 +78,7 @@ Once the system is live, it ties directly into the firm's secure online platform
 [Learn more about accounting system setup](/services/advisory/accounting-system-setup) and how it fits into a full advisory engagement.
 
 <!-- block: content-prose -->
-## One fixed monthly fee, year-round access to your advisor
+## One predictable fee, year-round access to your advisor
 
 Most consulting arrangements charge by the hour, which means business owners hesitate to call until a problem is already expensive. That model doesn't apply here. Bookkeeping, payroll, tax, and advisory guidance are available alongside bookkeeping, tax, and payroll compliance services, so a quick question about a hiring decision or a slow month costs the same as any other conversation: nothing extra.
 
