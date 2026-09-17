@@ -2,7 +2,7 @@
 title: "Bookkeeping | Stephen P. Pryor, CPA"
 url: "/services/bookkeeping"
 meta_title: "Bookkeeping Services Port Chester NY | Stephen Pryor CPA"
-meta_description: "Monthly bookkeeping in Port Chester, NY with a fixed fee, secure online access, and expertise in construction, real estate, and hospitality bookkeeping."
+meta_description: "Monthly bookkeeping for construction, real estate, and restaurant businesses. Fixed monthly fee with tax and payroll compliance, secure online access, serving clients from Port Chester, NY across the tri-state area and beyond."
 target_keyword: "bookkeeping services Port Chester NY"
 secondary_keywords: ["CPA bookkeeping Port Chester","small business bookkeeping Port Chester","construction bookkeeping Port Chester NY","restaurant bookkeeping Port Chester","real estate bookkeeping Port Chester NY","outsourced bookkeeping Port Chester NY","monthly bookkeeping Port Chester NY","quickbooks bookkeeping Port Chester","contractor bookkeeping Port Chester NY","hospitality bookkeeping Port Chester"]
 canonical_url: "https://pryorcpa.com/services/bookkeeping"
@@ -11,19 +11,19 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "bookkeeping-services-port-chester.jpg"
 hero_image_alt: "CPA and small business owner reviewing bookkeeping records together in an office"
-hero_subhead: "Fixed-fee bookkeeping with real-time online access, built around how construction, real estate, and hospitality businesses actually work"
+hero_subhead: "Fixed-fee bookkeeping with real-time online access, built around how construction, real estate, and restaurant businesses actually work"
 hero_headline: "Bookkeeping support built for busy business owners"
-answer_block: "Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized businesses in Port Chester and Westchester County, NY, bundled into one fixed monthly fee with tax, payroll, and advisory support. Clients get real-time access to their books through a secure online platform, with specialized handling for construction, real estate, and bar and restaurant bookkeeping."
-eeat_signals: ["Firm led by Stephen P. Pryor, CPA","Shawn Wilson, CPA on staff","Denise Romano, CPA on staff","Bundled fixed monthly fee for bookkeeping, tax, payroll, and advisory","Secure online client platform for real-time financial data","Documented industry expertise in construction, real estate, and hospitality bookkeeping"]
+answer_block: "Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized businesses from its office in Port Chester, NY, bundled into one fixed monthly fee with tax and payroll compliance. The firm serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Clients get real-time access to their books through a secure online platform, with specialized handling for construction, real estate, and bar and restaurant bookkeeping."
+eeat_signals: ["Firm led by Stephen P. Pryor, CPA","Shawn Wilson, CPA on staff","Denise Romano, CPA on staff","Bundled fixed monthly fee for bookkeeping, tax, and payroll compliance","Secure online client platform for real-time financial data","Documented industry expertise in construction, real estate, and restaurant bookkeeping","Serves clients from Port Chester, NY across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States"]
 internal_links: [{"url":"/services/tax","reason":"Cross-sell bundled tax service that pairs with bookkeeping in the fixed monthly fee","anchor_text":"tax planning and preparation"},{"url":"/what-we-do/payroll","reason":"Related bundled service mentioned alongside bookkeeping","anchor_text":"payroll processing"},{"url":"/services/advisory","reason":"Ties bookkeeping data into higher-level business guidance","anchor_text":"advisory support"},{"url":"/industries/construction","reason":"Deep-dive page for the construction niche referenced in this page","anchor_text":"construction bookkeeping and job costing"},{"url":"/industries/real-estate","reason":"Deep-dive page for the real estate niche referenced in this page","anchor_text":"real estate accounting"},{"url":"/industries/restaurants","reason":"Deep-dive page for the hospitality niche referenced in this page","anchor_text":"bar and restaurant accounting"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"schedule a consultation"}]
-faq_block: [{"answer":"Bookkeeping is bundled into a fixed monthly fee alongside tax, payroll, and advisory support, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business.","question":"How much does bookkeeping cost with Stephen P. Pryor, CPA?"},{"answer":"Yes. During onboarding we review your existing QuickBooks setup, clean up what needs it, and build our monthly reconciliation process around the software you're already using, so switching bookkeepers doesn't mean starting over from scratch.","question":"Do you work with businesses that already use QuickBooks?"},{"answer":"Yes. Every client gets access to a secure online platform showing current financial data, reports, and documents, updated as our team works, so you're never waiting until month-end to know where you stand.","question":"Can I see my books in real time?"},{"answer":"We reconcile daily cash and card deposits, track tip reporting, and monitor thin restaurant margins closely, work that generic bookkeeping software or a general-practice bookkeeper typically isn't built to catch.","question":"Do you handle bookkeeping for bars and restaurants specifically?"},{"answer":"Most clients are based in Port Chester and across Westchester County, NY. We also serve business owners in Manhattan, Brooklyn, Asbury Park, New Jersey, and clients throughout New York, New Jersey, Connecticut, and Florida.","question":"What areas do you serve?"}]
-llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax, payroll, and advisory services, with a secure online platform for real-time financial data, serving construction, real estate, and hospitality clients in Port Chester, NY and Westchester County."
+faq_block: [{"question":"How much does bookkeeping cost with Stephen P. Pryor, CPA?","answer":"Bookkeeping is bundled into a fixed monthly fee alongside tax and payroll compliance, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business."},{"question":"Do you work with businesses that already use QuickBooks?","answer":"Yes. During onboarding we review your existing QuickBooks setup, clean up what needs it, and build our monthly reconciliation process around the software you're already using, so switching bookkeepers doesn't mean starting over from scratch."},{"question":"Can I see my books in real time?","answer":"Yes. Every client gets access to a secure online platform showing current financial data, reports, and documents, updated as our team works, so you're never waiting until month-end to know where you stand."},{"question":"Do you handle bookkeeping for bars and restaurants specifically?","answer":"We reconcile daily cash and card deposits, track tip reporting, and monitor thin restaurant margins closely, work that generic bookkeeping software or a general-practice bookkeeper typically isn't built to catch."},{"question":"What areas do you serve?","answer":"The firm serves construction, real estate, and restaurant clients from its office in Port Chester, New York, across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."}]
+llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax and payroll compliance services, with a secure online platform for real-time financial data, serving construction, real estate, and restaurant clients from its office in Port Chester, NY across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 ---
 
 <!-- block: content-split | variant: image-right | image: bookkeeping-business-owner.jpg | alt: "Small business owner reviewing bookkeeping records with a CPA" | query: "business owner reviewing financial documents" -->
 ## Bookkeeping support built for busy business owners
 
-Running a business in Port Chester means your attention is already split between customers, crews, staff, and suppliers. Bookkeeping shouldn't be one more thing competing for it. Stephen P. Pryor, CPA handles the daily work of transaction classification, expense tracking, bill payment, and invoicing so your books stay current without you touching a spreadsheet.
+Running a business in Port Chester means your attention is already split between customers, crews, staff, and suppliers. Bookkeeping shouldn't be one more thing competing for it. Stephen P. Pryor, CPA handles the daily work of transaction classification, expense tracking, and invoicing so your books stay current without you touching a spreadsheet.
 
 That's the idea behind our tagline: you run your business, we run your numbers. It's not a slogan we use loosely. When you hand off bookkeeping to our team, you get someone who actually looks at what's happening in your accounts each month, catches errors before they become problems, and flags anything that needs your attention. You stay informed without staying buried in the details.
 
@@ -39,12 +39,11 @@ Every client gets the same disciplined process, whether you're running a five-pe
 - Credit card account reconciliation
 - Sales tax preparation and filing
 - Transaction categorization and coding
-- Accounts payable and bill payment
 - Invoicing and accounts receivable tracking
 - Monthly financial reporting and statements
 - General ledger maintenance
 
-Bookkeeping isn't sold on its own here. It's bundled with tax, payroll, and advisory support for one fixed monthly fee, so there's no surprise invoice for a phone call or a question about a transaction. Firms that bill by the hour tend to make clients think twice before reaching out. We'd rather you call.
+Bookkeeping isn't sold on its own here. It's bundled with tax and payroll compliance for one fixed monthly fee, so there's no surprise invoice for a phone call or a question about a transaction. Firms that bill by the hour tend to make clients think twice before reaching out. We'd rather you call.
 
 <!-- block: content-split | variant: image-left | image: secure-bookkeeping-platform.jpg | alt: "Business owner checking financial dashboard on a laptop and phone" | query: "business owner checking laptop dashboard" -->
 ## Real-time financial visibility through our secure platform
@@ -91,17 +90,19 @@ We set up or migrate your accounts, establish your monthly reconciliation schedu
 Onboarding isn't a one-time event. We check in as your business changes, because the way you operated at launch usually isn't how you'll operate at year three.
 
 <!-- block: content-prose -->
-## Serving Port Chester and the surrounding region
+## Serving clients across the tri-state area and beyond
 
-Most of our bookkeeping clients are based in Westchester County, from Port Chester and Rye to White Plains and beyond. We also work with business owners in Manhattan, Brooklyn, and Asbury Park, New Jersey, along with clients across New York, New Jersey, Connecticut, and Florida who'd rather have a firm that knows their industry than one that's simply nearby.
+From its office in Port Chester, New York, the firm serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. We work with clients who'd rather have a firm that knows their industry than one that's simply nearby.
 
 Bookkeeping doesn't require an in-person visit every month. Our secure platform and regular check-ins keep the relationship close no matter where your business operates. What matters is that someone is paying attention to your numbers consistently, not just at tax time.
+
+
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Bookkeeping
 
 **Q: How much does bookkeeping cost with Stephen P. Pryor, CPA?**
-A: Bookkeeping is bundled into a fixed monthly fee alongside tax, payroll, and advisory support, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business.
+A: Bookkeeping is bundled into a fixed monthly fee alongside tax and payroll compliance, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business.
 
 **Q: Do you work with businesses that already use QuickBooks?**
 A: Yes. During onboarding we review your existing QuickBooks setup, clean up what needs it, and build our monthly reconciliation process around the software you're already using, so switching bookkeepers doesn't mean starting over from scratch.
@@ -113,7 +114,7 @@ A: Yes. Every client gets access to a secure online platform showing current fin
 A: We reconcile daily cash and card deposits, track tip reporting, and monitor thin restaurant margins closely, work that generic bookkeeping software or a general-practice bookkeeper typically isn't built to catch.
 
 **Q: What areas do you serve?**
-A: Most clients are based in Port Chester and across Westchester County, NY. We also serve business owners in Manhattan, Brooklyn, Asbury Park, New Jersey, and clients throughout New York, New Jersey, Connecticut, and Florida.
+A: The firm serves construction, real estate, and restaurant clients from its office in Port Chester, New York, across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 
 <!-- block: cta-banner | variant: image-bg | image: bookkeeping-consultation-cta.jpg | alt: "Handshake between accountant and small business owner in office" | query: "handshake business meeting office" -->
 ## Get started with a bookkeeping partner you can trust
@@ -128,15 +129,15 @@ Schedule a consultation and tell us where your books stand today. We'll take a l
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized businesses in Port Chester and Westchester County, NY, bundled into one fixed monthly fee with tax, payroll, and advisory support. Clients get real-time access to their books through a secure online platform, with specialized handling for construction, real estate, and bar and restaurant bookkeeping.
+Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized businesses in Port Chester and the tri-state area, NY, bundled into one fixed monthly fee with tax and payroll compliance. Clients get real-time access to their books through a secure online platform, with specialized handling for construction, real estate, and bar and restaurant bookkeeping.
 
 **E-E-A-T Signals:**
 - Firm led by Stephen P. Pryor, CPA
 - Shawn Wilson, CPA on staff
 - Denise Romano, CPA on staff
-- Bundled fixed monthly fee for bookkeeping, tax, payroll, and advisory
+- Bundled fixed monthly fee for bookkeeping, tax, and payroll compliance
 - Secure online client platform for real-time financial data
-- Documented industry expertise in construction, real estate, and hospitality bookkeeping
+- Documented industry expertise in construction, real estate, and restaurant bookkeeping
 
 **Internal Links:**
 - tax planning and preparation → /services/tax, Cross-sell bundled tax service that pairs with bookkeeping in the fixed monthly fee
@@ -151,7 +152,7 @@ Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized busin
 **FAQ Block:**
 
 **Q: How much does bookkeeping cost with Stephen P. Pryor, CPA?**
-A: Bookkeeping is bundled into a fixed monthly fee alongside tax, payroll, and advisory support, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business.
+A: Bookkeeping is bundled into a fixed monthly fee alongside tax and payroll compliance, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business.
 
 **Q: Do you work with businesses that already use QuickBooks?**
 A: Yes. During onboarding we review your existing QuickBooks setup, clean up what needs it, and build our monthly reconciliation process around the software you're already using, so switching bookkeepers doesn't mean starting over from scratch.
@@ -163,10 +164,10 @@ A: Yes. Every client gets access to a secure online platform showing current fin
 A: We reconcile daily cash and card deposits, track tip reporting, and monitor thin restaurant margins closely, work that generic bookkeeping software or a general-practice bookkeeper typically isn't built to catch.
 
 **Q: What areas do you serve?**
-A: Most clients are based in Port Chester and across Westchester County, NY. We also serve business owners in Manhattan, Brooklyn, Asbury Park, New Jersey, and clients throughout New York, New Jersey, Connecticut, and Florida.
+A: The firm serves construction, real estate, and restaurant clients from its office in Port Chester, New York, across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
 
 **LLM Citation Note:**
-Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax, payroll, and advisory services, with a secure online platform for real-time financial data, serving construction, real estate, and hospitality clients in Port Chester, NY and Westchester County.
+Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax, payroll, and advisory services, with a secure online platform for real-time financial data, serving construction, real estate, and hospitality clients in Port Chester, NY and the tri-state area.
 
 ---
 ## Structured Data, paste into `<head>`
@@ -204,20 +205,28 @@ Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Westchester County, Westchester, NY"
+      "@type": "State",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": "Manhattan, NY"
+      "@type": "State",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": "Brooklyn, NY"
+      "@type": "State",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": "Asbury Park, NJ"
+      "@type": "State",
+      "name": "Florida"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Greater New York City Area"
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
     }
   ],
   "sameAs": [
@@ -255,7 +264,7 @@ Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax
       "name": "How much does bookkeeping cost with Stephen P. Pryor, CPA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bookkeeping is bundled into a fixed monthly fee alongside tax, payroll, and advisory support, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business."
+        "text": "Bookkeeping is bundled into a fixed monthly fee alongside tax and payroll compliance, so there's no separate hourly bill or surprise invoice. The exact fee depends on transaction volume and industry; schedule a consultation and we'll walk through pricing based on your actual business."
       }
     },
     {
@@ -287,7 +296,7 @@ Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax
       "name": "What areas do you serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most clients are based in Port Chester and across Westchester County, NY. We also serve business owners in Manhattan, Brooklyn, Asbury Park, New Jersey, and clients throughout New York, New Jersey, Connecticut, and Florida."
+        "text": "The firm serves construction, real estate, and restaurant clients from its office in Port Chester, New York, across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
       }
     }
   ]
@@ -299,7 +308,7 @@ Stephen P. Pryor, CPA bundles bookkeeping into a fixed monthly fee alongside tax
   "@type": "Service",
   "name": "Bookkeeping Services Port Chester NY | Stephen Pryor CPA",
   "url": "https://pryorcpa.com/services/bookkeeping",
-  "description": "Monthly bookkeeping in Port Chester, NY with a fixed fee, secure online access, and expertise in construction, real estate, and hospitality bookkeeping.",
+  "description": "Monthly bookkeeping for construction, real estate, and restaurant businesses. Fixed monthly fee with tax and payroll compliance, secure online access, serving clients from Port Chester, NY across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
