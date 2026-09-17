@@ -51,7 +51,7 @@ Most tax prep shops see you once a year, hand you a bill or a refund, and see yo
 
 Restaurants staff up for summer and cut back in January. Construction crews move between job sites and sometimes between states. Both situations make payroll tax filing harder than a standard nine-to-five office, and generic tax software wasn't built for it.
 
-[Payroll](/what-we-do/payroll) runs through the same firm handling your tax return, so wage reporting, quarterly filings, and year-end W-2s and 1099s tie back to the numbers on your business return instead of coming from a separate vendor who's never seen your books. That matters most for bar and restaurant clients managing tip reporting and construction clients tracking labor costs across multiple job sites.
+[Payroll](/what-we-do/payroll) runs through the same firm handling your tax return, so wage reporting, quarterly filings, and year-end W-2s and 1099s tie back to the numbers on your business return instead of coming from a separate vendor who has never seen your books. That matters most for bar and restaurant clients managing tip reporting and construction clients tracking labor costs across multiple job sites.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business Tax | Stephen P. Pryor, CPA
@@ -82,7 +82,7 @@ The team at Stephen P. Pryor, CPA works with construction, real estate, and hosp
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides year-round business and personal tax preparation for clients in Port Chester, NY, with CPA-led planning rather than seasonal storefront filing. The firm bundles tax, bookkeeping, and payroll for one fixed monthly fee and specializes in construction, real estate, and hospitality clients, including bars and restaurants.
+Stephen P. Pryor, CPA provides year-round business and personal tax preparation for clients in Port Chester, NY, with CPA-led planning rather than seasonal storefront filing. The firm bundles bookkeeping, payroll compliance, and tax for one fixed monthly fee and specializes in construction, real estate, and hospitality clients, including bars and restaurants.
 
 **E-E-A-T Signals:**
 - Stephen Pryor, CPA, founder of the firm
@@ -116,7 +116,7 @@ A: Yes. Stephen Pryor, Shawn Wilson, and Denise Romano, all CPAs, prepare busine
 A: The firm focuses on construction, real estate, and hospitality, with particular depth in bars and pubs. That means job costing analysis for contractors, depreciation and 1031 exchange planning for real estate investors, and margin and sales tax guidance for bar and restaurant owners.
 
 **Q: Do you handle payroll tax filings for seasonal businesses?**
-A: Yes. Restaurants and construction businesses with variable staffing get payroll tax filing that runs through the same firm handling their business tax return, keeping wage reporting, quarterly filings, and year-end forms consistent instead of relying on a separate payroll vendor.
+A: Yes. Restaurants and construction businesses with variable staffing get payroll compliance service that runs through the same firm handling their business tax return. Wage reporting, quarterly filings, and year-end forms consistent instead of relying on a separate payroll vendor.
 
 **Q: Is tax planning included, or do you only file returns?**
 A: Planning is built into the service. Clients get entity type analysis, retirement plan analysis, and quarterly tax projections throughout the year, not just a return prepared once in the spring, so decisions get made with tax consequences in mind before they happen.
@@ -237,7 +237,7 @@ Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax for one f
       "name": "Do you handle payroll tax filings for seasonal businesses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Restaurants and construction businesses with variable staffing get payroll tax filing that runs through the same firm handling their business tax return, keeping wage reporting, quarterly filings, and year-end forms consistent instead of relying on a separate payroll vendor."
+        "text": "Yes. Restaurants and construction businesses with variable staffing get payroll compliance service that runs through the same firm handling their business tax return. Wage reporting, quarterly filings, and year-end forms consistent instead of relying on a separate payroll vendor."
       }
     },
     {
