@@ -140,7 +140,7 @@ Stephen P. Pryor, CPA provides full charge outsourced accounting for constructio
 **FAQ Block:**
 
 **Q: What does outsourced accounting include at Stephen P. Pryor, CPA?**
-A: It bundles bookkeeping, bank reconciliation,  cash management, payroll coordination, and tax integration into one service under a fixed monthly fee, so Port Chester businesses get a full back office without hiring in-house staff.
+A: It bundles bookkeeping, bank reconciliation, cash management, payroll compliance, and tax into one service under a fixed monthly fee, so businesses get a full back office without hiring in-house staff.
 
 **Q: How is outsourced accounting different from just using bookkeeping software?**
 A: Software tracks transactions, but a CPA-led team like Stephen Pryor, Shawn Wilson, and Denise Romano reconciles, reports, and connects your books directly to tax planning and payroll, catching issues software alone won't flag.
