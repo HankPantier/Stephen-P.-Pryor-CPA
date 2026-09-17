@@ -52,7 +52,7 @@ Thin margins leave no room for guessing. Advisory support digs into cash handlin
 <!-- block: checklist-section | variant: standalone -->
 ## Advisory guidance across four key areas
 
-Whether a business is just getting started or has been running for years, there are four areas where the right guidance makes a measurable difference. Stephen P. Pryor, CPA works with clients on all four as part of the same advisory relationship.
+Whether a business is just getting started or has been running for years, there are four areas where the right guidance makes a measurable difference. Stephen P. Pryor, CPA works with clients across the tri-state area, Florida, and throughout the United States on all four as part of the same advisory relationship.
 
 - **Entity Type Analysis:** Choosing the right business structure from the start affects taxes, liability, and how the business can grow. The firm walks through the options and helps owners make the call that fits their situation. [Learn more](/what-we-do/entity-type-analysis)
 - **Cash Management:** Monitoring inflows and outflows so decisions get made with real numbers, not a guess about what's sitting in the account. [Learn more](/what-we-do/cash-management)
