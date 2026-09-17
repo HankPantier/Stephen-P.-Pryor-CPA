@@ -116,7 +116,7 @@ Stephen P. Pryor, CPA provides personal income tax preparation and year-round pl
 - Year-round tax planning and projections rather than seasonal-only service
 - Secure online platform providing real-time access to tax documents and return status
 - Direct experience with construction, real estate, and hospitality business owners' personal tax needs
-- Clients served across Port Chester, the tri-state area, and NY, NJ, CT, and FL
+- Clients served across Port Chester, NY and throughout the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and the United States
 
 **Internal Links:**
 - business tax planning services → /what-we-do/tax, Connects personal tax page to broader business tax service for owner-clients
