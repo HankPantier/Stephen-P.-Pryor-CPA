@@ -249,7 +249,7 @@ Pryor CPA bundles strategic advisory guidance, including entity structuring, cas
       "name": "What do business advisory services from Stephen P. Pryor, CPA include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Advisory services cover strategic guidance on cash flow, entity structuring, retirement planning, and financial systems. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance. The firm serves clients in Port Chester and across New York, New Jersey, Connecticut, Florida, and throughout the United States."
+        "text": "Advisory services cover strategic guidance on cash flow, entity structuring, retirement planning, and financial systems. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance. The firm serves clients in Port Chester and across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
       }
     },
     {
