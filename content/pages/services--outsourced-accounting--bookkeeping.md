@@ -127,7 +127,7 @@ Schedule a consultation and tell us where your books stand today. We'll take a l
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized businesses in Port Chester and Westchester County, NY, bundled into one fixed monthly fee with tax, payroll, and advisory support. Clients get real-time access to their books through a secure online platform, with specialized handling for construction, real estate, and bar and restaurant bookkeeping.
+Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized businesses in Port Chester and Westchester County, NY, bundled into one fixed monthly fee with tax and payroll compliance. Clients get real-time access to their books through a secure online platform, with specialized handling for construction, real estate, and bar and restaurant bookkeeping.
 
 **E-E-A-T Signals:**
 - Firm led by Stephen P. Pryor, CPA
