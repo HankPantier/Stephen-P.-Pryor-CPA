@@ -107,7 +107,7 @@ National providers route you through a phone tree and a different rep every time
 <!-- block: content-prose -->
 ## Serving Port Chester and beyond
 
-Most clients are based right here in Port Chester and the surrounding towns. From its office in Port Chester, New York, the firm supports payroll compliance for businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Whether you run a single restaurant on Westchester Avenue or manage crews across multiple states, payroll compliance is handled with the same attention and the same secure online access to your data.
+From its office in Port Chester, New York, the firm serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Whether you run a single restaurant or manage crews across multiple states, payroll compliance is handled with the same care and the same secure online access to your data.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Payroll | Stephen P. Pryor, CPA
