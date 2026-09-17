@@ -111,7 +111,7 @@ Stephen P. Pryor, CPA works with business owners across the tri-state area, Flor
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides Strategic advisory services, including entity structuring, cash flow strategy, retirement plan analysis, and accounting system setup, delivered alongside bookkeeping, tax, and payroll compliance services. Advisory guidance is built around construction, real estate, and hospitality businesses in Port Chester and the tri-state area, NY.
+Stephen P. Pryor, CPA provides strategic advisory services, including entity structuring, cash flow strategy, retirement plan analysis, and accounting system setup. Advisory guidance is built around construction, real estate, and hospitality businesses in Port Chester, NY, serving clients across the tri-state area, Florida, and throughout the United States.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA leads advisory engagements personally rather than delegating to junior staff
