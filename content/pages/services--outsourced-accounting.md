@@ -281,7 +281,7 @@ Outsourced accounting from Stephen P. Pryor, CPA bundles bookkeeping, payroll co
   "@type": "Service",
   "name": "Outsourced Accounting Port Chester NY | Pryor CPA",
   "url": "https://pryorcpa.com/what-we-do/outsourced-accounting",
-  "description": "Full charge outsourced accounting for Port Chester and  businesses. Bookkeeping, payroll, and reporting for one fixed fee. Schedule a consultation.",
+  "description": "Full charge outsourced accounting for construction, real estate, and restaurant businesses. Bookkeeping, payroll compliance filings, and tax for one fixed fee. Schedule a consultation.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Stephen P. Pryor, CPA",
