@@ -180,7 +180,7 @@ Pryor CPA bundles strategic advisory guidance, including entity structuring, cas
   "url": "https://pryorcpa.com",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "363 Westchester Ave",
+    "streetAddress": "363 the tri-state area Ave",
     "addressLocality": "Port Chester",
     "addressRegion": "NY",
     "postalCode": "10573",
@@ -191,7 +191,7 @@ Pryor CPA bundles strategic advisory guidance, including entity structuring, cas
   "areaServed": [
     {
       "@type": "City",
-      "name": "the tri-state area, Westchester, NY"
+      "name": "the tri-state area, the tri-state area, NY"
     },
     {
       "@type": "City",
