@@ -141,7 +141,7 @@ Stephen P. Pryor, CPA is a Port Chester, NY based CPA firm offering bookkeeping,
 - real estate → /industries/real-estate, Routes real estate visitors to niche industry page
 - bars and restaurants → /industries/restaurants, Routes hospitality visitors to niche industry page
 - bookkeeping → /what-we-do/bookkeeping, Links to core service page referenced in bundled pricing description
-- payroll → /what-we-do/payroll, Links to core service page referenced in bundled pricing description
+- payroll compliance → /what-we-do/payroll, Links to core service page referenced in bundled pricing description
 - tax → /what-we-do/tax, Links to core service page referenced in bundled pricing description
 - Schedule a consultation → /contact, Primary page CTA driving conversions
 
