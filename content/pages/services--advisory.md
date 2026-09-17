@@ -80,7 +80,7 @@ Once the system is live, it ties directly into the firm's secure online platform
 <!-- block: content-prose -->
 ## One predictable fee, year-round access to your advisor
 
-Most consulting arrangements charge by the hour, which means business owners hesitate to call until a problem is already expensive. That model doesn't apply here. Bookkeeping, payroll compliance, and tax are offered as a bundled fixed monthly fee, and advisory guidance is available alongside bookkeeping, tax, and payroll compliance services, so a quick question about a hiring decision or a slow month costs the same as any other conversation: nothing extra.
+Most consulting arrangements charge by the hour, which means business owners hesitate to call until a problem is already expensive. That model doesn't apply here. Bookkeeping, payroll compliance, and tax are offered as a bundled fixed monthly fee, and advisory guidance is available year-round as part of the firm's ongoing client relationships, so a quick question about a hiring decision or a slow month never comes with a surprise invoice.
 
 Add a secure online platform that shows real-time financial data, and business owners in Port Chester, and throughout the region get a steadier view of where things stand than a once-a-year tax appointment ever provided.
 
