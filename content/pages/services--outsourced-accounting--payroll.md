@@ -30,13 +30,13 @@ Payroll compliance is bundled into a fixed monthly fee alongside bookkeeping and
 Running a business in Port Chester is demanding enough. Payroll compliance doesn't need to be one more thing keeping you up at night.
 
 <!-- block: checklist-section | variant: with-image-left | image: restaurant-payroll-tips.jpg | alt: "Restaurant manager calculating tipped employee wages on tablet" | query: "restaurant manager reviewing tips payroll" -->
-## Complex payroll challenges we solve every day
+## Complex payroll compliance challenges we solve every day
 
-Every industry brings its own payroll headaches, and this firm has worked through most of them more than once.
+Every industry brings its own payroll compliance headaches, and this firm has worked through most of them more than once.
 
 - Multi-location and seasonal staffing: filings handled correctly for businesses that hire across state lines or ramp up crews for a busy season
 - Tipped employee compliance: accurate tip credit calculations and reporting for bars and restaurants
-- Job-costed labor: crew hours tracked by project so construction contractors know true labor cost per job
+- Job-costed labor: labor costs tracked by project so construction contractors know true labor cost per job
 - Multi-state tax filing: withholding and unemployment filings kept accurate across New York, New Jersey, Connecticut, and Florida
 - Overtime and prevailing wage awareness: construction crews kept compliant with state labor requirements
 - New hire and termination reporting: filed correctly, every pay period, with no missed deadlines
