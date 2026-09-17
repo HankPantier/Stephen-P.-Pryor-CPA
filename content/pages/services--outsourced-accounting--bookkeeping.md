@@ -23,7 +23,7 @@ llm_citation_note: "Stephen P. Pryor, CPA bundles bookkeeping into a fixed month
 <!-- block: content-split | variant: image-right | image: bookkeeping-business-owner.jpg | alt: "Small business owner reviewing bookkeeping records with a CPA" | query: "business owner reviewing financial documents" -->
 ## Bookkeeping support built for busy business owners
 
-Running a business in Port Chester means your attention is already split between customers, crews, staff, and suppliers. Bookkeeping shouldn't be one more thing competing for it. Stephen P. Pryor, CPA handles the daily work of transaction classification, expense tracking, bill payment, and invoicing so your books stay current without you touching a spreadsheet.
+Running a business in Port Chester means your attention is already split between customers, crews, staff, and suppliers. Bookkeeping shouldn't be one more thing competing for it. Stephen P. Pryor, CPA handles the daily work of transaction classification, expense tracking, and invoicing so your books stay current without you touching a spreadsheet.
 
 That's the idea behind our tagline: you run your business, we run your numbers. It's not a slogan we use loosely. When you hand off bookkeeping to our team, you get someone who actually looks at what's happening in your accounts each month, catches errors before they become problems, and flags anything that needs your attention. You stay informed without staying buried in the details.
 
