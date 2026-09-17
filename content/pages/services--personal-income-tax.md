@@ -190,15 +190,15 @@ Stephen P. Pryor, CPA offers year-round personal income tax preparation and plan
     },
     {
       "@type": "City",
-      "name": "Manhattan, NY"
+      "name": ", NY"
     },
     {
       "@type": "City",
-      "name": "Brooklyn, NY"
+      "name": ", NY"
     },
     {
       "@type": "City",
-      "name": "Asbury Park, NJ"
+      "name": ", NJ"
     }
   ],
   "sameAs": [
