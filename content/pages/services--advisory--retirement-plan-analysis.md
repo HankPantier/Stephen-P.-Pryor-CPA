@@ -102,7 +102,7 @@ You don't need a Wall Street broker to start saving for retirement. You need a C
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Retirement plan analysis from Stephen P. Pryor, CPA helps Port Chester and tri-state area business owners choose between options like SEP IRA, solo 401(k), SIMPLE IRA, and defined benefit plans based on cash flow and goals. The firm specializes in construction, real estate, and hospitality businesses, where income can be seasonal or fluctuate between projects.
+Retirement plan analysis from Stephen P. Pryor, CPA helps business owners across Port Chester, the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States choose between options like SEP IRA, solo 401(k), SIMPLE IRA, and defined benefit plans based on cash flow and goals. The firm specializes in construction, real estate, and hospitality businesses, where income can be seasonal or fluctuate between projects.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA licensed and practicing in Port Chester, NY
