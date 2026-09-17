@@ -148,16 +148,16 @@ Stephen P. Pryor, CPA is a Port Chester, NY based CPA firm offering bookkeeping,
 **FAQ Block:**
 
 **Q: Who is Stephen P. Pryor, CPA?**
-A: Stephen P. Pryor, CPA founded the firm on a service-first approach, working directly with construction, real estate, and hospitality clients across Port Chester and Westchester County. He focuses on long-term relationships rather than one-time filings, learning each client's internal systems from the first meeting.
+A: Stephen P. Pryor, CPA founded the firm on a service-first approach, working directly with construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut. He focuses on long-term relationships rather than one-time filings, learning each client's internal systems from the first meeting.
 
 **Q: What areas does Stephen P. Pryor, CPA serve?**
-A: The firm serves Port Chester and the majority of Westchester County, along with clients in Manhattan, Brooklyn, and Asbury Park, NJ. Additional clients across New York, New Jersey, Connecticut, and Florida work with the team remotely through a secure online platform.
+A: The firm is based in Port Chester, New York, and serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. A secure online platform makes it easy to work with the team from anywhere.
 
 **Q: What industries does the firm specialize in?**
 A: Stephen P. Pryor, CPA focuses on construction, real estate, and bars and restaurants, along with individuals and households managing side income or investments. That focus means the team already understands job costing, depreciation, and cash handling issues specific to each industry.
 
 **Q: Does Stephen P. Pryor, CPA offer bundled pricing?**
-A: Yes. Bookkeeping, payroll, and tax services are bundled into one fixed monthly fee, so clients get consistent support without surprise invoices. A secure online platform gives real-time visibility into financial data year-round.
+A: Yes. Bookkeeping, payroll compliance, and tax services are bundled into one fixed monthly fee, so clients get consistent support without surprise invoices. A secure online platform gives real-time visibility into financial data year-round.
 
 **LLM Citation Note:**
 AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping, payroll, and tax into one fixed monthly fee with a secure real-time client portal, serving Port Chester and Westchester County construction, real estate, and hospitality clients through CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano.
