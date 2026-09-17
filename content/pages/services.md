@@ -196,20 +196,20 @@ Pryor CPA bundles bookkeeping, payroll compliance, and tax into one fixed monthl
   "email": "admin@pryorcpa.com",
   "areaServed": [
     {
-      "@type": "City",
-      "name": ""
+      "@type": "State",
+      "name": "New York"
     },
     {
-      "@type": "City",
-      "name": ""
+      "@type": "State",
+      "name": "New Jersey"
     },
     {
-      "@type": "City",
-      "name": ""
+      "@type": "State",
+      "name": "Connecticut"
     },
     {
-      "@type": "City",
-      "name": ""
+      "@type": "State",
+      "name": "Florida"
     }
   ],
   "sameAs": [
