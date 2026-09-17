@@ -121,7 +121,7 @@ Stephen P. Pryor, CPA provides full charge outsourced accounting for constructio
 
 **E-E-A-T Signals:**
 - Team includes Stephen P. Pryor, CPA, Shawn Wilson, CPA, and Denise Romano, CPA
-- Serves clients across New York, New Jersey, Connecticut, Florida, and across the United States
+- Serves construction, real estate, and restaurant clients from its Port Chester, NY office across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States
 - Industry-specific expertise in construction, real estate, and hospitality including bars and pubs
 - Secure online platform provides real-time financial data access, not delayed monthly reporting
 
