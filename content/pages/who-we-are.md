@@ -72,7 +72,7 @@ Shawn brings deep tax and advisory experience to construction and real estate cl
 photo: nicholas-vergara_nizgdf.jpg
 Senior Manager
 
-Nicholas oversees bookkeeping and payroll engagements, keeping the daily numbers accurate so tax time never turns into a scramble. [Read more about Nicholas.](/who-we-are/nicholas-vergara)
+Nicholas oversees bookkeeping and payroll compliance engagements, keeping the daily numbers accurate so tax time never turns into a scramble. [Read more about Nicholas.](/who-we-are/nicholas-vergara)
 
 ### Denise Romano, CPA
 Senior Accountant
