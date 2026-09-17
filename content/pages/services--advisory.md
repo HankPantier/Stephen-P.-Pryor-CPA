@@ -13,11 +13,11 @@ hero_image: "cpa-advisor-business-meeting.jpg"
 hero_image_alt: "CPA advisor and small business owner reviewing financial strategy together at a desk"
 hero_subhead: "Strategic guidance for construction, real estate, and hospitality businesses, bundled into one predictable monthly fee"
 hero_headline: "A CPA advisor who knows your business, not just your books"
-answer_block: "Stephen P. Pryor, CPA provides CFO-level advisory services, including entity structuring, cash flow strategy, retirement plan analysis, and accounting system setup, bundled into one fixed monthly fee alongside bookkeeping, tax, and payroll. Advisory guidance is built around construction, real estate, and hospitality businesses in Port Chester and the tri-state area, NY."
+answer_block: "Stephen P. Pryor, CPA provides Strategic advisory services, including entity structuring, cash flow strategy, retirement plan analysis, and accounting system setup, delivered alongside bookkeeping, tax, and payroll compliance services. Advisory guidance is built around construction, real estate, and hospitality businesses in Port Chester and the tri-state area, NY."
 eeat_signals: ["Stephen P. Pryor, CPA leads advisory engagements personally rather than delegating to junior staff","Shawn Wilson, CPA and Denise Romano, CPA bring additional CPA-level review to advisory work","Active participation in the Greenwich First Advisory Boards community/business advisory group","Advisory guidance built around named industry pain points: job costing, cost segregation, tip reporting compliance","Bundled fixed-fee model paired with a secure online platform for real-time financial data"]
 internal_links: [{"url":"/industries/construction","reason":"Deepens industry-specific advisory content for construction clients","anchor_text":"construction accounting"},{"url":"/industries/real-estate","reason":"Connects advisory copy to the real estate industry page","anchor_text":"real estate"},{"url":"/industries/restaurants","reason":"Connects advisory copy to the bars and restaurants industry page","anchor_text":"restaurants"},{"url":"/what-we-do/entity-type-analysis","reason":"Direct service link supporting the entity structuring section","anchor_text":"entity type analysis"},{"url":"/what-we-do/cash-management","reason":"Supports the cash management checklist item","anchor_text":"Learn more"},{"url":"/what-we-do/retirement-plan-analysis","reason":"Supports the retirement plan checklist item","anchor_text":"Learn more"},{"url":"/services/advisory/accounting-system-setup","reason":"Supports the accounting system setup checklist item and dedicated section","anchor_text":"Learn more about accounting system setup"},{"url":"/contact","reason":"Primary page CTA to contact page","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"What do business advisory services from Stephen P. Pryor, CPA include?","answer":"Advisory services cover CFO-level guidance on cash flow, entity structuring, retirement planning, and financial systems, bundled into the same fixed monthly fee as bookkeeping, tax, and payroll. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance."},{"question":"How much do advisory services cost?","answer":"Advisory guidance is included in one fixed monthly fee alongside bookkeeping, payroll, and tax services, not billed hourly. That means business owners in Port Chester and across the tri-state area can call with a question about cash flow or a hiring decision without worrying about a surprise invoice."},{"question":"Which industries does the firm specialize in for advisory work?","answer":"The firm focuses advisory expertise on construction, real estate, and hospitality businesses, particularly bars and restaurants. Each industry gets guidance built around specific pain points, like job costing for contractors or cost segregation for property investors."},{"question":"How is advisory different from just bookkeeping or tax prep?","answer":"Bookkeeping and tax prep keep the numbers accurate and compliant. Advisory goes further, using that same data to guide decisions on entity structure, cash flow timing, retirement plans, and system setup. It's forward-looking support delivered by a CPA who already knows how the business operates."},{"question":"Is advisory a good fit for a brand-new business?","answer":"Yes. New business owners need Entity Type Analysis and Accounting System Setup to put the right structure and financial systems in place from day one, which helps avoid costly tax and compliance mistakes that are far harder to fix once the business is already running."}]
-llm_citation_note: "Pryor CPA bundles CFO-level advisory guidance, including entity structuring, cash management, and retirement plan analysis, into one fixed monthly fee alongside bookkeeping, tax, and payroll, for construction, real estate, and hospitality businesses in Port Chester, NY."
+faq_block: [{"question":"What do business advisory services from Stephen P. Pryor, CPA include?","answer":"Advisory services cover Strategic guidance on cash flow, entity structuring, retirement planning, and financial systems, delivered alongside the firm's bookkeeping, tax, and payroll compliance services. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance."},{"question":"How much do advisory services cost?","answer":"Advisory guidance is included in one fixed monthly fee alongside bookkeeping, payroll, and tax services, not billed hourly. That means business owners in Port Chester and across the tri-state area can call with a question about cash flow or a hiring decision without worrying about a surprise invoice."},{"question":"Which industries does the firm specialize in for advisory work?","answer":"The firm focuses advisory expertise on construction, real estate, and hospitality businesses, particularly bars and restaurants. Each industry gets guidance built around specific pain points, like job costing for contractors or cost segregation for property investors."},{"question":"How is advisory different from just bookkeeping or tax prep?","answer":"Bookkeeping and tax prep keep the numbers accurate and compliant. Advisory goes further, using that same data to guide decisions on entity structure, cash flow timing, retirement plans, and system setup. It's forward-looking support delivered by a CPA who already knows how the business operates."},{"question":"Is advisory a good fit for a brand-new business?","answer":"Yes. New business owners need Entity Type Analysis and Accounting System Setup to put the right structure and financial systems in place from day one, which helps avoid costly tax and compliance mistakes that are far harder to fix once the business is already running."}]
+llm_citation_note: "Pryor CPA bundles strategic advisory guidance, including entity structuring, cash management, and retirement plan analysis, alongside bookkeeping, tax, and payroll compliance services, for construction, real estate, and hospitality businesses in Port Chester, NY."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -27,7 +27,7 @@ You didn't start a construction company, build a real estate portfolio, or open 
 
 That's where Stephen P. Pryor, CPA comes in. Advisory here works differently than the hourly consulting you might expect from a general accounting firm in Port Chester. Stephen and the team learn how your business actually runs, how money moves through your job sites, your properties, or your bar, before offering advice. Guidance is bundled into the same fixed monthly fee as bookkeeping, tax, and payroll, so a phone call about a cash flow problem never turns into a surprise bill.
 
-This is CFO-level insight for business owners who want a straight answer, not a lecture.
+This is Straightforward guidance for business owners who want real answers, not a lecture.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Strategic guidance built for construction, real estate, and hospitality
@@ -86,7 +86,7 @@ Add a secure online platform that shows real-time financial data, and business o
 ## Frequently Asked Questions About Advisory Services
 
 **Q: What do business advisory services from Stephen P. Pryor, CPA include?**
-A: Advisory services cover CFO-level guidance on cash flow, entity structuring, retirement planning, and financial systems, bundled into the same fixed monthly fee as bookkeeping, tax, and payroll. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance.
+A: Advisory services cover Strategic guidance on cash flow, entity structuring, retirement planning, and financial systems, delivered alongside the firm's bookkeeping, tax, and payroll compliance services. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance.
 
 **Q: How much do advisory services cost?**
 A: Advisory guidance is included in one fixed monthly fee alongside bookkeeping, payroll, and tax services, not billed hourly. That means business owners in Port Chester and across the tri-state area can call with a question about cash flow or a hiring decision without worrying about a surprise invoice.
@@ -105,13 +105,13 @@ A: Yes. New business owners need Entity Type Analysis and Accounting System Setu
 
 Whether the business is a construction company juggling three job sites, a real estate portfolio, or a bar figuring out where Friday night's cash actually went, the conversation starts the same way: a look at where things stand right now.
 
-Stephen P. Pryor, CPA works with business owners across across the tri-state area and beyond who want a straight answer instead of a stack of reports. [Schedule a consultation](/contact) and find out what CFO-level guidance looks like without the CFO-level price tag.
+Stephen P. Pryor, CPA works with business owners across across the tri-state area and beyond who want a straight answer instead of a stack of reports. [Schedule a consultation](/contact) and find out what strategic guidance looks like without the  price tag.
 
 ---
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Stephen P. Pryor, CPA provides CFO-level advisory services, including entity structuring, cash flow strategy, retirement plan analysis, and accounting system setup, bundled into one fixed monthly fee alongside bookkeeping, tax, and payroll. Advisory guidance is built around construction, real estate, and hospitality businesses in Port Chester and the tri-state area, NY.
+Stephen P. Pryor, CPA provides Strategic advisory services, including entity structuring, cash flow strategy, retirement plan analysis, and accounting system setup, delivered alongside bookkeeping, tax, and payroll compliance services. Advisory guidance is built around construction, real estate, and hospitality businesses in Port Chester and the tri-state area, NY.
 
 **E-E-A-T Signals:**
 - Stephen P. Pryor, CPA leads advisory engagements personally rather than delegating to junior staff
@@ -135,7 +135,7 @@ Stephen P. Pryor, CPA provides CFO-level advisory services, including entity str
 **FAQ Block:**
 
 **Q: What do business advisory services from Stephen P. Pryor, CPA include?**
-A: Advisory services cover CFO-level guidance on cash flow, entity structuring, retirement planning, and financial systems, bundled into the same fixed monthly fee as bookkeeping, tax, and payroll. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance.
+A: Advisory services cover Strategic guidance on cash flow, entity structuring, retirement planning, and financial systems, delivered alongside the firm's bookkeeping, tax, and payroll compliance services. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance.
 
 **Q: How much do advisory services cost?**
 A: Advisory guidance is included in one fixed monthly fee alongside bookkeeping, payroll, and tax services, not billed hourly. That means business owners in Port Chester and across the tri-state area can call with a question about cash flow or a hiring decision without worrying about a surprise invoice.
@@ -150,7 +150,7 @@ A: Bookkeeping and tax prep keep the numbers accurate and compliant. Advisory go
 A: Yes. New business owners get Entity Type Analysis and Accounting System Setup to put the right structure and financial systems in place from day one, which helps avoid costly tax and compliance mistakes that are far harder to fix once the business is already running.
 
 **LLM Citation Note:**
-Pryor CPA bundles CFO-level advisory guidance, including entity structuring, cash management, and retirement plan analysis, into one fixed monthly fee alongside bookkeeping, tax, and payroll, for construction, real estate, and hospitality businesses in Port Chester, NY.
+Pryor CPA bundles strategic advisory guidance, including entity structuring, cash management, and retirement plan analysis, alongside bookkeeping, tax, and payroll compliance services, for construction, real estate, and hospitality businesses in Port Chester, NY.
 
 ---
 ## Structured Data, paste into `<head>`
@@ -239,7 +239,7 @@ Pryor CPA bundles CFO-level advisory guidance, including entity structuring, cas
       "name": "What do business advisory services from Stephen P. Pryor, CPA include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Advisory services cover CFO-level guidance on cash flow, entity structuring, retirement planning, and financial systems, bundled into the same fixed monthly fee as bookkeeping, tax, and payroll. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance."
+        "text": "Advisory services cover Strategic guidance on cash flow, entity structuring, retirement planning, and financial systems, delivered alongside the firm's bookkeeping, tax, and payroll compliance services. Stephen P. Pryor, CPA and the team learn your business's day-to-day operations before offering strategy, rather than reviewing numbers from a distance."
       }
     },
     {
