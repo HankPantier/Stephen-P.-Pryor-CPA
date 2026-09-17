@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "bookkeeping-services-port-chester.jpg"
 hero_image_alt: "CPA and small business owner reviewing bookkeeping records together in an office"
-hero_subhead: "Fixed-fee bookkeeping with real-time online access, built around how construction, real estate, and hospitality businesses actually work"
+hero_subhead: "Fixed-fee bookkeeping with real-time online access, built around how construction, real estate, and restaurant businesses actually work"
 hero_headline: "Bookkeeping support built for busy business owners"
 answer_block: "Stephen P. Pryor, CPA provides monthly bookkeeping for small and mid-sized businesses from its office in Port Chester, NY, bundled into one fixed monthly fee with tax and payroll compliance. The firm serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Clients get real-time access to their books through a secure online platform, with specialized handling for construction, real estate, and bar and restaurant bookkeeping."
 eeat_signals: ["Firm led by Stephen P. Pryor, CPA","Shawn Wilson, CPA on staff","Denise Romano, CPA on staff","Bundled fixed monthly fee for bookkeeping, tax, payroll, and advisory","Secure online client platform for real-time financial data","Documented industry expertise in construction, real estate, and hospitality bookkeeping"]
