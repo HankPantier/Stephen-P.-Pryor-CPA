@@ -143,7 +143,7 @@ Stephen P. Pryor, CPA provides bookkeeping, payroll, business and personal tax, 
 **FAQ Block:**
 
 **Q: What accounting services does Stephen P. Pryor, CPA offer in Port Chester, NY?**
-A: The firm provides bookkeeping, payroll, business and personal tax planning and preparation, and advisory services including cash management and retirement plan analysis. All services are bundled into one fixed monthly fee with real-time access through a secure online platform.
+A: The firm provides bookkeeping, payroll compliance, business and personal tax planning and preparation, and advisory services including cash management and retirement plan analysis. Bookkeeping, payroll compliance, and tax are each bundled into one fixed monthly fee with real-time access through a secure online platform.
 
 **Q: Do you work with construction and real estate businesses?**
 A: Yes. The firm specializes in job costing and cash flow tracking for construction businesses and depreciation, cost segregation, and 1031 exchange planning for real estate clients, in addition to standard bookkeeping and tax services.
