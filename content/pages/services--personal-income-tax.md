@@ -141,7 +141,7 @@ A: Yes. This is one of the most common situations clients bring us. We handle qu
 A: Filing reports what already happened. Year-round planning means running projections during the year so deductions, retirement contributions, and income timing decisions happen while there's still time to act on them, not after the tax year closes.
 
 **Q: Do you handle personal taxes for business owners in construction, real estate, or hospitality?**
-A: Yes. Stephen Pryor, Shawn Wilson, and Denise Romano regularly work with owners in these industries, coordinating personal returns with business tax strategy, including depreciation, entity structure, and cost segregation on investment property.
+A: Yes. The team of CPAs at Stephen P. Pryor, CPA regularly work with owners in these industries, coordinating personal returns with business tax strategy, including depreciation, entity structure, and cost segregation on investment property.
 
 **Q: Is my tax information secure if I upload it online?**
 A: Documents are uploaded and stored through a secure online platform, giving you real-time access to your return status without emailing sensitive files or relying on paper copies.
