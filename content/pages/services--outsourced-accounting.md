@@ -269,7 +269,7 @@ Outsourced accounting from Stephen P. Pryor, CPA bundles bookkeeping, payroll co
       "name": "What areas do you serve for outsourced accounting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most clients are based in the tri-state area, greater New York City, Florida, and throughout the United States."
+        "text": "Most clients are based in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area. The firm also serves clients across Florida and throughout the United States, from its office in Port Chester, NY."
       }
     }
   ]
