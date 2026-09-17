@@ -97,7 +97,7 @@ icon: ShieldCheck
 
 Ongoing review of wage and hour rules, so a mid-year rule change doesn't catch you off guard.
 
-All of this comes bundled into one fixed monthly fee alongside bookkeeping and tax. No per-item invoicing, no surprise add-ons.
+Payroll compliance, bookkeeping, and tax are bundled into one fixed monthly fee. No per-item invoicing, no surprise add-ons.
 
 <!-- block: content-split | variant: image-left | image: cpa-client-conversation.jpg | alt: "CPA and client discussing payroll setup at a conference table" | query: "accountant client conversation office" -->
 ## A personal payroll compliance partner, not a call center
