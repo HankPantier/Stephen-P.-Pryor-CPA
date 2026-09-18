@@ -67,7 +67,7 @@ Restaurant owners across the tri-state area get a plan built around their calend
 
 Cost of goods sold, labor cost percentage, and cash flow between busy and slow seasons determine whether a restaurant survives its second year. Watching those numbers only at tax time is too late to change anything.
 
-Ongoing advisory support means someone is reviewing your margins alongside you throughout the year, not just reporting on them after the fact. That includes cash management to smooth out seasonal swings, guidance on labor cost ratios as staffing changes, and a second set of eyes before a lease renewal or menu overhaul. Stephen's background across construction, real estate, and hospitality means he's seen how cash pressure hits a small operation from multiple angles, not just one.
+Ongoing advisory support means someone is reviewing your margins alongside you throughout the year, not just reporting on them after the fact. That includes cash management to smooth out seasonal swings, guidance on labor cost ratios as staffing changes, and a second set of eyes before a lease renewal or menu overhaul. 
 
 This is advisory work built for the reality of running a bar or restaurant, delivered through [advisory services](/services/advisory) and reinforced with [cash management](/what-we-do/cash-management) support when seasonal cash gets tight.
 
