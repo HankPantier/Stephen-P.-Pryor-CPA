@@ -60,7 +60,7 @@ Thin margins leave no room for guessing where the money's going. Tip reporting, 
 ### Individuals
 icon: Calculator
 
-Personal taxes get complicated fast, especially with side income, investments, or a business return to coordinate at the same time. We handle personal tax preparation year-round, not just in April, catching deductions before they expire and building projections that keep you ahead of what you'll owe. [Learn more](/what-we-do/personal-income-tax)
+Personal taxes get complicated fast, especially with side income, investments, or a business return to coordinate at the same time. We get to know your personal tax situation thoroughly, so whether you're due a refund or just want to minimize what you owe, nothing that could help you gets left on the table. [Learn more](/what-we-do/personal-income-tax)
 
 <!-- block: service-cards | variant: 3-col -->
 ## Services built around how your business runs
