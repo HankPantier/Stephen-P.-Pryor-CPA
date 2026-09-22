@@ -68,7 +68,7 @@ A real estate agent who drives clients to two or three showings a day but replac
 
 A bar or pub owner using a vehicle mainly for supply runs and bank deposits, with modest annual mileage, often finds leasing the simpler, lower-stress choice, freeing up cash for inventory and payroll instead.
 
-The honest answer is that neither option is universally better. It depends on how many miles you drive, how long you keep vehicles, what type of vehicle you need, and how your business handles cash flow month to month. That's a conversation worth having with a CPA before you sign anything, not after.
+The honest answer is that neither option is universally better. It depends on how many miles you drive, how long you keep vehicles, what type of vehicle you need, and how your business handles cash flow month to month. [That's a conversation worth having with a CPA](/resources/auto-leasing-vs-buying-which-makes-more-sense-2) before you sign anything, not after.
 
 ## Common Questions
 
