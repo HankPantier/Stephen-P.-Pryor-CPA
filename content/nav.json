@@ -18,21 +18,7 @@
         },
         {
           "label": "Advisory Services",
-          "url": "/what-we-do/advisory",
-          "children": [
-            {
-              "label": "Entity Type Analysis | Stephen P. Pryor, CPA",
-              "url": "/what-we-do/advisory/entity-type-analysis"
-            },
-            {
-              "label": "Accounting System Setup | Stephen P. Pryor, CPA",
-              "url": "/what-we-do/advisory/accounting-system-setup"
-            },
-            {
-              "label": "Retirement Plan Analysis | Stephen P. Pryor, CPA",
-              "url": "/what-we-do/advisory/retirement-plan-analysis"
-            }
-          ]
+          "url": "/what-we-do/advisory"
         },
         {
           "label": "Personal Income Tax | Stephen P. Pryor, CPA",
@@ -41,6 +27,18 @@
         {
           "label": "Business Tax",
           "url": "/what-we-do/business-tax"
+        },
+        {
+          "label": "Entity Type Analysis | Stephen P. Pryor, CPA",
+          "url": "/what-we-do/entity-type-analysis"
+        },
+        {
+          "label": "Accounting System Setup | Stephen P. Pryor, CPA",
+          "url": "/what-we-do/accounting-system-setup"
+        },
+        {
+          "label": "Retirement Plan Analysis | Stephen P. Pryor, CPA",
+          "url": "/what-we-do/retirement-plan-analysis"
         }
       ]
     },
