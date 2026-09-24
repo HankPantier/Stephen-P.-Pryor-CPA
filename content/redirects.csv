@@ -24,3 +24,4 @@ old_url,new_url,status_code,reason
 /services/outsourced-accounting,/what-we-do/outsourced-accounting,301,Relocated via AI
 /services/advisory,/what-we-do/advisory,301,Relocated via AI
 /services,/what-we-do,301,Relocated via AI
+/what-we-do/outsourced-accounting/business-tax,/what-we-do/outsourced-accounting/tax,301,Relocated via AI
