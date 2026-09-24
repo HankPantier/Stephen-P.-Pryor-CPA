@@ -1,48 +1,48 @@
 {
   "primary": [
     {
-      "label": "Services",
-      "url": "/services",
+      "label": "What We Do",
+      "url": "/what-we-do",
       "children": [
         {
           "label": "Outsourced Accounting",
-          "url": "/services/outsourced-accounting",
+          "url": "/what-we-do/outsourced-accounting",
           "children": [
             {
               "label": "Bookkeeping",
-              "url": "/services/outsourced-accounting/bookkeeping"
+              "url": "/what-we-do/outsourced-accounting/bookkeeping"
             },
             {
               "label": "Payroll | Stephen P. Pryor, CPA",
-              "url": "/services/outsourced-accounting/payroll"
+              "url": "/what-we-do/outsourced-accounting/payroll"
             },
             {
               "label": "Business Tax",
-              "url": "/services/outsourced-accounting/business-tax"
+              "url": "/what-we-do/outsourced-accounting/business-tax"
             }
           ]
         },
         {
           "label": "Advisory Services",
-          "url": "/services/advisory",
+          "url": "/what-we-do/advisory",
           "children": [
             {
               "label": "Entity Type Analysis | Stephen P. Pryor, CPA",
-              "url": "/services/advisory/entity-type-analysis"
+              "url": "/what-we-do/advisory/entity-type-analysis"
             },
             {
               "label": "Accounting System Setup | Stephen P. Pryor, CPA",
-              "url": "/services/advisory/accounting-system-setup"
+              "url": "/what-we-do/advisory/accounting-system-setup"
             },
             {
               "label": "Retirement Plan Analysis | Stephen P. Pryor, CPA",
-              "url": "/services/advisory/retirement-plan-analysis"
+              "url": "/what-we-do/advisory/retirement-plan-analysis"
             }
           ]
         },
         {
           "label": "Personal Income Tax | Stephen P. Pryor, CPA",
-          "url": "/services/personal-income-tax"
+          "url": "/what-we-do/personal-income-tax"
         }
       ]
     },
