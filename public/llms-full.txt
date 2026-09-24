@@ -3736,6 +3736,315 @@ Stephen Pryor and the team at Stephen P. Pryor, CPA work with construction, real
 
 ## Resources
 
+### OBBBA's Expanded Home Construction Exception to Percentage of Completion
+URL: /resources/obbbas-expanded-home-construction-exception-why-builders-sho
+
+If you build homes for a living, percentage-of-completion accounting has probably cost you more sleep than any subcontractor ever has. You end up recognizing income before the customer's final draw comes in, the tax bill shows up ahead of the cash, and job costing turns into a moving target every time a change order comes through. The One Big Beautiful Bill Act, signed into law in 2025, widened the home construction exception under IRC Section 460, and that means more residential builders and developers can now skip percentage-of-completion accounting entirely. For contracts entered into starting in 2026, the method you choose now could change how much cash stays in your business for years.
+
+## The rule that pushes builders onto percentage of completion
+
+Section 460 requires long-term contracts, meaning any contract that spans more than one tax year, to use the percentage-of-completion method (PCM). Under PCM, you recognize income as costs are incurred relative to total estimated contract cost, whether or not the customer has paid you yet. Two exceptions existed before OBBBA: home construction contracts (limited to buildings with four or fewer dwelling units) and a small contractor exception based on average annual gross receipts, which sat around $30 million after inflation adjustments. Everyone else, including a lot of mid-size home builders and multi-unit residential developers, got stuck estimating taxable income on houses that hadn't closed yet.
+
+## OBBBA widens who qualifies for the exception
+
+The new law raises that gross receipts threshold substantially, moving it from roughly $30 million to about $80 million in average annual gross receipts, and broadens which residential contracts fall under the home construction exception. That single change pulls a meaningful number of regional builders and developers out of mandatory PCM for the first time. The catch is timing: the expanded rule applies to contracts entered into after the law's enactment date, not to contracts already in progress. A calendar-year builder signing new construction contracts in 2026 is the taxpayer this rule was written for.
+
+## Completed contract versus percentage of completion in real dollars
+
+Say a builder signs an 18-month, $2 million spec home contract. Under PCM, if the home is 60 percent complete by year-end, roughly 60 percent of the projected gross profit gets taxed that year, even though the house hasn't sold and no final payment has arrived. Under the completed contract method, available now to more builders thanks to the expanded exception, all of that income and expense gets reported in the year the home actually closes. That's the year the cash shows up.
+
+PCM contracts also carry a look-back requirement: when the final numbers come in different from your estimates, you may owe interest on the difference, calculated on [IRS Form 8697](https://www.irs.gov/instructions/i8697). Contracts that qualify for the home construction exception skip that calculation altogether, which removes a recurring compliance headache along with the cash flow timing issue.
+
+| | Percentage of completion | Completed contract (under the exception) |
+|---|---|---|
+| When income is recognized | As costs are incurred, based on cost-to-cost estimates | When the contract is complete and the unit closes |
+| Cash flow effect | Tax often due before cash is collected | Tax due closer to when cash is in hand |
+| Look-back interest, Form 8697 | Required recalculation most years | Not required |
+| Small contractor threshold | Must use PCM above the threshold | Roughly $80 million average annual gross receipts under OBBBA, up from about $30 million |
+
+## Why 2026 contracts are the date that matters
+
+Because the expanded exception applies to contracts entered into after enactment, a builder can end up running two accounting methods side by side: PCM on contracts signed in 2024 and 2025, and completed contract on everything signed starting in 2026. That's manageable if you plan for it and messy if you don't. Before signing new contracts next year, it's worth reviewing your backlog, your average gross receipts over the prior three years, and whether your projects still meet the dwelling-unit definition for the home construction exception. Waiting until your 2026 return is due is the expensive way to find out you qualified.
+
+## Making the switch without tripping over Form 3115
+
+Switching from PCM to completed contract, or adopting completed contract for new contracts while retaining PCM on older ones, is an accounting method change. That generally means filing Form 3115 with the IRS, and getting the timing right matters as much as getting the math right. Builders sometimes assume the switch happens automatically the moment they qualify under the new gross receipts threshold. It doesn't. The election has to be made, documented, and filed correctly, and a mistimed filing can push the benefit out an entire tax year. The [AICPA's tax resources](https://www.aicpa-cima.com/topic/tax) are a reasonable place to track ongoing guidance as the IRS issues procedures for implementing the OBBBA changes, but the filing itself should be handled with your actual contract and gross receipts numbers in front of you, not a general FAQ.
+
+## Who this actually helps most
+
+Spec home builders, custom home builders, and small to mid-size residential developers are the clients who stand to gain the most cash flow flexibility from this change. If you're a construction business owner juggling draws, subcontractor payments, and estimated tax deadlines on top of job costing, the timing shift from PCM to completed contract can be the difference between comfortably covering payroll in a slow month and scrambling for a line of credit. Shawn Wilson, CPA, works directly with construction and hospitality business owners on multi-entity tax planning and cash flow consulting, and this is exactly the kind of decision that needs to happen before contracts are signed, not after. Clean job-cost tracking matters here too. A [cost segregation study](/resources/cost-segregation-studies-are-a-construction-companys-most-ov) and a method change aren't the same tool, but both are ways builders leave tax timing benefits on the table by not reviewing their accounting method choices regularly.
+
+Our [construction industry page](/industries/construction) covers the job costing and payroll compliance side of this work, and our [cash management advisory service](/services/advisory/cash-management) is built around exactly the kind of rolling forecast a builder needs once income timing shifts under a new accounting method. For the tax filings themselves, our [business tax service](/services/outsourced-accounting/business-tax) handles the entity-level planning and preparation that a method change touches.
+
+## Common Questions
+
+**Does the expanded exception mean every residential builder can use completed contract accounting now?**
+Not automatically. You still need to fall under the home construction definition or the small contractor gross receipts threshold, now roughly $80 million in average annual gross receipts under OBBBA. Multifamily developers and larger regional builders should confirm eligibility contract by contract rather than assume qualification.
+
+**Do contracts I signed in 2024 or 2025 switch to the new rule automatically?**
+No. The expanded exception applies to contracts entered into after the law's enactment date. Contracts already in progress stay on whatever method you originally elected, which means some builders will run two methods side by side for a few years.
+
+**What happens if I miss the window to file a method change before signing 2026 contracts?**
+You can still file Form 3115 to change methods, but a late or mistimed filing can push the cash flow benefit out an entire tax year. Reviewing your contract pipeline and gross receipts history before year-end gives you time to file correctly instead of retroactively.
+
+**Does switching methods eliminate the Form 8697 look-back calculation?**
+Yes, for contracts that qualify under the home construction exception and use completed contract accounting, the look-back interest recalculation required under [Form 8697 instructions](https://www.irs.gov/instructions/i8697) no longer applies to those contracts.
+
+If you're a builder or developer signing new contracts in 2026 and you're not sure which accounting method actually saves you money, [contact us](/contact) and we'll walk through your contract pipeline, your gross receipts numbers, and what a method change would look like for your specific projects.
+
+---
+
+
+### Long-Term Care: How You Can Financially Prepare for the Expense
+URL: /resources/long-term-care-how-you-can-financially-prepare-for-the-expen-3
+
+A genuine conversation about long-term care usually starts too late. By the time a parent has had a fall or a diagnosis, the family is choosing between options under pressure, often paying retail prices for care that could have been funded years earlier at a fraction of the cost. Long-term care is not a medical emergency you insure against after the fact. It is a financial exposure you plan for the way you plan for retirement or a mortgage, with time as your biggest advantage.
+
+The numbers make the case on their own. A private room in a nursing home in Westchester County commonly runs well past $14,000 a month, and a home health aide working 40 hours a week can still add up to $60,000 or more a year. Medicare does not cover custodial care, the day-to-day help with bathing, dressing, and eating that most long-term care actually involves. That gap between what Medicare pays and what care costs is where families get caught off guard, and it's exactly the gap this kind of planning is meant to close.
+
+## Why waiting costs more than the premium
+
+Long-term care insurance is medically underwritten, which means your health at the time of application determines both your eligibility and your rate. Someone who applies at 55 with clean bloodwork and no chronic conditions will pay less and have more carriers willing to write the policy than someone who waits until 68 after a cardiac event. Premiums also climb with age at issue, sometimes by 50 percent or more for every five years you wait. The math rewards people who treat this as a decision to make in their late 50s or early 60s, not a to-do item for when a health scare forces the issue.
+
+That said, insurance is only one leg of the stool. Most people we work with end up blending three sources: a long-term care or hybrid life insurance policy, personal savings earmarked specifically for care, and, for veterans and their spouses, a benefit that is frequently overlooked entirely.
+
+## Comparing the three ways to pay
+
+| Funding source | Best fit | Watch out for |
+|---|---|---|
+| Long-term care insurance | Healthy applicants in their 50s to mid-60s who want costs capped | Premiums can rise over time; underwriting can decline pre-existing conditions |
+| Self-funding through savings and investments | High earners with substantial after-tax savings or those who can't get coverage | Requires setting aside a real, dedicated sum, not just "hoping the portfolio holds up" |
+| VA Aid and Attendance benefit | Wartime veterans and surviving spouses meeting income and net worth limits | Application and approval can take months; net worth limits are strict |
+
+Self-funding sounds simple, and for some households it's the right call, particularly if a long-term care policy isn't available at a reasonable rate. But self-funding only works if the money is actually earmarked. We've seen retirement accounts that looked comfortable on paper get depleted in three years once a couple needed two different levels of care at the same time. If you're going this route, treat the long-term care reserve as its own bucket, not part of your general retirement number, and revisit it annually the same way you'd review a balanced investment portfolio.
+
+The VA Aid and Attendance benefit is the piece families overlook most often. It's a monthly, tax-free benefit paid on top of a veteran's regular pension to those who need help with daily activities or who are housebound, and it can also extend to a surviving spouse. The eligibility rules look at net worth and unreimbursed medical expenses, so the calculation is specific to your situation, but for a veteran or widow already paying for home health aide services, it can offset a meaningful chunk of the monthly bill. Details on eligibility and how to apply are on the [VA's Aid and Attendance and Housebound benefits page](https://www.va.gov/pension/aid-attendance-housebound/).
+
+## Where the tax code actually helps
+
+A piece that surprises a lot of clients: certain long-term care expenses and premiums are deductible as medical expenses once they exceed 7.5 percent of adjusted gross income. Premiums on a qualified long-term care insurance policy count toward that deduction up to age-based limits set by the IRS each year, and unreimbursed costs for qualified long-term care services can count too. [IRS Publication 502](https://www.irs.gov/publications/p502) walks through exactly what qualifies, including the distinction between medical care and personal or custodial expenses that don't count. This is also where planning intersects with the broader question of how to plan for unexpected medical expenses using HSAs and other tax-advantaged tools, since the same deduction threshold applies across categories.
+
+If you're self-employed or run a business, there's an added layer worth a real conversation rather than a guess: long-term care premiums paid through certain business structures can be deducible to the business, subject to the same age-based caps. That's a detail worth reviewing alongside your entity structure, not something to assume applies without checking.
+
+## What a realistic plan looks like at different ages
+
+At 50 to 55, the priority is usually getting underwritten while you're healthy, even if you don't buy a policy that year. Getting a quote on record and understanding your rate class gives you real numbers to plan around instead of guesses. At 60 to 65, this is often when people finalize the mix: a policy sized to cover a meaningful share of projected costs, savings earmarked for the rest, and a look at whether a spouse's veteran status opens up Aid and Attendance eligibility down the road. Past 65, if insurance is off the table due to health, the conversation shifts to structuring savings, understanding VA eligibility now rather than later, and making sure adult children know where the paperwork lives.
+
+None of this happens in isolation from the rest of your finances. How you fund long-term care affects your estate plan, your required minimum distributions, and how much you can comfortably draw down each year without running short. It's the kind of decision that benefits from sitting down with someone who can see your full tax picture, not just the insurance quote.
+
+## Common Questions
+
+**Is long-term care insurance worth it if I'm already 65?**
+It depends heavily on your health, but premiums at 65 are commonly two to three times what they'd be at 55. If you're in good health, it can still make sense, especially paired with a smaller benefit amount to keep premiums manageable. If health issues have already surfaced, self-funding or exploring hybrid life insurance policies with a long-term care rider is often more realistic.
+
+**Can I deduct long-term care insurance premiums on my taxes?**
+Yes, within IRS age-based limits, and only to the extent your total medical expenses exceed 7.5 percent of your adjusted gross income. [IRS Publication 502](https://www.irs.gov/publications/p502) lists the current per-age caps and what qualifies as a deductible long-term care service.
+
+**Does the VA Aid and Attendance benefit cover assisted living or in-home care?**
+It can cover both, along with nursing home care, as long as the veteran or surviving spouse meets the medical need and net worth requirements. The benefit is paid directly to the recipient rather than to a facility, so it can be applied toward whichever type of care is being used. Details are on the [VA's benefits page](https://www.va.gov/pension/aid-attendance-housebound/).
+
+**How much should I be saving if I decide to self-fund?**
+A common planning benchmark is three to five years of full-time care costs, which in Westchester County can mean $250,000 to $500,000 depending on the level of care needed. That number should be reviewed every year or two as costs and your health picture change, not set once and forgotten.
+
+If you want to work through what a realistic long-term care funding mix looks like for your own retirement plan, including the tax side of it, [get in touch with our office](/contact) and we'll put real numbers behind it.
+
+---
+
+
+### How to Turn a Second Home Into a Tax Win
+URL: /resources/how-to-turn-a-second-home-into-a-tax-win
+
+Buying a second home almost always starts as a lifestyle decision. A lake house in the Catskills, a condo near the Jersey Shore, a place in Connecticut you can reach in under two hours on a Friday afternoon. Then someone floats the idea of renting it out for a few weeks a year to help cover the mortgage, and the tax question shows up before the closing paperwork is even filed away. The IRS has a specific test for exactly this situation, and how you actually use the property, not what you call it on your mortgage application, decides whether it works as a tax shelter or turns into a rental business with its own reporting rules.
+
+This matters more than most buyers realize, because the difference between a tax-free vacation rental and a property generating taxable income (with limited deductions) can come down to a single week of personal use.
+
+## The 14-day rule and why it matters
+
+Under [IRS Publication 527](https://www.irs.gov/publications/p527), a home you use for personal purposes more than 14 days a year, or more than 10 percent of the days it's rented at fair market value (whichever number is greater), is treated as a personal residence with some rental activity. Stay under that threshold, and the property is treated as a rental for tax purposes, opening the door to real deductions and depreciation.
+
+Here's the version most people actually care about: if you rent the place out for 14 days or fewer during the year, the rental income is completely tax-free. You don't report it at all, even if you charged $4,000 a week for a July 4th rental in the Hamptons. Rent it for more than 14 days, and everything changes, including whether you can claim a loss.
+
+## Three ways the IRS can classify your second home
+
+| Rental activity | IRS classification | What it means on your return |
+|---|---|---|
+| Rented 14 days or fewer per year | Personal residence | Rental income is tax-free and not reported; mortgage interest and property tax are still deductible as itemized expenses, subject to the usual limits |
+| Rented more than 14 days, and personal use exceeds the greater of 14 days or 10% of rental days | Personal residence with rental use | Rental income is reported, but expense deductions are capped at rental income, no loss is allowed, and expenses are split between personal and rental days |
+| Rented more than 14 days, and personal use falls at or below the threshold | Rental property | Income and expenses go on Schedule E, depreciation is available, and losses may be deductible subject to passive activity rules |
+
+Most of the confusion we see starts in that middle row. Owners assume that once they start renting seriously, they automatically get investment-property tax treatment. They don't, not until personal use drops below the line.
+
+## Second home or investment property, the tax line that actually matters
+
+Lenders and tax law don't use the same definitions. A bank might approve you for a second-home mortgage with a lower rate because you promised to occupy it part of the year, while the IRS is only counting days. You can have a property titled and financed as a second home that the tax code treats as a rental property, and vice versa. What decides it is the personal-use count from the table above, tracked in actual days, not intentions.
+
+This distinction gets more important the moment you consider selling. Depreciation, passive-loss carryforwards, and 1031 exchange eligibility only apply to property the IRS already views as a rental, not a personal residence with occasional rental income. If you're weighing whether to buy a lake house purely for personal use, buy it as a rental from day one, or convert it later, the math is worth running before you sign anything. Our [real estate industry page](/industries/real-estate) covers depreciation and 1031 exchange planning for owners in exactly this position, and it's a conversation worth having with a CPA who works with rental real estate regularly, like [Shawn Wilson, CPA](/who-we-are/shawn-wilson), before the purchase closes rather than after.
+
+## What counts as a personal-use day
+
+Owners are frequently surprised by what the IRS counts against them here. A day counts as personal use if you stay there, if a family member stays there (even one who pays rent, unless that family member uses it as their main home and pays a fair market rate), or if you let anyone use the property for less than the going rental rate, including as a favor. Swapping weeks with another owner under a reciprocal arrangement counts too, even if no cash changes hands.
+
+There's one useful exception: days spent primarily doing repairs or maintenance don't count as personal use, even if your spouse or kids come along for the trip, as long as the work is the main reason for being there. Keeping a simple log of who stayed, for how long, and why is the easiest way to protect your rental classification if the IRS ever asks. [IRS Tax Topic 415](https://www.irs.gov/taxtopics/tc415) covers these use-day rules in more detail.
+
+## Depreciation, passive losses, and the tradeoffs of renting it out
+
+If your second home clears the personal-use threshold and qualifies as a rental, you can depreciate the building (not the land) over 27.5 years, which shelters part of the rental income from tax every year you own it. You can also deduct a broader set of expenses: repairs, insurance, property management fees, utilities, and travel to check on the property, all prorated for rental use.
+
+The tradeoff is the passive activity rules. Rental losses are generally passive, meaning they can only offset passive income unless you actively participate in managing the property, in which case up to $25,000 of loss may be deductible against other income, subject to phase-outs based on your adjusted gross income. If personal use pushes the property into the middle category in the table above, none of that matters, because a loss isn't allowed at all regardless of income level.
+
+For a lot of owners, the real decision isn't tax optimization, it's how much personal use they're willing to give up for a bigger deduction. A family that treats the Jersey Shore house as a two-week-a-year retreat has very different options than one that visits every other weekend. Before deciding how heavily to rent a second home, it's worth running the same kind of cost comparison we walk through in [our guide to renting versus buying a home](/resources/do-the-math-behind-renting-vs-buying-a-home), applied to your specific property and price point.
+
+## Common Questions
+
+**What is the IRS 14-day rule for a second home?**
+If you rent your second home for 14 days or fewer during the tax year, the rental income is tax-free and doesn't need to be reported at all, no matter how much you charged. Go over 14 days and you're required to report the income, and the deduction rules shift based on how much you personally used the property that year.
+
+**Can I deduct a loss if I rent out my second home?**
+Only if the property qualifies as a rental under the IRS use test, meaning your personal use stayed at or below 14 days or 10 percent of rental days, whichever is greater. If personal use exceeds that limit, your rental deductions are capped at your rental income and no loss is allowed, even if your actual expenses were higher.
+
+**Does renting my second home change it from a second home to an investment property for tax purposes?**
+It can, but the label your mortgage lender uses doesn't control it. The IRS looks strictly at personal-use days versus rental days each year, so the same property could be a personal residence one year and a rental property the next, depending on how it was actually used.
+
+**Do family members who stay for free count as personal-use days?**
+Yes, in most cases. Days used by you, your family, or anyone paying less than fair rental value count as personal use, with a narrow exception for family members who pay fair rent and use the home as their primary residence. Keeping a written log of who stayed and when protects your rental classification if the IRS ever questions it.
+
+If you're weighing a second-home purchase, thinking about renting one out for the first time, or trying to sort out how a property you already own should be classified, we can walk through the actual use-day math with you before it turns into a filing problem. [Reach out through our contact page](/contact) and we'll go through your specific numbers together.
+
+---
+
+
+### Unless It's Working for You, Your Dog Isn't a Tax Deduction
+URL: /resources/unless-its-working-for-you-your-dog-isnt-a-tax-deduction-2
+
+Every year we get some version of the same question, usually from a construction client, a landlord, or a bar owner: can I write off my dog? The honest answer is almost never, and the exceptions are narrower than most of what shows up in a quick internet search. The IRS doesn't care that your dog patrols the lumber yard at night or greets regulars at the bar. It cares whether the dog performs verifiable, ordinary, and necessary work for a business, or meets a documented medical need. Get that distinction right and a few real deductions open up. Get it wrong and you've built part of your return on a position that won't hold up if it's ever questioned.
+
+## Why your family dog almost never qualifies
+
+Personal expenses stay personal, no matter how useful the dog feels. Food, grooming, vet visits, boarding: the average dog owner spends somewhere between $1,000 and $2,000 a year on these costs, and none of it is deductible just because the dog rides along in the work truck or naps under your desk at the office. The IRS standard for a business expense, laid out in [IRS Publication 535](https://www.irs.gov/publications/p535), is that it has to be ordinary and necessary for running the business. Companionship, morale, or making the shop feel more welcoming doesn't meet that bar, even if it's true.
+
+This is the mistake we see most often with construction and property owners who keep a dog on site. The dog might genuinely deter trespassers, but if there's no business purpose documented beyond "he's just always there," the deduction won't survive a second look.
+
+## Service and guide dogs are a real medical deduction, with real rules
+
+This one is legitimate, and it lives on the individual return, not the business return. [IRS Publication 502](https://www.irs.gov/publications/p502) allows a medical expense deduction for the cost of buying, training, and maintaining a guide dog or other service animal used by someone with a visual impairment, hearing impairment, or other physical disability. That includes food, grooming, and veterinary care tied to keeping the animal able to perform its task. It's claimed as an itemized medical expense on Schedule A, subject to the 7.5% adjusted gross income floor, which means it only helps once your total medical costs clear that threshold.
+
+Therapy dogs are a different story, and this is where the therapy dog deduction IRS question usually falls apart. A dog that provides general comfort or emotional support, without being trained to perform a specific task tied to a diagnosed disability, generally doesn't meet the IRS definition of a service animal. Visiting hospitals or nursing homes with a friendly dog is a wonderful thing to do, but it doesn't create a medical deduction on its own. If you're working through what does and doesn't count as a deductible medical cost, our [personal income tax](/services/personal-income-tax) team can walk through it with your actual numbers rather than a generic list.
+
+## Guard dogs can be a legitimate business expense
+
+Here's where the guard dog business expense question gets interesting, because this one can actually work. A dog kept specifically to secure a construction yard, storage lot, or warehouse can qualify as an ordinary and necessary business expense under the same standard in Publication 535, but the facts have to support it. That means the breed fits the job (a German Shepherd or Rottweiler makes a stronger case than a Chihuahua), the dog is housed at the business location rather than the owner's home, and the food, vet care, and training costs are tracked separately from personal pet expenses.
+
+We work with contractors across Port Chester and the tri-state area who keep equipment and materials on unattended job sites overnight, and a documented guard dog can be a reasonable line item on the business return. The key word is documented. If the same dog also lives in the house and rides in the family car on weekends, that mixed use is exactly what draws questions. Our [construction](/industries/construction) clients who get this right keep a simple log: where the dog is kept, what it guards, and receipts that are billed to the business, not the owner personally.
+
+## Breeding dogs is a business only if you run it like one
+
+A breeding operation can be a legitimate business, with real deductions for stud fees, veterinary bills, advertising, and supplies against the income from selling puppies. But the IRS applies hobby loss rules under Internal Revenue Code Section 183, and it looks at whether you're actually operating for profit: separate business records, a business bank account, marketing effort, and a track record of trying to make money rather than just occasionally selling a litter. If the activity doesn't meet that profit-motive test, the income is still taxable, but the expenses aren't deductible against it, which is the worst version of this outcome.
+
+If breeding is more than a side interest for you, it's worth setting it up properly from the start. That usually means choosing the right entity and keeping the books separate from day one, which is exactly the kind of decision our [entity type analysis](/services/advisory/entity-type-analysis) work is built for.
+
+## Where the different categories land
+
+| Type of dog | Deductible? | Where it's claimed | What you need to document |
+|---|---|---|---|
+| Family pet, even one that "guards" the house | No | Not applicable | Not applicable |
+| Certified service or guide dog | Yes, as a medical expense | Schedule A, subject to the 7.5% AGI floor | Documented disability, cost of the dog, training, food, and vet care |
+| Therapy or emotional support dog without a trained task | Usually no | Not applicable | Rarely qualifies without a diagnosed condition and a specific trained task |
+| Guard dog kept at a business location | Yes, as a business expense | Schedule C or the business return | Breed suited to security work, kept on-site, costs billed to the business |
+| Breeding dog run for profit | Yes, if operated as a business | Schedule C or the business return | Business records, marketing, sales history, profit motive under Section 183 |
+
+## Keep the paperwork or the deduction won't survive
+
+Every category above depends on documentation, not intention. A doctor's note and a training record support the service dog deduction. A log of where the guard dog is housed and receipts billed to the business support the guard dog expense. Litter sale records, a business bank account, and evidence of marketing support the breeding deduction. Without that paper trail, even a legitimate write-off looks like a guess if a return ever gets a second look.
+
+This is really a bookkeeping problem as much as a tax one. If dog-related costs are mixed in with personal spending on the same credit card, nobody can reconstruct what was business and what wasn't by April. Clients who run these expenses through a dedicated business account, reconciled monthly, have a much easier time defending the deduction than clients trying to piece it together at tax time. Our [business tax](/services/outsourced-accounting/business-tax) team sees this gap constantly with construction and hospitality clients who have real business dog tax write-off potential but no records to back it up.
+
+## Common Questions
+
+**Can I deduct my dog's food and vet bills if she comes to work with me every day?**
+No, not just for showing up. The IRS looks for a specific business function, like documented security work at a job site or storage yard, not general presence at the workplace. Without a defined role and separate records, food and vet costs stay personal, even if the dog is technically on the clock.
+
+**Is a therapy dog tax deductible?**
+Usually not. The medical deduction under IRS Publication 502 is built around service animals trained to perform a specific task for a diagnosed disability, not dogs that provide general comfort or visit facilities to lift people's spirits. Without that trained-task connection, the costs don't qualify as a medical expense.
+
+**Can I write off a guard dog for my construction business?**
+Yes, if the facts support it. The dog should be a breed suited to security work, housed at the job site or yard rather than your home, and the related costs tracked separately from personal pet expenses. Mixed personal and business use is the most common reason this deduction gets challenged.
+
+**What if I breed dogs on the side, is that ever deductible?**
+It can be, if the activity is run for profit under Section 183 rather than as an occasional hobby. That means a business bank account, marketing, and a genuine effort to turn a profit over time. Without that structure, the income is still taxable, but the expenses aren't deductible against it.
+
+If you're not sure which category your dog falls into, or you want the guard dog, service animal, or breeding expenses documented in a way that actually holds up, [contact us](/contact) and we'll walk through your specific situation before it becomes a line on your return.
+
+---
+
+
+### Lease vs. Buy a Car: A CPA's Framework for the Decision
+URL: /resources/auto-leasing-vs-buying-which-makes-more-sense-2
+
+A contractor in Port Chester pulls into a dealership lot on Boston Post Road looking at a new F-250, and the salesperson leads with the monthly payment. Lease it for $650 a month, or buy it for $850. That's the wrong question. The real question is what the truck does for your business, how many miles it racks up, and what happens to your tax bill and cash flow over the next five years. Get that framework right and the decision usually becomes obvious.
+
+We work with a lot of clients who buy vehicles for the business, from general contractors running crews between job sites to real estate agents showing properties across Westchester and Fairfield counties to restaurant owners who need a reliable van for deliveries and supply runs. The lease-versus-buy call looks different for each of them, and it should. Here's the framework we actually use.
+
+## Start with how the vehicle gets used, not the payment
+
+Before any tax talk, answer three questions honestly. How many miles will this vehicle rack up in a year? Will the business use stay above 50 percent, which the IRS requires for most of the good depreciation breaks? And do you tend to keep vehicles for three years or ten?
+
+A contractor putting 25,000 miles a year on a pickup, hauling tools and materials between job sites, is a different case than a real estate agent who drives a sedan mostly for client meetings and open houses. High mileage and heavy wear favor buying, because leases penalize you hard for exceeding 10,000 to 15,000 miles a year and for anything beyond normal wear. If you're the type of owner who keeps a work truck for eight years and drives it into the ground, leasing is the expensive way to do that.
+
+## The tax math behind Section 179 versus lease deductions
+
+This is where the dealership pitch usually stops short, and where it actually gets interesting for a business owner.
+
+If you buy a vehicle and use it more than 50 percent for business, you may be able to deduct a large portion of the purchase price in the year you put it in service, under [Section 179 of the tax code](https://www.irs.gov/publications/p946). Heavy pickups and SUVs over 6,000 pounds gross vehicle weight get a more generous cap than passenger cars, which makes this especially relevant for contractors buying work trucks. The exact dollar limits change from year to year, so we run the current numbers against your income and equipment purchases before you sign anything, not after.
+
+Leasing doesn't give you that upfront deduction, but it isn't a tax dead end either. Lease payments on a vehicle used for business are generally deductible as an ordinary business expense, prorated for business use. There's no big first-year write-off, but the deduction is steady and predictable every single year of the lease. For a business with tight margins and a strong preference for predictable expenses, like a bar or restaurant already managing thin margins on food and labor cost, that steadiness has real value.
+
+The mistake we see most often is a business owner who buys a vehicle, takes the full Section 179 deduction in year one, and then has no deduction left for years two through five, even though the truck is still running up mileage and costing money. Buying can front-load your tax benefit. Leasing spreads it out. Neither is automatically better. It depends on what your income looks like this year versus next year, which is exactly the kind of projection we build during [business tax planning](/services/outsourced-accounting/business-tax).
+
+## Cash flow decides more of this than tax law does
+
+Once the tax picture is on the table, cash flow usually breaks the tie. Buying requires a down payment, or it locks up borrowing capacity if you finance the full amount. Auto loan rates move with the broader credit market, and the [Federal Reserve's Consumer Credit report](https://www.federalreserve.gov/releases/g19/current/) tracks those trends if you want to see where financing costs are headed before you commit to a loan term.
+
+Leasing typically requires less cash upfront and keeps monthly payments lower, which matters if you're a contractor whose cash flow moves in waves between project draws, or a new restaurant owner still building a cushion in the first two years. But lower monthly payments aren't free. You're paying for flexibility and predictability, and at the end of the lease you own nothing. If your business plan calls for reinvesting every spare dollar into growth right now, leasing frees up capital. If you're sitting on a healthy cash position and want an asset on the books, buying builds equity you can eventually sell or trade in.
+
+This is the same conversation we have with clients weighing rental property purchases or equipment financing. The right answer isn't about which option looks cheaper on a single line item. It's about what your full cash position looks like over the next 24 to 36 months, which is the kind of forecasting we do inside [cash management advisory](/services/advisory/cash-management).
+
+## Business use percentage changes everything
+
+A vehicle used 100 percent for business gets treated very differently than one used 60 percent for business and 40 percent for personal errands. The IRS requires a mileage log or comparable record to substantiate the business percentage, and that percentage directly scales both the Section 179 deduction and the deductible portion of lease payments. Skip the log and you're guessing, and guessing on a vehicle deduction is exactly the kind of thing that draws a second look from a tax authority.
+
+Real estate agents and property managers tend to have blended use, since the same car handles showings, personal errands, and the occasional trip to the office. Contractors running a dedicated work truck usually have a cleaner, higher business-use percentage, which makes the Section 179 math more favorable. If you're not sure which bucket you fall into, that's worth a conversation before the purchase decision, not after the first tax return.
+
+## Lease vs. buy at a glance
+
+| Factor | Leasing | Buying |
+|---|---|---|
+| Upfront cash needed | Lower | Higher, unless fully financed |
+| Annual mileage fit | Best under 12,000-15,000 miles/year | Better for high-mileage, heavy-use vehicles |
+| Tax treatment | Steady deduction each year, prorated for business use | Potential large first-year deduction under Section 179, subject to annual limits |
+| Long-term ownership | None, unless you buy out the lease | Builds equity in the vehicle |
+| Best fit | Agents and service businesses with lower mileage, steady cash flow needs | Contractors and businesses with heavy, high-mileage vehicle use |
+
+That table is a starting point, not a verdict. We've seen contractors for whom leasing made more sense because they upgrade trucks every two years and want warranty coverage the whole time. We've seen real estate investors for whom buying made more sense because they wanted the write-off against a high-income year. The framework holds, but the answer is specific to your numbers.
+
+## Common Questions
+
+**Can I deduct 100 percent of my car payment if I use it for business?**
+Only if the vehicle is used 100 percent for business, which is rare outside of a dedicated work truck or delivery van. Most owners deduct a percentage based on business mileage versus total mileage, tracked with a mileage log, and that percentage applies to both loan interest or lease payments and to depreciation.
+
+**Does Section 179 apply to a leased vehicle?**
+No. Section 179 requires ownership, so it applies to purchased vehicles, not leased ones. Leased vehicles get their business-use portion deducted as a regular operating expense each year instead, spread across the term of the lease rather than concentrated upfront.
+
+**What happens to my deduction if my business use drops below 50 percent later?**
+If business use falls below 50 percent in a later year after taking Section 179, you may have to recapture part of the deduction as income. This is one of the more common surprises we help clients avoid by projecting business use trends before the purchase, not after.
+
+**Is a heavy pickup truck treated differently than a passenger car for tax purposes?**
+Yes. Vehicles over 6,000 pounds gross vehicle weight, common among work trucks used in construction, avoid the lower luxury-auto depreciation caps that apply to most passenger cars, which is why so many contractors lean toward buying rather than leasing their primary work vehicle.
+
+If you're weighing a vehicle purchase or lease for a construction, real estate, or restaurant business in Port Chester or anywhere across the tri-state area, run the numbers with us before you sign. [Contact us](/contact) and we'll walk through the tax and cash flow impact side by side, using your actual income and mileage, not a dealership's rough estimate.
+
+---
+
+
 ### Burnout Isn't a Business Strategy: Self-Care Should Be Part of Every Owner's Growth Plan
 URL: /resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of-2
 
