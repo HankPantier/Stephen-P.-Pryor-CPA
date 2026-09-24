@@ -43,20 +43,20 @@
       ]
     },
     {
-      "label": "Industries we serve",
-      "url": "/industries",
+      "label": "Specialties",
+      "url": "/specialties",
       "children": [
         {
           "label": "Construction",
-          "url": "/industries/construction"
+          "url": "/specialties/construction"
         },
         {
           "label": "Real Estate",
-          "url": "/industries/real-estate"
+          "url": "/specialties/real-estate"
         },
         {
           "label": "Restaurants",
-          "url": "/industries/restaurants"
+          "url": "/specialties/restaurants"
         }
       ]
     },

@@ -1,11 +1,11 @@
 ---
 title: "Construction | Stephen P. Pryor, CPA"
-url: "/industries/construction"
+url: "/specialties/construction"
 meta_title: "Construction CPA Port Chester NY | Stephen P. Pryor, CPA"
 meta_description: "Construction CPA services in Port Chester NY: job costing, payroll compliance, and tax planning for contractors across the tri-state area and beyond. Schedule a consultation now."
 target_keyword: "construction accounting Port Chester NY"
 secondary_keywords: ["construction CPA Port Chester","construction bookkeeping Port Chester NY","construction tax services Port Chester","construction payroll Port Chester NY","contractor accountant Port Chester","construction business accounting ","CPA for construction companies Port Chester","construction entity type analysis Port Chester"]
-canonical_url: "https://pryorcpa.com/industries/construction"
+canonical_url: "https://pryorcpa.com/specialties/construction"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
