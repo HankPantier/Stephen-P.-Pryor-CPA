@@ -6,21 +6,15 @@
       "children": [
         {
           "label": "Outsourced Accounting",
-          "url": "/what-we-do/outsourced-accounting",
-          "children": [
-            {
-              "label": "Bookkeeping",
-              "url": "/what-we-do/outsourced-accounting/bookkeeping"
-            },
-            {
-              "label": "Payroll | Stephen P. Pryor, CPA",
-              "url": "/what-we-do/outsourced-accounting/payroll"
-            },
-            {
-              "label": "Tax",
-              "url": "/what-we-do/outsourced-accounting/tax"
-            }
-          ]
+          "url": "/what-we-do/outsourced-accounting"
+        },
+        {
+          "label": "Bookkeeping",
+          "url": "/what-we-do/bookkeeping"
+        },
+        {
+          "label": "Payroll | Stephen P. Pryor, CPA",
+          "url": "/what-we-do/payroll"
         },
         {
           "label": "Advisory Services",
@@ -43,6 +37,10 @@
         {
           "label": "Personal Income Tax | Stephen P. Pryor, CPA",
           "url": "/what-we-do/personal-income-tax"
+        },
+        {
+          "label": "Business Tax",
+          "url": "/what-we-do/business-tax"
         }
       ]
     },
