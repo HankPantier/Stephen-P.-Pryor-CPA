@@ -11,6 +11,9 @@ import type { ProcessStepsProps } from '@/lib/assembly/extract-block-props'
 export type { ProcessStepsProps }
 
 export function ProcessSteps({ variant, heading, intro, steps, cta }: ProcessStepsProps) {
+  // Nothing parsed (and no intro to show): render nothing rather than an
+  // empty heading shell.
+  if (!steps?.length && !intro?.trim()) return null
   if (variant === 'horizontal') {
     return (
       <Section dataBlock="process-steps">
@@ -45,7 +48,7 @@ export function ProcessSteps({ variant, heading, intro, steps, cta }: ProcessSte
             {steps.map(step => (
               <li key={step.number} className="flex flex-col items-center text-center gap-4">
                 <div
-                  className="relative z-10 flex items-center justify-center w-12 h-12 rounded-full text-primary-foreground font-heading font-bold text-lg shrink-0"
+                  className="u-numeral relative z-10 flex items-center justify-center w-12 h-12 rounded-full text-primary-foreground font-heading font-bold text-lg shrink-0"
                   style={{
                     backgroundColor: 'var(--color-primary, theme(colors.blue.700))',
                   }}
@@ -98,7 +101,7 @@ export function ProcessSteps({ variant, heading, intro, steps, cta }: ProcessSte
         {steps.map(step => (
           <li key={step.number} className="flex gap-6 items-start">
             <div
-              className="flex items-center justify-center w-14 h-14 rounded-xl text-primary-foreground font-heading font-bold text-xl shrink-0"
+              className="u-numeral flex items-center justify-center w-14 h-14 rounded-xl text-primary-foreground font-heading font-bold text-xl shrink-0"
               style={{
                 backgroundColor: 'var(--color-primary, theme(colors.blue.700))',
               }}
