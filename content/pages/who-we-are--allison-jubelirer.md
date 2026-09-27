@@ -43,7 +43,7 @@ No single person carries a client relationship at Stephen P. Pryor, CPA. Allison
 Allison is one part of a team built around service and relationships, not turnover. Meet [Stephen Pryor, CPA](/who-we-are/stephen-pryor), the firm's founder, [Shawn Wilson, CPA](/who-we-are/shawn-wilson), and [Denise Romano, CPA](/who-we-are/denise-romano), or browse the [full team](/who-we-are) to see who else you'll work with on bookkeeping, payroll, and tax. Every person on this team learns a client's business from the inside, which is why construction firms, real estate investors, and restaurant owners across Westchester County keep coming back year after year.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Allison Jubelirer | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Allison Jubelirer
 
 **Q: What does Allison Jubelirer do at Stephen P. Pryor, CPA?**
 A: Allison Jubelirer is an Accounting Specialist who manages day-to-day bookkeeping, including transaction classification, reconciliation, and invoice processing. She communicates directly with clients on routine questions, which keeps small issues from turning into surprises at tax time.

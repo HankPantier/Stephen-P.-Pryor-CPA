@@ -82,7 +82,7 @@ icon: Building2
 Construction, real estate, and hospitality, including bars and pubs, each move cash differently. Our guidance is built around those differences, not a generic template.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Cash Flow Management | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Cash Flow Management
 
 **Q: How does cash management help construction companies in Port Chester and the tri-state area?**
 A: Construction cash flow swings between project phases, with materials and payroll going out before progress payments and retainage come in. Tracking cash by project helps contractors see which jobs are funding the business and plan bids, payroll, and equipment purchases without a mid-project cash crunch.

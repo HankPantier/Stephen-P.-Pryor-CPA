@@ -13,7 +13,7 @@
           "url": "/what-we-do/bookkeeping"
         },
         {
-          "label": "Payroll | Stephen P. Pryor, CPA",
+          "label": "Payroll",
           "url": "/what-we-do/payroll"
         },
         {
@@ -21,7 +21,7 @@
           "url": "/what-we-do/advisory"
         },
         {
-          "label": "Personal Income Tax | Stephen P. Pryor, CPA",
+          "label": "Personal Income Tax",
           "url": "/what-we-do/personal-income-tax"
         },
         {
@@ -29,15 +29,15 @@
           "url": "/what-we-do/business-tax"
         },
         {
-          "label": "Entity Type Analysis | Stephen P. Pryor, CPA",
+          "label": "Entity Type Analysis",
           "url": "/what-we-do/entity-type-analysis"
         },
         {
-          "label": "Accounting System Setup | Stephen P. Pryor, CPA",
+          "label": "Accounting System Setup",
           "url": "/what-we-do/accounting-system-setup"
         },
         {
-          "label": "Retirement Plan Analysis | Stephen P. Pryor, CPA",
+          "label": "Retirement Plan Analysis",
           "url": "/what-we-do/retirement-plan-analysis"
         }
       ]
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "label": "Who We Are | Stephen P. Pryor, CPA",
+      "label": "Who We Are",
       "url": "/who-we-are"
     },
     {
@@ -69,18 +69,22 @@
       "url": "/resources",
       "children": [
         {
-          "label": "Forms, Documents & Links | Stephen P. Pryor, CPA",
+          "label": "Forms, Documents & Links",
           "url": "/resources/forms-documents-and-links"
         },
         {
-          "label": "Refund Tracker | Stephen P. Pryor, CPA",
+          "label": "Refund Tracker",
           "url": "/resources/refund-tracker"
         }
       ]
     },
     {
-      "label": "Contact | Stephen P. Pryor, CPA",
+      "label": "Contact",
       "url": "/contact"
     }
-  ]
+  ],
+  "cta": {
+    "label": "Contact us",
+    "url": "/contact"
+  }
 }

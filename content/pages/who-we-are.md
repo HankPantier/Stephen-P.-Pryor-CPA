@@ -99,7 +99,7 @@ It's the reason clients stay for years instead of shopping for a new accountant 
 The firm is based in Port Chester, New York, and serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes distance a non-issue: a client across the country gets the same real-time visibility into their books as one two blocks from the office.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Who We Are | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Who We Are
 
 **Q: Who is Stephen P. Pryor, CPA?**
 A: Stephen P. Pryor, CPA founded the firm on a service-first approach, working directly with construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut. He focuses on long-term relationships rather than one-time filings, learning each client's internal systems from the first meeting.

@@ -88,7 +88,7 @@ The great majority of our clients are based in the tri-state area of New York, N
 Whether your business runs job sites in multiple states, manages rental properties across several towns, or pours drinks seven nights a week, the accounting fundamentals don't change with the zip code. What changes is how well your accounting firm understands your industry, and that's where hands-on knowledge of construction, real estate, and hospitality businesses makes the difference.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Outsourced Accounting | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Outsourced Accounting
 
 **Q: What does outsourced accounting include at Stephen P. Pryor, CPA?**
 A: It bundles bookkeeping, bank reconciliation, cash management, payroll compliance filings, and tax into one service under a fixed monthly fee, so businesses get a full back office without hiring in-house staff.

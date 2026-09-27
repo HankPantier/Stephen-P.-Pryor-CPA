@@ -44,7 +44,7 @@ Every new client relationship starts the same way at this firm: with listening. 
 Nancy is part of that process from the start, making sure what the firm learns during onboarding actually shows up in the day-to-day bookkeeping and tax work that follows.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Nancy Pryor | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Nancy Pryor
 
 **Q: What is Nancy Pryor's role at Stephen P. Pryor, CPA?**
 A: Nancy supports client relationships day to day, including bookkeeping oversight, coordinating documents during tax season, and handling client communication between filings. She works closely with the firm's CPAs to make sure onboarding details carry through to ongoing work throughout the year.

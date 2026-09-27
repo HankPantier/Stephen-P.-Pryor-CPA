@@ -54,7 +54,7 @@ Restaurants staff up for summer and cut back in January. Construction crews move
 The firm handles [payroll compliance](/what-we-do/payroll), not  processing. That means payroll tax filings, quarterly reporting, and year-end W-2 and 1099 processing are all managed by the same team handling your business tax return. Wage reporting ties back to the numbers on your books instead of coming from a separate vendor who has never seen them. That consistency matters most for bar and restaurant clients managing tip reporting and construction clients tracking labor costs across multiple job sites.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Business Tax | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Business Tax
 
 **Q: Do you prepare tax returns for small businesses in Port Chester, NY?**
 A: Yes. Stephen P. Pryor, CPA prepares business tax returns for construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, along with individual returns. Bookkeeping, payroll compliance, and tax preparation are bundled for a fixed monthly fee, with year-round planning rather than a single seasonal filing appointment.

@@ -88,7 +88,7 @@ You'll leave the first conversation with a clear picture of what working togethe
 ## Where to Find Us
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Contact | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Contact
 
 **Q: How do I contact Stephen P. Pryor, CPA in Port Chester, NY?**
 A: You can call, email, or fill out the contact form on this page. Most messages get a response the same business day or the next, and you'll be speaking directly with someone from the Port Chester office, not a call center.

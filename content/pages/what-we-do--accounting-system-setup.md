@@ -77,7 +77,7 @@ We guide you through designing your new chart of accounts, setting up bank feeds
 Once the system is live, we walk your team through it and stay available for questions as you settle in, so there's no long gap between setup and ongoing support.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Accounting System Setup | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Accounting System Setup
 
 **Q: How long does accounting system setup guidance take for a small business in Port Chester?**
 A: The process typically takes one to three weeks, depending on how many accounts, entities, or historical transactions are involved. We start by reviewing your current systems, then advise on configuration and data migration before walking your team through the finished setup.

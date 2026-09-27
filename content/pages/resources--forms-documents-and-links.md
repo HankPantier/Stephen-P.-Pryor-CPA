@@ -81,7 +81,7 @@ Daily sales and tip reporting logs, cash handling reconciliation sheets, and sal
 Some documents come from outside our office, and we'd rather point you to the source than make you dig for it. The IRS publishes current versions of every federal form at irs.gov/forms, including W-9, W-4, and 1099 variants. New York State's Department of Taxation and Finance (tax.ny.gov) maintains state withholding and sales tax forms, which matter most for our hospitality and construction clients filing across county lines. The U.S. Small Business Administration (sba.gov) is a solid starting point for licensing and entity formation questions before you talk to us about [entity type analysis](/what-we-do/entity-type-analysis) or [accounting system setup](/what-we-do/accounting-system-setup). Bookmark them if you like, but for anything specific to your return or your business, ask us first.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Forms, Documents & Links | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Forms, Documents & Links
 
 **Q: What documents do I need to become a new client at Stephen P. Pryor, CPA?**
 A: New clients typically provide a signed engagement letter, a completed W-9, prior-year tax returns if applicable, and a short intake form covering entity type and current bookkeeping setup. Once these are in, we set up secure portal access and get started on your account.
