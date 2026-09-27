@@ -24,12 +24,12 @@
     }
   },
   "palette": {
-    "primary": "#1F3A5F",
-    "secondary": "#5A6B7B",
-    "complementary": "#C2703D",
-    "action": "#0E8C9C",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F8F8F6"
+    "primary": "#261f23",
+    "secondary": "#964876",
+    "complementary": "#f5e2eb",
+    "action": "#964876",
+    "nearBlack": "#1b1719",
+    "nearWhite": "#fdf9fb"
   },
   "social": [
     {
