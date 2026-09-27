@@ -103,7 +103,7 @@ Reading about good financial habits only gets you so far. These are the tools th
 - Ongoing [cash management](/what-we-do/cash-management) support once your systems are set up right
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Resources Library | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Resources Library
 
 **Q: What kind of resources does Stephen P. Pryor, CPA offer?**
 A: The library includes tax planning guides, bookkeeping and payroll articles, and downloadable e-books, along with industry-specific content for construction, real estate, and restaurant clients. Tools like a refund tracker and a forms library are also available for anyone who wants real-time answers instead of just reading.

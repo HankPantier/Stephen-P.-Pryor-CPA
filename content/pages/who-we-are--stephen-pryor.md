@@ -77,7 +77,7 @@ Senior Accountant
 Denise handles day-to-day accounting and tax work with the same attention to detail Stephen expects across the firm, giving clients consistency no matter who they're speaking with.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Stephen Pryor | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Stephen Pryor
 
 **Q: Who is Stephen Pryor?**
 A: Stephen Pryor is a CPA and founder of Stephen P. Pryor, CPA in Port Chester, NY. He has practiced since 1990, building a firm focused on bookkeeping, tax, payroll, and advisory work for construction, real estate, and hospitality businesses across Westchester County and beyond.

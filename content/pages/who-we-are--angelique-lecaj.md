@@ -50,7 +50,7 @@ Angelique's approach is grounded in getting the numbers right the first time. Pa
 She brings that same discipline to bookkeeping and tax prep support, flagging issues before they become deadline problems. Her work supports the firm's bundled service model, where bookkeeping, payroll, and tax planning happen under one roof for a fixed monthly fee instead of being billed piecemeal. That structure only works if the person doing the daily bookkeeping is thorough, and clients who've worked with her for multiple tax cycles point to that consistency as the reason they haven't looked elsewhere.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Angelique Lecaj | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Angelique Lecaj
 
 **Q: What does Angelique Lecaj do at Stephen P. Pryor, CPA?**
 A: Angelique Lecaj is a Senior Accountant who handles bookkeeping, payroll, and business tax support for clients across Port Chester and Westchester County. She works closely with construction, real estate, and hospitality clients, learning each business's internal systems to keep their books accurate year-round.

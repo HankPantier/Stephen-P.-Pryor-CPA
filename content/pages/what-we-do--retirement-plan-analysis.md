@@ -74,7 +74,7 @@ We lay out the options that fit, walk through the tradeoffs in plain terms, and 
 We revisit the plan as your income and goals shift, adjusting contributions as part of your regular tax planning.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Retirement Plan Analysis | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Retirement Plan Analysis
 
 **Q: What does retirement plan analysis include?**
 A: Retirement plan analysis reviews your business cash flow, entity structure, and long-term goals to determine which qualified plan, such as a SEP IRA, solo 401(k), or defined benefit plan, fits best. It's an advisory service, not a product sale, and it connects directly to your ongoing tax planning.

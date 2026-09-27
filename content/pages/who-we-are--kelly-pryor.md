@@ -49,7 +49,7 @@ None of this happens in isolation. Kelly's job is to make sure the information m
 Trust at a small firm is built person by person, not marketing campaign by marketing campaign. Kelly has been part of that process long enough that clients know her voice on the phone and expect a callback the same day. She's also connected to the firm's presence in the local business community, including its ties to groups like the Greenwich First Advisory Boards, where [Stephen Pryor](/who-we-are/stephen-pryor) stays active in conversations about what local business owners actually need. For clients in Port Chester and across Westchester County, that continuity, the same people answering the phone year after year, is worth more than a logo on a website.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Kelly Pryor | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Kelly Pryor
 
 **Q: What is Kelly Pryor's role at Stephen P. Pryor, CPA?**
 A: Kelly Pryor supports the firm's day-to-day client service, including onboarding new clients, coordinating bookkeeping and payroll work, and helping gather documents for tax preparation. She works alongside CPAs Stephen Pryor, Shawn Wilson, and Denise Romano to keep client information accurate and on schedule.

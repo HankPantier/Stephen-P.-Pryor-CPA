@@ -81,7 +81,7 @@ Most of the individuals we work with are based in Port Chester, NY and across th
 Stephen P. Pryor, CPA was built on the idea that a CPA relationship should hold up beyond April 15. That's still true whether your return crosses state lines or stays entirely local.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Personal Income Tax | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Personal Income Tax
 
 **Q: Does Stephen P. Pryor, CPA prepare personal tax returns for people outside Port Chester?**
 A: Yes. While many clients are based in Port Chester and the greater New York City area, the firm serves individuals across New York, New Jersey, Connecticut, Florida, and throughout the United States through a secure online platform.

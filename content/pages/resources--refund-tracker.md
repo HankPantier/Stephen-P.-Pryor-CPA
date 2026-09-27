@@ -72,7 +72,7 @@ A refund is really just a snapshot of last year's numbers. It tells you what alr
 When you can see the numbers as they happen, a big refund or a surprise bill stops being a mystery. Construction, real estate, and hospitality clients in particular benefit from this, since project timing and seasonal cash flow make one-size-fits-all estimates unreliable.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Refund Tracker | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Refund Tracker
 
 **Q: How do I check my federal tax refund status if I filed in Port Chester, NY?**
 A: You can check your federal refund status using the IRS Where's My Refund tool with your Social Security number, filing status, and exact refund amount. If you filed with Stephen P. Pryor, CPA, the team can also review your transcript and explain any holds or adjustments in plain language.

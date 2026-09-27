@@ -55,7 +55,7 @@ Denise works alongside Stephen P. Pryor, CPA, Shawn Wilson, CPA, and the rest of
 That local footprint, paired with deep specialization in construction, real estate, and hospitality accounting, is what separates a hands-on advisory relationship from a firm that just files a return once a year. Denise and her colleagues take the time to learn how a client's business actually runs before touching a single number, whether that's a general contractor juggling three job sites or a pub owner tracking tips.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Denise Romano | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Denise Romano
 
 **Q: Who is Denise Romano at Stephen P. Pryor, CPA?**
 A: Denise Romano, CPA, is a senior accountant at the Port Chester firm, working directly with construction, real estate, and hospitality clients on bookkeeping, payroll, and tax support. She's known for responsiveness and attention to detail, checking client accounts closely rather than handing off work to a rotating team.

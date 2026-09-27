@@ -72,7 +72,7 @@ Most of the firm's clients are based in Westchester County, and Nicholas works w
 Being local means Nicholas understands the practical realities Westchester business owners deal with, from county filing requirements to the seasonal cash flow patterns of a construction crew or a bar near the water. Stephen P. Pryor, CPA has built its client relationships on that kind of local knowledge, not a generic playbook.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Nicholas Vergara | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Nicholas Vergara
 
 **Q: What does Nicholas Vergara do at Stephen P. Pryor, CPA?**
 A: Nicholas Vergara is senior manager, overseeing client accounts day to day. He coordinates bookkeeping, payroll, and tax work, manages client access to the firm's secure online platform, and is often the first point of contact for business owners across Westchester County with questions about their finances.

@@ -88,7 +88,7 @@ Entity type analysis isn't a stand-alone project we hand off and forget. It's pa
 - We already know your books and your industry, from construction job costing to bar and restaurant cash flow, so recommendations are grounded in your actual numbers
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Entity Type Analysis | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Entity Type Analysis
 
 **Q: What is entity type analysis?**
 A: Entity type analysis is a review of your business's income, liability exposure, and growth plans to determine whether a sole proprietorship, partnership, S-corp, C-corp, or LLC gives you the best tax and legal outcome. It's the foundation for both new business setup and ongoing tax strategy.

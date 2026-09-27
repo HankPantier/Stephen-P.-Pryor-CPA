@@ -107,7 +107,7 @@ Word travels fast in a region this connected, and most new clients arrive by ref
 Want to see if we're a fit? [Meet the team](/who-we-are) or reach out with what you're currently dealing with.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Home | Stephen P. Pryor, CPA
+## Frequently Asked Questions
 
 **Q: Does Stephen P. Pryor, CPA serve individuals and businesses outside Port Chester, NY?**
 A: Yes. From its office in Port Chester, NY, the firm serves clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.

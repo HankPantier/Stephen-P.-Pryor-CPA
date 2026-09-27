@@ -69,7 +69,7 @@ Most of Shawn's clients are based in Port Chester and elsewhere in Westchester C
 Stephen P. Pryor, CPA is also connected locally through the Greenwich First Advisory Boards, a business and community advisory group that keeps the firm plugged into what's happening with owners across the region, not just inside client meetings.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Shawn Wilson | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Shawn Wilson
 
 **Q: Who is Shawn Wilson at Stephen P. Pryor, CPA?**
 A: Shawn Wilson, CPA, is Managing Director at Stephen P. Pryor, CPA in Port Chester, NY. He works directly with construction, real estate, and hospitality business owners on bookkeeping, payroll, tax planning, and advisory services, providing hands-on guidance year-round.

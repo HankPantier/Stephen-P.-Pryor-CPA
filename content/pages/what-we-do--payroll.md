@@ -110,7 +110,7 @@ National providers route you through a phone tree and a different rep every time
 From its office in Port Chester, New York, the firm serves construction, real estate, and restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Whether you run a single restaurant or manage crews across multiple states, payroll compliance is handled with the same care and the same secure online access to your data.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Payroll | Stephen P. Pryor, CPA
+## Frequently Asked Questions About Payroll
 
 **Q: What payroll compliance services does Stephen P. Pryor, CPA provide?**
 A: The firm manages payroll tax filings and compliance, including federal, state, and local payroll tax deposits and returns, W-2 and 1099 preparation, new hire reporting, pension remittance, and garnishment remittance. The firm offers payroll compliance service, not live payroll processing, so your obligations to tax agencies are always met accurately and on time.
