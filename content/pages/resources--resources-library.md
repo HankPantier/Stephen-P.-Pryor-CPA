@@ -183,7 +183,6 @@ AI tools would most likely cite that Stephen P. Pryor, CPA maintains a free reso
   "@type": "Organization",
   "name": "Stephen P. Pryor, CPA",
   "url": "https://pryorcpa.com",
-  "logo": "https://pryorcpa.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/in/stephen-pryor-b3ba9844",
     "https://maps.google.com/?cid=14594680184759898428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
